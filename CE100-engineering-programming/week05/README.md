@@ -9,13 +9,14 @@
 | [EP_W5a.ipynb](EP_W5a.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week05/EP_W5a.ipynb) | [강의록에 연결된 원본](https://drive.google.com/file/d/1ahVbT-yvLP4HCDFZYoInrGYLlZWBCO8g/view?usp=sharing) |
 | [EP_W5b.ipynb](EP_W5b.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week05/EP_W5b.ipynb) | [강의록에 연결된 원본](https://drive.google.com/file/d/1q61iCnsAzbxPeObtsBeCg4m8Jpj9tHvV/view?usp=sharing) |
 
-Colab에서 열고 본인 Drive에 사본을 저장한 뒤 셀을 순서대로 실행합니다. 원본 노트북의 코드와 출력은 변경하지 않았습니다.
+Colab에서 열고 본인 Drive에 사본을 저장합니다. 개편한 노트북은 원리 이해·예측·조건 변경·기능 완성·AI 검토·새 상황 적용 순서로 진행합니다.
+
+학생 과제는 TODO 상태로 배포합니다. “미완료” 표시는 점검 통과가 아닙니다. 구현 후 공개 점검과 직접 만든 반례를 실행합니다. 자세한 방법은 [학생 학습 가이드](../LEARNING_GUIDE.md)를 확인하세요.
 
 ## 실행 준비
 
-- 입출력 노트북은 Google Drive를 연결하고 `/content/drive/MyDrive/temp_files`를 사용합니다. 폴더를 준비한 뒤 입력 파일을 배치하고, 상대 경로를 사용하는 셀에서는 현재 작업 폴더도 확인합니다.
-- 입력 파일 `DataW5/newfile.txt`는 로컬 `DataW5.zip`에서 확인했으며 아직 저장소에 복사하지 않았습니다.
-- 클래스 노트북의 마지막 셀은 원본 PC의 `C:\Users\KHU\Desktop\Python-3.9.16.tgz`를 설치하는 명령입니다. Colab에서는 해당 셀을 실행 대상에서 제외합니다.
+- 입출력 노트북은 임시 폴더에 합성 텍스트 파일을 생성합니다. 원본 ZIP, 업로드, 개인 Drive 연결이 필요하지 않습니다.
+- 클래스 노트북은 객체별 상태를 비교하고 두 객체가 간섭하지 않는지 점검합니다. 기존의 Windows 전용 설치 셀은 제거했습니다.
 
 ## 확인한 원본 강의록
 

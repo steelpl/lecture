@@ -8,13 +8,14 @@
 | --- | --- | --- |
 | [EP_W12b_pb.ipynb](EP_W12b_pb.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week12/EP_W12b_pb.ipynb) | [강의록에 연결된 원본](https://colab.research.google.com/drive/1x-sJmp-3FQgysGmZkekr3x7AYzjDODmY?usp=sharing) |
 
-Colab에서 열고 본인 Drive에 사본을 저장한 뒤 셀을 순서대로 실행합니다. 원본 노트북의 코드와 출력은 변경하지 않았습니다.
+Colab에서 열고 본인 Drive에 사본을 저장합니다. 개편한 노트북은 원리 이해·예측·조건 변경·기능 완성·AI 검토·새 상황 적용 순서로 진행합니다.
+
+학생 과제는 TODO 상태로 배포합니다. “미완료” 표시는 점검 통과가 아닙니다. 구현 후 공개 점검과 직접 만든 반례를 실행합니다. 자세한 방법은 [학생 학습 가이드](../LEARNING_GUIDE.md)를 확인하세요.
 
 ## 실행 준비
 
-- 실습 노트북은 `air_pollution.csv`, `rainfall_region.csv`, `groundwater.csv`를 현재 작업 폴더에서 읽습니다.
-- 위 CSV 3개는 로컬 `DataW12.zip`의 `DataW12/` 폴더에서 확인했으며 아직 저장소에 복사하지 않았습니다. 데이터 준비 후 해당 폴더를 작업 폴더로 사용하거나 노트북에서 파일 경로를 조정합니다.
-- pandas, Matplotlib, Seaborn, NumPy를 사용합니다.
+- 강수량·대기오염·지하수 예제용 CSV를 임시 폴더에 새로 생성합니다. 모두 수업용 합성 자료이며 원본 ZIP의 데이터가 아닙니다.
+- 분석 질문, 지역·기간 필터, 결측 정책과 단위를 점검한 뒤 집계합니다. 실제 관측에 대한 결론을 내리지 않습니다.
 
 ## 확인한 원본 강의록
 

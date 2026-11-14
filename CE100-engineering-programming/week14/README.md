@@ -9,7 +9,9 @@
 | [EP_W14a.ipynb](EP_W14a.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14a.ipynb) | [강의록에 연결된 원본](https://drive.google.com/file/d/1UPx8kfHdd_nd34RnNyMfrJt-09NzhsgG/view?usp=sharing) |
 | [EP_W14b.ipynb](EP_W14b.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14b.ipynb) | [강의록에 연결된 원본](https://drive.google.com/file/d/1M5CjjLPpJqrQH4ahBtLc_dVz9LHWgigT/view?usp=sharing) |
 
-Colab에서 열고 본인 Drive에 사본을 저장한 뒤 셀을 순서대로 실행합니다. 원본 노트북의 코드와 출력은 변경하지 않았습니다.
+Colab에서 열고 본인 Drive에 사본을 저장합니다. 개편한 노트북은 원리 이해·예측·조건 변경·기능 완성·AI 검토·새 상황 적용 순서로 진행합니다.
+
+학생 과제는 TODO 상태로 배포합니다. “미완료” 표시는 점검 통과가 아닙니다. 구현 후 공개 점검과 직접 만든 반례를 실행합니다. 자세한 방법은 [학생 학습 가이드](../LEARNING_GUIDE.md)를 확인하세요.
 
 ## 확인한 원본 강의록
 
