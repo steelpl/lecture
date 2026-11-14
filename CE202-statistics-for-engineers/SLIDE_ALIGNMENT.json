@@ -1,0 +1,713 @@
+[
+  {
+    "week": 1,
+    "notebook": "week01/CE202_W01.ipynb",
+    "section": "S01",
+    "title": "통계적 질문을 분석 명세로 바꾸기",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk1a_Intro.pptx",
+        "pages": [
+          8,
+          9,
+          11,
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "week": 1,
+    "notebook": "week01/CE202_W01.ipynb",
+    "section": "S02",
+    "title": "원본 색상 선호 도수표",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk1b_Data.pptx",
+        "pages": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "week": 1,
+    "notebook": "week01/CE202_W01.ipynb",
+    "section": "S03",
+    "title": "원본 KBO 연봉 자료 정렬",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk1b_Data.pptx",
+        "pages": [
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "notebook": "week02/CE202_W02.ipynb",
+    "section": "S01",
+    "title": "도수표 평균과 이상치",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk2a_Central.pptx",
+        "pages": [
+          7,
+          13,
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "notebook": "week02/CE202_W02.ipynb",
+    "section": "S02",
+    "title": "사분위수·분산의 정의",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk2a_Central.pptx",
+        "pages": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "file": "2026_S1_Statistics_Wk2b_Dispersion.pptx",
+        "pages": [
+          18,
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "notebook": "week02/CE202_W02.ipynb",
+    "section": "S03",
+    "title": "원본 Excel 값 대조",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk2b_Dispersion.pptx",
+        "pages": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "notebook": "week02/CE202_W02.ipynb",
+    "section": "S04",
+    "title": "왜도·첨도와 보정",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk2b_Dispersion.pptx",
+        "pages": [
+          30,
+          32,
+          33,
+          35,
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "notebook": "week03/CE202_W03.ipynb",
+    "section": "S01",
+    "title": "주사위 사건과 독립·배반",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk3a_ProbBasic.pptx",
+        "pages": [
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "file": "2026_S1_Statistics_Wk3b_CondProb.pptx",
+        "pages": [
+          33,
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "notebook": "week03/CE202_W03.ipynb",
+    "section": "S02",
+    "title": "생산라인 불량 표의 분모",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk3b_CondProb.pptx",
+        "pages": [
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "notebook": "week04/CE202_W04.ipynb",
+    "section": "S01",
+    "title": "동전 두 번의 PMF와 CDF",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk4a_RandVar.pptx",
+        "pages": [
+          10,
+          11,
+          12,
+          30,
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "notebook": "week04/CE202_W04.ipynb",
+    "section": "S02",
+    "title": "야구 안타 분포의 평균과 분산",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk4b_Expectation.pptx",
+        "pages": [
+          8,
+          15,
+          16,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "notebook": "week05/CE202_W05.ipynb",
+    "section": "S01",
+    "title": "원본 공 주머니의 결합분포",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk5a_JntProb.pptx",
+        "pages": [
+          14,
+          15,
+          16,
+          17,
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "notebook": "week05/CE202_W05.ipynb",
+    "section": "S02",
+    "title": "결합분포에서 공분산 계산",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk5b_CoVar.pptx",
+        "pages": [
+          4,
+          6,
+          10,
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "notebook": "week05/CE202_W05.ipynb",
+    "section": "S03",
+    "title": "공분산 0의 반례",
+    "kind": "concept-variant",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk5b_CoVar.pptx",
+        "pages": [
+          10,
+          11,
+          23,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "notebook": "week06/CE202_W06.ipynb",
+    "section": "S01",
+    "title": "균등·이항·초기하",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk6a_Dist1.pptx",
+        "pages": [
+          11,
+          18,
+          23,
+          26,
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "notebook": "week06/CE202_W06.ipynb",
+    "section": "S02",
+    "title": "푸아송·기하·음이항의 기준",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk6b_Dist2.pptx",
+        "pages": [
+          11,
+          19,
+          37,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "notebook": "week07/CE202_W07.ipynb",
+    "section": "S01",
+    "title": "같은 원본 자료로 핵심 점검",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk7a_Review.pptx",
+        "pages": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "notebook": "week08/CE202_W08.ipynb",
+    "section": "S01",
+    "title": "정규분포와 구간 확률",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk8a_Dist3.pptx",
+        "pages": [
+          4,
+          12,
+          18,
+          24
+        ]
+      },
+      {
+        "file": "2026_S1_Statistics_Wk4a_RandVar.pptx",
+        "pages": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "notebook": "week08/CE202_W08.ipynb",
+    "section": "S02",
+    "title": "감마·지수·베타 모수 변경",
+    "kind": "parameter-experiment",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk8b_Dist4.pptx",
+        "pages": [
+          3,
+          5,
+          14,
+          16,
+          18,
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "notebook": "week09/CE202_W09.ipynb",
+    "section": "S01",
+    "title": "원본 유한 모집단의 모든 표본",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk9a_SampleDist1.pptx",
+        "pages": [
+          13,
+          14,
+          18,
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "notebook": "week09/CE202_W09.ipynb",
+    "section": "S02",
+    "title": "χ²·t·F의 꼬리와 자유도",
+    "kind": "parameter-experiment",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk9b_SampleDist2.pptx",
+        "pages": [
+          4,
+          5,
+          12,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "notebook": "week10/CE202_W10.ipynb",
+    "section": "S01",
+    "title": "원본 균등분포 MOM과 MLE",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk10a_Inference1.pptx",
+        "pages": [
+          27,
+          31,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "notebook": "week10/CE202_W10.ipynb",
+    "section": "S02",
+    "title": "원본 함유량 6회의 t 신뢰구간",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk10b_Inference2.pptx",
+        "pages": [
+          9,
+          20,
+          23,
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "notebook": "week11/CE202_W11.ipynb",
+    "section": "S01",
+    "title": "원본 교육 전후의 대응 차이",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk11a_Inference3.pptx",
+        "pages": [
+          11,
+          12,
+          20,
+          22,
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "notebook": "week11/CE202_W11.ipynb",
+    "section": "S02",
+    "title": "원본 100개 중 2개 불량: Wald와 Wilson",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk11a_Inference3.pptx",
+        "pages": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "notebook": "week11/CE202_W11.ipynb",
+    "section": "S03",
+    "title": "원본 배터리 비율차·계란 모분산",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk11b_Inference4.pptx",
+        "pages": [
+          9,
+          13,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "notebook": "week12/CE202_W12.ipynb",
+    "section": "S01",
+    "title": "원본 볼트의 z와 t 검정",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk12a_test1.pptx",
+        "pages": [
+          15,
+          16,
+          21,
+          25,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "notebook": "week12/CE202_W12.ipynb",
+    "section": "S02",
+    "title": "원본 독립집단과 대응 자료",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk12b_test2.pptx",
+        "pages": [
+          7,
+          14,
+          15,
+          16,
+          18,
+          23,
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "week": 13,
+    "notebook": "week13/CE202_W13.ipynb",
+    "section": "S01",
+    "title": "원본 배터리 500개 중 5개 불량",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk13a_test3.pptx",
+        "pages": [
+          5,
+          7,
+          10,
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "week": 13,
+    "notebook": "week13/CE202_W13.ipynb",
+    "section": "S02",
+    "title": "슬라이드·jamovi와 일치하는 기계 6대",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk13b_ANOVA.pptx",
+        "pages": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          26,
+          28,
+          30,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "week": 14,
+    "notebook": "week14/CE202_W14.ipynb",
+    "section": "S01",
+    "title": "원본 TV 적합도와 카페 독립성",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk14a_ChiSqr.pptx",
+        "pages": [
+          12,
+          13,
+          14,
+          15,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "week": 14,
+    "notebook": "week14/CE202_W14.ipynb",
+    "section": "S02",
+    "title": "원본 x·y의 회귀와 MSE",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk14b_Regression.pptx",
+        "pages": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          28,
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "week": 15,
+    "notebook": "week15/CE202_W15.ipynb",
+    "section": "S01",
+    "title": "원본 분석을 검토 가능한 보고로 정리",
+    "kind": "source-example",
+    "sources": [
+      {
+        "file": "2026_S1_Statistics_Wk15a_Review.pptx",
+        "pages": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "file": "2026_S1_Statistics_Wk13b_ANOVA.pptx",
+        "pages": [
+          18,
+          24
+        ]
+      },
+      {
+        "file": "2026_S1_Statistics_Wk14b_Regression.pptx",
+        "pages": [
+          20
+        ]
+      }
+    ]
+  }
+]
