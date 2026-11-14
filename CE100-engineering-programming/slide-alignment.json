@@ -1,6 +1,6 @@
 {
   "basis": "PPTX presentation order, local topic-keyword matching, original notebook links and original notebook cells",
-  "verification_scope": "본문은 로컬 PC 내부에서 분석하고 슬라이드 번호·키워드 일치 여부·링크·해시만 수신. 이미지 속 코드의 시각적 대조는 포함하지 않음.",
+  "verification_scope": "원본 PPTX의 발표 순서·주제·노트북 연결 대조. 주요 원본·수정 페이지 이미지 검토. 노트북 독립 실행·과제 점검·원본 자료 일치 확인. 슬라이드 코드 이미지 전체의 줄별 대조는 검증 범위 밖",
   "notebooks": [
     {
       "notebook": "week03/EP_W3b.ipynb",
@@ -222,7 +222,26 @@
           ]
         }
       ],
-      "changes": [],
+      "changes": [
+        {
+          "original_cell_index": 0,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
+          ]
+        },
+        {
+          "original_cell_index": 4,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
+          ]
+        },
+        {
+          "original_cell_index": 20,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
+          ]
+        }
+      ],
       "unchanged_original_code_cells": 25,
       "teaching_pptx": "2027_S1_EngProg_Wk4b_Function.pptx",
       "teaching_slide_count": 21
@@ -316,6 +335,18 @@
       ],
       "changes": [
         {
+          "original_cell_index": 0,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
+          ]
+        },
+        {
+          "original_cell_index": 2,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
+          ]
+        },
+        {
           "original_cell_index": 4,
           "reasons": [
             "Drive 인증을 준비 셀의 선택 항목으로 이동"
@@ -331,6 +362,24 @@
           "original_cell_index": 8,
           "reasons": [
             "원본 데이터·모듈을 준비한 뒤 필요시 원본 upload 동작 실행"
+          ]
+        },
+        {
+          "original_cell_index": 9,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
+          ]
+        },
+        {
+          "original_cell_index": 21,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
+          ]
+        },
+        {
+          "original_cell_index": 26,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
           ]
         }
       ],
@@ -417,6 +466,12 @@
         }
       ],
       "changes": [
+        {
+          "original_cell_index": 0,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
+          ]
+        },
         {
           "original_cell_index": 28,
           "reasons": [
@@ -1309,6 +1364,18 @@
           ]
         },
         {
+          "original_cell_index": 5,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
+          ]
+        },
+        {
+          "original_cell_index": 16,
+          "reasons": [
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
+          ]
+        },
+        {
           "original_cell_index": 27,
           "reasons": [
             "원본 Date를 실제 datetime으로 해석하여 주 단위 날짜 축과 일치시킴"
@@ -1554,7 +1621,8 @@
         {
           "original_cell_index": 43,
           "reasons": [
-            "negative lookbehind가 이메일 도메인 전체를 제외한다는 부정확한 설명 수정"
+            "negative lookbehind가 이메일 도메인 전체를 제외한다는 부정확한 설명 수정",
+            "교수자 지정에 따른 간결한 한국어 설명 정리"
           ]
         }
       ],
