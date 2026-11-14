@@ -2,7 +2,7 @@
 
 2027학년도 1학기 주차별 **Colab·Excel 병행 실습**. 2026 원본 슬라이드의 개념·숫자·풀이 순서와 연결한 신규 실습
 
-통계 원리와 기능을 이해하고 AI에 좋은 질문·지시를 전달하며, 계산·가정·해석을 검토할 기본 역량 함양
+자료·확률·분포·추정·검정의 원리 이해와 통계적 해석 심화. 코드·Excel은 계산과 비교를 위한 도구, AI 활용은 선택 심화 활동
 
 [학습 방법](LEARNING_GUIDE.md) · [교수자 가이드](TEACHING_GUIDE.md) · [슬라이드 연결](SLIDE_ALIGNMENT.md) · [개편 기록](SLIDE_UPDATES_2027.md) · [2027 일정](CALENDAR_2027.md) · [자료 출처](DATA_SOURCES.md) · [ANOVA 대조](DATA_RECONCILIATION.md)
 
@@ -14,7 +14,7 @@
 | 04 | [확률변수·기댓값·분산](week04/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week04/CE202_W04.ipynb) | [Excel](week04/CE202_W04.xlsx) |
 | 05 | [결합분포·공분산·독립성](week05/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week05/CE202_W05.ipynb) | [Excel](week05/CE202_W05.xlsx) |
 | 06 | [이산확률분포·시행 기준](week06/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week06/CE202_W06.ipynb) | [Excel](week06/CE202_W06.xlsx) |
-| 07 | [전반부 복습·잘못된 AI 결과 검토](week07/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week07/CE202_W07.ipynb) | [Excel](week07/CE202_W07.xlsx) |
+| 07 | [전반부 복습·잘못된 통계 해석 검토](week07/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week07/CE202_W07.ipynb) | [Excel](week07/CE202_W07.xlsx) |
 | 08 | [연속확률분포·모수와 단위](week08/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week08/CE202_W08.ipynb) | [Excel](week08/CE202_W08.xlsx) |
 | 09 | [표본분포·표준오차·기준분포](week09/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week09/CE202_W09.ipynb) | [Excel](week09/CE202_W09.xlsx) |
 | 10 | [추정량·모평균 신뢰구간](week10/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week10/CE202_W10.ipynb) | [Excel](week10/CE202_W10.xlsx) |
