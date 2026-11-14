@@ -1,10 +1,10 @@
 # 공학통계학 · CE202
 
-2027학년도 1학기 주차별 **Colab·Excel 병행 실습**. 2026 원본 슬라이드의 개념·숫자·풀이 순서와 연결한 신규 실습
+주차별 **Colab·Excel 병행 실습**. 원본 슬라이드의 개념·숫자·풀이 순서와 연결한 신규 실습
 
 자료·확률·분포·추정·검정의 원리 이해와 통계적 해석 심화. 코드·Excel은 계산과 비교를 위한 도구, AI 활용은 선택 심화 활동
 
-[학습 방법](LEARNING_GUIDE.md) · [교수자 가이드](TEACHING_GUIDE.md) · [슬라이드 연결](SLIDE_ALIGNMENT.md) · [개편 기록](SLIDE_UPDATES_2027.md) · [2027 일정](CALENDAR_2027.md) · [자료 출처](DATA_SOURCES.md) · [ANOVA 대조](DATA_RECONCILIATION.md)
+[학습 방법](LEARNING_GUIDE.md) · [교수자 가이드](TEACHING_GUIDE.md) · [슬라이드 연결](SLIDE_ALIGNMENT.md) · [개편 기록](provenance/README.md) · [일정](../CURRENT_OFFERING.md) · [자료 출처](DATA_SOURCES.md) · [ANOVA 대조](DATA_RECONCILIATION.md)
 
 | 주 | 주제·안내 | 노트북 | 실습 파일 |
 | --- | --- | --- | --- |
@@ -24,12 +24,12 @@
 | 14 | [범주형 자료·원본 회귀분석](week14/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week14/CE202_W14.ipynb) | [Excel](week14/CE202_W14.xlsx) |
 | 15 | [종합 검토·AI 분석 요청과 결과 보고](week15/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week15/CE202_W15.ipynb) | [Excel](week15/CE202_W15.xlsx) |
 
-매주 화/목. 첫 수업 2027-03-02. 5/13 추정 (4)·5/18 가설검정 (1)은 온라인 영상강의. 모든 과목의 휴일·불가피한 일정에 같은 방침 적용
+수업 날짜·진행 방식·평가일: [현재 학기 운영안내](../CURRENT_OFFERING.md)
 
-중간4/15·기말6/10 예정. 확정 시간·장소는 학기 공지. 평가 비중: 중간40%·기말40%·퀴즈10%·출석10%
+평가일·시간·장소: 학기 운영안내
 
-실행: Colab에서 위에서 아래로 셀 실행. None 항목 작성, 조건 변경, AI 요청·검토 기록. Excel은 다운로드 후 자동 계산 사용. 정의·모형이 같은 결과끼리 비교
+실행: Colab에서 위에서 아래로 셀 실행. None 항목 작성, 손계산·조건 변경·해석 기록. AI 검토는 선택. Excel은 다운로드 후 자동 계산 사용. 정의·모형이 같은 결과끼리 비교
 
 원본 실습자료 4개는 data 폴더에 보존. ANOVA 원본 Excel의 입력 중복을 숨기지 않고 정리본·근거 별도 제공. 원본 슬라이드·학생 명단은 공개 저장소 미포함
 
-[2027 자료 검수 기록](VALIDATION_2027.md)
+[자료 검수 기록](provenance/README.md)

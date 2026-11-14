@@ -1,17 +1,17 @@
 # 06주 · 수치미분·스텝·자료의 오차
 
-2027-04-06 수치미분 (1) · 대면 / 2027-04-08 수치미분 (2) · 대면
+학습 주제: 수치미분 (1) / 수치미분 (2)
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week06/CE273_W06.ipynb) · [노트북](CE273_W06.ipynb)
 - [Excel 실습](CE273_W06.xlsx): 원본 다항식 차분표·h 변화와 오차
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../CALENDAR_2027.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
+- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
 
 | 셀 | 주제 | 원본 슬라이드 |
 | --- | --- | --- |
 | S01 | 원본 다항식의 차분 공식 | Wk6a_Differentiation1 p5,7,9,12,19,20,21 |
 | S02 | 원본 sin·(x−1)^4와 h 실험 | Wk6b_Differentiation2 p3,5,10,16 |
 
-2027 로컬 슬라이드: `2027_S1_NA_Wk6a_Differentiation1.pptx` / `2027_S1_NA_Wk6b_Differentiation2.pptx`
+공통 슬라이드: `CE273_W06a_Differentiation1.pptx` / `CE273_W06b_Differentiation2.pptx`
 
 기존 페이지 번호 유지, 마지막 페이지에서 실습 링크로 이동
 

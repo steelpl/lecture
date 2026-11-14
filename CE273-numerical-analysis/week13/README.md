@@ -1,10 +1,10 @@
 # 13주 · 다항 회귀·보간·스플라인
 
-2027-05-25 곡선 적합 (2) · 대면 / 2027-05-27 곡선 적합 (3) · 대면
+학습 주제: 곡선 적합 (2) / 곡선 적합 (3)
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week13/CE273_W13.ipynb) · [노트북](CE273_W13.ipynb)
 - [Excel 실습](CE273_W13.xlsx): 원본 2차 회귀·ln2 보간·1차 스플라인
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../CALENDAR_2027.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
+- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
 
 | 셀 | 주제 | 원본 슬라이드 |
 | --- | --- | --- |
@@ -12,7 +12,7 @@
 | S02 | 원본 ln2의 Newton·Lagrange 보간 | Wk13a_CurveFit2 p24,31,36 / Wk13b_CurveFit3 p7 |
 | S03 | 원본 1차 스플라인과 경계 조건 | Wk13b_CurveFit3 p15,16,18 |
 
-2027 로컬 슬라이드: `2027_S1_NA_Wk13a_CurveFit2.pptx` / `2027_S1_NA_Wk13b_CurveFit3.pptx`
+공통 슬라이드: `CE273_W13a_CurveFit2.pptx` / `CE273_W13b_CurveFit3.pptx`
 
 기존 페이지 번호 유지, 마지막 페이지에서 실습 링크로 이동
 

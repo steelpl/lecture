@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "code": "CE100",
+  "name": "공학프로그래밍입문",
+  "semester": 1,
+  "weeks": [
+    {
+      "week": 1,
+      "sessions": [
+        {
+          "id": "W01a",
+          "topic": "과목 소개",
+          "kind": "lesson"
+        },
+        {
+          "id": "W01b",
+          "topic": "빅데이터와 인공지능",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "sessions": [
+        {
+          "id": "W02a",
+          "topic": "Python 시작",
+          "kind": "lesson"
+        },
+        {
+          "id": "W02b",
+          "topic": "Colab·노트북",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "sessions": [
+        {
+          "id": "W03a",
+          "topic": "자료형 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W03b",
+          "topic": "자료형 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "sessions": [
+        {
+          "id": "W04a",
+          "topic": "퀴즈 #1·제어문",
+          "kind": "lesson"
+        },
+        {
+          "id": "W04b",
+          "topic": "함수",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "sessions": [
+        {
+          "id": "W05a",
+          "topic": "입출력·파일 읽기",
+          "kind": "lesson"
+        },
+        {
+          "id": "W05b",
+          "topic": "클래스",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "sessions": [
+        {
+          "id": "W06a",
+          "topic": "모듈·패키지",
+          "kind": "lesson"
+        },
+        {
+          "id": "W06b",
+          "topic": "예외 다루기",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "sessions": [
+        {
+          "id": "W07a",
+          "topic": "퀴즈 #2·전반부 복습",
+          "kind": "lesson"
+        },
+        {
+          "id": "W07b",
+          "topic": "중간평가",
+          "kind": "assessment"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "sessions": [
+        {
+          "id": "W08a",
+          "topic": "내장함수 (1)·중간평가 풀이",
+          "kind": "lesson"
+        },
+        {
+          "id": "W08b",
+          "topic": "내장함수 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "sessions": [
+        {
+          "id": "W09a",
+          "topic": "라이브러리 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W09b",
+          "topic": "라이브러리 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "sessions": [
+        {
+          "id": "W10a",
+          "topic": "라이브러리 (3)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W10b",
+          "topic": "라이브러리 (4)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "sessions": [
+        {
+          "id": "W11a",
+          "topic": "퀴즈 #3·프로그래밍 연습 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W11b",
+          "topic": "프로그래밍 연습 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "sessions": [
+        {
+          "id": "W12a",
+          "topic": "프로그래밍 연습 (3)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W12b",
+          "topic": "프로그래밍 연습 (4)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "sessions": [
+        {
+          "id": "W13a",
+          "topic": "프로그래밍 연습 (5)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W13b",
+          "topic": "정규표현식 (1)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "sessions": [
+        {
+          "id": "W14a",
+          "topic": "정규표현식 (2)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W14b",
+          "topic": "정규표현식 (3)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "sessions": [
+        {
+          "id": "W15a",
+          "topic": "퀴즈 #4·종합 복습",
+          "kind": "lesson"
+        },
+        {
+          "id": "W15b",
+          "topic": "기말평가",
+          "kind": "assessment"
+        }
+      ]
+    }
+  ],
+  "material_policy": "rolling",
+  "local_directory": "CE100_공학프로그래밍입문",
+  "legacy_directory": "1.공학프로그래밍입문",
+  "lectures": [
+    {
+      "id": "W01a",
+      "file": "CE100_W01a_Intro1.pptx",
+      "week": 1,
+      "part": "a",
+      "pages": 30,
+      "calendar_slide": 23
+    },
+    {
+      "id": "W01b",
+      "file": "CE100_W01b_Intro2.pptx",
+      "week": 1,
+      "part": "b",
+      "pages": 41,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W02a",
+      "file": "CE100_W02a_BeginPython.pptx",
+      "week": 2,
+      "part": "a",
+      "pages": 23,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W02b",
+      "file": "CE100_W02b_Colab.pptx",
+      "week": 2,
+      "part": "b",
+      "pages": 22,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W03a",
+      "file": "CE100_W03a_DataType1.pptx",
+      "week": 3,
+      "part": "a",
+      "pages": 28,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W03b",
+      "file": "CE100_W03b_DataType2.pptx",
+      "week": 3,
+      "part": "b",
+      "pages": 36,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W04a",
+      "file": "CE100_W04a_CtrlStatement.pptx",
+      "week": 4,
+      "part": "a",
+      "pages": 24,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W04b",
+      "file": "CE100_W04b_Function.pptx",
+      "week": 4,
+      "part": "b",
+      "pages": 21,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W05a",
+      "file": "CE100_W05a_InOut.pptx",
+      "week": 5,
+      "part": "a",
+      "pages": 20,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W05b",
+      "file": "CE100_W05b_Class.pptx",
+      "week": 5,
+      "part": "b",
+      "pages": 23,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W06a",
+      "file": "CE100_W06a_MdlPackage.pptx",
+      "week": 6,
+      "part": "a",
+      "pages": 19,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W06b",
+      "file": "CE100_W06b_Exception.pptx",
+      "week": 6,
+      "part": "b",
+      "pages": 16,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W07a",
+      "file": "CE100_W07a_Review.pptx",
+      "week": 7,
+      "part": "a",
+      "pages": 40,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W08a",
+      "file": "CE100_W08a_InBuilt1.pptx",
+      "week": 8,
+      "part": "a",
+      "pages": 15,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W08b",
+      "file": "CE100_W08b_InBuilt2.pptx",
+      "week": 8,
+      "part": "b",
+      "pages": 18,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W09a",
+      "file": "CE100_W09a_Lib1.pptx",
+      "week": 9,
+      "part": "a",
+      "pages": 32,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W09b",
+      "file": "CE100_W09b_Lib2_numpy.pptx",
+      "week": 9,
+      "part": "b",
+      "pages": 6,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W10a",
+      "file": "CE100_W10a_Lib3_pandas.pptx",
+      "week": 10,
+      "part": "a",
+      "pages": 6,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W10b",
+      "file": "CE100_W10b_Lib3_matplotlib.pptx",
+      "week": 10,
+      "part": "b",
+      "pages": 6,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W11a",
+      "file": "CE100_W11a_ProgPrtc1.pptx",
+      "week": 11,
+      "part": "a",
+      "pages": 22,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W11b",
+      "file": "CE100_W11b_ProgPrtc2.pptx",
+      "week": 11,
+      "part": "b",
+      "pages": 23,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W12a",
+      "file": "CE100_W12a_ProgPrtc3.pptx",
+      "week": 12,
+      "part": "a",
+      "pages": 13,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W12b",
+      "file": "CE100_W12b_ProgPrtc4.pptx",
+      "week": 12,
+      "part": "b",
+      "pages": 10,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W13a",
+      "file": "CE100_W13a_ProgPrtc5.pptx",
+      "week": 13,
+      "part": "a",
+      "pages": 14,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W13b",
+      "file": "CE100_W13b_RegExp1.pptx",
+      "week": 13,
+      "part": "b",
+      "pages": 19,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W14a",
+      "file": "CE100_W14a_RegExp2.pptx",
+      "week": 14,
+      "part": "a",
+      "pages": 19,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W14b",
+      "file": "CE100_W14b_RegExp3.pptx",
+      "week": 14,
+      "part": "b",
+      "pages": 21,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W15a",
+      "file": "CE100_W15a_Review.pptx",
+      "week": 15,
+      "part": "a",
+      "pages": 35,
+      "calendar_slide": 2
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 # 01주 · 공학 모형·낙하산 운동
 
-2027-03-02 수치해석 소개 (1) · 대면 / 2027-03-04 공학 모형·수치해석 소개 (2) · 대면
+학습 주제: 수치해석 소개 (1) / 공학 모형·수치해석 소개 (2)
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week01/CE273_W01.ipynb) · [노트북](CE273_W01.ipynb)
 - [Excel 실습](CE273_W01.xlsx): 낙하산 해석해·Euler·반올림 상수 대조
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../CALENDAR_2027.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
+- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
 
 | 셀 | 주제 | 원본 슬라이드 |
 | --- | --- | --- |
 | S01 | 모형·매개변수·단위와 해석해 | Wk1a_Intro1 p19,20 / Wk1b_Intro2 p12,13,14,15 |
 | S02 | Euler 갱신과 스텝 검토 | Wk1b_Intro2 p16,17,18,19 |
 
-2027 로컬 슬라이드: `2027_S1_NA_Wk1a_Intro1.pptx` / `2027_S1_NA_Wk1b_Intro2.pptx`
+공통 슬라이드: `CE273_W01a_Intro1.pptx` / `CE273_W01b_Intro2.pptx`
 
 기존 페이지 번호 유지, 마지막 페이지에서 실습 링크로 이동
 

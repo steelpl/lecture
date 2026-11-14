@@ -119,8 +119,9 @@
         }
       ],
       "unchanged_original_code_cells": 18,
-      "teaching_pptx": "2027_S1_EngProg_Wk3b_DataType2.pptx",
-      "teaching_slide_count": 36
+      "teaching_pptx": "CE100_W03b_DataType2.pptx",
+      "teaching_slide_count": 36,
+      "lecture": "CE100_W03b_DataType2.pptx"
     },
     {
       "notebook": "week04/EP_W4b.ipynb",
@@ -243,8 +244,9 @@
         }
       ],
       "unchanged_original_code_cells": 25,
-      "teaching_pptx": "2027_S1_EngProg_Wk4b_Function.pptx",
-      "teaching_slide_count": 21
+      "teaching_pptx": "CE100_W04b_Function.pptx",
+      "teaching_slide_count": 21,
+      "lecture": "CE100_W04b_Function.pptx"
     },
     {
       "notebook": "week05/EP_W5a.ipynb",
@@ -384,8 +386,9 @@
         }
       ],
       "unchanged_original_code_cells": 18,
-      "teaching_pptx": "2027_S1_EngProg_Wk5a_InOut.pptx",
-      "teaching_slide_count": 20
+      "teaching_pptx": "CE100_W05a_InOut.pptx",
+      "teaching_slide_count": 20,
+      "lecture": "CE100_W05a_InOut.pptx"
     },
     {
       "notebook": "week05/EP_W5b.ipynb",
@@ -480,8 +483,9 @@
         }
       ],
       "unchanged_original_code_cells": 23,
-      "teaching_pptx": "2027_S1_EngProg_Wk5b_Class.pptx",
-      "teaching_slide_count": 23
+      "teaching_pptx": "CE100_W05b_Class.pptx",
+      "teaching_slide_count": 23,
+      "lecture": "CE100_W05b_Class.pptx"
     },
     {
       "notebook": "week06/EP_W6a.ipynb",
@@ -580,8 +584,9 @@
         }
       ],
       "unchanged_original_code_cells": 7,
-      "teaching_pptx": "2027_S1_EngProg_Wk6a_MdlPackage.pptx",
-      "teaching_slide_count": 19
+      "teaching_pptx": "CE100_W06a_MdlPackage.pptx",
+      "teaching_slide_count": 19,
+      "lecture": "CE100_W06a_MdlPackage.pptx"
     },
     {
       "notebook": "week06/EP_W6b.ipynb",
@@ -662,8 +667,9 @@
         }
       ],
       "unchanged_original_code_cells": 29,
-      "teaching_pptx": "2027_S1_EngProg_Wk6b_Exception.pptx",
-      "teaching_slide_count": 16
+      "teaching_pptx": "CE100_W06b_Exception.pptx",
+      "teaching_slide_count": 16,
+      "lecture": "CE100_W06b_Exception.pptx"
     },
     {
       "notebook": "week09/EP_W9a.ipynb",
@@ -875,8 +881,9 @@
         }
       ],
       "unchanged_original_code_cells": 23,
-      "teaching_pptx": "2027_S1_EngProg_Wk9a_Lib1.pptx",
-      "teaching_slide_count": 32
+      "teaching_pptx": "CE100_W09a_Lib1.pptx",
+      "teaching_slide_count": 32,
+      "lecture": "CE100_W09a_Lib1.pptx"
     },
     {
       "notebook": "week09/EP_W9b_numpy.ipynb",
@@ -1014,8 +1021,9 @@
         }
       ],
       "unchanged_original_code_cells": 53,
-      "teaching_pptx": "2027_S1_EngProg_Wk9b_Lib2_numpy.pptx",
-      "teaching_slide_count": 6
+      "teaching_pptx": "CE100_W09b_Lib2_numpy.pptx",
+      "teaching_slide_count": 6,
+      "lecture": "CE100_W09b_Lib2_numpy.pptx"
     },
     {
       "notebook": "week10/EP_W10a_panda.ipynb",
@@ -1152,8 +1160,9 @@
         }
       ],
       "unchanged_original_code_cells": 29,
-      "teaching_pptx": "2027_S1_EngProg_Wk10a_Lib3_pandas.pptx",
-      "teaching_slide_count": 6
+      "teaching_pptx": "CE100_W10a_Lib3_pandas.pptx",
+      "teaching_slide_count": 6,
+      "lecture": "CE100_W10a_Lib3_pandas.pptx"
     },
     {
       "notebook": "week10/EP_W10b_matplotlib.ipynb",
@@ -1275,8 +1284,9 @@
         }
       ],
       "unchanged_original_code_cells": 14,
-      "teaching_pptx": "2027_S1_EngProg_Wk10b_Lib3_matplotlib.pptx",
-      "teaching_slide_count": 6
+      "teaching_pptx": "CE100_W10b_Lib3_matplotlib.pptx",
+      "teaching_slide_count": 6,
+      "lecture": "CE100_W10b_Lib3_matplotlib.pptx"
     },
     {
       "notebook": "week12/EP_W12b_pb.ipynb",
@@ -1389,8 +1399,9 @@
         }
       ],
       "unchanged_original_code_cells": 11,
-      "teaching_pptx": "2027_S1_EngProg_Wk12b_ProgPrtc4.pptx",
-      "teaching_slide_count": 10
+      "teaching_pptx": "CE100_W12b_ProgPrtc4.pptx",
+      "teaching_slide_count": 10,
+      "lecture": "CE100_W12b_ProgPrtc4.pptx"
     },
     {
       "notebook": "week13/EngProg_RegExp.ipynb",
@@ -1434,8 +1445,9 @@
         }
       ],
       "unchanged_original_code_cells": 2,
-      "teaching_pptx": "2027_S1_EngProg_Wk13b_RegExp1.pptx",
-      "teaching_slide_count": 19
+      "teaching_pptx": "CE100_W13b_RegExp1.pptx",
+      "teaching_slide_count": 19,
+      "lecture": "CE100_W13b_RegExp1.pptx"
     },
     {
       "notebook": "week14/EP_W14a.ipynb",
@@ -1484,8 +1496,9 @@
       ],
       "changes": [],
       "unchanged_original_code_cells": 8,
-      "teaching_pptx": "2027_S1_EngProg_Wk14a_RegExp2.pptx",
-      "teaching_slide_count": 19
+      "teaching_pptx": "CE100_W14a_RegExp2.pptx",
+      "teaching_slide_count": 19,
+      "lecture": "CE100_W14a_RegExp2.pptx"
     },
     {
       "notebook": "week14/EP_W14b.ipynb",
@@ -1627,8 +1640,9 @@
         }
       ],
       "unchanged_original_code_cells": 17,
-      "teaching_pptx": "2027_S1_EngProg_Wk14b_RegExp3.pptx",
-      "teaching_slide_count": 21
+      "teaching_pptx": "CE100_W14b_RegExp3.pptx",
+      "teaching_slide_count": 21,
+      "lecture": "CE100_W14b_RegExp3.pptx"
     }
   ]
 }

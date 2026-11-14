@@ -1,17 +1,17 @@
 # 09주 · 벡터·행렬·질량보존·고유값
 
-2027-04-27 선형 연립방정식 (1) · 대면 / 2027-04-29 선형 연립방정식 (2) · 대면
+학습 주제: 선형 연립방정식 (1) / 선형 연립방정식 (2)
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week09/CE273_W09.ipynb) · [노트북](CE273_W09.ipynb)
 - [Excel 실습](CE273_W09.xlsx): 원본 벡터·5반응조 선형계·고유쌍
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../CALENDAR_2027.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
+- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
 
 | 셀 | 주제 | 원본 슬라이드 |
 | --- | --- | --- |
 | S01 | 원본 벡터와 반응조 선형계 | Wk9a_LinearAlgebra1  p5,7,14,15 / Wk9b_LinearAlgebra2 p3,4,8 |
 | S02 | 원본 대칭행렬의 고유쌍 | Wk9a_LinearAlgebra1  p25,26,27,28 / Wk9b_LinearAlgebra2 p11,15,16,17,19 |
 
-2027 로컬 슬라이드: `2027_S1_NA_Wk9a_LinearAlgebra1.pptx` / `2027_S1_NA_Wk9b_LinearAlgebra2.pptx`
+공통 슬라이드: `CE273_W09a_LinearAlgebra1.pptx` / `CE273_W09b_LinearAlgebra2.pptx`
 
 기존 페이지 번호 유지, 마지막 페이지에서 실습 링크로 이동
 

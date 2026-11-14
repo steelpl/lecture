@@ -1,7 +1,6 @@
 # 10주차 · pandas와 Matplotlib
 
-공학프로그래밍입문 · 2027학년도 1학기
-
+공학프로그래밍입문
 ## 실습 자료
 
 | 파일 | 실행 | 원본 |
@@ -19,13 +18,13 @@ Colab에서 열고 본인 Drive에 사본 저장. 기준 슬라이드 번호와 
 - Matplotlib은 원본 sine·cosine subplot·Iris·막대·원그래프·Seaborn 비교 예제 유지. 패키지: matplotlib>=3.10, numpy, pandas, seaborn. 상자 그림은 최신 orientation 인수 사용
 - 공개 데이터셋 다운로드에는 인터넷이 필요. 원본 한글 폰트 설정도 유지하되 설치 여부 확인
 
-## 확인한 원본 강의록
+## 병행 슬라이드
 
-로컬 PPTX에서 주차와 자료 링크 확인. 강의록 파일 자체는 이 저장소에 복사하지 않음
+공통 슬라이드 파일명과 차시 연결. 실제 원본 출처·해시는 과목의 provenance 폴더와 자료 manifest 참고. 슬라이드 파일은 로컬에서 관리
 
-- `2026_S1_EngProg_Wk10a_Lib3_pandas.pptx`
-- `2026_S1_EngProg_Wk10b_Lib3_matplotlib.pptx`
+- `CE100_W10a_Lib3_pandas.pptx`
+- `CE100_W10b_Lib3_matplotlib.pptx`
 
-2027 병행본은 위 원본 파일명에서 `2026_`을 `2027_`로 바꾼 PPTX. 기존 슬라이드 번호를 유지하며, 마지막에 실습 연결 안내 1장 추가. [2027 수업 일정](../CALENDAR_2027.md) 함께 확인
+공통 슬라이드의 기존 페이지 번호 유지. 마지막 페이지에서 실습 연결. [학기 운영안내](../../CURRENT_OFFERING.md)
 
 [강의 전체 실습 목록](../README.md)

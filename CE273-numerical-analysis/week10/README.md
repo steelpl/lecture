@@ -1,17 +1,17 @@
 # 10주 · 선형계·피벗·LU·조건과 잔차
 
-2027-05-04 선형 연립방정식 (3) · 대면 / 2027-05-06 선형 연립방정식 (4) · 대면
+학습 주제: 선형 연립방정식 (3) / 선형 연립방정식 (4)
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week10/CE273_W10.ipynb) · [노트북](CE273_W10.ipynb)
 - [Excel 실습](CE273_W10.xlsx): 유일해·과소결정계·피벗·LU·잔차 검산
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../CALENDAR_2027.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
+- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
 
 | 셀 | 주제 | 원본 슬라이드 |
 | --- | --- | --- |
 | S01 | 유일해·무한해·과소결정계 검산 | Wk10a_LinearAlgebra3 p3,5,8,9,10,18 |
 | S02 | 피벗·LU와 Cholesky 조건 | Wk10a_LinearAlgebra3 p20,24,27 / Wk10b_LinearAlgebra4 p10,13,18,19,26 |
 
-2027 로컬 슬라이드: `2027_S1_NA_Wk10a_LinearAlgebra3.pptx` / `2027_S1_NA_Wk10b_LinearAlgebra4.pptx`
+공통 슬라이드: `CE273_W10a_LinearAlgebra3.pptx` / `CE273_W10b_LinearAlgebra4.pptx`
 
 기존 페이지 번호 유지, 마지막 페이지에서 실습 링크로 이동
 

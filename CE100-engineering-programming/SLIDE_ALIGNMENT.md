@@ -2,7 +2,7 @@
 
 슬라이드의 주요 예제·변수명·입력 자료·순서를 기준으로 병행. 새로운 AI 활동은 해당 예제를 대상으로 예측·조건 변경·질문·검토를 수행하며, 원본 예제를 별도 주제의 사례로 대체 없음
 
-2027 병행본은 2026 원본의 기존 슬라이드 번호를 유지하며 마지막에 실습 연결 1장 추가. 아래 장수와 `2026_` 파일명은 원본 출처 기준. 대응하는 `2027_` 파일의 장수는 원본보다 1장 많고, 구간 번호는 동일. [2027 일정](CALENDAR_2027.md) 함께 확인
+공통 슬라이드의 기존 페이지 번호 유지. 마지막 페이지에서 실습 연결. [학기 운영안내](../CURRENT_OFFERING.md)
 
 ## 번호 기준
 
@@ -33,7 +33,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W3b.ipynb
 
-기준: `2026_S1_EngProg_Wk3b_DataType2.pptx`
+기준: `CE100_W03b_DataType2.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W4b.ipynb
 
-기준: `2026_S1_EngProg_Wk4b_Function.pptx`
+기준: `CE100_W04b_Function.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -57,7 +57,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W5a.ipynb
 
-기준: `2026_S1_EngProg_Wk5a_InOut.pptx`
+기준: `CE100_W05a_InOut.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -69,7 +69,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W5b.ipynb
 
-기준: `2026_S1_EngProg_Wk5b_Class.pptx`
+기준: `CE100_W05b_Class.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -80,7 +80,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W6a.ipynb
 
-기준: `2026_S1_EngProg_Wk6a_MdlPackage.pptx`
+기준: `CE100_W06a_MdlPackage.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W6b.ipynb
 
-기준: `2026_S1_EngProg_Wk6b_Exception.pptx`
+기준: `CE100_W06b_Exception.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -98,7 +98,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W9a.ipynb
 
-기준: `2026_S1_EngProg_Wk9a_Lib1.pptx`
+기준: `CE100_W09a_Lib1.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -111,7 +111,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W9b_numpy.ipynb
 
-기준: `2026_S1_EngProg_Wk9b_Lib2_numpy.pptx`
+기준: `CE100_W09b_Lib2_numpy.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -123,7 +123,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W10a_panda.ipynb
 
-기준: `2026_S1_EngProg_Wk10a_Lib3_pandas.pptx`
+기준: `CE100_W10a_Lib3_pandas.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -135,7 +135,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W10b_matplotlib.ipynb
 
-기준: `2026_S1_EngProg_Wk10b_Lib3_matplotlib.pptx`
+기준: `CE100_W10b_Lib3_matplotlib.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -147,7 +147,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W12b_pb.ipynb
 
-기준: `2026_S1_EngProg_Wk12b_ProgPrtc4.pptx`
+기준: `CE100_W12b_ProgPrtc4.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -158,7 +158,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EngProg_RegExp.ipynb
 
-기준: `2026_S1_EngProg_Wk13b_RegExp1.pptx`
+기준: `CE100_W13b_RegExp1.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -167,7 +167,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W14a.ipynb
 
-기준: `2026_S1_EngProg_Wk14a_RegExp2.pptx`
+기준: `CE100_W14a_RegExp2.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |
@@ -176,7 +176,7 @@ NumPy·pandas·Matplotlib: 원본 안내 슬라이드 5장 중 4번에서 Colab 
 
 ## EP_W14b.ipynb
 
-기준: `2026_S1_EngProg_Wk14b_RegExp3.pptx`
+기준: `CE100_W14b_RegExp3.pptx`
 
 | 구간 | 실습 예제·개념 | 대응 슬라이드 |
 | --- | --- | --- |

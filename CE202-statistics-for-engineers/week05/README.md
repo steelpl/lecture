@@ -1,10 +1,10 @@
 # 05주 · 결합분포·공분산·독립성
 
-2027-03-30 결합확률분포 · 대면 / 2027-04-01 공분산 · 대면
+학습 주제: 결합확률분포 / 공분산
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week05/CE202_W05.ipynb) · [노트북](CE202_W05.ipynb)
 - [Excel 실습](CE202_W05.xlsx): 공 주머니 결합표·주변확률·공분산
-- [학습 방법](../LEARNING_GUIDE.md) · [2027 일정](../CALENDAR_2027.md)
+- [학습 방법](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
 
 | 셀 | 실습 | 원본 슬라이드 |
 | --- | --- | --- |
@@ -12,7 +12,7 @@
 | S02 | 결합분포에서 공분산 계산 | Wk5b_CoVar p4,6,10,28,30 |
 | S03 | 공분산 0의 반례 | Wk5b_CoVar p10,11,23,30 |
 
-2027 슬라이드: 같은 주차·차시의 `2027_S1_Statistics_*.pptx` 사용. 기존 페이지 번호 유지, 마지막 페이지의 실습 링크로 이동
+공통 슬라이드: 같은 주차·차시의 `CE202_W*.pptx` 사용. 기존 페이지 번호 유지, 마지막 페이지의 실습 링크로 이동
 
 진행: 예측 → 손계산 → 실행 → 조건 변경 → 원리·변경 결과 설명 → 가정·결과·한계 검토
 

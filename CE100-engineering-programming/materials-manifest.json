@@ -1,6 +1,5 @@
 {
   "course": "CE100",
-  "term": "2027-1",
   "source_directory": "1.강의록",
   "notebooks": [
     {
@@ -11,8 +10,8 @@
       "path": "week10/EP_W10a_panda.ipynb",
       "week": 10,
       "source_slide": 4,
-      "sha256": "85388218707aae08d892754711cd58c460479942a42ea977d3a47e2fabccc1bf",
-      "size_bytes": 44565,
+      "sha256": "5bd1a8966110b34fce36f8646caa2034a9804548b964ae62e14b6d7bbeef50c1",
+      "size_bytes": 44762,
       "original_sha256": "7ac40e8c556e3619e662d189d14bb8b24a018f96eeea3658c8d74d46c458f32d",
       "original_size_bytes": 14429,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -26,8 +25,7 @@
         "adjusted_original_cells": 5,
         "section_count": 5
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk10a_Lib3_pandas.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W10a_Lib3_pandas.pptx"
     },
     {
       "original_name": "EP_W10b_matplotlib.ipynb",
@@ -37,8 +35,8 @@
       "path": "week10/EP_W10b_matplotlib.ipynb",
       "week": 10,
       "source_slide": 4,
-      "sha256": "9484836bd250aa4b83e90d3b6ca76d9d46452e07c6b43477d7c428a79be93c28",
-      "size_bytes": 41100,
+      "sha256": "7bf423a21921ca3dad74c68ec0c99350c1ae3fac2749d257c73ff1285923aab8",
+      "size_bytes": 41303,
       "original_sha256": "663f78469300ce0eab0859173e674926433f1f74d603b85330cfe210f999c440",
       "original_size_bytes": 13516,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -52,8 +50,7 @@
         "adjusted_original_cells": 4,
         "section_count": 5
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk10b_Lib3_matplotlib.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W10b_Lib3_matplotlib.pptx"
     },
     {
       "original_name": "EP_W12b_pb.ipynb",
@@ -63,8 +60,8 @@
       "path": "week12/EP_W12b_pb.ipynb",
       "week": 12,
       "source_slide": 8,
-      "sha256": "9f97bd360e894e60959162c114433a2e2989c61f7ed8dfe2390f7f8ed3ebc28e",
-      "size_bytes": 41498,
+      "sha256": "7c81451f52d05324c64e97452c7f3e8d5f23f8e7c543cee7795edbddaf2e0bd0",
+      "size_bytes": 41707,
       "original_sha256": "63b1633211581a3ad31ce53ebfdba90235d309ea165c6ede83682eb7a4ebfcfb",
       "original_size_bytes": 10032,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -78,8 +75,7 @@
         "adjusted_original_cells": 5,
         "section_count": 4
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk12b_ProgPrtc4.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W12b_ProgPrtc4.pptx"
     },
     {
       "original_name": "EngProg_RegExp.ipynb",
@@ -89,8 +85,8 @@
       "path": "week13/EngProg_RegExp.ipynb",
       "week": 13,
       "source_slide": 5,
-      "sha256": "493debc6fdff033cb6f4e373da951b666b86a78d1a92c83ea196a083413f8a10",
-      "size_bytes": 12914,
+      "sha256": "0e3080e204ec8eeb748354c14d0b40e73ecf0fa800426c4bb8aff57630db7d2c",
+      "size_bytes": 13125,
       "original_sha256": "d2a8d308b74db130f21bd7a1bb9aa0b933e4365c8b3436170521990f4fd7402c",
       "original_size_bytes": 1437,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -104,8 +100,7 @@
         "adjusted_original_cells": 1,
         "section_count": 2
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk13b_RegExp1.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W13b_RegExp1.pptx"
     },
     {
       "original_name": "EP_W14a.ipynb",
@@ -115,8 +110,8 @@
       "path": "week14/EP_W14a.ipynb",
       "week": 14,
       "source_slide": 16,
-      "sha256": "d51ca1b0466174946e0a55a63e40acbab9b5cabb0b168fa9857edf34696f2cca",
-      "size_bytes": 17807,
+      "sha256": "f64c078ddb29ccbc6c8ee5eefb355a3324b96c4398a9df10591e58cb46e99e89",
+      "size_bytes": 18018,
       "original_sha256": "5b23ca80f1d99b76c8afff1e0e554986cd88fd7bb0172c638ba382ca882a87dd",
       "original_size_bytes": 4991,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -130,8 +125,7 @@
         "adjusted_original_cells": 0,
         "section_count": 2
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk14a_RegExp2.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W14a_RegExp2.pptx"
     },
     {
       "original_name": "EP_W14b.ipynb",
@@ -141,8 +135,8 @@
       "path": "week14/EP_W14b.ipynb",
       "week": 14,
       "source_slide": 7,
-      "sha256": "0bbed5e83b3686b1f3c5f6511f8d434eb265e175474fc5c49c43e9bd414ac537",
-      "size_bytes": 36965,
+      "sha256": "bc925285d843c36b42dcdb2287ecbaf43a89f9d757a1bcd3279e3759b81a675b",
+      "size_bytes": 37176,
       "original_sha256": "d7771a9fb6cf7d329b223efee9403b6a52e3b8ea4c85cc0c8d971ad6fa0e8dd3",
       "original_size_bytes": 9329,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -156,8 +150,7 @@
         "adjusted_original_cells": 5,
         "section_count": 5
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk14b_RegExp3.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W14b_RegExp3.pptx"
     },
     {
       "original_name": "EP_W3b.ipynb",
@@ -167,8 +160,8 @@
       "path": "week03/EP_W3b.ipynb",
       "week": 3,
       "source_slide": 6,
-      "sha256": "6b61fab26ea3863a1ff9ae274d24afe0fdc219bd66c973a393ab636755401fd0",
-      "size_bytes": 36036,
+      "sha256": "a27c8119829197723dc61d94ce1b7ce6d39c47a06fc973a0606ca8ecfd0a4c9f",
+      "size_bytes": 36247,
       "original_sha256": "de65e5e1bf6fc6a87505f49c9f6158cc3f98fe22590640f2edf3c93e72bf0478",
       "original_size_bytes": 8097,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -182,8 +175,7 @@
         "adjusted_original_cells": 1,
         "section_count": 5
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk3b_DataType2.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W03b_DataType2.pptx"
     },
     {
       "original_name": "EP_W4b.ipynb",
@@ -193,8 +185,8 @@
       "path": "week04/EP_W4b.ipynb",
       "week": 4,
       "source_slide": 10,
-      "sha256": "d984df1b6ab34e18bc8d7d02176d9939723042c3066f2529f39215eb1b4c0fb7",
-      "size_bytes": 37083,
+      "sha256": "9ce5e18aa150b176f718e93f776de57b79bf7dfa8c600f8aca190c3b5984e05a",
+      "size_bytes": 37275,
       "original_sha256": "c99333dfd18196dffe76a574516777d118b4a5efa3e630984aeb4b233eb1e328",
       "original_size_bytes": 9786,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -208,8 +200,7 @@
         "adjusted_original_cells": 3,
         "section_count": 5
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk4b_Function.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W04b_Function.pptx"
     },
     {
       "original_name": "EP_W5a.ipynb",
@@ -219,8 +210,8 @@
       "path": "week05/EP_W5a.ipynb",
       "week": 5,
       "source_slide": 7,
-      "sha256": "d73c38687941b858e91e4d7e300fbc609cb62e507f1e065d995381a49821465e",
-      "size_bytes": 35817,
+      "sha256": "957b17717000418d8f795d0aa2ecbd4be5a23c2dfc2127e235281d45d35689ab",
+      "size_bytes": 36028,
       "original_sha256": "7f950f540d49828a87d71f5bee72de2e8e085f2cf5f831322f003b7f7eee6e77",
       "original_size_bytes": 9174,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -234,8 +225,7 @@
         "adjusted_original_cells": 8,
         "section_count": 5
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk5a_InOut.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W05a_InOut.pptx"
     },
     {
       "original_name": "EP_W5b.ipynb",
@@ -245,8 +235,8 @@
       "path": "week05/EP_W5b.ipynb",
       "week": 5,
       "source_slide": 4,
-      "sha256": "f028a1efed35ed36a128878a1d68a7438ce0f5b8c30f6cea9600f0bee8c2b805",
-      "size_bytes": 36964,
+      "sha256": "01a4332672c4ad6445084070c4587e0ef90786d9034e553183c6460271ac7d1e",
+      "size_bytes": 37179,
       "original_sha256": "76c3b79de6fc7a6dea6507accda5570f5add0cded051b827e617356b928bfae6",
       "original_size_bytes": 13728,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -260,8 +250,7 @@
         "adjusted_original_cells": 2,
         "section_count": 4
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk5b_Class.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W05b_Class.pptx"
     },
     {
       "original_name": "EP_W6a.ipynb",
@@ -271,8 +260,8 @@
       "path": "week06/EP_W6a.ipynb",
       "week": 6,
       "source_slide": 6,
-      "sha256": "8d33a42bfc1ce2c35a6a56f621191463ee014b397c230d1d0121b1a75a7973a0",
-      "size_bytes": 21003,
+      "sha256": "91c25d2fb1153c0f3f693fe78fc2eed0da7b365d69fef5e90d895b13a8040573",
+      "size_bytes": 21213,
       "original_sha256": "81d4b4d90bb84db05eefef427ea55b5d9fad4e563f030124301edf817f6aa96d",
       "original_size_bytes": 2813,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -286,8 +275,7 @@
         "adjusted_original_cells": 7,
         "section_count": 2
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk6a_MdlPackage.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W06a_MdlPackage.pptx"
     },
     {
       "original_name": "EP_W6b.ipynb",
@@ -297,8 +285,8 @@
       "path": "week06/EP_W6b.ipynb",
       "week": 6,
       "source_slide": 7,
-      "sha256": "48e06a953e3a32042fa929b856d38b1a5f0bc48efb307a2469b71fed4bbb904c",
-      "size_bytes": 30147,
+      "sha256": "5f5d88b5a09a9918b067c24fece2051b0b54ef69239c7c99cd09678877c4e6e5",
+      "size_bytes": 30358,
       "original_sha256": "f364c418cff12bdb0c9e9d32d5211048dc9a148c9918af308d802d2ea87637a2",
       "original_size_bytes": 9141,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -312,8 +300,7 @@
         "adjusted_original_cells": 2,
         "section_count": 2
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk6b_Exception.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W06b_Exception.pptx"
     },
     {
       "original_name": "EP_W9a.ipynb",
@@ -323,8 +310,8 @@
       "path": "week09/EP_W9a.ipynb",
       "week": 9,
       "source_slide": 4,
-      "sha256": "2c1d7336b2d49e0e12f65f1b0617bd1e7b3fc178538c4a5ef42f3e94ff68211b",
-      "size_bytes": 46718,
+      "sha256": "ba18055f414d688e96dd0f2f7864f606c62bbfb93cc68f3c1c7aa4e98bc31439",
+      "size_bytes": 46934,
       "original_sha256": "0e00f21cd454a38eafac4541478552fa984d935aa1a36217776bb6e0a6d0272e",
       "original_size_bytes": 10467,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -338,8 +325,7 @@
         "adjusted_original_cells": 12,
         "section_count": 6
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk9a_Lib1.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W09a_Lib1.pptx"
     },
     {
       "original_name": "EP_W9b_numpy.ipynb",
@@ -349,8 +335,8 @@
       "path": "week09/EP_W9b_numpy.ipynb",
       "week": 9,
       "source_slide": 4,
-      "sha256": "45b68e09bc4417a897079bab1cb41521523ac4f1719ec383a7a5967088ca2dd7",
-      "size_bytes": 109456,
+      "sha256": "fed4bf3f8d7b0f9f10996831ed41c1899bb50a4a57f6de6275d1b496eed89c32",
+      "size_bytes": 109666,
       "original_sha256": "af369ad5aa0f527ecad52b0b078fefbdf78c1315c22347ca9d70533b8b819584",
       "original_size_bytes": 73726,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -364,8 +350,7 @@
         "adjusted_original_cells": 1,
         "section_count": 5
       },
-      "teaching_lecture": "2027_S1_EngProg_Wk9b_Lib2_numpy.pptx",
-      "teaching_term": "2027-1"
+      "teaching_lecture": "CE100_W09b_Lib2_numpy.pptx"
     }
   ],
   "learning_design": {
@@ -421,22 +406,14 @@
   ],
   "source_term": "2026-1",
   "teaching_edition": {
-    "term": "2027-1",
-    "first_class": "2027-03-02",
-    "weekdays": [
-      "Tuesday",
-      "Thursday"
-    ],
-    "calendar": "CALENDAR_2027.md",
-    "slides_stored": "user local 2027 course folder",
-    "source_term": "2026-1",
+    "policy": "rolling",
+    "course_plan": "COURSE_PLAN.md",
+    "calendar": "../CURRENT_OFFERING.md",
+    "slides_location_policy": "local common master",
     "original_slide_numbers_preserved": true,
     "navigation_slides_added_per_deck": 1,
-    "holiday_delivery": {
-      "2027-05-13": "온라인 영상강의",
-      "2027-05-18": "온라인 영상강의"
-    },
     "holiday_policy": "휴일·불가피한 일정은 해당 차시의 온라인 영상강의로 대체",
-    "writing_style": "맥락에 맞는 간결한 한국어; 명사형·간단한 질문 등 활용"
-  }
+    "writing_style": "문제는 완결된 문장, 풀이·해설은 자연스러운 단문"
+  },
+  "edition_policy": "rolling"
 }

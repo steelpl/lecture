@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "code": "CE273",
+  "name": "수치해석및실습",
+  "semester": 1,
+  "weeks": [
+    {
+      "week": 1,
+      "sessions": [
+        {
+          "id": "W01a",
+          "topic": "수치해석 소개 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W01b",
+          "topic": "공학 모형·수치해석 소개 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "sessions": [
+        {
+          "id": "W02a",
+          "topic": "프로그래밍 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W02b",
+          "topic": "프로그래밍 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "sessions": [
+        {
+          "id": "W03a",
+          "topic": "프로그래밍 (3)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W03b",
+          "topic": "프로그래밍 (4)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "sessions": [
+        {
+          "id": "W04a",
+          "topic": "반올림 오차 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W04b",
+          "topic": "반올림 오차 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "sessions": [
+        {
+          "id": "W05a",
+          "topic": "절단오차 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W05b",
+          "topic": "절단오차 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "sessions": [
+        {
+          "id": "W06a",
+          "topic": "수치미분 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W06b",
+          "topic": "수치미분 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "sessions": [
+        {
+          "id": "W07a",
+          "topic": "전반부 복습",
+          "kind": "lesson"
+        },
+        {
+          "id": "W07b",
+          "topic": "중간평가",
+          "kind": "assessment"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "sessions": [
+        {
+          "id": "W08a",
+          "topic": "수치적분 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W08b",
+          "topic": "수치적분 (2)·중간평가 해설",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "sessions": [
+        {
+          "id": "W09a",
+          "topic": "선형 연립방정식 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W09b",
+          "topic": "선형 연립방정식 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "sessions": [
+        {
+          "id": "W10a",
+          "topic": "선형 연립방정식 (3)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W10b",
+          "topic": "선형 연립방정식 (4)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "sessions": [
+        {
+          "id": "W11a",
+          "topic": "방정식의 근 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W11b",
+          "topic": "방정식의 근 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "sessions": [
+        {
+          "id": "W12a",
+          "topic": "방정식의 근 (3)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W12b",
+          "topic": "곡선 적합 (1)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "sessions": [
+        {
+          "id": "W13a",
+          "topic": "곡선 적합 (2)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W13b",
+          "topic": "곡선 적합 (3)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "sessions": [
+        {
+          "id": "W14a",
+          "topic": "상미분방정식 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W14b",
+          "topic": "상미분방정식 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "sessions": [
+        {
+          "id": "W15a",
+          "topic": "종합 복습",
+          "kind": "lesson"
+        },
+        {
+          "id": "W15b",
+          "topic": "기말평가",
+          "kind": "assessment"
+        }
+      ]
+    }
+  ],
+  "material_policy": "rolling",
+  "local_directory": "CE273_수치해석및실습",
+  "legacy_directory": "3.수치해석및실습",
+  "lectures": [
+    {
+      "id": "W01a",
+      "file": "CE273_W01a_Intro1.pptx",
+      "week": 1,
+      "part": "a",
+      "pages": 26,
+      "calendar_slide": 23
+    },
+    {
+      "id": "W01b",
+      "file": "CE273_W01b_Intro2.pptx",
+      "week": 1,
+      "part": "b",
+      "pages": 33,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W02a",
+      "file": "CE273_W02a_Programming1.pptx",
+      "week": 2,
+      "part": "a",
+      "pages": 31,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W02b",
+      "file": "CE273_W02b_Programming2.pptx",
+      "week": 2,
+      "part": "b",
+      "pages": 32,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W03a",
+      "file": "CE273_W03a_Programming3.pptx",
+      "week": 3,
+      "part": "a",
+      "pages": 32,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W03b",
+      "file": "CE273_W03b_Programming4.pptx",
+      "week": 3,
+      "part": "b",
+      "pages": 31,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W04a",
+      "file": "CE273_W04a_Roundoff1.pptx",
+      "week": 4,
+      "part": "a",
+      "pages": 19,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W04b",
+      "file": "CE273_W04b_Roundoff2.pptx",
+      "week": 4,
+      "part": "b",
+      "pages": 33,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W05a",
+      "file": "CE273_W05a_Truncation1.pptx",
+      "week": 5,
+      "part": "a",
+      "pages": 29,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W05b",
+      "file": "CE273_W05b_Truncation2.pptx",
+      "week": 5,
+      "part": "b",
+      "pages": 16,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W06a",
+      "file": "CE273_W06a_Differentiation1.pptx",
+      "week": 6,
+      "part": "a",
+      "pages": 24,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W06b",
+      "file": "CE273_W06b_Differentiation2.pptx",
+      "week": 6,
+      "part": "b",
+      "pages": 24,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W07a",
+      "file": "CE273_W07a_Review.pptx",
+      "week": 7,
+      "part": "a",
+      "pages": 15,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W08a",
+      "file": "CE273_W08a_Integration1.pptx",
+      "week": 8,
+      "part": "a",
+      "pages": 46,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W08b",
+      "file": "CE273_W08b_Integration2.pptx",
+      "week": 8,
+      "part": "b",
+      "pages": 13,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W09a",
+      "file": "CE273_W09a_LinearAlgebra1.pptx",
+      "week": 9,
+      "part": "a",
+      "pages": 31,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W09b",
+      "file": "CE273_W09b_LinearAlgebra2.pptx",
+      "week": 9,
+      "part": "b",
+      "pages": 24,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W10a",
+      "file": "CE273_W10a_LinearAlgebra3.pptx",
+      "week": 10,
+      "part": "a",
+      "pages": 37,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W10b",
+      "file": "CE273_W10b_LinearAlgebra4.pptx",
+      "week": 10,
+      "part": "b",
+      "pages": 31,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W11a",
+      "file": "CE273_W11a_Root1.pptx",
+      "week": 11,
+      "part": "a",
+      "pages": 31,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W11b",
+      "file": "CE273_W11b_Root2.pptx",
+      "week": 11,
+      "part": "b",
+      "pages": 30,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W12a",
+      "file": "CE273_W12a_Root3.pptx",
+      "week": 12,
+      "part": "a",
+      "pages": 21,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W12b",
+      "file": "CE273_W12b_CurveFit1.pptx",
+      "week": 12,
+      "part": "b",
+      "pages": 44,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W13a",
+      "file": "CE273_W13a_CurveFit2.pptx",
+      "week": 13,
+      "part": "a",
+      "pages": 42,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W13b",
+      "file": "CE273_W13b_CurveFit3.pptx",
+      "week": 13,
+      "part": "b",
+      "pages": 32,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W14a",
+      "file": "CE273_W14a_ODE1.pptx",
+      "week": 14,
+      "part": "a",
+      "pages": 31,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W14b",
+      "file": "CE273_W14b_ODE2.pptx",
+      "week": 14,
+      "part": "b",
+      "pages": 25,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W15a",
+      "file": "CE273_W15a_Review.pptx",
+      "week": 15,
+      "part": "a",
+      "pages": 14,
+      "calendar_slide": 2
+    }
+  ]
+}

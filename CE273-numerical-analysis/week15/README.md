@@ -1,16 +1,16 @@
 # 15주 · 종합 검토·방법 선택과 검산
 
-2027-06-08 종합 복습 · 대면 / 2027-06-10 기말평가 예정 · 평가 예정
+학습 주제: 종합 복습 / 기말평가
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week15/CE273_W15.ipynb) · [노트북](CE273_W15.ipynb)
 - [Excel 실습](CE273_W15.xlsx): 선형계·근 찾기·검토 기록 종합
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../CALENDAR_2027.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
+- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
 
 | 셀 | 주제 | 원본 슬라이드 |
 | --- | --- | --- |
 | S01 | 방법 선택과 실패 보고 | Wk15a_Review p4,5,6,7,8,9,10,11,12 |
 
-2027 로컬 슬라이드: `2027_S1_NA_Wk15a_Review.pptx`
+공통 슬라이드: `CE273_W15a_Review.pptx`
 
 기존 페이지 번호 유지, 마지막 페이지에서 실습 링크로 이동
 

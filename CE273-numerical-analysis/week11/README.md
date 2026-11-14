@@ -1,10 +1,10 @@
 # 11주 · 방정식의 근·구간법·개방법
 
-2027-05-11 방정식의 근 (1) · 대면 / 2027-05-13 방정식의 근 (2) · 온라인 영상강의
+학습 주제: 방정식의 근 (1) / 방정식의 근 (2)
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.ipynb) · [노트북](CE273_W11.ipynb)
 - [Excel 실습](CE273_W11.xlsx): 낙하산 c·고정점·Newton·할선법의 반복표
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../CALENDAR_2027.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
+- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
 
 | 셀 | 주제 | 원본 슬라이드 |
 | --- | --- | --- |
@@ -12,7 +12,7 @@
 | S02 | 원본 고정점·Newton의 수렴 | Wk11b_Root2 p9,14,15,16 |
 | S03 | 원본 할선법의 두 초기값 | Wk11b_Root2 p20,21,22,26 |
 
-2027 로컬 슬라이드: `2027_S1_NA_Wk11a_Root1.pptx` / `2027_S1_NA_Wk11b_Root2.pptx`
+공통 슬라이드: `CE273_W11a_Root1.pptx` / `CE273_W11b_Root2.pptx`
 
 기존 페이지 번호 유지, 마지막 페이지에서 실습 링크로 이동
 

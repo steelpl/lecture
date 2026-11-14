@@ -1,7 +1,6 @@
 # 5주차 · 파일 입출력과 클래스
 
-공학프로그래밍입문 · 2027학년도 1학기
-
+공학프로그래밍입문
 ## 실습 자료
 
 | 파일 | 실행 | 원본 |
@@ -18,13 +17,13 @@ Colab에서 열고 본인 Drive에 사본 저장. 기준 슬라이드 번호와 
 - 원본 `data/DataW5.zip`의 `newfile.txt`(Line 1~10)를 준비 셀에서 복원. 기본은 임시 폴더, Drive 자체를 실습할 때는 `USE_GOOGLE_DRIVE=True`로 선택
 - Person·FourCal·상속·Car.num_wheels의 원본 예제 유지. 개인 PC용 Python 설치 셀만 제외
 
-## 확인한 원본 강의록
+## 병행 슬라이드
 
-로컬 PPTX에서 주차와 자료 링크 확인. 강의록 파일 자체는 이 저장소에 복사하지 않음
+공통 슬라이드 파일명과 차시 연결. 실제 원본 출처·해시는 과목의 provenance 폴더와 자료 manifest 참고. 슬라이드 파일은 로컬에서 관리
 
-- `2026_S1_EngProg_Wk5a_InOut.pptx`
-- `2026_S1_EngProg_Wk5b_Class.pptx`
+- `CE100_W05a_InOut.pptx`
+- `CE100_W05b_Class.pptx`
 
-2027 병행본은 위 원본 파일명에서 `2026_`을 `2027_`로 바꾼 PPTX. 기존 슬라이드 번호를 유지하며, 마지막에 실습 연결 안내 1장 추가. [2027 수업 일정](../CALENDAR_2027.md) 함께 확인
+공통 슬라이드의 기존 페이지 번호 유지. 마지막 페이지에서 실습 연결. [학기 운영안내](../../CURRENT_OFFERING.md)
 
 [강의 전체 실습 목록](../README.md)

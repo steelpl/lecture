@@ -1,0 +1,19 @@
+{
+  "term": "2027-1",
+  "first_class": "2027-03-02",
+  "weekdays": [
+    "Tuesday",
+    "Thursday"
+  ],
+  "calendar": "CALENDAR_2027.md",
+  "slides_stored": "user local 2027 course folder",
+  "source_term": "2026-1",
+  "original_slide_numbers_preserved": true,
+  "navigation_slides_added_per_deck": 1,
+  "holiday_delivery": {
+    "2027-05-13": "온라인 영상강의",
+    "2027-05-18": "온라인 영상강의"
+  },
+  "holiday_policy": "휴일·불가피한 일정은 해당 차시의 온라인 영상강의로 대체",
+  "writing_style": "맥락에 맞는 간결한 한국어; 명사형·간단한 질문 등 활용"
+}

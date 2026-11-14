@@ -1,10 +1,10 @@
 # 02주 · 대푯값·산포·정의에 따른 차이
 
-2027-03-09 대푯값 · 대면 / 2027-03-11 산포 · 대면
+학습 주제: 대푯값 / 산포
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week02/CE202_W02.ipynb) · [노트북](CE202_W02.ipynb)
 - [Excel 실습](CE202_W02.xlsx): 도수표 평균·사분위수 규칙·표본/모집단 분산·원본 Excel 대조
-- [학습 방법](../LEARNING_GUIDE.md) · [2027 일정](../CALENDAR_2027.md)
+- [학습 방법](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
 
 | 셀 | 실습 | 원본 슬라이드 |
 | --- | --- | --- |
@@ -13,7 +13,7 @@
 | S03 | 원본 Excel 값 대조 | Wk2b_Dispersion p38,39 |
 | S04 | 왜도·첨도와 보정 | Wk2b_Dispersion p30,32,33,35,36,37 |
 
-2027 슬라이드: 같은 주차·차시의 `2027_S1_Statistics_*.pptx` 사용. 기존 페이지 번호 유지, 마지막 페이지의 실습 링크로 이동
+공통 슬라이드: 같은 주차·차시의 `CE202_W*.pptx` 사용. 기존 페이지 번호 유지, 마지막 페이지의 실습 링크로 이동
 
 진행: 예측 → 손계산 → 실행 → 조건 변경 → 원리·변경 결과 설명 → 가정·결과·한계 검토
 

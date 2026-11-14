@@ -1,16 +1,16 @@
 # 07주 · 전반부 복습·수치 결과 검토
 
-2027-04-13 전반부 복습 · 대면 / 2027-04-15 중간평가 예정 · 평가 예정
+학습 주제: 전반부 복습 / 중간평가
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week07/CE273_W07.ipynb) · [노트북](CE273_W07.ipynb)
 - [Excel 실습](CE273_W07.xlsx): exp 근사·미분·검토 기준 복습
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../CALENDAR_2027.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
+- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
 
 | 셀 | 주제 | 원본 슬라이드 |
 | --- | --- | --- |
 | S01 | 같은 원본으로 오류 찾기 | Wk7a_Review p4,5,6,7,8,9,10,11,12,13 |
 
-2027 로컬 슬라이드: `2027_S1_NA_Wk7a_Review.pptx`
+공통 슬라이드: `CE273_W07a_Review.pptx`
 
 기존 페이지 번호 유지, 마지막 페이지에서 실습 링크로 이동
 

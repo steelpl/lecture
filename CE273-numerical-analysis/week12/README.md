@@ -1,17 +1,17 @@
 # 12주 · 가위치법의 정체·선형 회귀
 
-2027-05-18 방정식의 근 (3) · 온라인 영상강의 / 2027-05-20 곡선 적합 (1) · 대면
+학습 주제: 방정식의 근 (3) / 곡선 적합 (1)
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week12/CE273_W12.ipynb) · [노트북](CE273_W12.ipynb)
 - [Excel 실습](CE273_W12.xlsx): 원본 가위치법 비교·선형/로그 회귀
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../CALENDAR_2027.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
+- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
 
 | 셀 | 주제 | 원본 슬라이드 |
 | --- | --- | --- |
 | S01 | 기존 Colab의 x^10−1과 수정 가위치법 | Wk11a_Root1 p29 / Wk12a_Root3 p3,4,5,6,7,8,9,10 |
 | S02 | 원본 8쌍의 선형 회귀와 로그 변환 | Wk12b_CurveFit1  p29,30,31,41 |
 
-2027 로컬 슬라이드: `2027_S1_NA_Wk12a_Root3.pptx` / `2027_S1_NA_Wk12b_CurveFit1.pptx`
+공통 슬라이드: `CE273_W12a_Root3.pptx` / `CE273_W12b_CurveFit1.pptx`
 
 기존 페이지 번호 유지, 마지막 페이지에서 실습 링크로 이동
 

@@ -1,17 +1,17 @@
 # 10주 · 추정량·모평균 신뢰구간
 
-2027-05-04 추정 (1) · 대면 / 2027-05-06 추정 (2) · 대면
+학습 주제: 추정 (1) / 추정 (2)
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week10/CE202_W10.ipynb) · [노트북](CE202_W10.ipynb)
 - [Excel 실습](CE202_W10.xlsx): MOM/MLE·표준오차·t 신뢰구간
-- [학습 방법](../LEARNING_GUIDE.md) · [2027 일정](../CALENDAR_2027.md)
+- [학습 방법](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
 
 | 셀 | 실습 | 원본 슬라이드 |
 | --- | --- | --- |
 | S01 | 원본 균등분포 MOM과 MLE | Wk10a_Inference1 p27,31,42 |
 | S02 | 원본 함유량 6회의 t 신뢰구간 | Wk10b_Inference2 p9,20,23,29,30 |
 
-2027 슬라이드: 같은 주차·차시의 `2027_S1_Statistics_*.pptx` 사용. 기존 페이지 번호 유지, 마지막 페이지의 실습 링크로 이동
+공통 슬라이드: 같은 주차·차시의 `CE202_W*.pptx` 사용. 기존 페이지 번호 유지, 마지막 페이지의 실습 링크로 이동
 
 진행: 예측 → 손계산 → 실행 → 조건 변경 → 원리·변경 결과 설명 → 가정·결과·한계 검토
 

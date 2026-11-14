@@ -1,0 +1,382 @@
+{
+  "code": "CE202",
+  "name": "공학통계학",
+  "term": "2027-1",
+  "weeks": [
+    {
+      "week": 1,
+      "sessions": [
+        {
+          "id": "W01a",
+          "topic": "교과목 소개",
+          "kind": "lesson",
+          "date": "2027-03-02",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W01b",
+          "topic": "자료 정리",
+          "kind": "lesson",
+          "date": "2027-03-04",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "sessions": [
+        {
+          "id": "W02a",
+          "topic": "대푯값",
+          "kind": "lesson",
+          "date": "2027-03-09",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W02b",
+          "topic": "산포",
+          "kind": "lesson",
+          "date": "2027-03-11",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "sessions": [
+        {
+          "id": "W03a",
+          "topic": "확률의 기초",
+          "kind": "lesson",
+          "date": "2027-03-16",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W03b",
+          "topic": "조건부확률",
+          "kind": "lesson",
+          "date": "2027-03-18",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "sessions": [
+        {
+          "id": "W04a",
+          "topic": "확률변수",
+          "kind": "lesson",
+          "date": "2027-03-23",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W04b",
+          "topic": "기댓값",
+          "kind": "lesson",
+          "date": "2027-03-25",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "sessions": [
+        {
+          "id": "W05a",
+          "topic": "결합확률분포",
+          "kind": "lesson",
+          "date": "2027-03-30",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W05b",
+          "topic": "공분산",
+          "kind": "lesson",
+          "date": "2027-04-01",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "sessions": [
+        {
+          "id": "W06a",
+          "topic": "이산확률분포 (1)",
+          "kind": "lesson",
+          "date": "2027-04-06",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W06b",
+          "topic": "이산확률분포 (2)",
+          "kind": "lesson",
+          "date": "2027-04-08",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "sessions": [
+        {
+          "id": "W07a",
+          "topic": "전반부 복습",
+          "kind": "lesson",
+          "date": "2027-04-13",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W07b",
+          "topic": "중간평가",
+          "kind": "assessment",
+          "date": "2027-04-15",
+          "weekday": "목",
+          "mode": "평가 예정",
+          "reason": "",
+          "status": "예정"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "sessions": [
+        {
+          "id": "W08a",
+          "topic": "연속확률분포 (1)",
+          "kind": "lesson",
+          "date": "2027-04-20",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W08b",
+          "topic": "연속확률분포 (2)",
+          "kind": "lesson",
+          "date": "2027-04-22",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "sessions": [
+        {
+          "id": "W09a",
+          "topic": "표본분포 (1)",
+          "kind": "lesson",
+          "date": "2027-04-27",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W09b",
+          "topic": "표본분포 (2)",
+          "kind": "lesson",
+          "date": "2027-04-29",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "sessions": [
+        {
+          "id": "W10a",
+          "topic": "추정 (1)",
+          "kind": "lesson",
+          "date": "2027-05-04",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W10b",
+          "topic": "추정 (2)",
+          "kind": "lesson",
+          "date": "2027-05-06",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "sessions": [
+        {
+          "id": "W11a",
+          "topic": "추정 (3)",
+          "kind": "lesson",
+          "date": "2027-05-11",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W11b",
+          "topic": "추정 (4)",
+          "kind": "lesson",
+          "date": "2027-05-13",
+          "weekday": "목",
+          "mode": "온라인 영상강의",
+          "reason": "부처님오신날",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "sessions": [
+        {
+          "id": "W12a",
+          "topic": "가설검정 (1)",
+          "kind": "lesson",
+          "date": "2027-05-18",
+          "weekday": "화",
+          "mode": "온라인 영상강의",
+          "reason": "개교기념일",
+          "status": ""
+        },
+        {
+          "id": "W12b",
+          "topic": "가설검정 (2)",
+          "kind": "lesson",
+          "date": "2027-05-20",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "sessions": [
+        {
+          "id": "W13a",
+          "topic": "가설검정 (3)",
+          "kind": "lesson",
+          "date": "2027-05-25",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W13b",
+          "topic": "분산분석",
+          "kind": "lesson",
+          "date": "2027-05-27",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "sessions": [
+        {
+          "id": "W14a",
+          "topic": "범주형 자료분석",
+          "kind": "lesson",
+          "date": "2027-06-01",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W14b",
+          "topic": "회귀 분석",
+          "kind": "lesson",
+          "date": "2027-06-03",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "sessions": [
+        {
+          "id": "W15a",
+          "topic": "종합 복습",
+          "kind": "lesson",
+          "date": "2027-06-08",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W15b",
+          "topic": "기말평가",
+          "kind": "assessment",
+          "date": "2027-06-10",
+          "weekday": "목",
+          "mode": "평가 예정",
+          "reason": "",
+          "status": "예정"
+        }
+      ]
+    }
+  ]
+}

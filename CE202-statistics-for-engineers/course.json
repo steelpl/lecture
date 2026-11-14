@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "code": "CE202",
+  "name": "공학통계학",
+  "semester": 1,
+  "weeks": [
+    {
+      "week": 1,
+      "sessions": [
+        {
+          "id": "W01a",
+          "topic": "교과목 소개",
+          "kind": "lesson"
+        },
+        {
+          "id": "W01b",
+          "topic": "자료 정리",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "sessions": [
+        {
+          "id": "W02a",
+          "topic": "대푯값",
+          "kind": "lesson"
+        },
+        {
+          "id": "W02b",
+          "topic": "산포",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "sessions": [
+        {
+          "id": "W03a",
+          "topic": "확률의 기초",
+          "kind": "lesson"
+        },
+        {
+          "id": "W03b",
+          "topic": "조건부확률",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "sessions": [
+        {
+          "id": "W04a",
+          "topic": "확률변수",
+          "kind": "lesson"
+        },
+        {
+          "id": "W04b",
+          "topic": "기댓값",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "sessions": [
+        {
+          "id": "W05a",
+          "topic": "결합확률분포",
+          "kind": "lesson"
+        },
+        {
+          "id": "W05b",
+          "topic": "공분산",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "sessions": [
+        {
+          "id": "W06a",
+          "topic": "이산확률분포 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W06b",
+          "topic": "이산확률분포 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "sessions": [
+        {
+          "id": "W07a",
+          "topic": "전반부 복습",
+          "kind": "lesson"
+        },
+        {
+          "id": "W07b",
+          "topic": "중간평가",
+          "kind": "assessment"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "sessions": [
+        {
+          "id": "W08a",
+          "topic": "연속확률분포 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W08b",
+          "topic": "연속확률분포 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "sessions": [
+        {
+          "id": "W09a",
+          "topic": "표본분포 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W09b",
+          "topic": "표본분포 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "sessions": [
+        {
+          "id": "W10a",
+          "topic": "추정 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W10b",
+          "topic": "추정 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "sessions": [
+        {
+          "id": "W11a",
+          "topic": "추정 (3)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W11b",
+          "topic": "추정 (4)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "sessions": [
+        {
+          "id": "W12a",
+          "topic": "가설검정 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W12b",
+          "topic": "가설검정 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "sessions": [
+        {
+          "id": "W13a",
+          "topic": "가설검정 (3)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W13b",
+          "topic": "분산분석",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "sessions": [
+        {
+          "id": "W14a",
+          "topic": "범주형 자료분석",
+          "kind": "lesson"
+        },
+        {
+          "id": "W14b",
+          "topic": "회귀 분석",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "sessions": [
+        {
+          "id": "W15a",
+          "topic": "종합 복습",
+          "kind": "lesson"
+        },
+        {
+          "id": "W15b",
+          "topic": "기말평가",
+          "kind": "assessment"
+        }
+      ]
+    }
+  ],
+  "material_policy": "rolling",
+  "local_directory": "CE202_공학통계학",
+  "legacy_directory": "2.공학통계학",
+  "lectures": [
+    {
+      "id": "W01a",
+      "file": "CE202_W01a_Intro.pptx",
+      "week": 1,
+      "part": "a",
+      "pages": 29,
+      "calendar_slide": 17
+    },
+    {
+      "id": "W01b",
+      "file": "CE202_W01b_Data.pptx",
+      "week": 1,
+      "part": "b",
+      "pages": 37,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W02a",
+      "file": "CE202_W02a_Central.pptx",
+      "week": 2,
+      "part": "a",
+      "pages": 31,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W02b",
+      "file": "CE202_W02b_Dispersion.pptx",
+      "week": 2,
+      "part": "b",
+      "pages": 41,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W03a",
+      "file": "CE202_W03a_ProbBasic.pptx",
+      "week": 3,
+      "part": "a",
+      "pages": 47,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W03b",
+      "file": "CE202_W03b_CondProb.pptx",
+      "week": 3,
+      "part": "b",
+      "pages": 41,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W04a",
+      "file": "CE202_W04a_RandVar.pptx",
+      "week": 4,
+      "part": "a",
+      "pages": 47,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W04b",
+      "file": "CE202_W04b_Expectation.pptx",
+      "week": 4,
+      "part": "b",
+      "pages": 40,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W05a",
+      "file": "CE202_W05a_JntProb.pptx",
+      "week": 5,
+      "part": "a",
+      "pages": 32,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W05b",
+      "file": "CE202_W05b_CoVar.pptx",
+      "week": 5,
+      "part": "b",
+      "pages": 38,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W06a",
+      "file": "CE202_W06a_Dist1.pptx",
+      "week": 6,
+      "part": "a",
+      "pages": 48,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W06b",
+      "file": "CE202_W06b_Dist2.pptx",
+      "week": 6,
+      "part": "b",
+      "pages": 46,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W07a",
+      "file": "CE202_W07a_Review.pptx",
+      "week": 7,
+      "part": "a",
+      "pages": 36,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W08a",
+      "file": "CE202_W08a_Dist3.pptx",
+      "week": 8,
+      "part": "a",
+      "pages": 33,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W08b",
+      "file": "CE202_W08b_Dist4.pptx",
+      "week": 8,
+      "part": "b",
+      "pages": 37,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W09a",
+      "file": "CE202_W09a_SampleDist1.pptx",
+      "week": 9,
+      "part": "a",
+      "pages": 30,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W09b",
+      "file": "CE202_W09b_SampleDist2.pptx",
+      "week": 9,
+      "part": "b",
+      "pages": 30,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W10a",
+      "file": "CE202_W10a_Inference1.pptx",
+      "week": 10,
+      "part": "a",
+      "pages": 45,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W10b",
+      "file": "CE202_W10b_Inference2.pptx",
+      "week": 10,
+      "part": "b",
+      "pages": 32,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W11a",
+      "file": "CE202_W11a_Inference3.pptx",
+      "week": 11,
+      "part": "a",
+      "pages": 45,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W11b",
+      "file": "CE202_W11b_Inference4.pptx",
+      "week": 11,
+      "part": "b",
+      "pages": 40,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W12a",
+      "file": "CE202_W12a_test1.pptx",
+      "week": 12,
+      "part": "a",
+      "pages": 43,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W12b",
+      "file": "CE202_W12b_test2.pptx",
+      "week": 12,
+      "part": "b",
+      "pages": 31,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W13a",
+      "file": "CE202_W13a_test3.pptx",
+      "week": 13,
+      "part": "a",
+      "pages": 36,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W13b",
+      "file": "CE202_W13b_ANOVA.pptx",
+      "week": 13,
+      "part": "b",
+      "pages": 35,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W14a",
+      "file": "CE202_W14a_ChiSqr.pptx",
+      "week": 14,
+      "part": "a",
+      "pages": 43,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W14b",
+      "file": "CE202_W14b_Regression.pptx",
+      "week": 14,
+      "part": "b",
+      "pages": 37,
+      "calendar_slide": 2
+    },
+    {
+      "id": "W15a",
+      "file": "CE202_W15a_Review.pptx",
+      "week": 15,
+      "part": "a",
+      "pages": 36,
+      "calendar_slide": 2
+    }
+  ]
+}

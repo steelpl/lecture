@@ -1,0 +1,8 @@
+# 출처·개편 이력
+
+수업용 공통본은 연도와 무관하게 사용. 원본 출처·해시·검수 시점은 이력으로 보존, 학기 변경 시 재작성 불필요
+
+- [SLIDE_UPDATES_2027.md](SLIDE_UPDATES_2027.md)
+- [VALIDATION_2027.md](VALIDATION_2027.md)
+
+[학기 운영안내](../../CURRENT_OFFERING.md) · [공통 학습 계획](../COURSE_PLAN.md)

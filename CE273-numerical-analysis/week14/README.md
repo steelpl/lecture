@@ -1,17 +1,17 @@
 # 14주 · 초기값 문제·Euler·RK2·RK4
 
-2027-06-01 상미분방정식 (1) · 대면 / 2027-06-03 상미분방정식 (2) · 대면
+학습 주제: 상미분방정식 (1) / 상미분방정식 (2)
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.ipynb) · [노트북](CE273_W14.ipynb)
 - [Excel 실습](CE273_W14.xlsx): Euler·원본 RK2 3방법·RK4·해석해 비교
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../CALENDAR_2027.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
+- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md) · [자료 대조 기록](../DATA_RECONCILIATION.md)
 
 | 셀 | 주제 | 원본 슬라이드 |
 | --- | --- | --- |
 | S01 | 원본 다항식 ODE와 오차 | Wk14a_ODE1 p12,13,17,19 / Wk14b_ODE2 p10,11,12,13,14,15,16,22 |
 | S02 | y 의존식의 Heun과 RK4 검산 | Wk14a_ODE1 p24,25,26,27 |
 
-2027 로컬 슬라이드: `2027_S1_NA_Wk14a_ODE1.pptx` / `2027_S1_NA_Wk14b_ODE2.pptx`
+공통 슬라이드: `CE273_W14a_ODE1.pptx` / `CE273_W14b_ODE2.pptx`
 
 기존 페이지 번호 유지, 마지막 페이지에서 실습 링크로 이동
 

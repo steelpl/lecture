@@ -1,0 +1,382 @@
+{
+  "code": "CE273",
+  "name": "수치해석및실습",
+  "term": "2027-1",
+  "weeks": [
+    {
+      "week": 1,
+      "sessions": [
+        {
+          "id": "W01a",
+          "topic": "수치해석 소개 (1)",
+          "kind": "lesson",
+          "date": "2027-03-02",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W01b",
+          "topic": "공학 모형·수치해석 소개 (2)",
+          "kind": "lesson",
+          "date": "2027-03-04",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "sessions": [
+        {
+          "id": "W02a",
+          "topic": "프로그래밍 (1)",
+          "kind": "lesson",
+          "date": "2027-03-09",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W02b",
+          "topic": "프로그래밍 (2)",
+          "kind": "lesson",
+          "date": "2027-03-11",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "sessions": [
+        {
+          "id": "W03a",
+          "topic": "프로그래밍 (3)",
+          "kind": "lesson",
+          "date": "2027-03-16",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W03b",
+          "topic": "프로그래밍 (4)",
+          "kind": "lesson",
+          "date": "2027-03-18",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "sessions": [
+        {
+          "id": "W04a",
+          "topic": "반올림 오차 (1)",
+          "kind": "lesson",
+          "date": "2027-03-23",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W04b",
+          "topic": "반올림 오차 (2)",
+          "kind": "lesson",
+          "date": "2027-03-25",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "sessions": [
+        {
+          "id": "W05a",
+          "topic": "절단오차 (1)",
+          "kind": "lesson",
+          "date": "2027-03-30",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W05b",
+          "topic": "절단오차 (2)",
+          "kind": "lesson",
+          "date": "2027-04-01",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "sessions": [
+        {
+          "id": "W06a",
+          "topic": "수치미분 (1)",
+          "kind": "lesson",
+          "date": "2027-04-06",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W06b",
+          "topic": "수치미분 (2)",
+          "kind": "lesson",
+          "date": "2027-04-08",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "sessions": [
+        {
+          "id": "W07a",
+          "topic": "전반부 복습",
+          "kind": "lesson",
+          "date": "2027-04-13",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W07b",
+          "topic": "중간평가",
+          "kind": "assessment",
+          "date": "2027-04-15",
+          "weekday": "목",
+          "mode": "평가 예정",
+          "reason": "",
+          "status": "예정"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "sessions": [
+        {
+          "id": "W08a",
+          "topic": "수치적분 (1)",
+          "kind": "lesson",
+          "date": "2027-04-20",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W08b",
+          "topic": "수치적분 (2)·중간평가 해설",
+          "kind": "lesson",
+          "date": "2027-04-22",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "sessions": [
+        {
+          "id": "W09a",
+          "topic": "선형 연립방정식 (1)",
+          "kind": "lesson",
+          "date": "2027-04-27",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W09b",
+          "topic": "선형 연립방정식 (2)",
+          "kind": "lesson",
+          "date": "2027-04-29",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "sessions": [
+        {
+          "id": "W10a",
+          "topic": "선형 연립방정식 (3)",
+          "kind": "lesson",
+          "date": "2027-05-04",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W10b",
+          "topic": "선형 연립방정식 (4)",
+          "kind": "lesson",
+          "date": "2027-05-06",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "sessions": [
+        {
+          "id": "W11a",
+          "topic": "방정식의 근 (1)",
+          "kind": "lesson",
+          "date": "2027-05-11",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W11b",
+          "topic": "방정식의 근 (2)",
+          "kind": "lesson",
+          "date": "2027-05-13",
+          "weekday": "목",
+          "mode": "온라인 영상강의",
+          "reason": "부처님오신날",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "sessions": [
+        {
+          "id": "W12a",
+          "topic": "방정식의 근 (3)",
+          "kind": "lesson",
+          "date": "2027-05-18",
+          "weekday": "화",
+          "mode": "온라인 영상강의",
+          "reason": "개교기념일",
+          "status": ""
+        },
+        {
+          "id": "W12b",
+          "topic": "곡선 적합 (1)",
+          "kind": "lesson",
+          "date": "2027-05-20",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "sessions": [
+        {
+          "id": "W13a",
+          "topic": "곡선 적합 (2)",
+          "kind": "lesson",
+          "date": "2027-05-25",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W13b",
+          "topic": "곡선 적합 (3)",
+          "kind": "lesson",
+          "date": "2027-05-27",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "sessions": [
+        {
+          "id": "W14a",
+          "topic": "상미분방정식 (1)",
+          "kind": "lesson",
+          "date": "2027-06-01",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W14b",
+          "topic": "상미분방정식 (2)",
+          "kind": "lesson",
+          "date": "2027-06-03",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "sessions": [
+        {
+          "id": "W15a",
+          "topic": "종합 복습",
+          "kind": "lesson",
+          "date": "2027-06-08",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W15b",
+          "topic": "기말평가",
+          "kind": "assessment",
+          "date": "2027-06-10",
+          "weekday": "목",
+          "mode": "평가 예정",
+          "reason": "",
+          "status": "예정"
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 # 13주 · 모비율 검정·원본 ANOVA 자료 대조
 
-2027-05-25 가설검정 (3) · 대면 / 2027-05-27 분산분석 · 대면
+학습 주제: 가설검정 (3) / 분산분석
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week13/CE202_W13.ipynb) · [노트북](CE202_W13.ipynb)
 - [Excel 실습](CE202_W13.xlsx): 이항 검정·ANOVA 제곱합·F·p·원본 대조
-- [학습 방법](../LEARNING_GUIDE.md) · [2027 일정](../CALENDAR_2027.md)
+- [학습 방법](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
 
 | 셀 | 실습 | 원본 슬라이드 |
 | --- | --- | --- |
 | S01 | 원본 배터리 500개 중 5개 불량 | Wk13a_test3 p5,7,10,11,12 |
 | S02 | 슬라이드·jamovi와 일치하는 기계 6대 | Wk13b_ANOVA p18,19,20,21,22,23,24,26,28,30,33 |
 
-2027 슬라이드: 같은 주차·차시의 `2027_S1_Statistics_*.pptx` 사용. 기존 페이지 번호 유지, 마지막 페이지의 실습 링크로 이동
+공통 슬라이드: 같은 주차·차시의 `CE202_W*.pptx` 사용. 기존 페이지 번호 유지, 마지막 페이지의 실습 링크로 이동
 
 진행: 예측 → 손계산 → 실행 → 조건 변경 → 원리·변경 결과 설명 → 가정·결과·한계 검토
 

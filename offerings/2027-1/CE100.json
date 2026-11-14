@@ -1,0 +1,382 @@
+{
+  "code": "CE100",
+  "name": "공학프로그래밍입문",
+  "term": "2027-1",
+  "weeks": [
+    {
+      "week": 1,
+      "sessions": [
+        {
+          "id": "W01a",
+          "topic": "과목 소개",
+          "kind": "lesson",
+          "date": "2027-03-02",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W01b",
+          "topic": "빅데이터와 인공지능",
+          "kind": "lesson",
+          "date": "2027-03-04",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "sessions": [
+        {
+          "id": "W02a",
+          "topic": "Python 시작",
+          "kind": "lesson",
+          "date": "2027-03-09",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W02b",
+          "topic": "Colab·노트북",
+          "kind": "lesson",
+          "date": "2027-03-11",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "sessions": [
+        {
+          "id": "W03a",
+          "topic": "자료형 (1)",
+          "kind": "lesson",
+          "date": "2027-03-16",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W03b",
+          "topic": "자료형 (2)",
+          "kind": "lesson",
+          "date": "2027-03-18",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "sessions": [
+        {
+          "id": "W04a",
+          "topic": "퀴즈 #1·제어문",
+          "kind": "lesson",
+          "date": "2027-03-23",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W04b",
+          "topic": "함수",
+          "kind": "lesson",
+          "date": "2027-03-25",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "sessions": [
+        {
+          "id": "W05a",
+          "topic": "입출력·파일 읽기",
+          "kind": "lesson",
+          "date": "2027-03-30",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W05b",
+          "topic": "클래스",
+          "kind": "lesson",
+          "date": "2027-04-01",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "sessions": [
+        {
+          "id": "W06a",
+          "topic": "모듈·패키지",
+          "kind": "lesson",
+          "date": "2027-04-06",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W06b",
+          "topic": "예외 다루기",
+          "kind": "lesson",
+          "date": "2027-04-08",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "sessions": [
+        {
+          "id": "W07a",
+          "topic": "퀴즈 #2·전반부 복습",
+          "kind": "lesson",
+          "date": "2027-04-13",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W07b",
+          "topic": "중간평가",
+          "kind": "assessment",
+          "date": "2027-04-15",
+          "weekday": "목",
+          "mode": "평가 예정",
+          "reason": "",
+          "status": "예정"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "sessions": [
+        {
+          "id": "W08a",
+          "topic": "내장함수 (1)·중간평가 풀이",
+          "kind": "lesson",
+          "date": "2027-04-20",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W08b",
+          "topic": "내장함수 (2)",
+          "kind": "lesson",
+          "date": "2027-04-22",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "sessions": [
+        {
+          "id": "W09a",
+          "topic": "라이브러리 (1)",
+          "kind": "lesson",
+          "date": "2027-04-27",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W09b",
+          "topic": "라이브러리 (2)",
+          "kind": "lesson",
+          "date": "2027-04-29",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "sessions": [
+        {
+          "id": "W10a",
+          "topic": "라이브러리 (3)",
+          "kind": "lesson",
+          "date": "2027-05-04",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W10b",
+          "topic": "라이브러리 (4)",
+          "kind": "lesson",
+          "date": "2027-05-06",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "sessions": [
+        {
+          "id": "W11a",
+          "topic": "퀴즈 #3·프로그래밍 연습 (1)",
+          "kind": "lesson",
+          "date": "2027-05-11",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W11b",
+          "topic": "프로그래밍 연습 (2)",
+          "kind": "lesson",
+          "date": "2027-05-13",
+          "weekday": "목",
+          "mode": "온라인 영상강의",
+          "reason": "부처님오신날",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "sessions": [
+        {
+          "id": "W12a",
+          "topic": "프로그래밍 연습 (3)",
+          "kind": "lesson",
+          "date": "2027-05-18",
+          "weekday": "화",
+          "mode": "온라인 영상강의",
+          "reason": "개교기념일",
+          "status": ""
+        },
+        {
+          "id": "W12b",
+          "topic": "프로그래밍 연습 (4)",
+          "kind": "lesson",
+          "date": "2027-05-20",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "sessions": [
+        {
+          "id": "W13a",
+          "topic": "프로그래밍 연습 (5)",
+          "kind": "lesson",
+          "date": "2027-05-25",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W13b",
+          "topic": "정규표현식 (1)",
+          "kind": "lesson",
+          "date": "2027-05-27",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "sessions": [
+        {
+          "id": "W14a",
+          "topic": "정규표현식 (2)",
+          "kind": "lesson",
+          "date": "2027-06-01",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W14b",
+          "topic": "정규표현식 (3)",
+          "kind": "lesson",
+          "date": "2027-06-03",
+          "weekday": "목",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "sessions": [
+        {
+          "id": "W15a",
+          "topic": "퀴즈 #4·종합 복습",
+          "kind": "lesson",
+          "date": "2027-06-08",
+          "weekday": "화",
+          "mode": "대면",
+          "reason": "",
+          "status": ""
+        },
+        {
+          "id": "W15b",
+          "topic": "기말평가",
+          "kind": "assessment",
+          "date": "2027-06-10",
+          "weekday": "목",
+          "mode": "평가 예정",
+          "reason": "",
+          "status": "예정"
+        }
+      ]
+    }
+  ]
+}
