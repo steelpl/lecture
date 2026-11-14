@@ -1,0 +1,201 @@
+{
+  "course": "CE100",
+  "term": "2026-1",
+  "source_directory": "1.강의록",
+  "notebooks": [
+    {
+      "original_name": "EP_W10a_panda.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk10a_Lib3_pandas.pptx",
+      "source_link": "https://colab.research.google.com/drive/1GIaB8D7T-SMSkS0NuWMc3nTLcg2ZmxXZ?usp=sharing",
+      "drive_file_id": "1GIaB8D7T-SMSkS0NuWMc3nTLcg2ZmxXZ",
+      "path": "week10/EP_W10a_panda.ipynb",
+      "week": 10,
+      "source_slide": 4,
+      "sha256": "7ac40e8c556e3619e662d189d14bb8b24a018f96eeea3658c8d74d46c458f32d",
+      "size_bytes": 14429
+    },
+    {
+      "original_name": "EP_W10b_matplotlib.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk10b_Lib3_matplotlib.pptx",
+      "source_link": "https://colab.research.google.com/drive/1u_iy0awauPl44W8uZoF-1LcJDec5t2t5?usp=sharing",
+      "drive_file_id": "1u_iy0awauPl44W8uZoF-1LcJDec5t2t5",
+      "path": "week10/EP_W10b_matplotlib.ipynb",
+      "week": 10,
+      "source_slide": 4,
+      "sha256": "663f78469300ce0eab0859173e674926433f1f74d603b85330cfe210f999c440",
+      "size_bytes": 13516
+    },
+    {
+      "original_name": "EP_W12b_pb.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk12b_ProgPrtc4.pptx",
+      "source_link": "https://colab.research.google.com/drive/1x-sJmp-3FQgysGmZkekr3x7AYzjDODmY?usp=sharing",
+      "drive_file_id": "1x-sJmp-3FQgysGmZkekr3x7AYzjDODmY",
+      "path": "week12/EP_W12b_pb.ipynb",
+      "week": 12,
+      "source_slide": 8,
+      "sha256": "63b1633211581a3ad31ce53ebfdba90235d309ea165c6ede83682eb7a4ebfcfb",
+      "size_bytes": 10032
+    },
+    {
+      "original_name": "EngProg_RegExp.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk13b_RegExp1.pptx",
+      "source_link": "https://colab.research.google.com/drive/1RGAEz2o3LvJZFcUpWWJoZbYG-q7VywQJ?usp=sharing",
+      "drive_file_id": "1RGAEz2o3LvJZFcUpWWJoZbYG-q7VywQJ",
+      "path": "week13/EngProg_RegExp.ipynb",
+      "week": 13,
+      "source_slide": 5,
+      "sha256": "d2a8d308b74db130f21bd7a1bb9aa0b933e4365c8b3436170521990f4fd7402c",
+      "size_bytes": 1437
+    },
+    {
+      "original_name": "EP_W14a.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk14a_RegExp2.pptx",
+      "source_link": "https://drive.google.com/file/d/1UPx8kfHdd_nd34RnNyMfrJt-09NzhsgG/view?usp=sharing",
+      "drive_file_id": "1UPx8kfHdd_nd34RnNyMfrJt-09NzhsgG",
+      "path": "week14/EP_W14a.ipynb",
+      "week": 14,
+      "source_slide": 16,
+      "sha256": "5b23ca80f1d99b76c8afff1e0e554986cd88fd7bb0172c638ba382ca882a87dd",
+      "size_bytes": 4991
+    },
+    {
+      "original_name": "EP_W14b.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk14b_RegExp3.pptx",
+      "source_link": "https://drive.google.com/file/d/1M5CjjLPpJqrQH4ahBtLc_dVz9LHWgigT/view?usp=sharing",
+      "drive_file_id": "1M5CjjLPpJqrQH4ahBtLc_dVz9LHWgigT",
+      "path": "week14/EP_W14b.ipynb",
+      "week": 14,
+      "source_slide": 7,
+      "sha256": "d7771a9fb6cf7d329b223efee9403b6a52e3b8ea4c85cc0c8d971ad6fa0e8dd3",
+      "size_bytes": 9329
+    },
+    {
+      "original_name": "EP_W3b.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk3b_DataType2.pptx",
+      "source_link": "https://drive.google.com/file/d/1KRePM7EkbQNWM9x1-c80v49n6kfRs4Uv/view?usp=sharing",
+      "drive_file_id": "1KRePM7EkbQNWM9x1-c80v49n6kfRs4Uv",
+      "path": "week03/EP_W3b.ipynb",
+      "week": 3,
+      "source_slide": 6,
+      "sha256": "de65e5e1bf6fc6a87505f49c9f6158cc3f98fe22590640f2edf3c93e72bf0478",
+      "size_bytes": 8097
+    },
+    {
+      "original_name": "EP_W4b.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk4b_Function.pptx",
+      "source_link": "https://drive.google.com/file/d/1BDq5DkbxmCU7E-FwzOdtSbw2nRqGwmka/view?usp=sharing",
+      "drive_file_id": "1BDq5DkbxmCU7E-FwzOdtSbw2nRqGwmka",
+      "path": "week04/EP_W4b.ipynb",
+      "week": 4,
+      "source_slide": 10,
+      "sha256": "c99333dfd18196dffe76a574516777d118b4a5efa3e630984aeb4b233eb1e328",
+      "size_bytes": 9786
+    },
+    {
+      "original_name": "EP_W5a.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk5a_InOut.pptx",
+      "source_link": "https://drive.google.com/file/d/1ahVbT-yvLP4HCDFZYoInrGYLlZWBCO8g/view?usp=sharing",
+      "drive_file_id": "1ahVbT-yvLP4HCDFZYoInrGYLlZWBCO8g",
+      "path": "week05/EP_W5a.ipynb",
+      "week": 5,
+      "source_slide": 7,
+      "sha256": "7f950f540d49828a87d71f5bee72de2e8e085f2cf5f831322f003b7f7eee6e77",
+      "size_bytes": 9174
+    },
+    {
+      "original_name": "EP_W5b.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk5b_Class.pptx",
+      "source_link": "https://drive.google.com/file/d/1q61iCnsAzbxPeObtsBeCg4m8Jpj9tHvV/view?usp=sharing",
+      "drive_file_id": "1q61iCnsAzbxPeObtsBeCg4m8Jpj9tHvV",
+      "path": "week05/EP_W5b.ipynb",
+      "week": 5,
+      "source_slide": 4,
+      "sha256": "76c3b79de6fc7a6dea6507accda5570f5add0cded051b827e617356b928bfae6",
+      "size_bytes": 13728
+    },
+    {
+      "original_name": "EP_W6a.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk6a_MdlPackage.pptx",
+      "source_link": "https://drive.google.com/file/d/19wYEIsfqiWFRsl5D91IgJlTsPZV1nwmh/view?usp=sharing",
+      "drive_file_id": "19wYEIsfqiWFRsl5D91IgJlTsPZV1nwmh",
+      "path": "week06/EP_W6a.ipynb",
+      "week": 6,
+      "source_slide": 6,
+      "sha256": "81d4b4d90bb84db05eefef427ea55b5d9fad4e563f030124301edf817f6aa96d",
+      "size_bytes": 2813
+    },
+    {
+      "original_name": "EP_W6b.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk6b_Exception.pptx",
+      "source_link": "https://drive.google.com/file/d/1C3xEI9mdZwGZlg2wG-vm7dcfAfpILdXL/view?usp=sharing",
+      "drive_file_id": "1C3xEI9mdZwGZlg2wG-vm7dcfAfpILdXL",
+      "path": "week06/EP_W6b.ipynb",
+      "week": 6,
+      "source_slide": 7,
+      "sha256": "f364c418cff12bdb0c9e9d32d5211048dc9a148c9918af308d802d2ea87637a2",
+      "size_bytes": 9141
+    },
+    {
+      "original_name": "EP_W9a.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk9a_Lib1.pptx",
+      "source_link": "https://drive.google.com/file/d/1bJ7Z0kb5TMcXsS08FsmiPhMF6P9Jyac1/view?usp=sharing",
+      "drive_file_id": "1bJ7Z0kb5TMcXsS08FsmiPhMF6P9Jyac1",
+      "path": "week09/EP_W9a.ipynb",
+      "week": 9,
+      "source_slide": 4,
+      "sha256": "0e00f21cd454a38eafac4541478552fa984d935aa1a36217776bb6e0a6d0272e",
+      "size_bytes": 10467
+    },
+    {
+      "original_name": "EP_W9b_numpy.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk9b_Lib2_numpy.pptx",
+      "source_link": "https://colab.research.google.com/drive/1RzTVOmW63i0S9yf0BJiiGPCXz1dVp9Kv?usp=sharing",
+      "drive_file_id": "1RzTVOmW63i0S9yf0BJiiGPCXz1dVp9Kv",
+      "path": "week09/EP_W9b_numpy.ipynb",
+      "week": 9,
+      "source_slide": 4,
+      "sha256": "af369ad5aa0f527ecad52b0b078fefbdf78c1315c22347ca9d70533b8b819584",
+      "size_bytes": 73726
+    }
+  ],
+  "pending_local_data": [
+    {
+      "archive": "DataW12.zip",
+      "week": 12,
+      "entries": [
+        {
+          "name": "DataW12/",
+          "size": 0
+        },
+        {
+          "name": "DataW12/air_pollution.csv",
+          "size": 1817
+        },
+        {
+          "name": "DataW12/groundwater.csv",
+          "size": 1511
+        },
+        {
+          "name": "DataW12/rainfall_region.csv",
+          "size": 15960
+        }
+      ],
+      "status": "not_copied"
+    },
+    {
+      "archive": "DataW5.zip",
+      "week": 5,
+      "entries": [
+        {
+          "name": "DataW5/",
+          "size": 0
+        },
+        {
+          "name": "DataW5/newfile.txt",
+          "size": 81
+        }
+      ],
+      "status": "not_copied"
+    }
+  ]
+}
