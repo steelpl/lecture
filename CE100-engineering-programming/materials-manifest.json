@@ -11,13 +11,21 @@
       "path": "week10/EP_W10a_panda.ipynb",
       "week": 10,
       "source_slide": 4,
-      "sha256": "35e1180dd37457ab17bcfaf1142b5ea8fff2ccd2dc98292d8a00eddb62529e1d",
-      "size_bytes": 12724,
+      "sha256": "6339361350d0b333109c79531deb3c89ad08e08eb211db365808841936bde3df",
+      "size_bytes": 45286,
       "original_sha256": "7ac40e8c556e3619e662d189d14bb8b24a018f96eeea3658c8d74d46c458f32d",
       "original_size_bytes": 14429,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "pandas·Excel: 필터와 결측값 정책을 명시하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "da824313c8df30d34440ae7eac14b27982410e38270ca29ae0a324a84ed7d5b8",
+        "slide_count": 5,
+        "original_code_cells": 34,
+        "unchanged_original_code_cells": 29,
+        "adjusted_original_cells": 5,
+        "section_count": 5
+      }
     },
     {
       "original_name": "EP_W10b_matplotlib.ipynb",
@@ -27,13 +35,21 @@
       "path": "week10/EP_W10b_matplotlib.ipynb",
       "week": 10,
       "source_slide": 4,
-      "sha256": "40f206023f87e2574ae15b3d403f92baa566bb40bbe9673ecf8d4b1d7f53ed6b",
-      "size_bytes": 13418,
+      "sha256": "8351ec61345e4aff001865f796c9c30d24421cbf2a4f90e9f9964fd20c89ea93",
+      "size_bytes": 41061,
       "original_sha256": "663f78469300ce0eab0859173e674926433f1f74d603b85330cfe210f999c440",
       "original_size_bytes": 13516,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "시각화: 그래프가 주장을 뒷받침하는지 검토하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "0d24bfee1c00a575f46fc803b95f8186c380e25d7f6181658a2e55605953e7ff",
+        "slide_count": 5,
+        "original_code_cells": 18,
+        "unchanged_original_code_cells": 15,
+        "adjusted_original_cells": 3,
+        "section_count": 5
+      }
     },
     {
       "original_name": "EP_W12b_pb.ipynb",
@@ -43,13 +59,21 @@
       "path": "week12/EP_W12b_pb.ipynb",
       "week": 12,
       "source_slide": 8,
-      "sha256": "b80c4cd0a9cecb185f77b174a3a504a42da3f2893ca2c23e641a32c0228c30ee",
-      "size_bytes": 14556,
+      "sha256": "75a48755e7c2155616241ff5262aed11ddea6698ce7b8a67aebc634912acc9d5",
+      "size_bytes": 42085,
       "original_sha256": "63b1633211581a3ad31ce53ebfdba90235d309ea165c6ede83682eb7a4ebfcfb",
       "original_size_bytes": 10032,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "통합 분석: 질문에서 검증 가능한 결론까지",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "9c4efd3f5f34b83d671f0bc9f261d9f13191268ac2278e6ae2b093e7af7c0068",
+        "slide_count": 9,
+        "original_code_cells": 14,
+        "unchanged_original_code_cells": 11,
+        "adjusted_original_cells": 3,
+        "section_count": 4
+      }
     },
     {
       "original_name": "EngProg_RegExp.ipynb",
@@ -59,13 +83,21 @@
       "path": "week13/EngProg_RegExp.ipynb",
       "week": 13,
       "source_slide": 5,
-      "sha256": "da48a26e9a3e349f5241328e60ea9902b613ac10f9bd713f9e6ae3961301a288",
-      "size_bytes": 11949,
+      "sha256": "f4832887a46e158458ee42e150f9ffd2538717f57f85e377873ad096d0809bea",
+      "size_bytes": 13261,
       "original_sha256": "d2a8d308b74db130f21bd7a1bb9aa0b933e4365c8b3436170521990f4fd7402c",
       "original_size_bytes": 1437,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "정규표현식 기초: 검색과 검증을 구분하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "c97879b9cce4e2ee05651f25090de60917ca34c55856ae0475707f957dd82a14",
+        "slide_count": 18,
+        "original_code_cells": 3,
+        "unchanged_original_code_cells": 2,
+        "adjusted_original_cells": 1,
+        "section_count": 2
+      }
     },
     {
       "original_name": "EP_W14a.ipynb",
@@ -75,13 +107,21 @@
       "path": "week14/EP_W14a.ipynb",
       "week": 14,
       "source_slide": 16,
-      "sha256": "a09be61b31cf0a94e702707a1dd894699c1c377b3d3065505ef983297d51b387",
-      "size_bytes": 12369,
+      "sha256": "aab215c7c9f0824eaf443dd5c852005d58a2cca26d80a4d7ca5deeadffb773ab",
+      "size_bytes": 18218,
       "original_sha256": "5b23ca80f1d99b76c8afff1e0e554986cd88fd7bb0172c638ba382ca882a87dd",
       "original_size_bytes": 4991,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "정규표현식 응용: 옵션·범위·측정값 검증",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "63506b4ae6c476e742dbca0fad1814dd7f38bb27640bc92080a0b1ab1cfc9d1f",
+        "slide_count": 18,
+        "original_code_cells": 8,
+        "unchanged_original_code_cells": 8,
+        "adjusted_original_cells": 0,
+        "section_count": 2
+      }
     },
     {
       "original_name": "EP_W14b.ipynb",
@@ -91,13 +131,21 @@
       "path": "week14/EP_W14b.ipynb",
       "week": 14,
       "source_slide": 7,
-      "sha256": "c585d69abb047ed0e147c04554a5f5e38e0abd8b4bc11bd150a942b2857dd377",
-      "size_bytes": 12389,
+      "sha256": "a0dfddc76491a52a21da808e6290b21ec78fc0f094fa6ee7558109a761b76569",
+      "size_bytes": 37712,
       "original_sha256": "d7771a9fb6cf7d329b223efee9403b6a52e3b8ea4c85cc0c8d971ad6fa0e8dd3",
       "original_size_bytes": 9329,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "정규표현식 검토: 캡처·치환·과도한 매칭",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "d57fa5cc092ddc175ad6dc0786412b2e2ec3d5b037d0d9bff13b446ebdacf026",
+        "slide_count": 20,
+        "original_code_cells": 20,
+        "unchanged_original_code_cells": 17,
+        "adjusted_original_cells": 5,
+        "section_count": 5
+      }
     },
     {
       "original_name": "EP_W3b.ipynb",
@@ -107,13 +155,21 @@
       "path": "week03/EP_W3b.ipynb",
       "week": 3,
       "source_slide": 6,
-      "sha256": "8c8ed790359d7ea6a0245f68898ea4ec25ca436c7fb6c4a4769b2106f6f7872b",
-      "size_bytes": 12820,
+      "sha256": "143c5cde89dea70cb391e780fdd87708498cf4342161d8104234c54fb457c0fc",
+      "size_bytes": 36718,
       "original_sha256": "de65e5e1bf6fc6a87505f49c9f6158cc3f98fe22590640f2edf3c93e72bf0478",
       "original_size_bytes": 8097,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "자료형: AI에게 데이터의 구조를 설명하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "13c3efdd506c916bde07a2f827762944514395ce7b62e541d1badaead92594ec",
+        "slide_count": 35,
+        "original_code_cells": 19,
+        "unchanged_original_code_cells": 18,
+        "adjusted_original_cells": 1,
+        "section_count": 5
+      }
     },
     {
       "original_name": "EP_W4b.ipynb",
@@ -123,13 +179,21 @@
       "path": "week04/EP_W4b.ipynb",
       "week": 4,
       "source_slide": 10,
-      "sha256": "41134e0fc705f9596819f864c7612c8ea5015e35334d005ac8b359b5de9e9ee7",
-      "size_bytes": 12048,
+      "sha256": "bc5a98d16e6a55bfdb13a400784bd6b8d708e01f7e4c754bdbd394a153b35f69",
+      "size_bytes": 37783,
       "original_sha256": "c99333dfd18196dffe76a574516777d118b4a5efa3e630984aeb4b233eb1e328",
       "original_size_bytes": 9786,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "함수: 입력·출력·실패 조건을 계약으로 만들기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "c1e0296b4702ce100527720fa9bb87a1f8483fc00807b1dcba165c0f4c156336",
+        "slide_count": 20,
+        "original_code_cells": 25,
+        "unchanged_original_code_cells": 25,
+        "adjusted_original_cells": 0,
+        "section_count": 5
+      }
     },
     {
       "original_name": "EP_W5a.ipynb",
@@ -139,13 +203,21 @@
       "path": "week05/EP_W5a.ipynb",
       "week": 5,
       "source_slide": 7,
-      "sha256": "5515af7579549b5f69500d581b28ee42fe37b49e613313d30f0ca1c2baac6de2",
-      "size_bytes": 12356,
+      "sha256": "76c42e573a9c407595a777073ced7a02b677674ff24441a390eb66ba796d9043",
+      "size_bytes": 36530,
       "original_sha256": "7f950f540d49828a87d71f5bee72de2e8e085f2cf5f831322f003b7f7eee6e77",
       "original_size_bytes": 9174,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "파일 입출력: 경로·인코딩·덮어쓰기를 검토하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "641cadc9e29c033c7822ad66c1efbafee14924e104c9d5992c960d54d2029cc3",
+        "slide_count": 19,
+        "original_code_cells": 21,
+        "unchanged_original_code_cells": 18,
+        "adjusted_original_cells": 3,
+        "section_count": 5
+      }
     },
     {
       "original_name": "EP_W5b.ipynb",
@@ -155,13 +227,21 @@
       "path": "week05/EP_W5b.ipynb",
       "week": 5,
       "source_slide": 4,
-      "sha256": "00ee1f5828dd738e09848211945b0d0cb231fd0baa1df78e897cf413ad3cb70d",
-      "size_bytes": 12502,
+      "sha256": "df155f9cc44f48815a735aede2edbd18d014ef4055b5785b5b55086ddee09a14",
+      "size_bytes": 37519,
       "original_sha256": "76c3b79de6fc7a6dea6507accda5570f5add0cded051b827e617356b928bfae6",
       "original_size_bytes": 13728,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "클래스: 여러 객체의 상태를 구분하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "ef9d09a235dacba0d65c49798b3a02d3abf62c1c15454d04cc68745120bc502f",
+        "slide_count": 22,
+        "original_code_cells": 24,
+        "unchanged_original_code_cells": 23,
+        "adjusted_original_cells": 1,
+        "section_count": 4
+      }
     },
     {
       "original_name": "EP_W6a.ipynb",
@@ -171,13 +251,21 @@
       "path": "week06/EP_W6a.ipynb",
       "week": 6,
       "source_slide": 6,
-      "sha256": "bce9757e676b6af6603d29ee7566a51824172619fa4b184a4f76e19528a5feab",
-      "size_bytes": 13025,
+      "sha256": "2ff2c9f5d260342d3f0801dc93174954128e96f52eb338d59703ede7f3fc32f4",
+      "size_bytes": 21400,
       "original_sha256": "81d4b4d90bb84db05eefef427ea55b5d9fad4e563f030124301edf817f6aa96d",
       "original_size_bytes": 2813,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "모듈·패키지: 기능의 출처와 인터페이스를 확인하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "0803f7bbcda37cd6e449893e6652d5c4507e693caf8047fd9cdce216a0ebad4e",
+        "slide_count": 18,
+        "original_code_cells": 14,
+        "unchanged_original_code_cells": 7,
+        "adjusted_original_cells": 7,
+        "section_count": 2
+      }
     },
     {
       "original_name": "EP_W6b.ipynb",
@@ -187,13 +275,21 @@
       "path": "week06/EP_W6b.ipynb",
       "week": 6,
       "source_slide": 7,
-      "sha256": "ab3409b4ca3e1b350ead014028a3941bc7309c85e09195e0828134ff8f9a3fec",
-      "size_bytes": 11904,
+      "sha256": "9e43bc64d46bed133a81079d6f564249d5e055a525547e0064ab8b375b4c951f",
+      "size_bytes": 30501,
       "original_sha256": "f364c418cff12bdb0c9e9d32d5211048dc9a148c9918af308d802d2ea87637a2",
       "original_size_bytes": 9141,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "예외 처리: 실패를 정상 관측값으로 숨기지 않기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "c5727f57934fd12fdf2ba3214fde375cf60dca2b8bab1ad8f70d3c459c9dd964",
+        "slide_count": 15,
+        "original_code_cells": 31,
+        "unchanged_original_code_cells": 29,
+        "adjusted_original_cells": 2,
+        "section_count": 2
+      }
     },
     {
       "original_name": "EP_W9a.ipynb",
@@ -203,13 +299,21 @@
       "path": "week09/EP_W9a.ipynb",
       "week": 9,
       "source_slide": 4,
-      "sha256": "623928c864d3f1782a267ab8f226b0ddd8ecacff1c2f7e4d73a28a3970f2f878",
-      "size_bytes": 12655,
+      "sha256": "a1f7c7b365caafc6963047496b831603b2e740bfea9dd323bb0a881e24fd59be",
+      "size_bytes": 47613,
       "original_sha256": "0e00f21cd454a38eafac4541478552fa984d935aa1a36217776bb6e0a6d0272e",
       "original_size_bytes": 10467,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "표준 라이브러리: 파일 검색과 재현 가능한 실험",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "25a111b8bb42c002d3b57dbfbc293f7b1e9e8e4db50c7dac7a29150d423a5fce",
+        "slide_count": 31,
+        "original_code_cells": 35,
+        "unchanged_original_code_cells": 23,
+        "adjusted_original_cells": 12,
+        "section_count": 6
+      }
     },
     {
       "original_name": "EP_W9b_numpy.ipynb",
@@ -219,66 +323,72 @@
       "path": "week09/EP_W9b_numpy.ipynb",
       "week": 9,
       "source_slide": 4,
-      "sha256": "7b48137350a8f89530877fcf5cbc24d8afa8ec56b93c4ba928e04e402e5077b4",
-      "size_bytes": 12589,
+      "sha256": "fc2edfd52d780db93f646601d3459819c8f9b75e49a24e8d891c5ecb11d160ea",
+      "size_bytes": 110136,
       "original_sha256": "af369ad5aa0f527ecad52b0b078fefbdf78c1315c22347ca9d70533b8b819584",
       "original_size_bytes": 73726,
-      "adaptation": "ai-literacy-v1",
+      "adaptation": "slide-aligned-ai-literacy-v2",
       "title": "NumPy: 배열의 모양과 축으로 질문하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a"
-    }
-  ],
-  "pending_local_data": [
-    {
-      "archive": "DataW12.zip",
-      "week": 12,
-      "entries": [
-        {
-          "name": "DataW12/",
-          "size": 0
-        },
-        {
-          "name": "DataW12/air_pollution.csv",
-          "size": 1817
-        },
-        {
-          "name": "DataW12/groundwater.csv",
-          "size": 1511
-        },
-        {
-          "name": "DataW12/rainfall_region.csv",
-          "size": 15960
-        }
-      ],
-      "status": "not_copied"
-    },
-    {
-      "archive": "DataW5.zip",
-      "week": 5,
-      "entries": [
-        {
-          "name": "DataW5/",
-          "size": 0
-        },
-        {
-          "name": "DataW5/newfile.txt",
-          "size": 81
-        }
-      ],
-      "status": "not_copied"
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "c70a736614b73c8a79535fe7996de89b6744f4ab474f7652423819318a4e881b",
+        "slide_count": 5,
+        "original_code_cells": 54,
+        "unchanged_original_code_cells": 53,
+        "adjusted_original_cells": 1,
+        "section_count": 5
+      }
     }
   ],
   "learning_design": {
-    "version": "ai-literacy-v1",
-    "goal": "기본 원리를 이해하고 코딩 AI에 질문·지시하며 결과를 검토하는 능력",
+    "version": "slide-aligned-ai-literacy-v2",
+    "goal": "슬라이드의 원리·예제를 바탕으로 코딩 AI에 질문·지시하고 결과를 검토",
     "workflow": [
-      "원리",
+      "슬라이드 설명",
       "예측",
-      "실행·변형",
-      "기능 완성",
-      "AI 검토·수정 지시",
-      "새 상황 적용"
+      "원본 예제",
+      "조건 변경",
+      "AI 질문·수정 지시",
+      "검증"
     ],
     "original_notebooks_preserved_in_git": "89e38ea511ab48aab84268d346729a7b1392093a"
-  }
+  },
+  "local_practice_data": [
+    {
+      "path": "week05/data/DataW5.zip",
+      "sha256": "99be8a056e538a7db1c0b183379b6c683736ac5b94a34d7de6b4715516a3b32e",
+      "size_bytes": 389,
+      "source": "instructor-local-lecture-folder"
+    },
+    {
+      "path": "week05/data/newfile.txt",
+      "sha256": "ef3848af6dc0e714d787d0da6be9000ee90c72ff5169faea5ab469b4f3070ee5",
+      "size_bytes": 81,
+      "source": "instructor-local-lecture-folder"
+    },
+    {
+      "path": "week12/data/DataW12.zip",
+      "sha256": "9b5993cf69ea49b3da7fd71c26559bbc12bc3cc5affe820c8b501d7ec26ca1b5",
+      "size_bytes": 4797,
+      "source": "instructor-local-lecture-folder"
+    },
+    {
+      "path": "week12/data/air_pollution.csv",
+      "sha256": "4f89a59e0fb926eef8fde3a38b2e0599b4b5387d9b243646217f4e5723bd1483",
+      "size_bytes": 1817,
+      "source": "instructor-local-lecture-folder"
+    },
+    {
+      "path": "week12/data/groundwater.csv",
+      "sha256": "17064bbd1a8e973f230b574d8b09de4109707147b5c094e57e4bb5a9f5da9b21",
+      "size_bytes": 1511,
+      "source": "instructor-local-lecture-folder"
+    },
+    {
+      "path": "week12/data/rainfall_region.csv",
+      "sha256": "3376c6e9554ed276567ccec63130b8473ad3185c5de94f9af95f69c3f378047b",
+      "size_bytes": 15960,
+      "source": "instructor-local-lecture-folder"
+    }
+  ]
 }
