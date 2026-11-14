@@ -4,7 +4,7 @@
 
 통계 원리와 기능을 이해하고 AI에 좋은 질문·지시를 전달하며, 계산·가정·해석을 검토할 기본 역량 함양
 
-[학습 방법](LEARNING_GUIDE.md) · [교수자 가이드](TEACHING_GUIDE.md) · [슬라이드 연결](SLIDE_ALIGNMENT.md) · [2027 일정](CALENDAR_2027.md) · [자료 출처](DATA_SOURCES.md) · [ANOVA 대조](DATA_RECONCILIATION.md)
+[학습 방법](LEARNING_GUIDE.md) · [교수자 가이드](TEACHING_GUIDE.md) · [슬라이드 연결](SLIDE_ALIGNMENT.md) · [개편 기록](SLIDE_UPDATES_2027.md) · [2027 일정](CALENDAR_2027.md) · [자료 출처](DATA_SOURCES.md) · [ANOVA 대조](DATA_RECONCILIATION.md)
 
 | 주 | 주제·안내 | 노트북 | 실습 파일 |
 | --- | --- | --- | --- |

@@ -17,4 +17,4 @@ None 항목은 직접 작성. 공개 계산 확인 통과는 해석의 타당성
 
 Excel의 입력 시트·데이터 시트에서 파란 셀 수정. 계산 시트의 수식 확인. 검토기록 작성. 원본 파일은 data 폴더에 별도 보존
 
-주요 도구: Google Colab·Python, Microsoft Excel. jamovi 사용 시 고전 등분산 ANOVA와 Welch의 차이 확인. 메뉴 기본값에 의존하지 않고 분석 모형 명시
+주요 도구: Google Colab·Python, Microsoft Excel. 로컬 Jupyter 사용 시 Python 3.11 이상과 노트북에 안내된 패키지 버전 필요. jamovi 사용 시 고전 등분산 ANOVA와 Welch의 차이 확인. 메뉴 기본값에 의존하지 않고 분석 모형 명시
