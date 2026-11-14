@@ -4,7 +4,7 @@
 
 수치 알고리즘·오차·수렴·안정성 이해와 방법 선택의 근거 탐구. 코드·Excel은 단계별 계산과 방법 비교를 위한 도구, AI 활용은 선택 심화 활동
 
-[학습 방법](LEARNING_GUIDE.md) · [교수자 가이드](TEACHING_GUIDE.md) · [슬라이드 연결](SLIDE_ALIGNMENT.md) · [개편 항목](SLIDE_UPDATES_2027.md) · [2027 일정](CALENDAR_2027.md) · [자료 출처](DATA_SOURCES.md) · [자료 대조](DATA_RECONCILIATION.md)
+[검수 기록](VALIDATION_2027.md) · [학습 방법](LEARNING_GUIDE.md) · [교수자 가이드](TEACHING_GUIDE.md) · [슬라이드 연결](SLIDE_ALIGNMENT.md) · [개편 항목](SLIDE_UPDATES_2027.md) · [2027 일정](CALENDAR_2027.md) · [자료 출처](DATA_SOURCES.md) · [자료 대조](DATA_RECONCILIATION.md)
 
 | 주 | 주제·안내 | 노트북 | 실습 파일 |
 | --- | --- | --- | --- |
