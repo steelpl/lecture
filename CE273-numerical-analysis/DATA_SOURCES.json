@@ -1,40 +1,43 @@
 [
   {
     "path": "week11/data/W11b_OpenMethods.xlsx",
-    "sha256": "cff24f9b28cb2a2f3456296535c8a002b2bb6f7e9655133a56f2e14e710fe36e",
-    "bytes": 8862,
+    "sha256": "38f298192903d9896768eb643f7d4d35a881d6a501ae858012f09e6fb244fccf",
+    "bytes": 8817,
     "kind": "distribution-copy-unused-links-removed",
     "original_sha256": "67e4e73c9885a504117b8803f94708100cc167bef294fd1ed35022357b8faed1",
     "source_bytes": 12708,
     "changes": [
       "personal_storage_path_metadata_removed",
-      "unused_external_workbook_links_removed"
+      "unused_external_workbook_links_removed",
+      "broken_external_defined_names_removed"
     ],
     "worksheet_chart_media_bytes": "identical to original"
   },
   {
     "path": "week13/data/W13a_Regression.xlsx",
-    "sha256": "628baa3f55687de0d3cdc317c123e65da606028ed5599ae8026e8a786cda031c",
-    "bytes": 7955,
+    "sha256": "a0f6cdfb7a18d549fd0c1639a1dc5935941c78f48322120c25734ddb9538188d",
+    "bytes": 7910,
     "kind": "distribution-copy-unused-links-removed",
     "original_sha256": "ca742574f739881e597511eaf234dbf4504a20a7e8e0b596010936975dec27f4",
     "source_bytes": 11691,
     "changes": [
       "personal_storage_path_metadata_removed",
-      "unused_external_workbook_links_removed"
+      "unused_external_workbook_links_removed",
+      "broken_external_defined_names_removed"
     ],
     "worksheet_chart_media_bytes": "identical to original"
   },
   {
     "path": "week14/data/W14a_Euler.xlsx",
-    "sha256": "6716eaf9023407859b3b0b2d9e835e0f8bd17e7c4220e0405f5c92fd0878c16a",
-    "bytes": 14542,
+    "sha256": "440973d55f080397cdb7b943bac5cd40e40568de6539a78b088c00f872bdf8ff",
+    "bytes": 14497,
     "kind": "distribution-copy-unused-links-removed",
     "original_sha256": "06607205832585dfd59dc188db74df4e508229c08184a3005d66921598518bf5",
     "source_bytes": 18893,
     "changes": [
       "personal_storage_path_metadata_removed",
-      "unused_external_workbook_links_removed"
+      "unused_external_workbook_links_removed",
+      "broken_external_defined_names_removed"
     ],
     "worksheet_chart_media_bytes": "identical to original"
   },
@@ -76,14 +79,15 @@
   },
   {
     "path": "week03/data/W3b_IterUpdate.xlsx",
-    "sha256": "9fab9b4bca8915011793e970150cc468cb5732ac0a2dcb72aa86ef16310a4909",
-    "bytes": 12252,
+    "sha256": "af5b81f3b824e5dda4f43a9e0a609b3bddacad95592c69e66654ffceb505debc",
+    "bytes": 12205,
     "kind": "distribution-copy-unused-links-removed",
     "original_sha256": "642f73a58497135c59fe2bdf1188c820ca8bc5bb7655413584fde06a1e2ec905",
     "source_bytes": 16306,
     "changes": [
       "personal_storage_path_metadata_removed",
-      "unused_external_workbook_links_removed"
+      "unused_external_workbook_links_removed",
+      "broken_external_defined_names_removed"
     ],
     "worksheet_chart_media_bytes": "identical to original"
   },
@@ -101,14 +105,15 @@
   },
   {
     "path": "week05/data/W5b_TaylorSeries.xlsx",
-    "sha256": "b4cb69719b126905f7031d63be7474394c4a603c3d391a2a8acced59a617b604",
-    "bytes": 36800,
+    "sha256": "5883a8dcebeed06589f4f2f6aa69557ef83ab4eb68fae37d4075ea31e7e9ff9d",
+    "bytes": 36783,
     "kind": "distribution-copy-unused-links-removed",
     "original_sha256": "1df728e48890cf21e53b4d233cb8a49dfde6836d6c3f0401050295dc7547c300",
     "source_bytes": 43503,
     "changes": [
       "personal_storage_path_metadata_removed",
-      "unused_external_workbook_links_removed"
+      "unused_external_workbook_links_removed",
+      "broken_external_defined_names_removed"
     ],
     "worksheet_chart_media_bytes": "identical to original"
   },
