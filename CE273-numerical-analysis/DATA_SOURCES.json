@@ -1,0 +1,127 @@
+[
+  {
+    "path": "week11/data/W11b_OpenMethods.xlsx",
+    "sha256": "cff24f9b28cb2a2f3456296535c8a002b2bb6f7e9655133a56f2e14e710fe36e",
+    "bytes": 8862,
+    "kind": "distribution-copy-unused-links-removed",
+    "original_sha256": "67e4e73c9885a504117b8803f94708100cc167bef294fd1ed35022357b8faed1",
+    "source_bytes": 12708,
+    "changes": [
+      "personal_storage_path_metadata_removed",
+      "unused_external_workbook_links_removed"
+    ],
+    "worksheet_chart_media_bytes": "identical to original"
+  },
+  {
+    "path": "week13/data/W13a_Regression.xlsx",
+    "sha256": "628baa3f55687de0d3cdc317c123e65da606028ed5599ae8026e8a786cda031c",
+    "bytes": 7955,
+    "kind": "distribution-copy-unused-links-removed",
+    "original_sha256": "ca742574f739881e597511eaf234dbf4504a20a7e8e0b596010936975dec27f4",
+    "source_bytes": 11691,
+    "changes": [
+      "personal_storage_path_metadata_removed",
+      "unused_external_workbook_links_removed"
+    ],
+    "worksheet_chart_media_bytes": "identical to original"
+  },
+  {
+    "path": "week14/data/W14a_Euler.xlsx",
+    "sha256": "6716eaf9023407859b3b0b2d9e835e0f8bd17e7c4220e0405f5c92fd0878c16a",
+    "bytes": 14542,
+    "kind": "distribution-copy-unused-links-removed",
+    "original_sha256": "06607205832585dfd59dc188db74df4e508229c08184a3005d66921598518bf5",
+    "source_bytes": 18893,
+    "changes": [
+      "personal_storage_path_metadata_removed",
+      "unused_external_workbook_links_removed"
+    ],
+    "worksheet_chart_media_bytes": "identical to original"
+  },
+  {
+    "path": "week14/data/W14b_ODEs.xlsx",
+    "sha256": "59bd27f4b0107f71634d674dc31225527bb5c44d58a4e3d8a7cca4449a0d9e79",
+    "bytes": 49540,
+    "kind": "distribution-copy-unused-links-removed",
+    "original_sha256": "1391766bd09735570b3541045d18487cab8546f37003ce20dbe2da389fdb077b",
+    "source_bytes": 58413,
+    "changes": [
+      "personal_storage_path_metadata_removed"
+    ],
+    "worksheet_chart_media_bytes": "identical to original"
+  },
+  {
+    "path": "week14/solutions/W14b_ODEs_Ans.xlsx",
+    "sha256": "c8314a6498e1f0abb40ea0bef9dee6cc21e84416e1ad7f07d504f916556ccccb",
+    "bytes": 50856,
+    "kind": "distribution-copy-unused-links-removed",
+    "original_sha256": "90d1208c706c12745db58a342e23d46ff53dd897f66cace59f7bc04104e5e0aa",
+    "source_bytes": 59974,
+    "changes": [
+      "personal_storage_path_metadata_removed"
+    ],
+    "worksheet_chart_media_bytes": "identical to original"
+  },
+  {
+    "path": "week01/data/W1b_Parachutist.xlsx",
+    "sha256": "4ce2b45d3e0b0dfbd2bb5348b3cdca4478dfcae0d130041b74e9846c1e036142",
+    "bytes": 22977,
+    "kind": "distribution-copy-unused-links-removed",
+    "original_sha256": "c5d95319d5aaa235e02f46acc03c0cf5a3d5a7b0c7211601fd840fb65c490f46",
+    "source_bytes": 26934,
+    "changes": [
+      "personal_storage_path_metadata_removed"
+    ],
+    "worksheet_chart_media_bytes": "identical to original"
+  },
+  {
+    "path": "week03/data/W3b_IterUpdate.xlsx",
+    "sha256": "9fab9b4bca8915011793e970150cc468cb5732ac0a2dcb72aa86ef16310a4909",
+    "bytes": 12252,
+    "kind": "distribution-copy-unused-links-removed",
+    "original_sha256": "642f73a58497135c59fe2bdf1188c820ca8bc5bb7655413584fde06a1e2ec905",
+    "source_bytes": 16306,
+    "changes": [
+      "personal_storage_path_metadata_removed",
+      "unused_external_workbook_links_removed"
+    ],
+    "worksheet_chart_media_bytes": "identical to original"
+  },
+  {
+    "path": "week04/data/W4ab_RndOff.xlsx",
+    "sha256": "29632abcc7eb1e77fc2dbfa8432138f2b5ddc2fc3d8da88dee19ef257c28df8d",
+    "bytes": 56294,
+    "kind": "distribution-copy-unused-links-removed",
+    "original_sha256": "51febd6b5d2894a8179c8aed245044be26cff282582c5342fd9ccda6c6097d08",
+    "source_bytes": 61978,
+    "changes": [
+      "personal_storage_path_metadata_removed"
+    ],
+    "worksheet_chart_media_bytes": "identical to original"
+  },
+  {
+    "path": "week05/data/W5b_TaylorSeries.xlsx",
+    "sha256": "b4cb69719b126905f7031d63be7474394c4a603c3d391a2a8acced59a617b604",
+    "bytes": 36800,
+    "kind": "distribution-copy-unused-links-removed",
+    "original_sha256": "1df728e48890cf21e53b4d233cb8a49dfde6836d6c3f0401050295dc7547c300",
+    "source_bytes": 43503,
+    "changes": [
+      "personal_storage_path_metadata_removed",
+      "unused_external_workbook_links_removed"
+    ],
+    "worksheet_chart_media_bytes": "identical to original"
+  },
+  {
+    "path": "week08/data/W8b_Parachutist_integral.xlsx",
+    "sha256": "04746f9aef493372b86582264244a24f0f1f70dc7ed7ffb3d9ab876aa8cadfcf",
+    "bytes": 15481,
+    "kind": "distribution-copy-unused-links-removed",
+    "original_sha256": "b192b6714d1d5fa7ac48aeafa6681c6f759331cf700244401c9d755e22b38bb7",
+    "source_bytes": 18731,
+    "changes": [
+      "personal_storage_path_metadata_removed"
+    ],
+    "worksheet_chart_media_bytes": "identical to original"
+  }
+]
