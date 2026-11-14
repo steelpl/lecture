@@ -1,6 +1,6 @@
 {
   "course": "CE100",
-  "term": "2026-1",
+  "term": "2027-1",
   "source_directory": "1.강의록",
   "notebooks": [
     {
@@ -11,8 +11,8 @@
       "path": "week10/EP_W10a_panda.ipynb",
       "week": 10,
       "source_slide": 4,
-      "sha256": "6339361350d0b333109c79531deb3c89ad08e08eb211db365808841936bde3df",
-      "size_bytes": 45286,
+      "sha256": "0af1af970acb2415fb532062e645e9874df40f0feabb70db2329f39f0f75dbc2",
+      "size_bytes": 45586,
       "original_sha256": "7ac40e8c556e3619e662d189d14bb8b24a018f96eeea3658c8d74d46c458f32d",
       "original_size_bytes": 14429,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -25,7 +25,9 @@
         "unchanged_original_code_cells": 29,
         "adjusted_original_cells": 5,
         "section_count": 5
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk10a_Lib3_pandas.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W10b_matplotlib.ipynb",
@@ -35,8 +37,8 @@
       "path": "week10/EP_W10b_matplotlib.ipynb",
       "week": 10,
       "source_slide": 4,
-      "sha256": "8351ec61345e4aff001865f796c9c30d24421cbf2a4f90e9f9964fd20c89ea93",
-      "size_bytes": 41061,
+      "sha256": "2d856cbd983da331bbbf46f9ea0aab8a2914f4fae7f6e0fcdb2d3e904a05f184",
+      "size_bytes": 42097,
       "original_sha256": "663f78469300ce0eab0859173e674926433f1f74d603b85330cfe210f999c440",
       "original_size_bytes": 13516,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -46,10 +48,12 @@
         "source_pptx_sha256": "0d24bfee1c00a575f46fc803b95f8186c380e25d7f6181658a2e55605953e7ff",
         "slide_count": 5,
         "original_code_cells": 18,
-        "unchanged_original_code_cells": 15,
-        "adjusted_original_cells": 3,
+        "unchanged_original_code_cells": 14,
+        "adjusted_original_cells": 4,
         "section_count": 5
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk10b_Lib3_matplotlib.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W12b_pb.ipynb",
@@ -59,8 +63,8 @@
       "path": "week12/EP_W12b_pb.ipynb",
       "week": 12,
       "source_slide": 8,
-      "sha256": "75a48755e7c2155616241ff5262aed11ddea6698ce7b8a67aebc634912acc9d5",
-      "size_bytes": 42085,
+      "sha256": "ea247e284034a53d8250db3543393de93c07ecec4bd791cfe409e13927a1a49b",
+      "size_bytes": 42383,
       "original_sha256": "63b1633211581a3ad31ce53ebfdba90235d309ea165c6ede83682eb7a4ebfcfb",
       "original_size_bytes": 10032,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -73,7 +77,9 @@
         "unchanged_original_code_cells": 11,
         "adjusted_original_cells": 3,
         "section_count": 4
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk12b_ProgPrtc4.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EngProg_RegExp.ipynb",
@@ -83,8 +89,8 @@
       "path": "week13/EngProg_RegExp.ipynb",
       "week": 13,
       "source_slide": 5,
-      "sha256": "f4832887a46e158458ee42e150f9ffd2538717f57f85e377873ad096d0809bea",
-      "size_bytes": 13261,
+      "sha256": "67c62236d68dc006ab3e64dfc506caae036fde8ce00b6531ae54313519489b7c",
+      "size_bytes": 13554,
       "original_sha256": "d2a8d308b74db130f21bd7a1bb9aa0b933e4365c8b3436170521990f4fd7402c",
       "original_size_bytes": 1437,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -97,7 +103,9 @@
         "unchanged_original_code_cells": 2,
         "adjusted_original_cells": 1,
         "section_count": 2
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk13b_RegExp1.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W14a.ipynb",
@@ -107,8 +115,8 @@
       "path": "week14/EP_W14a.ipynb",
       "week": 14,
       "source_slide": 16,
-      "sha256": "aab215c7c9f0824eaf443dd5c852005d58a2cca26d80a4d7ca5deeadffb773ab",
-      "size_bytes": 18218,
+      "sha256": "305a8ad9fd1c399ec32d9c55625f86955575b96d811c24f71686056f24098930",
+      "size_bytes": 18511,
       "original_sha256": "5b23ca80f1d99b76c8afff1e0e554986cd88fd7bb0172c638ba382ca882a87dd",
       "original_size_bytes": 4991,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -121,7 +129,9 @@
         "unchanged_original_code_cells": 8,
         "adjusted_original_cells": 0,
         "section_count": 2
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk14a_RegExp2.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W14b.ipynb",
@@ -131,8 +141,8 @@
       "path": "week14/EP_W14b.ipynb",
       "week": 14,
       "source_slide": 7,
-      "sha256": "a0dfddc76491a52a21da808e6290b21ec78fc0f094fa6ee7558109a761b76569",
-      "size_bytes": 37712,
+      "sha256": "5c68d046040fd839b17944839b8ca9a903d96523f45458bd5fbb9155a4c6ffaf",
+      "size_bytes": 38005,
       "original_sha256": "d7771a9fb6cf7d329b223efee9403b6a52e3b8ea4c85cc0c8d971ad6fa0e8dd3",
       "original_size_bytes": 9329,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -145,7 +155,9 @@
         "unchanged_original_code_cells": 17,
         "adjusted_original_cells": 5,
         "section_count": 5
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk14b_RegExp3.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W3b.ipynb",
@@ -155,8 +167,8 @@
       "path": "week03/EP_W3b.ipynb",
       "week": 3,
       "source_slide": 6,
-      "sha256": "143c5cde89dea70cb391e780fdd87708498cf4342161d8104234c54fb457c0fc",
-      "size_bytes": 36718,
+      "sha256": "9e0ca0a814ff6db5d32e1e6378a7ae8c5a5054fc87fb129a53c7a8a06958aad5",
+      "size_bytes": 37013,
       "original_sha256": "de65e5e1bf6fc6a87505f49c9f6158cc3f98fe22590640f2edf3c93e72bf0478",
       "original_size_bytes": 8097,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -169,7 +181,9 @@
         "unchanged_original_code_cells": 18,
         "adjusted_original_cells": 1,
         "section_count": 5
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk3b_DataType2.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W4b.ipynb",
@@ -179,8 +193,8 @@
       "path": "week04/EP_W4b.ipynb",
       "week": 4,
       "source_slide": 10,
-      "sha256": "bc5a98d16e6a55bfdb13a400784bd6b8d708e01f7e4c754bdbd394a153b35f69",
-      "size_bytes": 37783,
+      "sha256": "f24d348b8ca1fb1cf6c31096787d5f24d7aa0c024ba283a5a9f9d20d54626142",
+      "size_bytes": 38076,
       "original_sha256": "c99333dfd18196dffe76a574516777d118b4a5efa3e630984aeb4b233eb1e328",
       "original_size_bytes": 9786,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -193,7 +207,9 @@
         "unchanged_original_code_cells": 25,
         "adjusted_original_cells": 0,
         "section_count": 5
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk4b_Function.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W5a.ipynb",
@@ -203,8 +219,8 @@
       "path": "week05/EP_W5a.ipynb",
       "week": 5,
       "source_slide": 7,
-      "sha256": "76c42e573a9c407595a777073ced7a02b677674ff24441a390eb66ba796d9043",
-      "size_bytes": 36530,
+      "sha256": "dd0d00fa88a09cc4d02b56e6035201356966b2d98b253b6109ded0c05e33b410",
+      "size_bytes": 36817,
       "original_sha256": "7f950f540d49828a87d71f5bee72de2e8e085f2cf5f831322f003b7f7eee6e77",
       "original_size_bytes": 9174,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -217,7 +233,9 @@
         "unchanged_original_code_cells": 18,
         "adjusted_original_cells": 3,
         "section_count": 5
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk5a_InOut.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W5b.ipynb",
@@ -227,8 +245,8 @@
       "path": "week05/EP_W5b.ipynb",
       "week": 5,
       "source_slide": 4,
-      "sha256": "df155f9cc44f48815a735aede2edbd18d014ef4055b5785b5b55086ddee09a14",
-      "size_bytes": 37519,
+      "sha256": "24b74539a34a3add51a73f69156887f46d872b39853bb9d0195f580297acfbe5",
+      "size_bytes": 37806,
       "original_sha256": "76c3b79de6fc7a6dea6507accda5570f5add0cded051b827e617356b928bfae6",
       "original_size_bytes": 13728,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -241,7 +259,9 @@
         "unchanged_original_code_cells": 23,
         "adjusted_original_cells": 1,
         "section_count": 4
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk5b_Class.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W6a.ipynb",
@@ -251,8 +271,8 @@
       "path": "week06/EP_W6a.ipynb",
       "week": 6,
       "source_slide": 6,
-      "sha256": "2ff2c9f5d260342d3f0801dc93174954128e96f52eb338d59703ede7f3fc32f4",
-      "size_bytes": 21400,
+      "sha256": "cc9c1dffaf1859c54877044a856241806e3a444abe21a7e50cf4efa203fe5a95",
+      "size_bytes": 21697,
       "original_sha256": "81d4b4d90bb84db05eefef427ea55b5d9fad4e563f030124301edf817f6aa96d",
       "original_size_bytes": 2813,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -265,7 +285,9 @@
         "unchanged_original_code_cells": 7,
         "adjusted_original_cells": 7,
         "section_count": 2
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk6a_MdlPackage.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W6b.ipynb",
@@ -275,8 +297,8 @@
       "path": "week06/EP_W6b.ipynb",
       "week": 6,
       "source_slide": 7,
-      "sha256": "9e43bc64d46bed133a81079d6f564249d5e055a525547e0064ab8b375b4c951f",
-      "size_bytes": 30501,
+      "sha256": "0ec4333728702ceee1d486dfef6cbbbc93297232b53632480d6e6b2fedfa6e40",
+      "size_bytes": 30796,
       "original_sha256": "f364c418cff12bdb0c9e9d32d5211048dc9a148c9918af308d802d2ea87637a2",
       "original_size_bytes": 9141,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -289,7 +311,9 @@
         "unchanged_original_code_cells": 29,
         "adjusted_original_cells": 2,
         "section_count": 2
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk6b_Exception.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W9a.ipynb",
@@ -299,8 +323,8 @@
       "path": "week09/EP_W9a.ipynb",
       "week": 9,
       "source_slide": 4,
-      "sha256": "a1f7c7b365caafc6963047496b831603b2e740bfea9dd323bb0a881e24fd59be",
-      "size_bytes": 47613,
+      "sha256": "2b4293d9b15328bae994e6dcc5561a0c3ab5104805dd2415e32e9596cbfe49fa",
+      "size_bytes": 47898,
       "original_sha256": "0e00f21cd454a38eafac4541478552fa984d935aa1a36217776bb6e0a6d0272e",
       "original_size_bytes": 10467,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -313,7 +337,9 @@
         "unchanged_original_code_cells": 23,
         "adjusted_original_cells": 12,
         "section_count": 6
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk9a_Lib1.pptx",
+      "teaching_term": "2027-1"
     },
     {
       "original_name": "EP_W9b_numpy.ipynb",
@@ -323,8 +349,8 @@
       "path": "week09/EP_W9b_numpy.ipynb",
       "week": 9,
       "source_slide": 4,
-      "sha256": "fc2edfd52d780db93f646601d3459819c8f9b75e49a24e8d891c5ecb11d160ea",
-      "size_bytes": 110136,
+      "sha256": "37c64230163b413f5f758d99e3e14af846df395f6bc7b420825797923d05fef5",
+      "size_bytes": 110432,
       "original_sha256": "af369ad5aa0f527ecad52b0b078fefbdf78c1315c22347ca9d70533b8b819584",
       "original_size_bytes": 73726,
       "adaptation": "slide-aligned-ai-literacy-v2",
@@ -337,7 +363,9 @@
         "unchanged_original_code_cells": 53,
         "adjusted_original_cells": 1,
         "section_count": 5
-      }
+      },
+      "teaching_lecture": "2027_S1_EngProg_Wk9b_Lib2_numpy.pptx",
+      "teaching_term": "2027-1"
     }
   ],
   "learning_design": {
@@ -390,5 +418,19 @@
       "size_bytes": 15960,
       "source": "instructor-local-lecture-folder"
     }
-  ]
+  ],
+  "source_term": "2026-1",
+  "teaching_edition": {
+    "term": "2027-1",
+    "first_class": "2027-03-02",
+    "weekdays": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "calendar": "CALENDAR_2027.md",
+    "slides_stored": "user local 2027 course folder",
+    "source_term": "2026-1",
+    "original_slide_numbers_preserved": true,
+    "navigation_slides_added_per_deck": 1
+  }
 }

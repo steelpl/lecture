@@ -1,6 +1,6 @@
 # 10주차 · pandas와 Matplotlib
 
-공학프로그래밍입문 · 2026학년도 1학기
+공학프로그래밍입문 · 2027학년도 1학기
 
 ## 실습 자료
 
@@ -16,7 +16,7 @@ Colab에서 열고 본인 Drive에 사본을 저장합니다. 기준 슬라이�
 ## 실행 준비
 
 - pandas는 원본 공개 Titanic CSV와 titanic.xlsx 저장·재읽기를 사용합니다. 패키지: pandas, numpy, matplotlib, openpyxl, lxml.
-- Matplotlib은 원본 sine·cosine subplot·Iris·막대·원그래프·Seaborn 비교 예제를 유지합니다. 패키지: matplotlib, numpy, pandas, seaborn.
+- Matplotlib은 원본 sine·cosine subplot·Iris·막대·원그래프·Seaborn 비교 예제를 유지합니다. 패키지: matplotlib>=3.10, numpy, pandas, seaborn. 상자 그림은 최신 orientation 인수를 사용합니다.
 - 공개 데이터셋 다운로드에는 인터넷이 필요합니다. 원본 한글 폰트 설정도 유지하되 설치 여부를 확인합니다.
 
 ## 확인한 원본 강의록
@@ -25,5 +25,7 @@ Colab에서 열고 본인 Drive에 사본을 저장합니다. 기준 슬라이�
 
 - `2026_S1_EngProg_Wk10a_Lib3_pandas.pptx`
 - `2026_S1_EngProg_Wk10b_Lib3_matplotlib.pptx`
+
+2027 병행본은 위 원본 파일명에서 `2026_`을 `2027_`로 바꾼 PPTX입니다. 기존 슬라이드 번호를 유지하며, 마지막에 실습 연결 안내 1장을 추가했습니다. [2027 수업 일정](../CALENDAR_2027.md)을 함께 확인하세요.
 
 [강의 전체 실습 목록](../README.md)

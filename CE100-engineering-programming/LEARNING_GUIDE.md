@@ -60,7 +60,7 @@ TODO는 처음에 `NotImplementedError`를 내도록 되어 있습니다. 공개
 - 5·12주차는 원본 `DataW5.zip`·`DataW12.zip`의 실제 파일을 사용합니다. 저장소의 각 주차 `data/` 폴더와 노트북 준비 셀에 같은 ZIP 사본이 있어 별도 다운로드 없이 준비됩니다.
 - 기본 작업 폴더는 임시 폴더입니다. 슬라이드의 Google Drive 연결·업로드 자체를 연습할 때는 `USE_GOOGLE_DRIVE`·`REQUEST_UPLOAD`를 선택합니다. 파일명과 핵심 계산은 같습니다.
 - 6주차 모듈의 실행 보조 파일은 원본 `mod1`·`my_package` 호출을 지원하도록 작성한 예제입니다. 원본 보조 파일과 내용이 동일하다고 표시하지 않습니다.
-- 최신 Colab 런타임을 기준으로 합니다. 로컬 실행에서는 Matplotlib 3.9 이상을 사용합니다.
+- 최신 Colab 런타임을 기준으로 합니다. 로컬 실행에서는 Matplotlib 3.10 이상을 사용합니다.
 - NumPy·pandas·Matplotlib·Seaborn은 해당 노트북에서 불러옵니다. Excel에는 `openpyxl`, HTML 표 읽기에는 `lxml`도 필요합니다. 없다면 Colab의 별도 셀에서 `%pip install openpyxl lxml`을 실행합니다.
 - 원본 Titanic·Iris·tips 데이터셋은 공개 URL에서 읽으므로 첫 다운로드에는 인터넷이 필요합니다.
 - Excel 실습은 원본과 같은 `titanic.xlsx`를 생성·재읽기 합니다. 작업 폴더에서 다운로드해 원본 표와 비교할 수 있습니다.
