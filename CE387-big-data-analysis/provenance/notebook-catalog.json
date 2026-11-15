@@ -1,0 +1,82 @@
+[
+  {
+    "week": 1,
+    "file": "CE387_W01.ipynb",
+    "title": "자료 분석과 AI의 역할"
+  },
+  {
+    "week": 2,
+    "file": "CE387_W02.ipynb",
+    "title": "Python 자료와 실행 순서"
+  },
+  {
+    "week": 3,
+    "file": "CE387_W03a_programming.ipynb",
+    "title": "제어문·함수·라이브러리"
+  },
+  {
+    "week": 3,
+    "file": "CE387_W03b_statistics.ipynb",
+    "title": "자료의 분포와 통계 요약"
+  },
+  {
+    "week": 4,
+    "file": "CE387_W04.ipynb",
+    "title": "확률과 베이즈 정리"
+  },
+  {
+    "week": 5,
+    "file": "CE387_W05.ipynb",
+    "title": "베이즈 갱신과 수락·기각 표본추출"
+  },
+  {
+    "week": 6,
+    "file": "CE387_W06.ipynb",
+    "title": "MCMC와 정보량"
+  },
+  {
+    "week": 7,
+    "file": "CE387_W07.ipynb",
+    "title": "확률·표본추출 종합 검토"
+  },
+  {
+    "week": 8,
+    "file": "CE387_W08.ipynb",
+    "title": "벡터·행렬과 선형변환"
+  },
+  {
+    "week": 9,
+    "file": "CE387_W09.ipynb",
+    "title": "고유값·고유벡터와 최소제곱"
+  },
+  {
+    "week": 10,
+    "file": "CE387_W10.ipynb",
+    "title": "SVD·PCA와 최적화의 시작"
+  },
+  {
+    "week": 11,
+    "file": "CE387_W11.ipynb",
+    "title": "경사하강법·일반화"
+  },
+  {
+    "week": 12,
+    "file": "CE387_W12.ipynb",
+    "title": "회귀와 분류"
+  },
+  {
+    "week": 13,
+    "file": "CE387_W13.ipynb",
+    "title": "신경망의 순전파·미분·갱신"
+  },
+  {
+    "week": 14,
+    "file": "CE387_W14.ipynb",
+    "title": "Softmax·교차엔트로피·CNN"
+  },
+  {
+    "week": 15,
+    "file": "CE387_W15.ipynb",
+    "title": "자료부터 결과 해석까지"
+  }
+]

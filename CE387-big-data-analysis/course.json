@@ -1,0 +1,545 @@
+{
+  "schema_version": 1,
+  "code": "CE387",
+  "name": "수자원빅데이터분석및실습",
+  "semester": 2,
+  "local_directory": "CE387_수자원빅데이터분석및실습",
+  "legacy_directory": "2.수자원빅데이터분석및실습",
+  "weeks": [
+    {
+      "week": 1,
+      "sessions": [
+        {
+          "id": "W01a",
+          "topic": "과목 소개",
+          "kind": "lesson"
+        },
+        {
+          "id": "W01b",
+          "topic": "자료 분석·AI의 기초",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "sessions": [
+        {
+          "id": "W02a",
+          "topic": "Python 기초 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W02b",
+          "topic": "Python 기초 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "sessions": [
+        {
+          "id": "W03a",
+          "topic": "제어문·함수·라이브러리",
+          "kind": "lesson"
+        },
+        {
+          "id": "W03b",
+          "topic": "통계 개요",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "sessions": [
+        {
+          "id": "W04a",
+          "topic": "확률",
+          "kind": "lesson"
+        },
+        {
+          "id": "W04b",
+          "topic": "베이즈 정리",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "sessions": [
+        {
+          "id": "W05a",
+          "topic": "빈도주의·베이즈 관점",
+          "kind": "lesson"
+        },
+        {
+          "id": "W05b",
+          "topic": "수락·기각 표본추출",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "sessions": [
+        {
+          "id": "W06a",
+          "topic": "MCMC",
+          "kind": "lesson"
+        },
+        {
+          "id": "W06b",
+          "topic": "정보이론",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "sessions": [
+        {
+          "id": "W07a",
+          "topic": "퀴즈·전반부 복습",
+          "kind": "lesson"
+        },
+        {
+          "id": "W07b",
+          "topic": "중간평가",
+          "kind": "assessment"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "sessions": [
+        {
+          "id": "W08a",
+          "topic": "선형대수 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W08b",
+          "topic": "선형대수 (2)·실습",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "sessions": [
+        {
+          "id": "W09a",
+          "topic": "선형대수 (3)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W09b",
+          "topic": "선형대수 (4)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "sessions": [
+        {
+          "id": "W10a",
+          "topic": "SVD·PCA 실습",
+          "kind": "lesson"
+        },
+        {
+          "id": "W10b",
+          "topic": "최적화 (1)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "sessions": [
+        {
+          "id": "W11a",
+          "topic": "최적화 실습",
+          "kind": "lesson"
+        },
+        {
+          "id": "W11b",
+          "topic": "지도학습 개요",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "sessions": [
+        {
+          "id": "W12a",
+          "topic": "회귀",
+          "kind": "lesson"
+        },
+        {
+          "id": "W12b",
+          "topic": "분류",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "sessions": [
+        {
+          "id": "W13a",
+          "topic": "신경망 (1)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W13b",
+          "topic": "신경망 (2)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "sessions": [
+        {
+          "id": "W14a",
+          "topic": "신경망 (3)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W14b",
+          "topic": "신경망 (4)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "sessions": [
+        {
+          "id": "W15a",
+          "topic": "퀴즈·종합 복습",
+          "kind": "lesson"
+        },
+        {
+          "id": "W15b",
+          "topic": "기말평가",
+          "kind": "assessment"
+        }
+      ]
+    }
+  ],
+  "lectures": [
+    {
+      "id": "W01a",
+      "file": "CE387_W01a_Intro1.pptx",
+      "source_file": "2026_S2_BigData_Wk1a_Intro1.pptx",
+      "source_sha256": "ef77ec5b597f2b10efd8446185aa5252eb45d8be244eb47669a398fe124f75c9",
+      "week": 1,
+      "part": "a",
+      "calendar_slide": 7,
+      "pages": 30,
+      "kind": "lesson"
+    },
+    {
+      "id": "W01b",
+      "file": "CE387_W01b_intro2.pptx",
+      "source_file": "2026_S2_BigData_Wk1b_intro2.pptx",
+      "source_sha256": "0b5a0e36363c0427462db0201f0458ef5afca8ed6dfbeea207f00f3bfa8c1392",
+      "week": 1,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 47,
+      "kind": "lesson"
+    },
+    {
+      "id": "W02a",
+      "file": "CE387_W02a_python1.pptx",
+      "source_file": "2026_S2_BigData_Wk2a_python1.pptx",
+      "source_sha256": "b64e5800e6673adee59a8c1f64c50b12d611408d848b9a5b4293ec315bfa5c4a",
+      "week": 2,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 36,
+      "kind": "lesson"
+    },
+    {
+      "id": "W02b",
+      "file": "CE387_W02b_python2.pptx",
+      "source_file": "2026_S2_BigData_Wk2b_python2.pptx",
+      "source_sha256": "3f8286444504d1a557b5e51db40617b0651a5ba66a50c86b1705aa0e7654b98e",
+      "week": 2,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 51,
+      "kind": "lesson"
+    },
+    {
+      "id": "W03a",
+      "file": "CE387_W03a_python3.pptx",
+      "source_file": "2026_S2_BigData_Wk3a_python3.pptx",
+      "source_sha256": "4ef8328d361a3c2646947570651ada306c5d9bc12e238f8342e616ebfc5b8c92",
+      "week": 3,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 34,
+      "kind": "lesson"
+    },
+    {
+      "id": "W03b",
+      "file": "CE387_W03b_statisticsIntro.pptx",
+      "source_file": "2026_S2_BigData_Wk3b_statisticsIntro.pptx",
+      "source_sha256": "3b9d704bd7008219147a2325b7908a3e5134e55f78679dcc6e7702a8bfa9af90",
+      "week": 3,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 35,
+      "kind": "lesson"
+    },
+    {
+      "id": "W04a",
+      "file": "CE387_W04a_probability.pptx",
+      "source_file": "2026_S2_BigData_Wk4a_probability.pptx",
+      "source_sha256": "5ba708ffe58959237c7f7d04551cb50acbc88ca0ef48d25632f68a2fc457b839",
+      "week": 4,
+      "part": "a",
+      "calendar_slide": 3,
+      "pages": 36,
+      "kind": "lesson"
+    },
+    {
+      "id": "W04b",
+      "file": "CE387_W04b_Bayes.pptx",
+      "source_file": "2026_S2_BigData_Wk4b_Bayes.pptx",
+      "source_sha256": "00b072f9b06283a352ed2cfafd74425bbd5355ce0a098245ee69f233bc477da1",
+      "week": 4,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 21,
+      "kind": "lesson"
+    },
+    {
+      "id": "W05a",
+      "file": "CE387_W05a_FreVsBayes.pptx",
+      "source_file": "2026_S2_BigData_Wk5a_FreVsBayes.pptx",
+      "source_sha256": "799c80f3774f6497c3be3efe9ace5dadc4ce2aaa5d587a791f569c1d5fa7d10f",
+      "week": 5,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 31,
+      "kind": "lesson"
+    },
+    {
+      "id": "W05b",
+      "file": "CE387_W05b_RejectSampling.pptx",
+      "source_file": "2026_S2_BigData_Wk5b_RejectSampling.pptx",
+      "source_sha256": "0277f1accf9bccd5cb43321898036c91f2adeb4731bc0343b8a013fd564825c7",
+      "week": 5,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 33,
+      "kind": "lesson"
+    },
+    {
+      "id": "W06a",
+      "file": "CE387_W06a_MCMC_Sampling.pptx",
+      "source_file": "2026_S2_BigData_Wk6a_MCMC_Sampling.pptx",
+      "source_sha256": "5106ec383d184d813cabdf0b4f4dab0eacfeee04f07f9eab020d76e6bd09f96d",
+      "week": 6,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 31,
+      "kind": "lesson"
+    },
+    {
+      "id": "W06b",
+      "file": "CE387_W06b_InfoTheo.pptx",
+      "source_file": "2026_S2_BigData_Wk6b_InfoTheo.pptx",
+      "source_sha256": "dbc90c23ed2b9bfe8b06a4446c7257fcf4510c2654c709bf3c6e0fbea71f66df",
+      "week": 6,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 40,
+      "kind": "lesson"
+    },
+    {
+      "id": "W07a",
+      "file": "CE387_W07a_summary.pptx",
+      "source_file": "2026_S2_BigData_Wk7a_summary.pptx",
+      "source_sha256": "01b2276ea8cfefebc5741d4f9f56d79d6be3ba65ea5cfc1fba3e4f936b8d0c77",
+      "week": 7,
+      "part": "a",
+      "calendar_slide": 3,
+      "pages": 29,
+      "kind": "lesson"
+    },
+    {
+      "id": "W08a",
+      "file": "CE387_W08a_LinearAlgebra1.pptx",
+      "source_file": "2026_S2_BigData_Wk8a_LinearAlgebra1.pptx",
+      "source_sha256": "b7fe9a0079e34e3d0d746ee1d186f1d223d7f57624b13f45a1eaf69e3f372d0e",
+      "week": 8,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 43,
+      "kind": "lesson"
+    },
+    {
+      "id": "W08b",
+      "file": "CE387_W08b_LinearAlgebra2_Practice.pptx",
+      "source_file": "2026_S2_BigData_Wk8b_LinearAlgebra2_실습.pptx",
+      "source_sha256": "7d1effac00a8daac9428bef0079229fa2cba0a46b8c29d49bda9558fe32199e6",
+      "week": 8,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 6,
+      "kind": "lesson"
+    },
+    {
+      "id": "W09a",
+      "file": "CE387_W09a_LinearAlgebra3.pptx",
+      "source_file": "2026_S2_BigData_Wk9a_LinearAlgebra3.pptx",
+      "source_sha256": "b9f39a8f60ac16f0b8ab8b9439f941d1763d6a367d954b489a83ec486cd1ee4e",
+      "week": 9,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 31,
+      "kind": "lesson"
+    },
+    {
+      "id": "W09b",
+      "file": "CE387_W09b_LinearAlgebra4.pptx",
+      "source_file": "2026_S2_BigData_Wk9b_LinearAlgebra4.pptx",
+      "source_sha256": "a199f0d2751961e941c2b8ec253bc9636b28ee6f99e13e947f2f3a5f8717ff87",
+      "week": 9,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 41,
+      "kind": "lesson"
+    },
+    {
+      "id": "W10a",
+      "file": "CE387_W10a_LinearAlgebra5_Practice.pptx",
+      "source_file": "2026_S2_BigData_Wk10a_LinearAlgebra5_실습.pptx",
+      "source_sha256": "9d79a70993232968cbda05ed31628a0c910d121241f938e3d7da5ee7faec8bf8",
+      "week": 10,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 6,
+      "kind": "lesson"
+    },
+    {
+      "id": "W10b",
+      "file": "CE387_W10b_Optimization1.pptx",
+      "source_file": "2026_S2_BigData_Wk10b_Optimization1.pptx",
+      "source_sha256": "fecc0c922f1913b91e746072b983fee8edf4d97daac1fa693986accd81391a1b",
+      "week": 10,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 36,
+      "kind": "lesson"
+    },
+    {
+      "id": "W11a",
+      "file": "CE387_W11a_Optimization2_Practice.pptx",
+      "source_file": "2026_S2_BigData_Wk11a_Optimization2_실습.pptx",
+      "source_sha256": "86e07f16745835c8fbd71f5b75475500bfac232a67a0df4071fc693a6ab177a5",
+      "week": 11,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 5,
+      "kind": "lesson"
+    },
+    {
+      "id": "W11b",
+      "file": "CE387_W11b_SLIntro.pptx",
+      "source_file": "2026_S2_BigData_Wk11b_SLIntro.pptx",
+      "source_sha256": "8dfa5ab40c1f9a98de7a5f2b27fd9e48057fb364075b5592372f04c4c4f0014d",
+      "week": 11,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 40,
+      "kind": "lesson"
+    },
+    {
+      "id": "W12a",
+      "file": "CE387_W12a_Regression.pptx",
+      "source_file": "2026_S2_BigData_Wk12a_Regression.pptx",
+      "source_sha256": "55899cc60172477afdd3f5adb6316fa653417971ffe6253d1e764c941a3a9d20",
+      "week": 12,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 43,
+      "kind": "lesson"
+    },
+    {
+      "id": "W12b",
+      "file": "CE387_W12b_Classification.pptx",
+      "source_file": "2026_S2_BigData_Wk12b_Classification.pptx",
+      "source_sha256": "dbd30ecbda6c54c56086a836ffe2556af2688f84e4fdcbc1ffdbd9e214a381cd",
+      "week": 12,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 46,
+      "kind": "lesson"
+    },
+    {
+      "id": "W13a",
+      "file": "CE387_W13a_NeuralNetwork1.pptx",
+      "source_file": "2026_S2_BigData_Wk13a_NeuralNetwork1.pptx",
+      "source_sha256": "6d494d2287f4bf43efa9eea167c29fd6f614f0a0b7b4a4fa9b3c104c0ad9b350",
+      "week": 13,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 35,
+      "kind": "lesson"
+    },
+    {
+      "id": "W13b",
+      "file": "CE387_W13b_NeuralNetwork2.pptx",
+      "source_file": "2026_S2_BigData_Wk13b_NeuralNetwork2.pptx",
+      "source_sha256": "d95c223503d5f3f0d4c845e3aa86f0acff7651d8f3853cebf7d05d54c24053b6",
+      "week": 13,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 34,
+      "kind": "lesson"
+    },
+    {
+      "id": "W14a",
+      "file": "CE387_W14a_NeuralNetwork3.pptx",
+      "source_file": "2026_S2_BigData_Wk14a_NeuralNetwork3.pptx",
+      "source_sha256": "e214535bb864b52c92d8b79ce210874a8bce58c7655a79c573c5a3807d3c974e",
+      "week": 14,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 35,
+      "kind": "lesson"
+    },
+    {
+      "id": "W14b",
+      "file": "CE387_W14b_NeuralNetwork4.pptx",
+      "source_file": "2026_S2_BigData_Wk14b_NeuralNetwork4.pptx",
+      "source_sha256": "35d785fde44209fbddb6c6798d9e9bb2b0886a34f9036c4593d7cdba8d448413",
+      "week": 14,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 38,
+      "kind": "lesson"
+    },
+    {
+      "id": "W15a",
+      "file": "CE387_W15a_Summary.pptx",
+      "source_file": "2026_S2_BigData_Wk15a_Summary.pptx",
+      "source_sha256": "e083b962daae8bc4ae30b84b11649e5da53f48dc57ad35cceb10d52bdd33a769",
+      "week": 15,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 14,
+      "kind": "lesson"
+    }
+  ]
+}

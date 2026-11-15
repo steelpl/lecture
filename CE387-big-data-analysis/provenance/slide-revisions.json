@@ -1,0 +1,3880 @@
+{
+  "course": {
+    "schema_version": 1,
+    "code": "CE387",
+    "name": "수자원빅데이터분석및실습",
+    "semester": 2,
+    "local_directory": "CE387_수자원빅데이터분석및실습",
+    "legacy_directory": "2.수자원빅데이터분석및실습",
+    "weeks": [
+      {
+        "week": 1,
+        "sessions": [
+          {
+            "id": "W01a",
+            "topic": "과목 소개",
+            "kind": "lesson"
+          },
+          {
+            "id": "W01b",
+            "topic": "자료 분석·AI의 기초",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "sessions": [
+          {
+            "id": "W02a",
+            "topic": "Python 기초 (1)",
+            "kind": "lesson"
+          },
+          {
+            "id": "W02b",
+            "topic": "Python 기초 (2)",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "sessions": [
+          {
+            "id": "W03a",
+            "topic": "제어문·함수·라이브러리",
+            "kind": "lesson"
+          },
+          {
+            "id": "W03b",
+            "topic": "통계 개요",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "sessions": [
+          {
+            "id": "W04a",
+            "topic": "확률",
+            "kind": "lesson"
+          },
+          {
+            "id": "W04b",
+            "topic": "베이즈 정리",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "sessions": [
+          {
+            "id": "W05a",
+            "topic": "빈도주의·베이즈 관점",
+            "kind": "lesson"
+          },
+          {
+            "id": "W05b",
+            "topic": "수락·기각 표본추출",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 6,
+        "sessions": [
+          {
+            "id": "W06a",
+            "topic": "MCMC",
+            "kind": "lesson"
+          },
+          {
+            "id": "W06b",
+            "topic": "정보이론",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 7,
+        "sessions": [
+          {
+            "id": "W07a",
+            "topic": "퀴즈·전반부 복습",
+            "kind": "lesson"
+          },
+          {
+            "id": "W07b",
+            "topic": "중간평가",
+            "kind": "assessment"
+          }
+        ]
+      },
+      {
+        "week": 8,
+        "sessions": [
+          {
+            "id": "W08a",
+            "topic": "선형대수 (1)",
+            "kind": "lesson"
+          },
+          {
+            "id": "W08b",
+            "topic": "선형대수 (2)·실습",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 9,
+        "sessions": [
+          {
+            "id": "W09a",
+            "topic": "선형대수 (3)",
+            "kind": "lesson"
+          },
+          {
+            "id": "W09b",
+            "topic": "선형대수 (4)",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 10,
+        "sessions": [
+          {
+            "id": "W10a",
+            "topic": "SVD·PCA 실습",
+            "kind": "lesson"
+          },
+          {
+            "id": "W10b",
+            "topic": "최적화 (1)",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 11,
+        "sessions": [
+          {
+            "id": "W11a",
+            "topic": "최적화 실습",
+            "kind": "lesson"
+          },
+          {
+            "id": "W11b",
+            "topic": "지도학습 개요",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 12,
+        "sessions": [
+          {
+            "id": "W12a",
+            "topic": "회귀",
+            "kind": "lesson"
+          },
+          {
+            "id": "W12b",
+            "topic": "분류",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 13,
+        "sessions": [
+          {
+            "id": "W13a",
+            "topic": "신경망 (1)",
+            "kind": "lesson"
+          },
+          {
+            "id": "W13b",
+            "topic": "신경망 (2)",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 14,
+        "sessions": [
+          {
+            "id": "W14a",
+            "topic": "신경망 (3)",
+            "kind": "lesson"
+          },
+          {
+            "id": "W14b",
+            "topic": "신경망 (4)",
+            "kind": "lesson"
+          }
+        ]
+      },
+      {
+        "week": 15,
+        "sessions": [
+          {
+            "id": "W15a",
+            "topic": "퀴즈·종합 복습",
+            "kind": "lesson"
+          },
+          {
+            "id": "W15b",
+            "topic": "기말평가",
+            "kind": "assessment"
+          }
+        ]
+      }
+    ],
+    "lectures": [
+      {
+        "id": "W01a",
+        "file": "CE387_W01a_Intro1.pptx",
+        "source_file": "2026_S2_BigData_Wk1a_Intro1.pptx",
+        "source_sha256": "ef77ec5b597f2b10efd8446185aa5252eb45d8be244eb47669a398fe124f75c9",
+        "week": 1,
+        "part": "a",
+        "calendar_slide": 7,
+        "pages": 30,
+        "kind": "lesson"
+      },
+      {
+        "id": "W01b",
+        "file": "CE387_W01b_intro2.pptx",
+        "source_file": "2026_S2_BigData_Wk1b_intro2.pptx",
+        "source_sha256": "0b5a0e36363c0427462db0201f0458ef5afca8ed6dfbeea207f00f3bfa8c1392",
+        "week": 1,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 47,
+        "kind": "lesson"
+      },
+      {
+        "id": "W02a",
+        "file": "CE387_W02a_python1.pptx",
+        "source_file": "2026_S2_BigData_Wk2a_python1.pptx",
+        "source_sha256": "b64e5800e6673adee59a8c1f64c50b12d611408d848b9a5b4293ec315bfa5c4a",
+        "week": 2,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 36,
+        "kind": "lesson"
+      },
+      {
+        "id": "W02b",
+        "file": "CE387_W02b_python2.pptx",
+        "source_file": "2026_S2_BigData_Wk2b_python2.pptx",
+        "source_sha256": "3f8286444504d1a557b5e51db40617b0651a5ba66a50c86b1705aa0e7654b98e",
+        "week": 2,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 51,
+        "kind": "lesson"
+      },
+      {
+        "id": "W03a",
+        "file": "CE387_W03a_python3.pptx",
+        "source_file": "2026_S2_BigData_Wk3a_python3.pptx",
+        "source_sha256": "4ef8328d361a3c2646947570651ada306c5d9bc12e238f8342e616ebfc5b8c92",
+        "week": 3,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 34,
+        "kind": "lesson"
+      },
+      {
+        "id": "W03b",
+        "file": "CE387_W03b_statisticsIntro.pptx",
+        "source_file": "2026_S2_BigData_Wk3b_statisticsIntro.pptx",
+        "source_sha256": "3b9d704bd7008219147a2325b7908a3e5134e55f78679dcc6e7702a8bfa9af90",
+        "week": 3,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 35,
+        "kind": "lesson"
+      },
+      {
+        "id": "W04a",
+        "file": "CE387_W04a_probability.pptx",
+        "source_file": "2026_S2_BigData_Wk4a_probability.pptx",
+        "source_sha256": "5ba708ffe58959237c7f7d04551cb50acbc88ca0ef48d25632f68a2fc457b839",
+        "week": 4,
+        "part": "a",
+        "calendar_slide": 3,
+        "pages": 36,
+        "kind": "lesson"
+      },
+      {
+        "id": "W04b",
+        "file": "CE387_W04b_Bayes.pptx",
+        "source_file": "2026_S2_BigData_Wk4b_Bayes.pptx",
+        "source_sha256": "00b072f9b06283a352ed2cfafd74425bbd5355ce0a098245ee69f233bc477da1",
+        "week": 4,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 21,
+        "kind": "lesson"
+      },
+      {
+        "id": "W05a",
+        "file": "CE387_W05a_FreVsBayes.pptx",
+        "source_file": "2026_S2_BigData_Wk5a_FreVsBayes.pptx",
+        "source_sha256": "799c80f3774f6497c3be3efe9ace5dadc4ce2aaa5d587a791f569c1d5fa7d10f",
+        "week": 5,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 31,
+        "kind": "lesson"
+      },
+      {
+        "id": "W05b",
+        "file": "CE387_W05b_RejectSampling.pptx",
+        "source_file": "2026_S2_BigData_Wk5b_RejectSampling.pptx",
+        "source_sha256": "0277f1accf9bccd5cb43321898036c91f2adeb4731bc0343b8a013fd564825c7",
+        "week": 5,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 33,
+        "kind": "lesson"
+      },
+      {
+        "id": "W06a",
+        "file": "CE387_W06a_MCMC_Sampling.pptx",
+        "source_file": "2026_S2_BigData_Wk6a_MCMC_Sampling.pptx",
+        "source_sha256": "5106ec383d184d813cabdf0b4f4dab0eacfeee04f07f9eab020d76e6bd09f96d",
+        "week": 6,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 31,
+        "kind": "lesson"
+      },
+      {
+        "id": "W06b",
+        "file": "CE387_W06b_InfoTheo.pptx",
+        "source_file": "2026_S2_BigData_Wk6b_InfoTheo.pptx",
+        "source_sha256": "dbc90c23ed2b9bfe8b06a4446c7257fcf4510c2654c709bf3c6e0fbea71f66df",
+        "week": 6,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 40,
+        "kind": "lesson"
+      },
+      {
+        "id": "W07a",
+        "file": "CE387_W07a_summary.pptx",
+        "source_file": "2026_S2_BigData_Wk7a_summary.pptx",
+        "source_sha256": "01b2276ea8cfefebc5741d4f9f56d79d6be3ba65ea5cfc1fba3e4f936b8d0c77",
+        "week": 7,
+        "part": "a",
+        "calendar_slide": 3,
+        "pages": 29,
+        "kind": "lesson"
+      },
+      {
+        "id": "W08a",
+        "file": "CE387_W08a_LinearAlgebra1.pptx",
+        "source_file": "2026_S2_BigData_Wk8a_LinearAlgebra1.pptx",
+        "source_sha256": "b7fe9a0079e34e3d0d746ee1d186f1d223d7f57624b13f45a1eaf69e3f372d0e",
+        "week": 8,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 43,
+        "kind": "lesson"
+      },
+      {
+        "id": "W08b",
+        "file": "CE387_W08b_LinearAlgebra2_Practice.pptx",
+        "source_file": "2026_S2_BigData_Wk8b_LinearAlgebra2_실습.pptx",
+        "source_sha256": "7d1effac00a8daac9428bef0079229fa2cba0a46b8c29d49bda9558fe32199e6",
+        "week": 8,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 6,
+        "kind": "lesson"
+      },
+      {
+        "id": "W09a",
+        "file": "CE387_W09a_LinearAlgebra3.pptx",
+        "source_file": "2026_S2_BigData_Wk9a_LinearAlgebra3.pptx",
+        "source_sha256": "b9f39a8f60ac16f0b8ab8b9439f941d1763d6a367d954b489a83ec486cd1ee4e",
+        "week": 9,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 31,
+        "kind": "lesson"
+      },
+      {
+        "id": "W09b",
+        "file": "CE387_W09b_LinearAlgebra4.pptx",
+        "source_file": "2026_S2_BigData_Wk9b_LinearAlgebra4.pptx",
+        "source_sha256": "a199f0d2751961e941c2b8ec253bc9636b28ee6f99e13e947f2f3a5f8717ff87",
+        "week": 9,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 41,
+        "kind": "lesson"
+      },
+      {
+        "id": "W10a",
+        "file": "CE387_W10a_LinearAlgebra5_Practice.pptx",
+        "source_file": "2026_S2_BigData_Wk10a_LinearAlgebra5_실습.pptx",
+        "source_sha256": "9d79a70993232968cbda05ed31628a0c910d121241f938e3d7da5ee7faec8bf8",
+        "week": 10,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 6,
+        "kind": "lesson"
+      },
+      {
+        "id": "W10b",
+        "file": "CE387_W10b_Optimization1.pptx",
+        "source_file": "2026_S2_BigData_Wk10b_Optimization1.pptx",
+        "source_sha256": "fecc0c922f1913b91e746072b983fee8edf4d97daac1fa693986accd81391a1b",
+        "week": 10,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 36,
+        "kind": "lesson"
+      },
+      {
+        "id": "W11a",
+        "file": "CE387_W11a_Optimization2_Practice.pptx",
+        "source_file": "2026_S2_BigData_Wk11a_Optimization2_실습.pptx",
+        "source_sha256": "86e07f16745835c8fbd71f5b75475500bfac232a67a0df4071fc693a6ab177a5",
+        "week": 11,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 5,
+        "kind": "lesson"
+      },
+      {
+        "id": "W11b",
+        "file": "CE387_W11b_SLIntro.pptx",
+        "source_file": "2026_S2_BigData_Wk11b_SLIntro.pptx",
+        "source_sha256": "8dfa5ab40c1f9a98de7a5f2b27fd9e48057fb364075b5592372f04c4c4f0014d",
+        "week": 11,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 40,
+        "kind": "lesson"
+      },
+      {
+        "id": "W12a",
+        "file": "CE387_W12a_Regression.pptx",
+        "source_file": "2026_S2_BigData_Wk12a_Regression.pptx",
+        "source_sha256": "55899cc60172477afdd3f5adb6316fa653417971ffe6253d1e764c941a3a9d20",
+        "week": 12,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 43,
+        "kind": "lesson"
+      },
+      {
+        "id": "W12b",
+        "file": "CE387_W12b_Classification.pptx",
+        "source_file": "2026_S2_BigData_Wk12b_Classification.pptx",
+        "source_sha256": "dbd30ecbda6c54c56086a836ffe2556af2688f84e4fdcbc1ffdbd9e214a381cd",
+        "week": 12,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 46,
+        "kind": "lesson"
+      },
+      {
+        "id": "W13a",
+        "file": "CE387_W13a_NeuralNetwork1.pptx",
+        "source_file": "2026_S2_BigData_Wk13a_NeuralNetwork1.pptx",
+        "source_sha256": "6d494d2287f4bf43efa9eea167c29fd6f614f0a0b7b4a4fa9b3c104c0ad9b350",
+        "week": 13,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 35,
+        "kind": "lesson"
+      },
+      {
+        "id": "W13b",
+        "file": "CE387_W13b_NeuralNetwork2.pptx",
+        "source_file": "2026_S2_BigData_Wk13b_NeuralNetwork2.pptx",
+        "source_sha256": "d95c223503d5f3f0d4c845e3aa86f0acff7651d8f3853cebf7d05d54c24053b6",
+        "week": 13,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 34,
+        "kind": "lesson"
+      },
+      {
+        "id": "W14a",
+        "file": "CE387_W14a_NeuralNetwork3.pptx",
+        "source_file": "2026_S2_BigData_Wk14a_NeuralNetwork3.pptx",
+        "source_sha256": "e214535bb864b52c92d8b79ce210874a8bce58c7655a79c573c5a3807d3c974e",
+        "week": 14,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 35,
+        "kind": "lesson"
+      },
+      {
+        "id": "W14b",
+        "file": "CE387_W14b_NeuralNetwork4.pptx",
+        "source_file": "2026_S2_BigData_Wk14b_NeuralNetwork4.pptx",
+        "source_sha256": "35d785fde44209fbddb6c6798d9e9bb2b0886a34f9036c4593d7cdba8d448413",
+        "week": 14,
+        "part": "b",
+        "calendar_slide": 2,
+        "pages": 38,
+        "kind": "lesson"
+      },
+      {
+        "id": "W15a",
+        "file": "CE387_W15a_Summary.pptx",
+        "source_file": "2026_S2_BigData_Wk15a_Summary.pptx",
+        "source_sha256": "e083b962daae8bc4ae30b84b11649e5da53f48dc57ad35cceb10d52bdd33a769",
+        "week": 15,
+        "part": "a",
+        "calendar_slide": 2,
+        "pages": 14,
+        "kind": "lesson"
+      }
+    ]
+  },
+  "replace": [
+    {
+      "file": "CE387_W01a_Intro1.pptx",
+      "page": 4,
+      "title": "관련 자격: 데이터 분석 준전문가 ADsP",
+      "items": [
+        {
+          "kind": "text",
+          "text": "데이터 이해",
+          "x": 45,
+          "y": 165,
+          "w": 228.0,
+          "h": 78,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "분석 기획",
+          "x": 275.0,
+          "y": 165,
+          "w": 228.0,
+          "h": 78,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "분석 기초",
+          "x": 505.0,
+          "y": 165,
+          "w": 228.0,
+          "h": 78,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "자료의 의미",
+          "x": 45,
+          "y": 245,
+          "w": 228.0,
+          "h": 78,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "질문과 분석 계획",
+          "x": 275.0,
+          "y": 245,
+          "w": 228.0,
+          "h": 78,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "통계·분석 방법",
+          "x": 505.0,
+          "y": 245,
+          "w": 228.0,
+          "h": 78,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "기본 개념을 정리할 때 참고 · 자격 취득은 선택",
+          "x": 45,
+          "y": 440,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "link",
+          "text": "DataQ 공식 안내",
+          "url": "https://www.dataq.or.kr/",
+          "x": 45,
+          "y": 507,
+          "w": 250,
+          "h": 25,
+          "size": 14
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01a_Intro1.pptx",
+      "page": 12,
+      "title": "관측자료는 얼마나 빠르게 쌓일까?",
+      "items": [
+        {
+          "kind": "text",
+          "text": "예: 관측소 1,000곳 · 매분 3개 값 기록",
+          "x": 45,
+          "y": 110,
+          "w": 690,
+          "h": 55,
+          "size": 25,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "기간",
+          "x": 45,
+          "y": 210,
+          "w": 148,
+          "h": 68,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "관측 행 수",
+          "x": 195,
+          "y": 210,
+          "w": 248,
+          "h": 68,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "숫자 저장량",
+          "x": 445,
+          "y": 210,
+          "w": 288,
+          "h": 68,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "하루",
+          "x": 45,
+          "y": 280,
+          "w": 148,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "144만 행",
+          "x": 195,
+          "y": 280,
+          "w": 248,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "약 34.56 MB",
+          "x": 445,
+          "y": 280,
+          "w": 288,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "30일",
+          "x": 45,
+          "y": 350,
+          "w": 148,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "4,320만 행",
+          "x": 195,
+          "y": 350,
+          "w": 248,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "약 1.04 GB",
+          "x": 445,
+          "y": 350,
+          "w": 288,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "값 하나 8바이트 기준 · 날짜·문자·파일 형식의 크기 제외",
+          "x": 45,
+          "y": 465,
+          "w": 690,
+          "h": 35,
+          "size": 18,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01a_Intro1.pptx",
+      "page": 24,
+      "title": "작은 자료로 분석 결과 확인",
+      "items": [
+        {
+          "kind": "text",
+          "text": "수위 자료: [1.2, 결측, 1.8] m",
+          "x": 45,
+          "y": 115,
+          "w": 690,
+          "h": 55,
+          "size": 26,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "처리 방법",
+          "x": 45,
+          "y": 225,
+          "w": 198,
+          "h": 63,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "계산",
+          "x": 245,
+          "y": 225,
+          "w": 328,
+          "h": 63,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "평균",
+          "x": 575,
+          "y": 225,
+          "w": 158,
+          "h": 63,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "결측 제외",
+          "x": 45,
+          "y": 290,
+          "w": 198,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "(1.2 + 1.8) / 2",
+          "x": 245,
+          "y": 290,
+          "w": 328,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "1.5 m",
+          "x": 575,
+          "y": 290,
+          "w": 158,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "0으로 대체",
+          "x": 45,
+          "y": 355,
+          "w": 198,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "(1.2 + 0 + 1.8) / 3",
+          "x": 245,
+          "y": 355,
+          "w": 328,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "1.0 m",
+          "x": 575,
+          "y": 355,
+          "w": 158,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "결측을 어떻게 다뤘는지 확인 → 결과의 의미도 달라짐",
+          "x": 45,
+          "y": 440,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 6,
+      "title": "Python으로 자료를 읽고 계산",
+      "items": [
+        {
+          "kind": "text",
+          "text": "rain = [0, 20, 5]\nprint(sum(rain))\nprint(max(rain))",
+          "x": 45,
+          "y": 140,
+          "w": 690,
+          "h": 170,
+          "size": 24,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "Consolas",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "합계",
+          "x": 45,
+          "y": 350,
+          "w": 343.0,
+          "h": 43,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "최댓값",
+          "x": 390.0,
+          "y": 350,
+          "w": 343.0,
+          "h": 43,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "25",
+          "x": 45,
+          "y": 395,
+          "w": 343.0,
+          "h": 43,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "20",
+          "x": 390.0,
+          "y": 395,
+          "w": 343.0,
+          "h": 43,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 7,
+      "title": "Python 코드가 실행되기까지",
+      "items": [
+        {
+          "kind": "text",
+          "text": "소스 코드",
+          "x": 40,
+          "y": 170,
+          "w": 200,
+          "h": 80,
+          "size": 24,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": ".py 파일",
+          "x": 40,
+          "y": 285,
+          "w": 200,
+          "h": 60,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "→",
+          "x": 242,
+          "y": 190,
+          "w": 45,
+          "h": 45,
+          "size": 26,
+          "color": "AF985F",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "바이트코드",
+          "x": 290,
+          "y": 170,
+          "w": 200,
+          "h": 80,
+          "size": 24,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "CPython이 변환",
+          "x": 290,
+          "y": 285,
+          "w": 200,
+          "h": 60,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "→",
+          "x": 492,
+          "y": 190,
+          "w": 45,
+          "h": 45,
+          "size": 26,
+          "color": "AF985F",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "실행",
+          "x": 540,
+          "y": 170,
+          "w": 200,
+          "h": 80,
+          "size": 24,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "Python이 처리",
+          "x": 540,
+          "y": 285,
+          "w": 200,
+          "h": 60,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "언어의 구현에 따라 실행 방식이 달라짐",
+          "x": 45,
+          "y": 440,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 10,
+      "title": "코딩 에이전트: 코드 작성·실행·수정",
+      "items": [
+        {
+          "kind": "text",
+          "text": "질문 · 자료",
+          "x": 45,
+          "y": 165,
+          "w": 200,
+          "h": 85,
+          "size": 24,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "→",
+          "x": 252,
+          "y": 185,
+          "w": 50,
+          "h": 45,
+          "size": 26,
+          "color": "AF985F",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "코드 작성 · 실행",
+          "x": 315,
+          "y": 165,
+          "w": 210,
+          "h": 85,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "→",
+          "x": 530,
+          "y": 185,
+          "w": 50,
+          "h": 45,
+          "size": 26,
+          "color": "AF985F",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "결과 확인",
+          "x": 590,
+          "y": 165,
+          "w": 145,
+          "h": 85,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "예: 공정표의 선후관계 위반 찾기\n결과를 보고 조건을 보완하여 다시 실행",
+          "x": 70,
+          "y": 340,
+          "w": 640,
+          "h": 95,
+          "size": 25,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 13,
+      "title": "공정표: 어떤 작업이 너무 일찍 시작했을까?",
+      "items": [
+        {
+          "kind": "text",
+          "text": "작업",
+          "x": 45,
+          "y": 120,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "시작",
+          "x": 217.5,
+          "y": 120,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "종료",
+          "x": 390.0,
+          "y": 120,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "선행 작업",
+          "x": 562.5,
+          "y": 120,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "A",
+          "x": 45,
+          "y": 185,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "1일",
+          "x": 217.5,
+          "y": 185,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "5일",
+          "x": 390.0,
+          "y": 185,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "없음",
+          "x": 562.5,
+          "y": 185,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "B",
+          "x": 45,
+          "y": 250,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "1일",
+          "x": 217.5,
+          "y": 250,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "3일",
+          "x": 390.0,
+          "y": 250,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "없음",
+          "x": 562.5,
+          "y": 250,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "C",
+          "x": 45,
+          "y": 315,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "4일",
+          "x": 217.5,
+          "y": 315,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "6일",
+          "x": 390.0,
+          "y": 315,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "A",
+          "x": 562.5,
+          "y": 315,
+          "w": 170.5,
+          "h": 63,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "C 시작 4일 < A 종료 5일 → 선후관계 위반",
+          "x": 45,
+          "y": 440,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 14,
+      "title": "지시를 입출력 예로 구체화",
+      "items": [
+        {
+          "kind": "text",
+          "text": "“선행 작업이 끝나기 전에 시작한 작업을 찾아 줘.\n위반 작업과 이유를 표로 보여 줘.”",
+          "x": 45,
+          "y": 120,
+          "w": 690,
+          "h": 100,
+          "size": 24,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "입력 예",
+          "x": 45,
+          "y": 285,
+          "w": 343,
+          "h": 53,
+          "size": 20,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "기대 결과",
+          "x": 390,
+          "y": 285,
+          "w": 343,
+          "h": 53,
+          "size": 20,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "A 종료 5일 · C 시작 4일",
+          "x": 45,
+          "y": 340,
+          "w": 343,
+          "h": 53,
+          "size": 20,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "C: A 종료 전 시작",
+          "x": 390,
+          "y": 340,
+          "w": 343,
+          "h": 53,
+          "size": 20,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "A 종료 5일 · C 시작 6일",
+          "x": 45,
+          "y": 395,
+          "w": 343,
+          "h": 53,
+          "size": 20,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "위반 없음",
+          "x": 390,
+          "y": 395,
+          "w": 343,
+          "h": 53,
+          "size": 20,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 15,
+      "title": "맡길 작업과 파일의 범위 지정",
+      "items": [
+        {
+          "kind": "text",
+          "text": "jobs.csv",
+          "x": 45,
+          "y": 155,
+          "w": 200,
+          "h": 80,
+          "size": 24,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "→",
+          "x": 255,
+          "y": 175,
+          "w": 50,
+          "h": 45,
+          "size": 26,
+          "color": "AF985F",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "선후관계 검사",
+          "x": 315,
+          "y": 155,
+          "w": 210,
+          "h": 80,
+          "size": 23,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "→",
+          "x": 535,
+          "y": 175,
+          "w": 50,
+          "h": 45,
+          "size": 26,
+          "color": "AF985F",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "result.csv",
+          "x": 595,
+          "y": 155,
+          "w": 140,
+          "h": 80,
+          "size": 21,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "입력 자료와 검사 조건 명시\n결과는 새 파일에 저장 · 입력 자료 보존",
+          "x": 70,
+          "y": 330,
+          "w": 640,
+          "h": 100,
+          "size": 25,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 16,
+      "title": "예상 결과로 코드를 검토",
+      "items": [
+        {
+          "kind": "text",
+          "text": "시험 조건",
+          "x": 45,
+          "y": 145,
+          "w": 373,
+          "h": 68,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "기대 결과",
+          "x": 420,
+          "y": 145,
+          "w": 313,
+          "h": 68,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "C 시작 4일 · A 종료 5일",
+          "x": 45,
+          "y": 215,
+          "w": 373,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "위반",
+          "x": 420,
+          "y": 215,
+          "w": 313,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "C 시작 5일 · A 종료 5일",
+          "x": 45,
+          "y": 285,
+          "w": 373,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "같은 경계 허용 시 정상",
+          "x": 420,
+          "y": 285,
+          "w": 313,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "A 종료일 누락",
+          "x": 45,
+          "y": 355,
+          "w": 373,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "추가 확인 필요",
+          "x": 420,
+          "y": 355,
+          "w": 313,
+          "h": 68,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "정상·경계·누락 조건을 각각 확인",
+          "x": 45,
+          "y": 440,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 17,
+      "title": "파일 위치와 실행 환경 확인",
+      "items": [
+        {
+          "kind": "text",
+          "text": "from pathlib import Path\n\nprint(Path.cwd())\nprint(Path(\"data/jobs.csv\").exists())",
+          "x": 45,
+          "y": 135,
+          "w": 690,
+          "h": 200,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "Consolas",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "현재 폴더와 실제 파일의 위치 확인\n오류를 질문할 때 코드·입력·오류 메시지를 함께 전달",
+          "x": 45,
+          "y": 395,
+          "w": 690,
+          "h": 90,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 18,
+      "title": "계획·실행·검토를 반복",
+      "items": [
+        {
+          "kind": "text",
+          "text": "작업",
+          "x": 45,
+          "y": 130,
+          "w": 198,
+          "h": 58,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "공정표 예시",
+          "x": 245,
+          "y": 130,
+          "w": 488,
+          "h": 58,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "자료 확인",
+          "x": 45,
+          "y": 190,
+          "w": 198,
+          "h": 58,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "A 종료 5일 · C 시작 4일",
+          "x": 245,
+          "y": 190,
+          "w": 488,
+          "h": 58,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "코드 실행",
+          "x": 45,
+          "y": 250,
+          "w": 198,
+          "h": 58,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "C를 위반 작업으로 표시",
+          "x": 245,
+          "y": 250,
+          "w": 488,
+          "h": 58,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "조건 변경",
+          "x": 45,
+          "y": 310,
+          "w": 198,
+          "h": 58,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "C 시작을 6일로 변경",
+          "x": 245,
+          "y": 310,
+          "w": 488,
+          "h": 58,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "다시 확인",
+          "x": 45,
+          "y": 370,
+          "w": 198,
+          "h": 58,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "위반이 사라지는지 확인",
+          "x": 245,
+          "y": 370,
+          "w": 488,
+          "h": 58,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W02a_python1.pptx",
+      "page": 17,
+      "title": "기본 실습은 Colab · 로컬 실행은 선택",
+      "items": [
+        {
+          "kind": "text",
+          "text": "환경",
+          "x": 45,
+          "y": 145,
+          "w": 218,
+          "h": 68,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "시작 방법",
+          "x": 265,
+          "y": 145,
+          "w": 468,
+          "h": 68,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "Colab",
+          "x": 45,
+          "y": 215,
+          "w": 218,
+          "h": 68,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "브라우저에서 노트북 열기",
+          "x": 265,
+          "y": 215,
+          "w": 468,
+          "h": 68,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "내 PC",
+          "x": 45,
+          "y": 285,
+          "w": 218,
+          "h": 68,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "Python과 편집기 준비",
+          "x": 265,
+          "y": 285,
+          "w": 468,
+          "h": 68,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "추가 환경 관리",
+          "x": 45,
+          "y": 355,
+          "w": 218,
+          "h": 68,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "필요할 때 venv·conda 등 선택",
+          "x": 265,
+          "y": 355,
+          "w": 468,
+          "h": 68,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "기초 실습은 일반 CPU로 진행 가능",
+          "x": 45,
+          "y": 440,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "link",
+          "text": "Colab 열기",
+          "url": "https://colab.research.google.com/",
+          "x": 45,
+          "y": 507,
+          "w": 250,
+          "h": 25,
+          "size": 14
+        }
+      ]
+    },
+    {
+      "file": "CE387_W02a_python1.pptx",
+      "page": 18,
+      "title": "노트북 문서와 런타임 구분",
+      "items": [
+        {
+          "kind": "text",
+          "text": "노트북 문서",
+          "x": 45,
+          "y": 140,
+          "w": 320,
+          "h": 75,
+          "size": 24,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "런타임",
+          "x": 415,
+          "y": 140,
+          "w": 320,
+          "h": 75,
+          "size": 24,
+          "color": "23376E",
+          "bold": true,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "코드 · 설명 · 저장한 출력\nDrive 등에 보관",
+          "x": 45,
+          "y": 250,
+          "w": 320,
+          "h": 120,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "변수 · 메모리 · 임시 파일\n연결 종료 시 사라질 수 있음",
+          "x": 415,
+          "y": 250,
+          "w": 320,
+          "h": 120,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "문서 저장과 코드 실행은 별개",
+          "x": 45,
+          "y": 440,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W02a_python1.pptx",
+      "page": 19,
+      "title": "CPU와 GPU: 작업에 맞게 선택",
+      "items": [
+        {
+          "kind": "text",
+          "text": "작업",
+          "x": 45,
+          "y": 140,
+          "w": 338,
+          "h": 73,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "선택할 때 확인할 점",
+          "x": 385,
+          "y": 140,
+          "w": 348,
+          "h": 73,
+          "size": 21,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "작은 표·일반 코드",
+          "x": 45,
+          "y": 215,
+          "w": 338,
+          "h": 73,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "CPU로 시작",
+          "x": 385,
+          "y": 215,
+          "w": 348,
+          "h": 73,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "동시에 수행할 여러 작업",
+          "x": 45,
+          "y": 290,
+          "w": 338,
+          "h": 73,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "CPU 코어 수·프로그램 구성",
+          "x": 385,
+          "y": 290,
+          "w": 348,
+          "h": 73,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "큰 행렬의 반복 계산",
+          "x": 45,
+          "y": 365,
+          "w": 338,
+          "h": 73,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "GPU 활용 가능성과 자료 크기",
+          "x": 385,
+          "y": 365,
+          "w": 348,
+          "h": 73,
+          "size": 21,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "GPU 연결만으로 모든 코드가 빨라지지는 않음",
+          "x": 45,
+          "y": 440,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W02a_python1.pptx",
+      "page": 21,
+      "title": "셀 순서와 실행 상태",
+      "items": [
+        {
+          "kind": "text",
+          "text": "x = 10\nprint(x + 1)   # 11",
+          "x": 45,
+          "y": 125,
+          "w": 690,
+          "h": 110,
+          "size": 24,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "Consolas",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "x = 3\nprint(x + 1)   # 4",
+          "x": 45,
+          "y": 275,
+          "w": 690,
+          "h": 110,
+          "size": 24,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "Consolas",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "결과가 이상하면 재시작 후 위에서 아래로 실행",
+          "x": 45,
+          "y": 440,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "link",
+          "text": "실습 열기",
+          "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week02/CE387_W02.ipynb",
+          "x": 45,
+          "y": 507,
+          "w": 250,
+          "h": 25,
+          "size": 14
+        }
+      ]
+    },
+    {
+      "file": "CE387_W07a_summary.pptx",
+      "page": 29,
+      "title": "중간평가 안내",
+      "items": [
+        {
+          "kind": "text",
+          "text": "일정 · 장소 · 범위 · 준비물",
+          "x": 70,
+          "y": 160,
+          "w": 640,
+          "h": 60,
+          "size": 29,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "학기 운영안내와 e-campus 공지 확인\n\n도구·자료·AI 사용 범위는 평가별 안내 적용",
+          "x": 70,
+          "y": 280,
+          "w": 640,
+          "h": 125,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "link",
+          "text": "학기 운영안내",
+          "url": "https://github.com/steelpl/lecture/blob/main/CURRENT_OFFERING.md",
+          "x": 45,
+          "y": 507,
+          "w": 250,
+          "h": 25,
+          "size": 14
+        }
+      ]
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "page": 14,
+      "title": "기말평가 안내",
+      "items": [
+        {
+          "kind": "text",
+          "text": "일정 · 장소 · 범위 · 준비물",
+          "x": 70,
+          "y": 160,
+          "w": 640,
+          "h": 60,
+          "size": 29,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "학기 운영안내와 e-campus 공지 확인\n\n도구·자료·AI 사용 범위는 평가별 안내 적용",
+          "x": 70,
+          "y": 280,
+          "w": 640,
+          "h": 125,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "link",
+          "text": "학기 운영안내",
+          "url": "https://github.com/steelpl/lecture/blob/main/CURRENT_OFFERING.md",
+          "x": 45,
+          "y": 507,
+          "w": 250,
+          "h": 25,
+          "size": 14
+        }
+      ]
+    },
+    {
+      "file": "CE387_W08a_LinearAlgebra1.pptx",
+      "page": 23,
+      "title": "대칭행렬에 의한 늘이기",
+      "items": [
+        {
+          "kind": "image",
+          "asset": "stretch",
+          "x": 215,
+          "y": 100,
+          "w": 500,
+          "h": 317
+        },
+        {
+          "kind": "text",
+          "text": "A = [2  1]\n    [1  2]",
+          "x": 40,
+          "y": 155,
+          "w": 250,
+          "h": 110,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "Consolas",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "A [1, 1]ᵀ\n= [3, 3]ᵀ",
+          "x": 40,
+          "y": 285,
+          "w": 230,
+          "h": 95,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "방향에 따라 3배·1배 변화",
+          "x": 45,
+          "y": 450,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W08a_LinearAlgebra1.pptx",
+      "page": 27,
+      "title": "방향 [1, 2]로 직교투영",
+      "items": [
+        {
+          "kind": "image",
+          "asset": "projection",
+          "x": 215,
+          "y": 100,
+          "w": 500,
+          "h": 317
+        },
+        {
+          "kind": "text",
+          "text": "P = [0.2  0.4]\n    [0.4  0.8]",
+          "x": 40,
+          "y": 155,
+          "w": 250,
+          "h": 110,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "Consolas",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "P [1, 1]ᵀ\n= [0.6, 1.2]ᵀ",
+          "x": 40,
+          "y": 285,
+          "w": 230,
+          "h": 95,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "한 번 더 투영해도 같은 점 · P² = P",
+          "x": 45,
+          "y": 450,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W13b_NeuralNetwork2.pptx",
+      "page": 27,
+      "title": "여섯 파라미터의 기울기",
+      "items": [
+        {
+          "kind": "text",
+          "text": "파라미터",
+          "x": 45,
+          "y": 120,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "현재 값",
+          "x": 275,
+          "y": 120,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "SSR 기울기",
+          "x": 505,
+          "y": 120,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "W1",
+          "x": 45,
+          "y": 165,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "0.06",
+          "x": 275,
+          "y": 165,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "-91.6119",
+          "x": 505,
+          "y": 165,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "B1",
+          "x": 45,
+          "y": 210,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "0.00",
+          "x": 275,
+          "y": 210,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "-106.6463",
+          "x": 505,
+          "y": 210,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "W3",
+          "x": 45,
+          "y": 255,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "-4.11",
+          "x": 275,
+          "y": 255,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "1.3374",
+          "x": 505,
+          "y": 255,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "W2",
+          "x": 45,
+          "y": 300,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "3.49",
+          "x": 275,
+          "y": 300,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "61.0746",
+          "x": 505,
+          "y": 300,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "B2",
+          "x": 45,
+          "y": 345,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "0.00",
+          "x": 275,
+          "y": 345,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "71.0975",
+          "x": 505,
+          "y": 345,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "W4",
+          "x": 45,
+          "y": 390,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "2.74",
+          "x": 275,
+          "y": 390,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "77.7921",
+          "x": 505,
+          "y": 390,
+          "w": 228,
+          "h": 43,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "표시된 초기값으로 계산 · 중간 계산은 반올림하지 않음",
+          "x": 45,
+          "y": 455,
+          "w": 690,
+          "h": 55,
+          "size": 20,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W13b_NeuralNetwork2.pptx",
+      "page": 28,
+      "title": "경사하강법: 기울기의 반대 방향으로 한 걸음",
+      "items": [
+        {
+          "kind": "text",
+          "text": "새 값 = 현재 값 − 학습률 × 기울기",
+          "x": 50,
+          "y": 125,
+          "w": 680,
+          "h": 60,
+          "size": 28,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "W1 = 0.06 − 0.01 × (−91.6119)\n     = 0.976119 ≈ 0.98",
+          "x": 65,
+          "y": 240,
+          "w": 650,
+          "h": 130,
+          "size": 27,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "Consolas",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "각 파라미터에 같은 규칙 적용 · 학습률 0.01",
+          "x": 45,
+          "y": 430,
+          "w": 690,
+          "h": 55,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W13b_NeuralNetwork2.pptx",
+      "page": 32,
+      "title": "ReLU 신경망: 서로 다른 값으로도 같은 출력",
+      "items": [
+        {
+          "kind": "text",
+          "text": "원래 한 경로",
+          "x": 45,
+          "y": 130,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "변경한 한 경로",
+          "x": 390,
+          "y": 130,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "ReLU(1.43x − 0.61)",
+          "x": 45,
+          "y": 200,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "ReLU(2.86x − 1.22)",
+          "x": 390,
+          "y": 200,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "출력 가중치 −3.89",
+          "x": 45,
+          "y": 270,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "출력 가중치 −1.945",
+          "x": 390,
+          "y": 270,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "입력 가중치·편향 × 2\n출력 가중치 ÷ 2 → 이 경로의 출력 동일",
+          "x": 60,
+          "y": 370,
+          "w": 660,
+          "h": 80,
+          "size": 25,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "ReLU(cz) = c ReLU(z), c > 0일 때 성립",
+          "x": 50,
+          "y": 472,
+          "w": 680,
+          "h": 35,
+          "size": 20,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "page": 11,
+      "title": "ReLU 신경망: 서로 다른 값으로도 같은 출력",
+      "items": [
+        {
+          "kind": "text",
+          "text": "원래 한 경로",
+          "x": 45,
+          "y": 130,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "변경한 한 경로",
+          "x": 390,
+          "y": 130,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "ReLU(1.43x − 0.61)",
+          "x": 45,
+          "y": 200,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "ReLU(2.86x − 1.22)",
+          "x": 390,
+          "y": 200,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "출력 가중치 −3.89",
+          "x": 45,
+          "y": 270,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "출력 가중치 −1.945",
+          "x": 390,
+          "y": 270,
+          "w": 343,
+          "h": 68,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "입력 가중치·편향 × 2\n출력 가중치 ÷ 2 → 이 경로의 출력 동일",
+          "x": 60,
+          "y": 370,
+          "w": 660,
+          "h": 80,
+          "size": 25,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "ReLU(cz) = c ReLU(z), c > 0일 때 성립",
+          "x": 50,
+          "y": 472,
+          "w": 680,
+          "h": 35,
+          "size": 20,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W09b_LinearAlgebra4.pptx",
+      "page": 31,
+      "title": "PCA: 각 열의 평균을 뺀 자료",
+      "items": [
+        {
+          "kind": "text",
+          "text": "평균 = [166.4, 62] · X = D − 평균",
+          "x": 45,
+          "y": 98,
+          "w": 690,
+          "h": 60,
+          "size": 25,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "자료 D",
+          "x": 45,
+          "y": 160,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "중심화 X",
+          "x": 390.0,
+          "y": 160,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "170, 70",
+          "x": 45,
+          "y": 208,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "3.6, 8",
+          "x": 390.0,
+          "y": 208,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "150, 45",
+          "x": 45,
+          "y": 256,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "−16.4, −17",
+          "x": 390.0,
+          "y": 256,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "160, 55",
+          "x": 45,
+          "y": 304,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "−6.4, −7",
+          "x": 390.0,
+          "y": 304,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "180, 60",
+          "x": 45,
+          "y": 352,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "13.6, −2",
+          "x": 390.0,
+          "y": 352,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "172, 80",
+          "x": 45,
+          "y": 400,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "5.6, 18",
+          "x": 390.0,
+          "y": 400,
+          "w": 343.0,
+          "h": 46,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "중심화 후 열 평균은 0 · 중간 평균을 반올림하지 않음",
+          "x": 45,
+          "y": 470,
+          "w": 690,
+          "h": 35,
+          "size": 20,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W09b_LinearAlgebra4.pptx",
+      "page": 32,
+      "title": "중심화 자료의 내적 계산",
+      "items": [
+        {
+          "kind": "text",
+          "text": "XᵀX의 각 원소 = 두 열의 내적",
+          "x": 45,
+          "y": 110,
+          "w": 690,
+          "h": 60,
+          "size": 27,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "계산",
+          "x": 45,
+          "y": 195.0,
+          "w": 343.0,
+          "h": 48,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "값",
+          "x": 390.0,
+          "y": 195.0,
+          "w": 343.0,
+          "h": 48,
+          "size": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "fill": "23376E",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "Σ x₁²",
+          "x": 45,
+          "y": 245.0,
+          "w": 343.0,
+          "h": 48,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "539.2",
+          "x": 390.0,
+          "y": 245.0,
+          "w": 343.0,
+          "h": 48,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "Σ x₁x₂ = Σ x₂x₁",
+          "x": 45,
+          "y": 295.0,
+          "w": 343.0,
+          "h": 48,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "426",
+          "x": 390.0,
+          "y": 295.0,
+          "w": 343.0,
+          "h": 48,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "FFFFFF",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "Σ x₂²",
+          "x": 45,
+          "y": 345.0,
+          "w": 343.0,
+          "h": 48,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "730",
+          "x": 390.0,
+          "y": 345.0,
+          "w": 343.0,
+          "h": 48,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": "F2F4F7",
+          "font": "맑은 고딕",
+          "align": "ctr"
+        },
+        {
+          "kind": "text",
+          "text": "XᵀX = [539.2   426]\n      [426     730]",
+          "x": 70,
+          "y": 425,
+          "w": 640,
+          "h": 65,
+          "size": 23,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "Consolas",
+          "align": "l"
+        }
+      ]
+    },
+    {
+      "file": "CE387_W09b_LinearAlgebra4.pptx",
+      "page": 33,
+      "title": "공분산행렬: 내적을 관측 수로 나눔",
+      "items": [
+        {
+          "kind": "text",
+          "text": "관측 수 n = 5 · 모집단 공분산 기준",
+          "x": 45,
+          "y": 120,
+          "w": 690,
+          "h": 60,
+          "size": 26,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "C = XᵀX / 5\n\n  = [107.84   85.2]\n    [85.2      146]",
+          "x": 80,
+          "y": 220,
+          "w": 630,
+          "h": 190,
+          "size": 29,
+          "color": "202833",
+          "bold": false,
+          "fill": null,
+          "font": "Consolas",
+          "align": "l"
+        },
+        {
+          "kind": "text",
+          "text": "표본 공분산: 5−1로 나눔 · 이 경우 주성분 방향은 동일",
+          "x": 45,
+          "y": 465,
+          "w": 690,
+          "h": 45,
+          "size": 20,
+          "color": "23376E",
+          "bold": true,
+          "fill": null,
+          "font": "맑은 고딕",
+          "align": "l"
+        }
+      ]
+    }
+  ],
+  "remove": {
+    "CE387_W01a_Intro1.pptx": [
+      13,
+      28
+    ],
+    "CE387_W01b_intro2.pptx": [
+      12
+    ]
+  },
+  "notebook_links": {
+    "CE387_W01a_Intro1.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week01/CE387_W01.ipynb",
+    "CE387_W01b_intro2.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week01/CE387_W01.ipynb",
+    "CE387_W02a_python1.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week02/CE387_W02.ipynb",
+    "CE387_W02b_python2.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week02/CE387_W02.ipynb",
+    "CE387_W03a_python3.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb",
+    "CE387_W03b_statisticsIntro.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03b_statistics.ipynb",
+    "CE387_W04a_probability.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week04/CE387_W04.ipynb",
+    "CE387_W04b_Bayes.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week04/CE387_W04.ipynb",
+    "CE387_W05a_FreVsBayes.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week05/CE387_W05.ipynb",
+    "CE387_W05b_RejectSampling.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week05/CE387_W05.ipynb",
+    "CE387_W06a_MCMC_Sampling.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week06/CE387_W06.ipynb",
+    "CE387_W06b_InfoTheo.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week06/CE387_W06.ipynb",
+    "CE387_W07a_summary.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week07/CE387_W07.ipynb",
+    "CE387_W08a_LinearAlgebra1.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week08/CE387_W08.ipynb",
+    "CE387_W08b_LinearAlgebra2_Practice.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week08/CE387_W08.ipynb",
+    "CE387_W09a_LinearAlgebra3.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week09/CE387_W09.ipynb",
+    "CE387_W09b_LinearAlgebra4.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week09/CE387_W09.ipynb",
+    "CE387_W10a_LinearAlgebra5_Practice.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week10/CE387_W10.ipynb",
+    "CE387_W10b_Optimization1.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week10/CE387_W10.ipynb",
+    "CE387_W11a_Optimization2_Practice.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week11/CE387_W11.ipynb",
+    "CE387_W11b_SLIntro.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week11/CE387_W11.ipynb",
+    "CE387_W12a_Regression.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week12/CE387_W12.ipynb",
+    "CE387_W12b_Classification.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week12/CE387_W12.ipynb",
+    "CE387_W13a_NeuralNetwork1.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13.ipynb",
+    "CE387_W13b_NeuralNetwork2.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13.ipynb",
+    "CE387_W14a_NeuralNetwork3.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week14/CE387_W14.ipynb",
+    "CE387_W14b_NeuralNetwork4.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week14/CE387_W14.ipynb",
+    "CE387_W15a_Summary.pptx": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week15/CE387_W15.ipynb"
+  },
+  "current_notebooks": 16,
+  "current_workbooks": 4,
+  "patch": [
+    {
+      "file": "CE387_W01a_Intro1.pptx",
+      "page": 5,
+      "old": "월/수 15:00–16:15, 공학관 145 (강의) / 244(실습)",
+      "new": "수업 날짜·시간·강의실: 학기 운영안내"
+    },
+    {
+      "file": "CE387_W01a_Intro1.pptx",
+      "page": 5,
+      "old": "대면강의 + 녹화강의 (필요시)",
+      "new": "휴일·불가피 일정: 온라인 영상강의"
+    },
+    {
+      "file": "CE387_W01a_Intro1.pptx",
+      "page": 17,
+      "old": "ChatGPT는 복잡한 데이터 분석, 리서치, 아이디어 생성 등의 작업을 자동화하여 업무 효율성 향상 ",
+      "new": "코드 초안·오류 설명·분석 방법 탐색에 활용"
+    },
+    {
+      "file": "CE387_W01a_Intro1.pptx",
+      "page": 17,
+      "old": "→ 더 중요한 창의적이고 전략적인 업무에 집중",
+      "new": "입력 자료·계산·해석은 사용자가 확인"
+    },
+    {
+      "file": "CE387_W01a_Intro1.pptx",
+      "page": 23,
+      "old": "+ADsP 취득으로 전문성 인증",
+      "new": "ADsP: 기본 개념 정리를 위한 선택 참고"
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 3,
+      "old": "데이터 분석과 AI에 필요한 프로그래밍·수학·통계의 역할을 이해한다. ",
+      "new": "데이터 분석·AI에서 프로그래밍·수학·통계의 역할 이해"
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "page": 3,
+      "old": "인공지능, 기계학습, 딥러닝의 관계와 주요 학습 방법 및 신경망의 기본 원리를 설명할 수 있다.",
+      "new": "인공지능·기계학습·딥러닝의 관계와 신경망의 기본 원리 설명"
+    },
+    {
+      "file": "CE387_W04b_Bayes.pptx",
+      "page": 8,
+      "old": "어느 날 몸이 안 좋아서 진단키트로 검사를 했더니 양성이 나왔다. 실제 코로나에 감염됐을 확률은?",
+      "new": "검사에서 양성 판정을 받았다. 주어진 조건으로 실제 감염 확률을 구하시오."
+    },
+    {
+      "file": "CE387_W04b_Bayes.pptx",
+      "page": 9,
+      "old": "통계 자료에 따르면 코로나에 걸릴 확률은 0.1%",
+      "new": "가정: 검사 전 감염확률 0.1%"
+    },
+    {
+      "file": "CE387_W04b_Bayes.pptx",
+      "page": 11,
+      "old": "코로나 진단키트 성능 (가능도)",
+      "new": "가정한 검사 성능 (가능도)"
+    },
+    {
+      "file": "CE387_W05a_FreVsBayes.pptx",
+      "page": 22,
+      "old": "66.96%",
+      "new": "66.97%"
+    },
+    {
+      "file": "CE387_W05a_FreVsBayes.pptx",
+      "page": 22,
+      "old": "33.04%",
+      "new": "33.03%"
+    },
+    {
+      "file": "CE387_W05a_FreVsBayes.pptx",
+      "page": 27,
+      "old": "1차 표본 수집 후 사후 확률을 사후확률로 사용",
+      "new": "1차 표본 수집 후 사후확률을 다음 사전확률로 사용"
+    },
+    {
+      "file": "CE387_W07a_summary.pptx",
+      "page": 12,
+      "old": "협업과 유지 보수에 용이, Google의 소프트웨어 중 50% 이상",
+      "new": "자료 처리·분석·기계학습 라이브러리 활용"
+    },
+    {
+      "file": "CE387_W07a_summary.pptx",
+      "page": 12,
+      "old": "프로그래밍 언어의 종류",
+      "new": "코드의 실행 방식"
+    },
+    {
+      "file": "CE387_W07a_summary.pptx",
+      "page": 12,
+      "old": "컴파일러: 프로그램을 실행 전에 기계어로 한 번에 변환하여 빠른 실행 속도",
+      "new": "컴파일: 코드를 다른 표현으로 변환"
+    },
+    {
+      "file": "CE387_W07a_summary.pptx",
+      "page": 12,
+      "old": "인터프리터: 프로그램 실행 중에 명령을 하나씩 기계어로 변환하여 인간에게 더 직관적",
+      "new": "CPython: 소스 → 바이트코드 변환 → 실행"
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "page": 10,
+      "old": "역전파(Backpropagation): 출력 오차를 기반으로 각 파라미터의 기울기 계산 후 업데이트",
+      "new": "역전파: 연쇄법칙으로 각 파라미터의 기울기 계산"
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "page": 10,
+      "old": "SGD: 무작위 소규모 데이터로 빠른 학습",
+      "new": "SGD: 일부 표본으로 기울기를 추정하여 갱신"
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "page": 10,
+      "old": "Adam: SGD 개선형, 1차/2차 모멘트로 안정적이고 빠른 수렴",
+      "new": "Adam: 기울기·제곱 기울기의 이동평균으로 갱신량 조절"
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "page": 12,
+      "old": "이번 강의를 통해 여러분은:",
+      "new": "학습한 내용"
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "page": 12,
+      "old": "Python을 활용한 데이터 처리와 분석의 기본기를 다졌고,",
+      "new": "Python 자료 처리·분석의 기본기"
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "page": 12,
+      "old": "통계 및 기초 수학을 기반으로 데이터를 이해하는 사고방식을 배웠으며,",
+      "new": "통계·수학으로 자료와 계산 결과 해석"
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "page": 12,
+      "old": "기계학습/신경만 알고리즘의 기본 개념과 활용 방법을 익혔습니다.",
+      "new": "기계학습·신경망의 원리·활용·한계"
+    }
+  ],
+  "math_patch": [
+    {
+      "file": "CE387_W05a_FreVsBayes.pptx",
+      "page": 17,
+      "old": "0.00004",
+      "new": "0.0004"
+    },
+    {
+      "file": "CE387_W05a_FreVsBayes.pptx",
+      "page": 21,
+      "old": "0.6696",
+      "new": "0.6697"
+    },
+    {
+      "file": "CE387_W05a_FreVsBayes.pptx",
+      "page": 21,
+      "old": "66.96",
+      "new": "66.97"
+    },
+    {
+      "file": "CE387_W05a_FreVsBayes.pptx",
+      "page": 21,
+      "old": "33.04",
+      "new": "33.03"
+    }
+  ],
+  "workbook_sha256": {
+    "2026_S2_BigData_Wk5b_RejectSampling.xlsx": "fc66e4c5816589b63151cdfab482eee6e88c0a47436493c9b1d8fbcfab838719",
+    "2026_S2_BigData_Wk13a_NeuralNetwork1.xlsm": "0f01bc9dcd496a7147d3e964a730743b837384df4178aa10e5d79983f2cc2955",
+    "2026_S2_BigData_Wk13b_NeuralNetwork2.xlsm": "af34c4a4e56168e1299759d54e6632964c9c6e96d209840790d6c5f50f4a390d",
+    "2026_S2_BigData_Wk6a_MCMC_Sampling.xlsx": "c714838775cb45d87a7c06b0ee5e0d135fc13de61a5fa0a12180088556dc624d",
+    "BigData_statistics5_ANOVA.xlsx": "f54fa7f41d666d453a81125263fc77b8b809805f47c84bf893d6dd689fc20cf4"
+  }
+}

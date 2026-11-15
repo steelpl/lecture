@@ -1,0 +1,164 @@
+[
+  {
+    "file": "BigData_math5_Inv_PCA.ipynb",
+    "drive_id": "1zPLeP14cYMp9Z4BbHVYUR9SD6AqxYVh6",
+    "sha256": "472b31a798b53f0df838de8b0905a0372e8dbccd19f8a171579ba446d9144196",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_math5_matSVD.ipynb",
+    "drive_id": "1CdgEHYCmJHWBIsYsMMu1yAu8v8UILTxr",
+    "sha256": "dfe066fe35d0eb9ca597a36986de18adb52b06cd103b202e203fce9eac3f5d98",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_math2_vec_mat_eigen.ipynb",
+    "drive_id": "1mcEURhVg-KxKDWFPg8YA8is73FtI50dj",
+    "sha256": "78b9d5f1f8c0d43cb62b01de694752c49dcbcbb14ecc80698de210bf3c570a9c",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "Rejection_Sampling_Colab.ipynb",
+    "drive_id": "1WIUVGOMFugyiK8sVvni5tZnf-woCWwNt",
+    "sha256": "1aa14f2c30115724075a1d585dc1d7d5c2a446690114b1a530150a9d952ad830",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "chapter_03_multiple_inputs_and_outputs.ipynb",
+    "drive_id": "1OlzDW1-LVHGNNokh1jsZIXJAvpm3sN_c",
+    "sha256": "65f5861c3de27e87e731068ee2377a6be05bff2634de2a4b35e152028c2e49fd",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "chapter_06_convolutional_neural_networks.ipynb",
+    "drive_id": "1bu-sT_RZYNB_jHcxlJMRkJKe4om8lIsA",
+    "sha256": "e2720d8519ea83f7d093b9319a98851713b8bc1b2041215869536c2f233e0293",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "chapter_04_argmax_and_softmax.ipynb",
+    "drive_id": "1pCnM8j0ws2OFO5ULZqimxficfIhdBn4w",
+    "sha256": "f838dec6a1a945de1130dc3d4a74ad6c34844940e49393c05a361e9e2a2ccb85",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "iris.txt",
+    "drive_id": "1oOXJNyVovYersBA686wkoT-JQ-koyV5W",
+    "sha256": "6f608b71a7317216319b4d27b4d9bc84e6abd734eda7872b71a458569e2656c0",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "MCMC_Practice.ipynb",
+    "drive_id": "1-21lbFW5Yzy3COzwUMvhT_QCE2PbrRem",
+    "sha256": "1dc923ea5d9b94b400f130ffd37f0a2fb766a0e95ed55e020b1ee8044af6dc3a",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "chapter_01_basic_nn_in_pytorch.ipynb",
+    "drive_id": "1ojvoSLKc6DeoVzojAh5nN4kG_yokThG_",
+    "sha256": "36e1f711b2d0d23a45b90a4867b4757f47434a0f751bcc8fa849a001726c9a49",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_Statistics5.ipynb",
+    "drive_id": "15JLhG3KjObqkm3TdhJHLTR3Lej44adct",
+    "sha256": "aa88044cbd5685274e9f26c823f3693b7372321c8d3448a8434ba4a1c1069c6a",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "chapter_02_intro_do_backpropagation.ipynb",
+    "drive_id": "1rWdV_fp9srWIUIBm8JsqsXoSKdq_yflV",
+    "sha256": "061b9857211348f85be2392f6a7fd97e751615e7464b12f8e92fb569d17e2da8",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_Classification.ipynb",
+    "drive_id": "1mWkqLDH2lyy_EFpOEEGq6MUMNxlB_rS6",
+    "sha256": "76dc908b68fba42f0d3aa6ab64b3213a5639abff9065937e2043333dedff2c80",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_Regression.ipynb",
+    "drive_id": "1LLFi2n7_1iRJIf7L2WTRfz2lq_kl6kpM",
+    "sha256": "a598a5c3168a9607e6d9d73b5f35e36d0b22f38e82f3a4dc3b7b64bb1fdb75bb",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_math7_optimization.ipynb",
+    "drive_id": "1wRofm3Q2Bq6c6R9D5aJpYxreMaiGESyk",
+    "sha256": "9f291a24ad21060e4044b61c7bad68ab23e407290cf9860b867a319a164b6e44",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_Statistics4.ipynb",
+    "drive_id": "11vKniIAlwbKb_pE1jW3owKCgR0pf1_PH",
+    "sha256": "c633d73283ef5fad9239d983e48f62aec7139e54bf3392978bad530971968ff9",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_Statistics3.ipynb",
+    "drive_id": "1veiN2sxKhhf7x1fKrH_ddPUXZS9xku1A",
+    "sha256": "8755b8794d6eea0848607d76703e09862132318c380503a20f7a7a358e18c22b",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_Statistics2.ipynb",
+    "drive_id": "11dzzhXZ0qi41mnaTNwvgazxKrtk6TjPt",
+    "sha256": "8b091d4bd95414897414d74e725a7b48a819459c4609088e29a7b441a8da5873",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_Statistics1.ipynb",
+    "drive_id": "17lbrBXOp1l0XJ75C4FTru5xwGUosIPnY",
+    "sha256": "1603f14ec8c8c0f4812ddc2c3d0c0e5736807d4f7376acdf08dea5e4b27be0f8",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_Functions.ipynb",
+    "drive_id": "16oZCwTbcBjR1p3TaUuL1M6AomVPksQle",
+    "sha256": "cb794465bcb1067cb1b9d3413cface3e838292a95f6fe99c6029f8672749a420",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_ControlStatement.ipynb",
+    "drive_id": "15Nh-E3jGwLL9zUTY0N7dOoJOKxyyjJRA",
+    "sha256": "e08e7feb4fca17d220dc1d8c9e88c54e424b787f6921cb040bd165d59431cd92",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_LibExamples.ipynb",
+    "drive_id": "1zzPTTrb3eZacfy5zEfdVeRRn2eNevgbf",
+    "sha256": "417e4add645f8a5ebc0527bef6826466f4258924fa7b9b20c051ae5571efa19e",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "BigData_statistics5_ANOVA.xlsx",
+    "drive_id": "1Sj0VhNjJbZIEpIoXuK4B9Pbw1efSHyO2",
+    "sha256": "f54fa7f41d666d453a81125263fc77b8b809805f47c84bf893d6dd689fc20cf4",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "2019.csv",
+    "drive_id": "1Nqfioz79tnpNqkttwWe-wIKteHy6uG3I",
+    "sha256": "90cfd6db5d8527cafcbe143297d05bdffd0066f80d6c505c1e44587329c76f23",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "msleep.csv",
+    "drive_id": "1-OIcckum8My4cocBLAsn0-mEfzBJ-DZr",
+    "sha256": "6589d85294e5535205415190481d0ff41fafbc2729eb4b4a24a54378d89d7cd3",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "mammals.csv",
+    "drive_id": "1-IaiEVWbFumUDDPR6c-6TEe0gUw3T8fK",
+    "sha256": "c266523df462d2a678c62729d4528098e80f9e0b44aaa25c4fd8653d33ce5eb5",
+    "use": "source reference; current student notebooks use topic names"
+  },
+  {
+    "file": "amir_deals.csv",
+    "drive_id": "1wDA6gV7XYEOrXoJqMMuLfn-oZROjIXhj",
+    "sha256": "0dbe6f26eab38b0220a41f961a77f9e17122fed5001fec33582058ae8c2b464c",
+    "use": "source reference; current student notebooks use topic names"
+  }
+]

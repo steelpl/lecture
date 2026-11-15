@@ -1,0 +1,84 @@
+[
+  {
+    "file": "week05/CE387_W05_Rejection.xlsx",
+    "source": "2026_S2_BigData_Wk5b_RejectSampling.xlsx",
+    "source_sha256": "fc66e4c5816589b63151cdfab482eee6e88c0a47436493c9b1d8fbcfab838719",
+    "sha256": "db1ff827f4cf5d89c18223fade05950d41f9314f0924482db9e7c021f346e012",
+    "relu_gate_fixes": 0,
+    "fixes": [],
+    "vba": null
+  },
+  {
+    "file": "week06/CE387_W06_MCMC.xlsx",
+    "source": "2026_S2_BigData_Wk6a_MCMC_Sampling.xlsx",
+    "source_sha256": "c714838775cb45d87a7c06b0ee5e0d135fc13de61a5fa0a12180088556dc624d",
+    "sha256": "8da078446435bd101556180df70c4ab44fdcbf2e3c8c64fe843f9021ae6a6034",
+    "relu_gate_fixes": 0,
+    "fixes": [],
+    "vba": null
+  },
+  {
+    "file": "week13/CE387_W13a_NeuralNetwork.xlsm",
+    "source": "2026_S2_BigData_Wk13a_NeuralNetwork1.xlsm",
+    "source_sha256": "0f01bc9dcd496a7147d3e964a730743b837384df4178aa10e5d79983f2cc2955",
+    "sha256": "5f32716658fd0c0d8641e5526fa01dcaa5fb2aca8c6c00e1c9e183c55ae2a3a3",
+    "relu_gate_fixes": 0,
+    "fixes": [],
+    "vba": "static reviewed; no auto-run procedures, shell, network, or external filenames"
+  },
+  {
+    "file": "week13/CE387_W13b_NeuralNetwork.xlsm",
+    "source": "2026_S2_BigData_Wk13b_NeuralNetwork2.xlsm",
+    "source_sha256": "af34c4a4e56168e1299759d54e6632964c9c6e96d209840790d6c5f50f4a390d",
+    "sha256": "e2734f278536ba821afb29753521e7bae5cafcb71a7232ae6495ee70dc93cd66",
+    "relu_gate_fixes": 9,
+    "fixes": [
+      {
+        "part": "xl/worksheets/sheet4.xml",
+        "old": "<f>-2*(H17-G17)*$E$21*IF(D23&lt;0,0,1)*A17</f>",
+        "new": "<f>-2*(H17-G17)*$E$21*IF(C23&gt;0,1,0)*A17</f>"
+      },
+      {
+        "part": "xl/worksheets/sheet4.xml",
+        "old": "<f t=\"shared\" ref=\"J18:J19\" si=\"5\">-2*(H18-G18)*$E$21*IF(D24&lt;0,0,1)*A18</f>",
+        "new": "<f t=\"shared\" ref=\"J18:J19\" si=\"5\">-2*(H18-G18)*$E$21*IF(C24&gt;0,1,0)*A18</f>"
+      },
+      {
+        "part": "xl/worksheets/sheet5.xml",
+        "old": "<f>-2*(H17-G17)*$E$21*IF(D23&lt;0,0,1)*1</f>",
+        "new": "<f>-2*(H17-G17)*$E$21*IF(C23&gt;0,1,0)*1</f>"
+      },
+      {
+        "part": "xl/worksheets/sheet5.xml",
+        "old": "<f t=\"shared\" ref=\"J18:J19\" si=\"5\">-2*(H18-G18)*$E$21*IF(D24&lt;0,0,1)*1</f>",
+        "new": "<f t=\"shared\" ref=\"J18:J19\" si=\"5\">-2*(H18-G18)*$E$21*IF(C24&gt;0,1,0)*1</f>"
+      },
+      {
+        "part": "xl/worksheets/sheet1.xml",
+        "old": "<f>-2*(H17-G17)*$E$15*IF(D17&lt;0,0,1)*A17</f>",
+        "new": "<f>-2*(H17-G17)*$E$15*IF(C17&gt;0,1,0)*A17</f>"
+      },
+      {
+        "part": "xl/worksheets/sheet1.xml",
+        "old": "<f>-2*(H18-G18)*$E$15*IF(D18&lt;0,0,1)*A18</f>",
+        "new": "<f>-2*(H18-G18)*$E$15*IF(C18&gt;0,1,0)*A18</f>"
+      },
+      {
+        "part": "xl/worksheets/sheet1.xml",
+        "old": "<f t=\"shared\" si=\"4\"/><v>2.0949762083773753E-16</v></c><c r=\"J19\" s=\"1\"><f>-2*(H19-G19)*$E$15*IF(D19&lt;0,0,1)*A19</f>",
+        "new": "<f t=\"shared\" si=\"4\"/><v>2.0949762083773753E-16</v></c><c r=\"J19\" s=\"1\"><f>-2*(H19-G19)*$E$15*IF(C19&gt;0,1,0)*A19</f>"
+      },
+      {
+        "part": "xl/worksheets/sheet2.xml",
+        "old": "<f>-2*(H17-G17)*$E$15*IF(D17&lt;0,0,1)*1</f>",
+        "new": "<f>-2*(H17-G17)*$E$15*IF(C17&gt;0,1,0)*1</f>"
+      },
+      {
+        "part": "xl/worksheets/sheet2.xml",
+        "old": "<f t=\"shared\" ref=\"J18:J19\" si=\"5\">-2*(H18-G18)*$E$15*IF(D18&lt;0,0,1)*1</f>",
+        "new": "<f t=\"shared\" ref=\"J18:J19\" si=\"5\">-2*(H18-G18)*$E$15*IF(C18&gt;0,1,0)*1</f>"
+      }
+    ],
+    "vba": "static reviewed; no auto-run procedures, shell, network, or external filenames"
+  }
+]
