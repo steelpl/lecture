@@ -10,6 +10,7 @@ from pathlib import Path
 import posixpath
 import re
 import shutil
+import time
 import zipfile
 import xml.etree.ElementTree as ET
 from semester import sync_operations
@@ -30,6 +31,24 @@ CAL_DATE = re.compile(r'\(\s*\d{1,2}\*?(?:,\s*\d{1,2}\*?)?\s*' + MONTHS +
 
 def sha(path):
     return hashlib.sha256(Path(path).read_bytes()).hexdigest()
+
+
+def save_manifest(path, report):
+    """Skip unchanged records and tolerate brief OneDrive locks on Windows."""
+    path = Path(path)
+    content = json.dumps(report, ensure_ascii=False, indent=2) + '\n'
+    if path.exists() and path.read_text(encoding='utf-8') == content:
+        return
+    checkpoint = path.with_suffix('.json.tmp')
+    checkpoint.write_text(content, encoding='utf-8')
+    for attempt in range(31):
+        try:
+            checkpoint.replace(path)
+            return
+        except PermissionError:
+            if attempt == 30:
+                raise
+            time.sleep(0.25)
 
 
 def words(raw):
@@ -287,9 +306,7 @@ def main():
                 pending.append((pptx, pdf, record))
             report['files'][lecture['file']] = record
             # Checkpoint each imported deck, so an interrupted first import can resume safely.
-            checkpoint = report_path.with_suffix('.json.tmp')
-            checkpoint.write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-            checkpoint.replace(report_path)
+            save_manifest(report_path, report)
         practice = target / '2.실습자료'
         practice.mkdir(exist_ok=True)
         tracked = report.setdefault('practice', {})
@@ -332,7 +349,7 @@ def main():
             export_pdf(pending)
     finally:
         for path, report in records.items():
-            Path(path).write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+            save_manifest(path, report)
     print('공통 자료 유지 완료. 이번 PDF 갱신:', len(pending))
 
 
