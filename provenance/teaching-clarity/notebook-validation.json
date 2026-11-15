@@ -118,7 +118,7 @@
     {
       "path": "CE273-numerical-analysis/week03/CE273_W03.ipynb",
       "ok": true,
-      "seconds": 0.8,
+      "seconds": null,
       "browser_cells_skipped": []
     },
     {
@@ -130,7 +130,7 @@
     {
       "path": "CE273-numerical-analysis/week05/CE273_W05.ipynb",
       "ok": true,
-      "seconds": 1.5,
+      "seconds": null,
       "browser_cells_skipped": []
     },
     {
@@ -244,7 +244,7 @@
     {
       "path": "CE387-big-data-analysis/week14/CE387_W14.ipynb",
       "ok": true,
-      "seconds": 5.1,
+      "seconds": null,
       "browser_cells_skipped": []
     }
   ]

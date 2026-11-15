@@ -25,7 +25,7 @@
       "week": 6,
       "file": "week06/CE202_W06.xlsx",
       "title": "이항분포",
-      "task": "n=10에서 불량확률 p=0.05를 0.20으로 변경. 확률과 분포의 이동 비교",
+      "task": "n=10에서 불량확률 p=0.05를 0.20으로 변경. P(2≤X≤4)와 분포의 이동 비교",
       "format": "Excel",
       "optional": false,
       "url": "week06/CE202_W06.xlsx"

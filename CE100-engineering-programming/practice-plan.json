@@ -261,13 +261,13 @@
         "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week12/EP_W12b_pb.ipynb#scrollTo=air-quality"
       }
     ],
-    "CE100_W13a_ProgPrtc5.pptx": [
+    "CE100_W13a_ProgPrtc5.pptx": [],
+    "CE100_W13b_RegExp1.pptx": [
       {
-        "text": "반복문과 정규표현식",
+        "text": "문자열 치환: 두 방법 비교",
         "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week13/EngProg_RegExp.ipynb#scrollTo=without-regex"
       }
     ],
-    "CE100_W13b_RegExp1.pptx": [],
     "CE100_W14a_RegExp2.pptx": [
       {
         "text": "정규표현식 검색",

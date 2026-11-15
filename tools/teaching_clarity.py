@@ -71,6 +71,7 @@ def clear_practice(raw,rels):
    if t in ('실습 열기','실습 코드','파이썬 코드','실습 노트북','실습노트북','실습 자료·Colab / Excel') or t.startswith('https://colab.research.google.com'):return ''
   return s
  raw=SP.sub(clean,raw)
+ raw=SP.sub(lambda m:'' if value(m[0]).strip() in ('Colab 열기','Colab에서 열기','Colab 노트북 열기','More practice(Click)','More practice (Click)') else m[0],raw)
  for rid in remove:raw=re.sub(r'<a:(hlinkClick|hlinkHover)\b[^>]*r:id="'+re.escape(rid)+r'"[^>]*?(?:/>|>.*?</a:\1>)','',raw,flags=re.S)
  reltext=rels.decode() if rels else None
  if reltext:
@@ -113,6 +114,7 @@ def stage(plan,dest):
    raw=files[part].decode();rp=relpart(part);rr=files.get(rp);raw,rr=clear_practice(raw,rr)
    if part in removed:
     pres=pres.replace(sid,'');continue
+   for edit in job.get('edits', {}).get(part, []):raw=replace_exact_text(raw,edit['old'],edit['new'])
    if part in job['scenes']:
     raw=native_scene(job['scenes'][part],0,header);rr=assets(job['scenes'][part],files,layout_rel(rr,layout))
    elif part in job['titles']:

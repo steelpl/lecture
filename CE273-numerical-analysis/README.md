@@ -13,7 +13,7 @@ Excel은 같은 문제의 계산 과정을 셀로 살펴보는 선택 자료. �
 | 02 | Python 계산·자료형 | x=0.5에서 1+x+x²/2 계산. x=1.0으로 변경하고 출력 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week02/CE273_W02.ipynb) |
 | 03 | 제어문·함수·배열 | 반복문과 함수로 같은 계산 수행. 반복 중 갱신되는 값 확인 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week03/CE273_W03.ipynb) |
 | 04 | 오차·급수·정밀도 | e^0.5의 부분합과 근사 상대오차를 비교하여 종료 시점 확인 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.ipynb) |
-| 05 | Taylor 전개 | 강의의 다항식을 차수별로 근사하고 나머지와 오차 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb) |
+| 05 | Taylor 전개 | 기하급수·지수함수·사인함수를 항 수별로 근사하고 오차·수렴 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb) |
 | 06 | 수치미분 | 전진·후진·중앙차분과 간격에 따른 오차 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week06/CE273_W06.ipynb) |
 | 08 | 수치적분 | 같은 다항식에 사다리꼴·Simpson 공식을 적용. 분할 수에 따른 오차 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.ipynb) |
 | 09 | 행렬·선형계 | 반응조의 질량보존식을 행렬로 풀고 잔차 확인 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week09/CE273_W09.ipynb) |

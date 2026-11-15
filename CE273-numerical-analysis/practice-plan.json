@@ -34,7 +34,7 @@
       "week": 5,
       "file": "week05/CE273_W05.ipynb",
       "title": "Taylor 전개",
-      "task": "강의의 다항식을 차수별로 근사하고 나머지와 오차 비교",
+      "task": "기하급수·지수함수·사인함수를 항 수별로 근사하고 오차·수렴 비교",
       "format": "Colab",
       "optional": false,
       "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb"
@@ -202,8 +202,16 @@
     "CE273_W05a_Truncation1.pptx": [],
     "CE273_W05b_Truncation2.pptx": [
       {
-        "text": "Taylor 차수별 근사",
+        "text": "기하급수의 수렴",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb#scrollTo=convergence"
+      },
+      {
+        "text": "지수함수의 Taylor 근사",
         "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb#scrollTo=taylor"
+      },
+      {
+        "text": "사인함수의 급수 근사",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb#scrollTo=sin-series"
       }
     ],
     "CE273_W06a_Differentiation1.pptx": [

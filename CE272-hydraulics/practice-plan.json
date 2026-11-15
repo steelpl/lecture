@@ -78,7 +78,12 @@
     "CE272_W07a_Summary.pptx": [],
     "CE272_W08a_Open_Channel_Flow_1.pptx": [],
     "CE272_W08b_Open_Channel_Flow_2.pptx": [],
-    "CE272_W09a_Uniform_Flow_1.pptx": [],
+    "CE272_W09a_Uniform_Flow_1.pptx": [
+      {
+        "text": "사다리꼴 수로의 등류 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week09/CE272_W09.xlsx"
+      }
+    ],
     "CE272_W09b_Uniform_Flow_2.pptx": [
       {
         "text": "원형 수로의 유량·유속 (Excel)",

@@ -2,7 +2,7 @@
 
 **Taylor 전개**
 
-강의의 다항식을 차수별로 근사하고 나머지와 오차 비교
+기하급수·지수함수·사인함수를 항 수별로 근사하고 오차·수렴 비교
 
 [Taylor 전개 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb)
 
