@@ -16,10 +16,10 @@ def relpart(part):return posixpath.dirname(part)+'/_rels/'+posixpath.basename(pa
 def resolve(base,t):return t.lstrip('/') if t.startswith('/') else posixpath.normpath(posixpath.dirname(base)+'/'+t)
 def ordered(files):
  root=E.fromstring(files['ppt/_rels/presentation.xml.rels']);targets={x.get('Id'):x.get('Target') for x in root};ids=re.findall(r'<p:sldId\b[^>]*/>',files['ppt/presentation.xml'].decode());return [(x,resolve('ppt/presentation.xml',targets[re.search('r:id="([^"]+)"',x)[1]])) for x in ids]
-def source_header(path,available):
+def source_header(path,available,start_page=2):
  with zipfile.ZipFile(path) as z:
   f={i.filename:z.read(i) for i in z.infolist() if i.filename.startswith('ppt/') and i.filename.endswith(('.xml','.rels'))};parts=ordered(f)
-  for _,part in parts[1:]:
+  for _,part in parts[start_page-1:]:
    raw=f[part].decode();candidates=[]
    for m in SP.finditer(raw):
     s=m[0]
@@ -108,7 +108,7 @@ def stage(plan,dest):
   if before!=job['expected_sha256']:raise ValueError('Instructor file changed since review: '+str(path))
   with zipfile.ZipFile(path) as z:
    files={i.filename:z.read(i) for i in z.infolist()};original=dict(files);infos={i.filename:copy.copy(i) for i in z.infolist()}
-  header,layout=source_header(job['source'],files) if (job['titles'] or job['scenes'] or job.get('insert')) else (None,None);parts=ordered(files);changed=[];removed=set(job['remove']);pres=files['ppt/presentation.xml'].decode()
+  header,layout=source_header(job['source'],files,job.get('header_start_page',2)) if (job['titles'] or job['scenes'] or job.get('insert')) else (None,None);parts=ordered(files);changed=[];removed=set(job['remove']);pres=files['ppt/presentation.xml'].decode()
   for sid,part in parts:
    raw=files[part].decode();rp=relpart(part);rr=files.get(rp);raw,rr=clear_practice(raw,rr)
    if part in removed:

@@ -2407,7 +2407,8 @@
       "titles": {
         "ppt/slides/slide29.xml": "중간평가 안내"
       },
-      "calendar_part": "ppt/slides/slide3.xml"
+      "calendar_part": "ppt/slides/slide3.xml",
+      "header_start_page": 3
     },
     {
       "file": "CE387_W08a_LinearAlgebra1.pptx",
