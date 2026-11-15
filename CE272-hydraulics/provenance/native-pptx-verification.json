@@ -1,0 +1,232 @@
+{
+  "native_open": 28,
+  "slides": 643,
+  "overflow": 0,
+  "pdf_export": false,
+  "files": [
+    {
+      "file": "CE272_W01a_Intro.pptx",
+      "pages": 18,
+      "sha256": "f2c7de3772afe75e92706e5f41bec21a1274fbaa3d2651900a1443045078009f",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W01b_Review_01.pptx",
+      "pages": 28,
+      "sha256": "539b493b0cb32d76b4400739f558f2f54b596d675bfd1160ca33e08505ef93e6",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W02a_Review_02.pptx",
+      "pages": 35,
+      "sha256": "d1b193ebafaf1ec493095811224bd1be9731eebd57a4dc0ce9d93310a9a47945",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W02b_Pipe-Lam_Turb.pptx",
+      "pages": 31,
+      "sha256": "dfadb44a495f3e13b3cd0c5d072f169f3394f889949a76cd4e917ccedaa77f3e",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W03a_Pipe-HeadLoss.pptx",
+      "pages": 19,
+      "sha256": "5d7717afd148b670735f5bcab2e0d41ae234db8484bc2018abf956ae93370fbf",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W03b_Pipe-HeadLoss.pptx",
+      "pages": 14,
+      "sha256": "382521411e424852034f2fd36848fc12f2af8943ecdd5d8797275374606c308d",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W04a_Pipe-SinglePipe.pptx",
+      "pages": 15,
+      "sha256": "5da9bd6d938c66f3f9ecaa1ebd141164492f3ca813f7a1717c44a7c78a9637b1",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W04b_Pipe-SinglePipe.pptx",
+      "pages": 22,
+      "sha256": "0680c4ef8e9ea47146b1c3d4476c3574d01cc04ae9e2dd8c366af21f11f9ce73",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W05a_Pipe-MultiplePipes.pptx",
+      "pages": 26,
+      "sha256": "a144511e5a3f56267707edbb1ffd071ee86f181a6bede4f3422024b4dbb2780e",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W05b_Pipe-MultiplePipes.pptx",
+      "pages": 17,
+      "sha256": "f72a7203cef04cbc1dbc3423b79d1d33273b4102418442eb0489da8dc257d8db",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W06a_Pipe-PipeNetwork.pptx",
+      "pages": 5,
+      "sha256": "1e0ff61f3e60f17caca9339d077e69c46fbbb807d183e85768795f37058e0625",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W07a_Summary.pptx",
+      "pages": 22,
+      "sha256": "a54b05dda362c484830d7959c14b7efc178fb61bff879f793829fc9bd13b6524",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W08a_Open_Channel_Flow_1.pptx",
+      "pages": 16,
+      "sha256": "03343f6a8d956bef869e1c278aba5f216dc1dc07905239971462525e2099586b",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W08b_Open_Channel_Flow_2.pptx",
+      "pages": 23,
+      "sha256": "14aeeacfe53f6d3719f9ab2a0e5f24634bf8c5fe6151be0f3d7188af2c089315",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W09a_Uniform_Flow_1.pptx",
+      "pages": 19,
+      "sha256": "73832ec30230897dc8ad71a8df56f53335c3929922e0ab8247aa7acf8f94106a",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W09b_Uniform_Flow_2.pptx",
+      "pages": 27,
+      "sha256": "8afb9c310534717cf1966be1642f94bea05aa959bea6d83a1e3ccc2c4aac66df",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W10a_Steady_Nonuniform_Flow_1.pptx",
+      "pages": 22,
+      "sha256": "73d105960f1ce3ee9c5d9894f3e87d337f1910247daf9addeeabe4f0225ab428",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W10b_Steady_Nonuniform_Flow_2.pptx",
+      "pages": 27,
+      "sha256": "cfd134a2b57f9bea5c3860f8cde32ef4a7e8d613d8f199704cbcde4877f70026",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W10b_SluiceGate_Example.pptx",
+      "pages": 6,
+      "sha256": "9295ed248f0d7721b715fd7cbaba0eba90f13502c2cc21361f72d3481d55066e",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W11a_Steady_Nonuniform_Flow_3.pptx",
+      "pages": 23,
+      "sha256": "727d7ebb6d6157e8cda3eada76f8bc5647dfbcdc8ba69a67e6773c09a178ef6e",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W11b_Steady_Nonuniform_Flow_4.pptx",
+      "pages": 34,
+      "sha256": "23e3c6ed4a17b95e08bb42ccada3c0a169f1232ba16407043d3d6b2e474e35da",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W12a_Steady_Nonuniform_Flow_5.pptx",
+      "pages": 12,
+      "sha256": "a0921c136abeb51793110dab21b95133cf44a429e25a2fcbbd279710151c7928",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W12b_Dimensional_Analysis_1.pptx",
+      "pages": 23,
+      "sha256": "2771a5655a4cdf430834c95a6a719836ea896bb1c2cdc8dc268ae2a54192de41",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W13a_Dimensional_Analysis_2.pptx",
+      "pages": 31,
+      "sha256": "3620348d9facee5d035ed370a81614fa5ef5676c7a60f7a703d878141a3ef1f8",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W13b_Hydraulic_Similitude_1.pptx",
+      "pages": 23,
+      "sha256": "b67516ca89c632a8cc874f687ec325d9948a3e32f4937b1606aaacc0ab7285f9",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W14a_Hydraulic_Model_Law.pptx",
+      "pages": 27,
+      "sha256": "58c70319c353fe717608a2bc2ab943bad6a50348e8356cd822c1e4a08bd853db",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W14b_Hydraulic_Model_Test.pptx",
+      "pages": 20,
+      "sha256": "d3535be822dbabe0d458e9a9f91e525a52e3f6eb174fbcf00a0cd35577269857",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    },
+    {
+      "file": "CE272_W15a_Summary_QnA.pptx",
+      "pages": 58,
+      "sha256": "48f72b700117e73637ed23dbf1884d993c6b5f42bbf85f1856311927cb469ad7",
+      "native_open": true,
+      "source_unchanged": true,
+      "overflow": []
+    }
+  ]
+}
