@@ -1,14 +1,11 @@
-# 2주차 · Python 시작 및 Google Colab
+# Python 시작 · Colab·노트북
 
-공학프로그래밍입문
+**첫 코드 실행**
 
-## 실습 자료
+인사말·간단한 식을 실행하고 x=3을 10으로 바꾸어 출력 비교
 
-지정된 로컬 폴더와 해당 주차 PPTX에서 별도 실습 노트북·Excel 파일 또는 다운로드 링크를 미확인. 강의록을 기준으로 주차 폴더를 마련했으며, 자료 확보 시 이 폴더에 추가
+[첫 코드 실행 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week02/EP_W02.ipynb)
 
-## Colab 참고 자료
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
 
-- [Colab 시작](https://colab.research.google.com/)
-- [공식 Markdown 연습 노트북](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
-
-[강의 전체 실습 목록](../README.md)
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

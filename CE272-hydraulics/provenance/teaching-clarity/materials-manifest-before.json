@@ -1,0 +1,223 @@
+{
+  "course": "CE272",
+  "edition_policy": "rolling",
+  "notebooks": [
+    {
+      "path": "week01/CE272_W01.ipynb",
+      "sha256": "c3f07263fa01d2068afe4c79971a1073392453d474797bf495db72a04f68b461",
+      "sections": 2
+    },
+    {
+      "path": "week02/CE272_W02.ipynb",
+      "sha256": "318668c868adedd9bedafa662abf2081064897889608a315631ae7318c101788",
+      "sections": 2
+    },
+    {
+      "path": "week03/CE272_W03.ipynb",
+      "sha256": "10b8c1a826361931a7a78cddc379de68f68dd97321fb04ccfddec2d78bf6689b",
+      "sections": 2
+    },
+    {
+      "path": "week04/CE272_W04.ipynb",
+      "sha256": "de09d526d708411b81dd8dd730ca74aca97844eeb33769d3b3392af54ea0d75b",
+      "sections": 2
+    },
+    {
+      "path": "week05/CE272_W05.ipynb",
+      "sha256": "f4ff7af504f8e19b3f39efeac6d4be1ed02d25c1b9941f4d17bac2ebfff113d9",
+      "sections": 2
+    },
+    {
+      "path": "week06/CE272_W06.ipynb",
+      "sha256": "d85b99712603fb1de458cbf6db248b2510379bdea8269a03b5507795b56d7ffb",
+      "sections": 2
+    },
+    {
+      "path": "week07/CE272_W07.ipynb",
+      "sha256": "051569ac133f1dc119e485f43d98de1123c0dad3d25e07cecf922dc9478a7744",
+      "sections": 2
+    },
+    {
+      "path": "week08/CE272_W08.ipynb",
+      "sha256": "ef9d143c74ef58680fa836832b50bce89d440a6ec9558a6c5ad1a0de02e9a5d8",
+      "sections": 2
+    },
+    {
+      "path": "week09/CE272_W09.ipynb",
+      "sha256": "2b1db07957e4d75bc097f5f6759df400b8c3813b2e435a92b61b8b4d81a94319",
+      "sections": 2
+    },
+    {
+      "path": "week10/CE272_W10.ipynb",
+      "sha256": "aa7c0c1bf4512d1722f5ba73d8bf5f851ea80fa4b3d23831fe4075da8f221d56",
+      "sections": 3
+    },
+    {
+      "path": "week11/CE272_W11.ipynb",
+      "sha256": "ca3bbee46e8d96128d9e67eb04a29f3a857596508fc226c2771083b584ca5db1",
+      "sections": 2
+    },
+    {
+      "path": "week12/CE272_W12.ipynb",
+      "sha256": "1283fe373da4f2a0579e11526d3d72ea8ce155d60f45b198f650bad200dc8986",
+      "sections": 3
+    },
+    {
+      "path": "week13/CE272_W13.ipynb",
+      "sha256": "81aec94ec5119acf73828b9e371c3613b959fd9d226ddd259c0376a64935c1ce",
+      "sections": 2
+    },
+    {
+      "path": "week14/CE272_W14.ipynb",
+      "sha256": "474328e5f95e9d26cad7c585b62f427472e7ac7ef802be11ff809bc628b75e8a",
+      "sections": 2
+    },
+    {
+      "path": "week15/CE272_W15.ipynb",
+      "sha256": "04057a59d6a5e4c06d7239d3dd51614b3493007b0cd353edc1f158bf5a63c28b",
+      "sections": 2
+    }
+  ],
+  "source_slides": [
+    {
+      "file": "2026_S2_Hydraulics_Week01a_Intro.pptx",
+      "sha256": "a783e2ac55683c30a970cbd897f33612b2fe7e1c5d9654a60f59700d21efd379",
+      "pages": 18
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week01b_Review_01.pptx",
+      "sha256": "14d44973cfa3cba85e2b719560bb3c1f5f1a24f1be6cfe1d6549580dc909bf70",
+      "pages": 28
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week02a_Review_02.pptx",
+      "sha256": "a53110a18d270de2591c3c600a41688dd2dbefcc6a713f4444588e016359746b",
+      "pages": 35
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week02b_Pipe-Lam_Turb.pptx",
+      "sha256": "1afc711ec95f50f35f8ae18712f3e9d16f7be3313697d105b28bbf7d8af825df",
+      "pages": 31
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week03a_Pipe-HeadLoss.pptx",
+      "sha256": "db7ac79d3984f574e4b1e509f7fc0c1b32ae1ef0cdccef0c4b60bc89ee7b6532",
+      "pages": 19
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week03b_Pipe-HeadLoss.pptx",
+      "sha256": "66946bf45db5232f73ba539f6153955f30c9c3a993b597708b285baa2ea4203d",
+      "pages": 14
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week04a_Pipe-SinglePipe.pptx",
+      "sha256": "0a5be641288115b5e00ecd25ff50a489f827ea9ab2443f92ee10bb1c43cec413",
+      "pages": 15
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week04b_Pipe-SinglePipe.pptx",
+      "sha256": "0c5c799ae33ddfdf5be466c2fa5b5f412a97397a177bcce77bf90552c080c7a8",
+      "pages": 22
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week05a_Pipe-MultiplePipes.pptx",
+      "sha256": "685b7e60f12a2323ec426ee03bcaa5c07cbc1eb8f2d5ad52e0b93e16350d6824",
+      "pages": 26
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week05b_Pipe-MultiplePipes.pptx",
+      "sha256": "a0126da6beec239b407606b911ef15eec9ff6949c1f030cb65bdda98eba4c33a",
+      "pages": 17
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week06a_Pipe-PipeNetwork.pptx",
+      "sha256": "4f71862c184a91eb099b18ea6fd914254ca37cce747e550228589d91c6212b91",
+      "pages": 5
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week07a_Summary.pptx",
+      "sha256": "81a672a0136a1f80741129c48f308e094bf16deee5cc28042e9f483142ab69d1",
+      "pages": 22
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week08a_Open_Channel_Flow_1.pptx",
+      "sha256": "55fe9bfc65410833e1400e27d80af5f335d8191c0d7c2878a9c8249b892ddc8f",
+      "pages": 16
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week08b_Open_Channel_Flow_2.pptx",
+      "sha256": "6f03a5efeea378e36a66c349acc594029cb96c2f7b2fddf1d269d031ea045261",
+      "pages": 23
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week09a_Unifrom_Flow_1.pptx",
+      "sha256": "6960bec9d4f3a861237bff0e01d1a126bb95112a0d1ae82195a5f165ca359a02",
+      "pages": 19
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week09b_Unifrom_Flow_2.pptx",
+      "sha256": "fc983f0a93691a79e44848f3d37fad83fdca7a960fe4339b8f5f34d5937c02fe",
+      "pages": 27
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week10a_Steady_Nonuniform_Flow_1.pptx",
+      "sha256": "a4a369289c4596310a7115fea011a155fdd119d269597fab2742c6a7710dbcaf",
+      "pages": 22
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week10b_Steady_Nonuniform_Flow_2.pptx",
+      "sha256": "44003448f11df5196d1ecce8c790f6c70fdba64f24242e217d3458408d6e1e28",
+      "pages": 27
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week10b_Steady_Nonuniform_Flow_2_Ex7.5.pptx",
+      "sha256": "b14ab44821e256763746f10940a13ef2904b210b85755cdc85f8d544d966ad0d",
+      "pages": 6
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week11a_Steady_Nonuniform_Flow_3.pptx",
+      "sha256": "15e9cfa316bffc88bb3bc3998bc45fbed0902726bc0f1597283a0012bc9504de",
+      "pages": 23
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week11b_Steady_Nonuniform_Flow_4.pptx",
+      "sha256": "d98fbffa2ba2d2cb2fbea70058099b10e0f55bed9b34b2873bd8680290ac661d",
+      "pages": 34
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week12a_Steady_Nonuniform_Flow_5.pptx",
+      "sha256": "2567a499a90031a519170299d9d25fec6041874cce2d9f9ffa2a1b9bea4c6495",
+      "pages": 12
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week12b_Dimensional_Analysis_1.pptx",
+      "sha256": "7d82a480ec99b6b5e6ce9aac45498e8037e692f158811c43a0a996b10b743e5a",
+      "pages": 23
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week13a_Dimensional_Analysis_2.pptx",
+      "sha256": "6acba94b90a164271e133e55fbe7b1395488783263bab9279b3298913c7a5e72",
+      "pages": 31
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week13b_Hydraulic_Similitude_1.pptx",
+      "sha256": "84a90dc552c63e85035e170e35e4f61d72e45e98f79299411acb4ea47ffb1e77",
+      "pages": 23
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week14a_Hydraulic_Model_Law.pptx",
+      "sha256": "2f291e2804652da1b6a8c6d99d966d244a0f60f0c6a53aa6c5d440fa62be8ff6",
+      "pages": 27
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week14b_Hydraulic_Model_Test.pptx",
+      "sha256": "9601a6d9661fec4fe981c33a85c12a18cabf51277ce98e3e9812c54cc5624c14",
+      "pages": 20
+    },
+    {
+      "file": "2026_S2_Hydraulics_Week15a_Summary_QnA.pptx",
+      "sha256": "a0345033854c5fa7544e93ccc19ddaa5d1a7351c35a8c8b43d9e716df0a7d276",
+      "pages": 58
+    }
+  ]
+}

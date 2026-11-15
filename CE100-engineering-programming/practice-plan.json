@@ -1,0 +1,285 @@
+{
+  "course": "CE100",
+  "purpose": "프로그래밍의 기능을 이해하고 작은 코드를 읽고 바꾸는 연습. AI가 작성한 코드에도 입력·처리·출력을 확인할 수 있는 기초 함양",
+  "selection": "학習목표에 필요한 경우만 실습. 강의와 손계산으로 충분한 주차는 별도 파일 없음",
+  "activities": [
+    {
+      "week": 2,
+      "file": "week02/EP_W02.ipynb",
+      "title": "첫 코드 실행",
+      "task": "인사말·간단한 식을 실행하고 x=3을 10으로 바꾸어 출력 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week02/EP_W02.ipynb"
+    },
+    {
+      "week": 3,
+      "file": "week03/EP_W3a.ipynb",
+      "title": "숫자·문자열·리스트",
+      "task": "3+4와 문자열 덧셈 비교, 리스트의 원소 변경",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week03/EP_W3a.ipynb"
+    },
+    {
+      "week": 3,
+      "file": "week03/EP_W3b.ipynb",
+      "title": "튜플·딕셔너리·집합",
+      "task": "자료를 묶는 방식에 따라 조회·수정·중복 처리 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week03/EP_W3b.ipynb"
+    },
+    {
+      "week": 4,
+      "file": "week04/EP_W4a.ipynb",
+      "title": "조건문·반복문",
+      "task": "조건을 바꾸고 1부터 10까지의 합을 반복문으로 계산",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week04/EP_W4a.ipynb"
+    },
+    {
+      "week": 4,
+      "file": "week04/EP_W4b.ipynb",
+      "title": "함수",
+      "task": "인수와 반환값을 구분하고 같은 계산을 함수로 호출",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week04/EP_W4b.ipynb"
+    },
+    {
+      "week": 5,
+      "file": "week05/EP_W5a.ipynb",
+      "title": "파일 읽기·쓰기",
+      "task": "newfile.txt를 읽고 쓰기 모드에 따른 내용 변화 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week05/EP_W5a.ipynb"
+    },
+    {
+      "week": 5,
+      "file": "week05/EP_W5b.ipynb",
+      "title": "클래스와 객체",
+      "task": "FourCal 객체별 자료와 메서드의 실행 결과 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week05/EP_W5b.ipynb"
+    },
+    {
+      "week": 6,
+      "file": "week06/EP_W6a.ipynb",
+      "title": "모듈·패키지",
+      "task": "직접 만든 파일의 함수를 import하여 호출",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6a.ipynb"
+    },
+    {
+      "week": 6,
+      "file": "week06/EP_W6b.ipynb",
+      "title": "예외 처리·내장함수",
+      "task": "정수·문자·0을 입력하여 예외 처리의 흐름 비교. 내장함수 예제는 해당 강의에서 선택",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6b.ipynb"
+    },
+    {
+      "week": 9,
+      "file": "week09/EP_W9a.ipynb",
+      "title": "표준 라이브러리",
+      "task": "파일·경로·저장·시간 처리 예제 중 수업에서 다룬 기능 실행",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week09/EP_W9a.ipynb"
+    },
+    {
+      "week": 9,
+      "file": "week09/EP_W9b_numpy.ipynb",
+      "title": "NumPy 배열",
+      "task": "배열의 모양·인덱스·연산 결과 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week09/EP_W9b_numpy.ipynb"
+    },
+    {
+      "week": 10,
+      "file": "week10/EP_W10a_panda.ipynb",
+      "title": "pandas 표 자료",
+      "task": "행·열 선택, 요약값 계산, 표 저장",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week10/EP_W10a_panda.ipynb"
+    },
+    {
+      "week": 10,
+      "file": "week10/EP_W10b_matplotlib.ipynb",
+      "title": "그래프",
+      "task": "선·분포·집단 비교에 맞는 그래프 작성",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week10/EP_W10b_matplotlib.ipynb"
+    },
+    {
+      "week": 12,
+      "file": "week12/EP_W12b_pb.ipynb",
+      "title": "환경 자료 집계",
+      "task": "강의의 대기질·강우·지하수 CSV에서 기간·지역 조건으로 자료 선택",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week12/EP_W12b_pb.ipynb"
+    },
+    {
+      "week": 13,
+      "file": "week13/EngProg_RegExp.ipynb",
+      "title": "문자열 치환",
+      "task": "반복문과 정규표현식의 치환 결과 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week13/EngProg_RegExp.ipynb"
+    },
+    {
+      "week": 14,
+      "file": "week14/EP_W14a.ipynb",
+      "title": "정규표현식 검색",
+      "task": "패턴과 검색 옵션에 따른 일치 결과 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14a.ipynb"
+    },
+    {
+      "week": 14,
+      "file": "week14/EP_W14b.ipynb",
+      "title": "그룹·치환",
+      "task": "경계·그룹·치환으로 필요한 문자열 추출",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14b.ipynb"
+    }
+  ],
+  "lecture_bindings": {
+    "CE100_W01a_Intro1.pptx": [],
+    "CE100_W01b_Intro2.pptx": [],
+    "CE100_W02a_BeginPython.pptx": [
+      {
+        "text": "첫 코드 실행",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week02/EP_W02.ipynb#scrollTo=small-change"
+      }
+    ],
+    "CE100_W02b_Colab.pptx": [
+      {
+        "text": "변수와 실행 순서",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week02/EP_W02.ipynb#scrollTo=state"
+      }
+    ],
+    "CE100_W03a_DataType1.pptx": [
+      {
+        "text": "숫자·문자열 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week03/EP_W3a.ipynb#scrollTo=numbers"
+      }
+    ],
+    "CE100_W03b_DataType2.pptx": [
+      {
+        "text": "튜플·딕셔너리·집합",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week03/EP_W3b.ipynb#scrollTo=tuple"
+      }
+    ],
+    "CE100_W04a_CtrlStatement.pptx": [
+      {
+        "text": "조건·반복 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week04/EP_W4a.ipynb#scrollTo=conditions"
+      }
+    ],
+    "CE100_W04b_Function.pptx": [
+      {
+        "text": "함수의 인수와 반환값",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week04/EP_W4b.ipynb#scrollTo=functions"
+      }
+    ],
+    "CE100_W05a_InOut.pptx": [
+      {
+        "text": "파일 읽기·쓰기",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week05/EP_W5a.ipynb#scrollTo=file-modes"
+      }
+    ],
+    "CE100_W05b_Class.pptx": [
+      {
+        "text": "FourCal 객체 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week05/EP_W5b.ipynb#scrollTo=fourcal"
+      }
+    ],
+    "CE100_W06a_MdlPackage.pptx": [
+      {
+        "text": "모듈의 함수 호출",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6a.ipynb#scrollTo=modules"
+      }
+    ],
+    "CE100_W06b_Exception.pptx": [
+      {
+        "text": "예외 처리 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6b.ipynb#scrollTo=exceptions"
+      }
+    ],
+    "CE100_W07a_Review.pptx": [],
+    "CE100_W08a_InBuilt1.pptx": [
+      {
+        "text": "내장함수 예제",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6b.ipynb#scrollTo=builtins"
+      }
+    ],
+    "CE100_W08b_InBuilt2.pptx": [],
+    "CE100_W09a_Lib1.pptx": [
+      {
+        "text": "파일·경로 예제",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week09/EP_W9a.ipynb#scrollTo=files"
+      }
+    ],
+    "CE100_W09b_Lib2_numpy.pptx": [
+      {
+        "text": "배열과 모양",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week09/EP_W9b_numpy.ipynb#scrollTo=arrays"
+      }
+    ],
+    "CE100_W10a_Lib3_pandas.pptx": [
+      {
+        "text": "행·열 선택과 요약",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week10/EP_W10a_panda.ipynb#scrollTo=frame"
+      }
+    ],
+    "CE100_W10b_Lib3_matplotlib.pptx": [
+      {
+        "text": "자료에 맞는 그래프",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week10/EP_W10b_matplotlib.ipynb#scrollTo=line"
+      }
+    ],
+    "CE100_W11a_ProgPrtc1.pptx": [],
+    "CE100_W11b_ProgPrtc2.pptx": [],
+    "CE100_W12a_ProgPrtc3.pptx": [],
+    "CE100_W12b_ProgPrtc4.pptx": [
+      {
+        "text": "환경 자료의 조건별 집계",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week12/EP_W12b_pb.ipynb#scrollTo=air-quality"
+      }
+    ],
+    "CE100_W13a_ProgPrtc5.pptx": [
+      {
+        "text": "반복문과 정규표현식",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week13/EngProg_RegExp.ipynb#scrollTo=without-regex"
+      }
+    ],
+    "CE100_W13b_RegExp1.pptx": [],
+    "CE100_W14a_RegExp2.pptx": [
+      {
+        "text": "정규표현식 검색",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14a.ipynb#scrollTo=matching"
+      }
+    ],
+    "CE100_W14b_RegExp3.pptx": [
+      {
+        "text": "문자열 경계·그룹·치환",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14b.ipynb#scrollTo=anchors"
+      }
+    ],
+    "CE100_W15a_Review.pptx": []
+  }
+}

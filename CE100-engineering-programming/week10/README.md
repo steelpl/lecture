@@ -1,22 +1,17 @@
-# 10주차 · pandas와 Matplotlib
+# 라이브러리 (3) · 라이브러리 (4)
 
-공학프로그래밍입문
+**pandas 표 자료**
 
-## 실습 자료
+행·열 선택, 요약값 계산, 표 저장
 
-| 파일 | 실행 |
-| --- | --- |
-| [EP_W10a_panda.ipynb](EP_W10a_panda.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week10/EP_W10a_panda.ipynb) |
-| [EP_W10b_matplotlib.ipynb](EP_W10b_matplotlib.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week10/EP_W10b_matplotlib.ipynb) |
+[pandas 표 자료 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week10/EP_W10a_panda.ipynb)
 
-Colab에서 열고 내 Drive에 사본 저장. 예측 → 실행 → 조건 변경 → 결과 확인
+**그래프**
 
-학생용 과제는 TODO 상태로 배포. “미완료”는 점검 통과가 아님. 구현 후 공개 점검·직접 만든 반례 실행. [학생 학습 가이드](../LEARNING_GUIDE.md) 참고
+선·분포·집단 비교에 맞는 그래프 작성
 
-## 실행 준비
+[그래프 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week10/EP_W10b_matplotlib.ipynb)
 
-- pandas는 공개 Titanic CSV와 titanic.xlsx 저장·재읽기 사용. 패키지: pandas, numpy, matplotlib, openpyxl, lxml
-- Matplotlib은 sine·cosine subplot·Iris·막대·원그래프·Seaborn 비교 예제 유지. 패키지: matplotlib>=3.10, numpy, pandas, seaborn. 상자 그림은 최신 orientation 인수 사용
-- 공개 데이터셋 다운로드에는 인터넷이 필요. 한글 폰트 설정도 유지하되 설치 여부 확인
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
 
-[강의 전체 실습 목록](../README.md)
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

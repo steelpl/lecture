@@ -1,29 +1,30 @@
 # 수치해석및실습 · CE273
 
-주차별 Colab·Excel 실습. 갱신식·중간 계산·오차·수렴의 원리 탐구
+수식에서 반복 계산으로 이어지는 과정을 확인. 알고리즘의 갱신식·중간값·오차를 읽고 계산 조건에 따른 차이 해석
 
-수치 알고리즘·오차·수렴·안정성 이해와 방법 선택의 근거 탐구. 코드·Excel은 단계별 계산과 방법 비교를 위한 도구, AI 활용은 선택 심화 활동
+수업에서 해당 개념을 배운 뒤 아래 자료 사용. 모든 주차에 별도 실습이 있는 것은 아님
 
-[학습 방법](LEARNING_GUIDE.md) · [교수자 가이드](TEACHING_GUIDE.md) · [일정](../CURRENT_OFFERING.md) · [자료 출처](DATA_SOURCES.md) · | 주 | 주제·안내 | 노트북 | 실습 파일 |
+[학습 방법](LEARNING_GUIDE.md) · [학기 운영안내](../CURRENT_OFFERING.md)
+
+Excel은 같은 문제의 계산 과정을 셀로 살펴보는 선택 자료. 같은 예제를 두 형식으로 모두 제출할 필요 없음
+
+| 주차 | 실습 | 할 일 | 자료 |
 | --- | --- | --- | --- |
-| 01 | [공학 모형·낙하산 운동](week01/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week01/CE273_W01.ipynb) | [Excel](week01/CE273_W01.xlsx) |
-| 02 | [Python 자료형·컬렉션·실행 상태](week02/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week02/CE273_W02.ipynb) | [Excel](week02/CE273_W02.xlsx) |
-| 03 | [제어문·함수·반복과 갱신](week03/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week03/CE273_W03.ipynb) | [Excel](week03/CE273_W03.xlsx) |
-| 04 | [참오차·근사오차·부동소수점](week04/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.ipynb) | [Excel](week04/CE273_W04.xlsx) |
-| 05 | [테일러 근사·절단오차·수렴 범위](week05/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb) | [Excel](week05/CE273_W05.xlsx) |
-| 06 | [수치미분·스텝·자료의 오차](week06/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week06/CE273_W06.ipynb) | [Excel](week06/CE273_W06.xlsx) |
-| 07 | [전반부 복습·수치 결과 검토](week07/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week07/CE273_W07.ipynb) | [Excel](week07/CE273_W07.xlsx) |
-| 08 | [수치적분·분할 조건·낙하 거리](week08/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.ipynb) | [Excel](week08/CE273_W08.xlsx) |
-| 09 | [벡터·행렬·질량보존·고유값](week09/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week09/CE273_W09.ipynb) | [Excel](week09/CE273_W09.xlsx) |
-| 10 | [선형계·피벗·LU·조건과 잔차](week10/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week10/CE273_W10.ipynb) | [Excel](week10/CE273_W10.xlsx) |
-| 11 | [방정식의 근·구간법·개방법](week11/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.ipynb) | [Excel](week11/CE273_W11.xlsx) |
-| 12 | [가위치법의 정체·선형 회귀](week12/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week12/CE273_W12.ipynb) | [Excel](week12/CE273_W12.xlsx) |
-| 13 | [다항 회귀·보간·스플라인](week13/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week13/CE273_W13.ipynb) | [Excel](week13/CE273_W13.xlsx) |
-| 14 | [초기값 문제·Euler·RK2·RK4](week14/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.ipynb) | [Excel](week14/CE273_W14.xlsx) |
-| 15 | [종합 검토·방법 선택과 검산](week15/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week15/CE273_W15.ipynb) | [Excel](week15/CE273_W15.xlsx) |
+| 02 | Python 계산·자료형 | x=0.5에서 1+x+x²/2 계산. x=1.0으로 변경하고 출력 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week02/CE273_W02.ipynb) |
+| 03 | 제어문·함수·배열 | 반복문과 함수로 같은 계산 수행. 반복 중 갱신되는 값 확인 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week03/CE273_W03.ipynb) |
+| 04 | 오차·급수·정밀도 | e^0.5의 부분합과 근사 상대오차를 비교하여 종료 시점 확인 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.ipynb) |
+| 05 | Taylor 전개 | 강의의 다항식을 차수별로 근사하고 나머지와 오차 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb) |
+| 06 | 수치미분 | 전진·후진·중앙차분과 간격에 따른 오차 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week06/CE273_W06.ipynb) |
+| 08 | 수치적분 | 같은 다항식에 사다리꼴·Simpson 공식을 적용. 분할 수에 따른 오차 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.ipynb) |
+| 09 | 행렬·선형계 | 반응조의 질량보존식을 행렬로 풀고 잔차 확인 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week09/CE273_W09.ipynb) |
+| 10 | 선형계·분해 | 유일해·자유변수와 피벗, LU·Cholesky의 조건 확인 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week10/CE273_W10.ipynb) |
+| 11 | 방정식의 근 | 낙하산 항력계수의 이분법 반복표 작성. Newton·할선법의 갱신 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.ipynb) |
+| 12 | 가위치법·회귀 | x^10−1의 구간 갱신과 정체 확인. 8쌍 자료의 최소제곱 직선 계산 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week12/CE273_W12.ipynb) |
+| 13 | 회귀·보간 | 다항 회귀와 Newton·Lagrange·스플라인 보간의 차이 확인 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week13/CE273_W13.ipynb) |
+| 14 | 상미분방정식 | 같은 초기값 문제에 Euler·RK2·RK4 적용. 간격과 오차 비교 | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.ipynb) |
+| 04 | 급수 반복표 | 노트북과 같은 e^0.5의 부분합과 종료 기준을 셀 수식으로 확인 | [Excel·선택](week04/CE273_W04.xlsx) |
+| 08 | 적분 가중치 | 노트북과 같은 다항식의 분할점·가중치·근삿값 확인 | [Excel·선택](week08/CE273_W08.xlsx) |
+| 11 | 이분법 반복표 | 노트북과 같은 항력계수 문제에서 구간 폭이 줄어드는 과정 확인 | [Excel·선택](week11/CE273_W11.xlsx) |
+| 14 | Euler·RK4 계산표 | 노트북과 같은 초기값 문제의 h=0.5와 0.25 결과 비교 | [Excel·선택](week14/CE273_W14.xlsx) |
 
-수업 날짜·진행 방식·평가일: [현재 학기 운영안내](../CURRENT_OFFERING.md)
-
-평가: 과제20%·퀴즈10%·중간30%·기말30%·출석10%. 평가일·시간·장소: 학기 운영안내
-
-실행: 처음에는 위에서 아래로 실행. None 항목·손계산·조건 변경·해석 기록 직접 작성. AI 검토는 선택. 공통 준비 셀 이후 각 절의 개별 실행 가능. Excel은 자동 계산과 입력 범위·방법 조건 확인
+데이터의 의미와 출처: [자료 출처](DATA_SOURCES.md)

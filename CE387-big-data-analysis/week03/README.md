@@ -1,9 +1,17 @@
-# 제어문·함수·통계 복습
+# 제어문·함수·라이브러리 · 통계 개요
 
-[프로그래밍](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb) · [통계 복습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03b_statistics.ipynb)
+**제어문·함수·라이브러리**
 
-먼저 작은 예로 예측·손계산 → 코드 또는 셀 수식 확인 → 한 조건 변경 → 결과와 한계 설명
+조건·반복·함수의 흐름을 예측하고 실행
 
-프로그래밍과 통계 복습을 구분하여 진행. 통계 복습의 분포·표본평균·분산분석은 수업에서 지정한 부분 선택
+[제어문·함수·라이브러리 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb)
+
+**기술통계 참고** · 선택
+
+평균·분포·상관계수 예제. 통계 개념이 필요한 경우 선택
+
+[기술통계 참고 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03b_statistics.ipynb)
+
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
 
 [과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

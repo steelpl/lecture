@@ -1,0 +1,111 @@
+{
+  "course": "CE272",
+  "purpose": "수리학의 식을 물리적 조건·단위·수면과 연결. 반복 계산이나 조건 비교가 필요한 예제만 계산표·관망 모형으로 탐구",
+  "selection": "학習목표에 필요한 경우만 실습. 강의와 손계산으로 충분한 주차는 별도 파일 없음",
+  "activities": [
+    {
+      "week": 5,
+      "file": "week05/CE272_W05.xlsx",
+      "title": "병렬관의 유량 분배",
+      "task": "같은 두 지점 사이 세 관의 유량 계산. 첫 관의 직경 0.2 m를 0.4 m로 변경",
+      "format": "Excel",
+      "optional": false,
+      "url": "week05/CE272_W05.xlsx"
+    },
+    {
+      "week": 6,
+      "file": "week06/data/HC_teaching.inp",
+      "title": "EPANET 관망",
+      "task": "기준 관망을 계산한 뒤 관 5의 직경 300 mm를 350 mm로 변경. 관 유량과 절점 압력 비교",
+      "format": "EPANET",
+      "optional": false,
+      "url": "week06/data/HC_teaching.inp"
+    },
+    {
+      "week": 9,
+      "file": "week09/CE272_W09.xlsx",
+      "title": "등류와 수로 단면",
+      "task": "Manning 조도 0.012를 0.018로 변경. 원형 수로의 최대 유량 수심도 확인",
+      "format": "Excel",
+      "optional": false,
+      "url": "week09/CE272_W09.xlsx"
+    },
+    {
+      "week": 10,
+      "file": "week10/CE272_W10.xlsx",
+      "title": "비에너지 곡선",
+      "task": "단위폭 유량 q=1과 1.5의 E–y 곡선 비교. 같은 비에너지에서 두 수심 찾기",
+      "format": "Excel",
+      "optional": false,
+      "url": "week10/CE272_W10.xlsx"
+    },
+    {
+      "week": 12,
+      "file": "week12/CE272_W12.xlsx",
+      "title": "직접축차·표준축차",
+      "task": "직접축차법에서 수심으로 거리 계산. 표준축차법에서 1,000 m 상류의 수심 찾기",
+      "format": "Excel",
+      "optional": false,
+      "url": "week12/CE272_W12.xlsx"
+    }
+  ],
+  "lecture_bindings": {
+    "CE272_W01a_Intro.pptx": [],
+    "CE272_W01b_Review_01.pptx": [],
+    "CE272_W02a_Review_02.pptx": [],
+    "CE272_W02b_Pipe-Lam_Turb.pptx": [],
+    "CE272_W03a_Pipe-HeadLoss.pptx": [],
+    "CE272_W03b_Pipe-HeadLoss.pptx": [],
+    "CE272_W04a_Pipe-SinglePipe.pptx": [],
+    "CE272_W04b_Pipe-SinglePipe.pptx": [],
+    "CE272_W05a_Pipe-MultiplePipes.pptx": [
+      {
+        "text": "관경과 유량 분배 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week05/CE272_W05.xlsx"
+      }
+    ],
+    "CE272_W05b_Pipe-MultiplePipes.pptx": [],
+    "CE272_W06a_Pipe-PipeNetwork.pptx": [
+      {
+        "text": "관망 파일 (.inp)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week06/data/HC_teaching.inp"
+      },
+      {
+        "text": "EPANET 실습 안내",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week06/data/README.md"
+      }
+    ],
+    "CE272_W07a_Summary.pptx": [],
+    "CE272_W08a_Open_Channel_Flow_1.pptx": [],
+    "CE272_W08b_Open_Channel_Flow_2.pptx": [],
+    "CE272_W09a_Uniform_Flow_1.pptx": [],
+    "CE272_W09b_Uniform_Flow_2.pptx": [
+      {
+        "text": "원형 수로의 유량·유속 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week09/CE272_W09.xlsx"
+      }
+    ],
+    "CE272_W10a_Steady_Nonuniform_Flow_1.pptx": [
+      {
+        "text": "비에너지 곡선 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week10/CE272_W10.xlsx"
+      }
+    ],
+    "CE272_W10b_Steady_Nonuniform_Flow_2.pptx": [],
+    "CE272_W10b_SluiceGate_Example.pptx": [],
+    "CE272_W11a_Steady_Nonuniform_Flow_3.pptx": [],
+    "CE272_W11b_Steady_Nonuniform_Flow_4.pptx": [],
+    "CE272_W12a_Steady_Nonuniform_Flow_5.pptx": [
+      {
+        "text": "표준축차 계산표 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week12/CE272_W12.xlsx"
+      }
+    ],
+    "CE272_W12b_Dimensional_Analysis_1.pptx": [],
+    "CE272_W13a_Dimensional_Analysis_2.pptx": [],
+    "CE272_W13b_Hydraulic_Similitude_1.pptx": [],
+    "CE272_W14a_Hydraulic_Model_Law.pptx": [],
+    "CE272_W14b_Hydraulic_Model_Test.pptx": [],
+    "CE272_W15a_Summary_QnA.pptx": []
+  }
+}

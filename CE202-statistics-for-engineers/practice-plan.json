@@ -1,0 +1,154 @@
+{
+  "course": "CE202",
+  "purpose": "통계량·확률·추론의 의미를 손계산과 계산표로 확인. 코딩 숙련보다 가정과 결과 해석에 집중",
+  "selection": "학習목표에 필요한 경우만 실습. 강의와 손계산으로 충분한 주차는 별도 파일 없음",
+  "activities": [
+    {
+      "week": 1,
+      "file": "week01/CE202_W01.xlsx",
+      "title": "도수표·상대도수",
+      "task": "색상별 도수의 합과 상대도수 확인. 첫 도수 180을 230으로 변경",
+      "format": "Excel",
+      "optional": false,
+      "url": "week01/CE202_W01.xlsx"
+    },
+    {
+      "week": 2,
+      "file": "week02/CE202_W02.xlsx",
+      "title": "대푯값·산포",
+      "task": "생산량 800을 300으로 바꾸어 평균과 중앙값 비교. 분산의 분모 n과 n−1 구분",
+      "format": "Excel",
+      "optional": false,
+      "url": "week02/CE202_W02.xlsx"
+    },
+    {
+      "week": 6,
+      "file": "week06/CE202_W06.xlsx",
+      "title": "이항분포",
+      "task": "n=10에서 불량확률 p=0.05를 0.20으로 변경. 확률과 분포의 이동 비교",
+      "format": "Excel",
+      "optional": false,
+      "url": "week06/CE202_W06.xlsx"
+    },
+    {
+      "week": 8,
+      "file": "week08/CE202_W08.xlsx",
+      "title": "정규분포",
+      "task": "평균 50에서 표준편차 8을 4로 변경. P(50<X<60)과 곡선 비교",
+      "format": "Excel",
+      "optional": false,
+      "url": "week08/CE202_W08.xlsx"
+    },
+    {
+      "week": 9,
+      "file": "week09/CE202_W09.xlsx",
+      "title": "표본평균의 분포",
+      "task": "{1,2,3,4}에서 두 번 복원추출하는 16개 표본 확인. 표본평균의 분산과 σ²/2 비교",
+      "format": "Excel",
+      "optional": false,
+      "url": "week09/CE202_W09.xlsx"
+    },
+    {
+      "week": 11,
+      "file": "week11/CE202_W11.xlsx",
+      "title": "대응 평균 차이의 신뢰구간",
+      "task": "10명의 교육 전후 차이 계산. 신뢰수준 95%와 99%의 구간 폭 비교",
+      "format": "Excel",
+      "optional": false,
+      "url": "week11/CE202_W11.xlsx"
+    },
+    {
+      "week": 13,
+      "file": "week13/CE202_W13.xlsx",
+      "title": "분산분석",
+      "task": "6대 기계 자료의 집단간·집단내 변동 계산. 기계 6의 네 값에 모두 5를 더해 비교",
+      "format": "Excel",
+      "optional": false,
+      "url": "week13/CE202_W13.xlsx"
+    },
+    {
+      "week": 14,
+      "file": "week14/CE202_W14.xlsx",
+      "title": "최소제곱 직선",
+      "task": "8쌍 자료로 기울기·잔차 계산. 마지막 y=1450을 1000으로 변경",
+      "format": "Excel",
+      "optional": false,
+      "url": "week14/CE202_W14.xlsx"
+    }
+  ],
+  "lecture_bindings": {
+    "CE202_W01a_Intro.pptx": [],
+    "CE202_W01b_Data.pptx": [
+      {
+        "text": "도수표·상대도수 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week01/CE202_W01.xlsx"
+      }
+    ],
+    "CE202_W02a_Central.pptx": [
+      {
+        "text": "극단값과 대푯값 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week02/CE202_W02.xlsx"
+      }
+    ],
+    "CE202_W02b_Dispersion.pptx": [
+      {
+        "text": "분산의 계산 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week02/CE202_W02.xlsx"
+      }
+    ],
+    "CE202_W03a_ProbBasic.pptx": [],
+    "CE202_W03b_CondProb.pptx": [],
+    "CE202_W04a_RandVar.pptx": [],
+    "CE202_W04b_Expectation.pptx": [],
+    "CE202_W05a_JntProb.pptx": [],
+    "CE202_W05b_CoVar.pptx": [],
+    "CE202_W06a_Dist1.pptx": [
+      {
+        "text": "이항분포의 변화 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week06/CE202_W06.xlsx"
+      }
+    ],
+    "CE202_W06b_Dist2.pptx": [],
+    "CE202_W07a_Review.pptx": [],
+    "CE202_W08a_Dist3.pptx": [
+      {
+        "text": "정규분포의 구간 확률 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week08/CE202_W08.xlsx"
+      }
+    ],
+    "CE202_W08b_Dist4.pptx": [],
+    "CE202_W09a_SampleDist1.pptx": [
+      {
+        "text": "16개 표본과 표본평균 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week09/CE202_W09.xlsx"
+      }
+    ],
+    "CE202_W09b_SampleDist2.pptx": [],
+    "CE202_W10a_Inference1.pptx": [],
+    "CE202_W10b_Inference2.pptx": [],
+    "CE202_W11a_Inference3.pptx": [
+      {
+        "text": "교육 전후 차이의 구간 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week11/CE202_W11.xlsx"
+      }
+    ],
+    "CE202_W11b_Inference4.pptx": [],
+    "CE202_W12a_test1.pptx": [],
+    "CE202_W12b_test2.pptx": [],
+    "CE202_W13a_test3.pptx": [],
+    "CE202_W13b_ANOVA.pptx": [
+      {
+        "text": "집단간·집단내 변동 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week13/CE202_W13.xlsx"
+      }
+    ],
+    "CE202_W14a_ChiSqr.pptx": [],
+    "CE202_W14b_Regression.pptx": [
+      {
+        "text": "최소제곱 직선과 잔차 (Excel)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week14/CE202_W14.xlsx"
+      }
+    ],
+    "CE202_W15a_Review.pptx": []
+  }
+}

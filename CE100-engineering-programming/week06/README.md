@@ -1,21 +1,17 @@
-# 6주차 · 모듈·패키지와 예외 처리
+# 모듈·패키지 · 예외 다루기
 
-공학프로그래밍입문
+**모듈·패키지**
 
-## 실습 자료
+직접 만든 파일의 함수를 import하여 호출
 
-| 파일 | 실행 |
-| --- | --- |
-| [EP_W6a.ipynb](EP_W6a.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6a.ipynb) |
-| [EP_W6b.ipynb](EP_W6b.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6b.ipynb) |
+[모듈·패키지 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6a.ipynb)
 
-Colab에서 열고 내 Drive에 사본 저장. 예측 → 실행 → 조건 변경 → 결과 확인
+**예외 처리·내장함수**
 
-학생용 과제는 TODO 상태로 배포. “미완료”는 점검 통과가 아님. 구현 후 공개 점검·직접 만든 반례 실행. [학생 학습 가이드](../LEARNING_GUIDE.md) 참고
+정수·문자·0을 입력하여 예외 처리의 흐름 비교. 내장함수 예제는 해당 강의에서 선택
 
-## 실행 준비
+[예외 처리·내장함수 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6b.ipynb)
 
-- mod1.add/sub와 my_package 호출 유지. 누락된 보조 파일은 준비 셀에서 인터페이스에 맞춰 작성하며, 보조 파일과 동일하다고 표시하지 않음
-- 예외 처리 셀에는 input 입력 실습이 있음. 먼저 정상 입력 2로 실행한 뒤 0·문자를 넣어 각 except가 다루는 범위 확인. 의도된 오류는 해당 구간에서 관찰
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
 
-[강의 전체 실습 목록](../README.md)
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

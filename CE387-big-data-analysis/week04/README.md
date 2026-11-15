@@ -1,7 +1,4 @@
-# 확률·베이즈 정리
+# 확률 · 베이즈 정리
 
-[Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week04/CE387_W04.ipynb)
-
-먼저 작은 예로 예측·손계산 → 코드 또는 셀 수식 확인 → 한 조건 변경 → 결과와 한계 설명
-
+별도 실습 파일 없음. 강의의 예제·연습문제로 개념과 계산 확인
 [과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

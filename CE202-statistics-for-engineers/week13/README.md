@@ -1,21 +1,11 @@
-# 13주 · 모비율 검정·분산분석
+# 가설검정 (3) · 분산분석
 
-학습 주제: 가설검정 (3) / 분산분석
+**분산분석**
 
-- [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week13/CE202_W13.ipynb) · [노트북](CE202_W13.ipynb)
-- [Excel 실습](CE202_W13.xlsx): 이항 검정·ANOVA 제곱합·F·p·대조
-- [학습 방법](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
+6대 기계 자료의 집단간·집단내 변동 계산. 기계 6의 네 값에 모두 5를 더해 비교
 
-| 실습 |
-| --- |
-| 배터리 500개 중 5개 불량 |
-| 슬라이드·jamovi와 일치하는 기계 6대 |
+[분산분석 열기·Excel](CE202_W13.xlsx)
 
-진행: 예측 → 손계산 → 실행 → 조건 변경 → 원리·변경 결과 설명 → 가정·결과·한계 검토
+Excel은 먼저 `실습 안내` 확인. 입력값·중간 계산·결과를 구분하여 사용
 
-확인 과제: ANOVA 결과와 기각 못함의 해석 기록
-
-Excel: 옅은 파랑 입력 셀 수정 → 계산 시트 확인 → 검토기록 작성. Microsoft Excel에서 자동 계산 사용. 다른 도구에서는 함수 지원 여부 확인
-
-
-선택 심화: 개념 학습 후 AI 설명·계산 검토. 핵심 실습의 필수 제출 항목과 구분
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

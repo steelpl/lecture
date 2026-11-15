@@ -1,0 +1,317 @@
+{
+  "course": "CE273",
+  "purpose": "수식에서 반복 계산으로 이어지는 과정을 확인. 알고리즘의 갱신식·중간값·오차를 읽고 계산 조건에 따른 차이 해석",
+  "selection": "학習목표에 필요한 경우만 실습. 강의와 손계산으로 충분한 주차는 별도 파일 없음",
+  "activities": [
+    {
+      "week": 2,
+      "file": "week02/CE273_W02.ipynb",
+      "title": "Python 계산·자료형",
+      "task": "x=0.5에서 1+x+x²/2 계산. x=1.0으로 변경하고 출력 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week02/CE273_W02.ipynb"
+    },
+    {
+      "week": 3,
+      "file": "week03/CE273_W03.ipynb",
+      "title": "제어문·함수·배열",
+      "task": "반복문과 함수로 같은 계산 수행. 반복 중 갱신되는 값 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week03/CE273_W03.ipynb"
+    },
+    {
+      "week": 4,
+      "file": "week04/CE273_W04.ipynb",
+      "title": "오차·급수·정밀도",
+      "task": "e^0.5의 부분합과 근사 상대오차를 비교하여 종료 시점 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.ipynb"
+    },
+    {
+      "week": 5,
+      "file": "week05/CE273_W05.ipynb",
+      "title": "Taylor 전개",
+      "task": "강의의 다항식을 차수별로 근사하고 나머지와 오차 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb"
+    },
+    {
+      "week": 6,
+      "file": "week06/CE273_W06.ipynb",
+      "title": "수치미분",
+      "task": "전진·후진·중앙차분과 간격에 따른 오차 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week06/CE273_W06.ipynb"
+    },
+    {
+      "week": 8,
+      "file": "week08/CE273_W08.ipynb",
+      "title": "수치적분",
+      "task": "같은 다항식에 사다리꼴·Simpson 공식을 적용. 분할 수에 따른 오차 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.ipynb"
+    },
+    {
+      "week": 9,
+      "file": "week09/CE273_W09.ipynb",
+      "title": "행렬·선형계",
+      "task": "반응조의 질량보존식을 행렬로 풀고 잔차 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week09/CE273_W09.ipynb"
+    },
+    {
+      "week": 10,
+      "file": "week10/CE273_W10.ipynb",
+      "title": "선형계·분해",
+      "task": "유일해·자유변수와 피벗, LU·Cholesky의 조건 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week10/CE273_W10.ipynb"
+    },
+    {
+      "week": 11,
+      "file": "week11/CE273_W11.ipynb",
+      "title": "방정식의 근",
+      "task": "낙하산 항력계수의 이분법 반복표 작성. Newton·할선법의 갱신 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.ipynb"
+    },
+    {
+      "week": 12,
+      "file": "week12/CE273_W12.ipynb",
+      "title": "가위치법·회귀",
+      "task": "x^10−1의 구간 갱신과 정체 확인. 8쌍 자료의 최소제곱 직선 계산",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week12/CE273_W12.ipynb"
+    },
+    {
+      "week": 13,
+      "file": "week13/CE273_W13.ipynb",
+      "title": "회귀·보간",
+      "task": "다항 회귀와 Newton·Lagrange·스플라인 보간의 차이 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week13/CE273_W13.ipynb"
+    },
+    {
+      "week": 14,
+      "file": "week14/CE273_W14.ipynb",
+      "title": "상미분방정식",
+      "task": "같은 초기값 문제에 Euler·RK2·RK4 적용. 간격과 오차 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.ipynb"
+    },
+    {
+      "week": 4,
+      "file": "week04/CE273_W04.xlsx",
+      "title": "급수 반복표",
+      "task": "노트북과 같은 e^0.5의 부분합과 종료 기준을 셀 수식으로 확인",
+      "format": "Excel",
+      "optional": true,
+      "url": "week04/CE273_W04.xlsx"
+    },
+    {
+      "week": 8,
+      "file": "week08/CE273_W08.xlsx",
+      "title": "적분 가중치",
+      "task": "노트북과 같은 다항식의 분할점·가중치·근삿값 확인",
+      "format": "Excel",
+      "optional": true,
+      "url": "week08/CE273_W08.xlsx"
+    },
+    {
+      "week": 11,
+      "file": "week11/CE273_W11.xlsx",
+      "title": "이분법 반복표",
+      "task": "노트북과 같은 항력계수 문제에서 구간 폭이 줄어드는 과정 확인",
+      "format": "Excel",
+      "optional": true,
+      "url": "week11/CE273_W11.xlsx"
+    },
+    {
+      "week": 14,
+      "file": "week14/CE273_W14.xlsx",
+      "title": "Euler·RK4 계산표",
+      "task": "노트북과 같은 초기값 문제의 h=0.5와 0.25 결과 비교",
+      "format": "Excel",
+      "optional": true,
+      "url": "week14/CE273_W14.xlsx"
+    }
+  ],
+  "lecture_bindings": {
+    "CE273_W01a_Intro1.pptx": [],
+    "CE273_W01b_Intro2.pptx": [],
+    "CE273_W02a_Programming1.pptx": [
+      {
+        "text": "수식 계산 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week02/CE273_W02.ipynb#scrollTo=arithmetic"
+      }
+    ],
+    "CE273_W02b_Programming2.pptx": [
+      {
+        "text": "리스트 변경 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week02/CE273_W02.ipynb#scrollTo=append-extend"
+      },
+      {
+        "text": "딕셔너리 조회 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week02/CE273_W02.ipynb#scrollTo=dictionary"
+      }
+    ],
+    "CE273_W03a_Programming3.pptx": [
+      {
+        "text": "조건문 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week03/CE273_W03.ipynb#scrollTo=conditions"
+      },
+      {
+        "text": "반복문 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week03/CE273_W03.ipynb#scrollTo=loops"
+      }
+    ],
+    "CE273_W03b_Programming4.pptx": [
+      {
+        "text": "함수의 입력·출력",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week03/CE273_W03.ipynb#scrollTo=functions"
+      }
+    ],
+    "CE273_W04a_Roundoff1.pptx": [
+      {
+        "text": "급수의 부분합 (Colab)",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.ipynb#scrollTo=exp-series"
+      },
+      {
+        "text": "급수 반복표 (Excel·선택)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.xlsx"
+      }
+    ],
+    "CE273_W04b_Roundoff2.pptx": [
+      {
+        "text": "기계 엡실론 확인",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.ipynb#scrollTo=epsilon"
+      }
+    ],
+    "CE273_W05a_Truncation1.pptx": [],
+    "CE273_W05b_Truncation2.pptx": [
+      {
+        "text": "Taylor 차수별 근사",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb#scrollTo=taylor"
+      }
+    ],
+    "CE273_W06a_Differentiation1.pptx": [
+      {
+        "text": "차분과 간격 비교",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week06/CE273_W06.ipynb#scrollTo=difference"
+      }
+    ],
+    "CE273_W06b_Differentiation2.pptx": [],
+    "CE273_W07a_Review.pptx": [],
+    "CE273_W08a_Integration1.pptx": [],
+    "CE273_W08b_Integration2.pptx": [
+      {
+        "text": "적분 방법과 오차 비교",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.ipynb#scrollTo=quadrature"
+      },
+      {
+        "text": "적분 가중치 (Excel·선택)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.xlsx"
+      },
+      {
+        "text": "낙하 거리 계산",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.ipynb#scrollTo=distance"
+      }
+    ],
+    "CE273_W09a_LinearAlgebra1.pptx": [
+      {
+        "text": "반응조의 질량보존",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week09/CE273_W09.ipynb#scrollTo=reactors"
+      }
+    ],
+    "CE273_W09b_LinearAlgebra2.pptx": [],
+    "CE273_W10a_LinearAlgebra3.pptx": [
+      {
+        "text": "자유변수와 해",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week10/CE273_W10.ipynb#scrollTo=free-variable"
+      }
+    ],
+    "CE273_W10b_LinearAlgebra4.pptx": [
+      {
+        "text": "Cholesky 분해의 조건",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week10/CE273_W10.ipynb#scrollTo=cholesky"
+      }
+    ],
+    "CE273_W11a_Root1.pptx": [
+      {
+        "text": "이분법 반복 (Colab)",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.ipynb#scrollTo=bisection"
+      },
+      {
+        "text": "이분법 반복표 (Excel·선택)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.xlsx"
+      }
+    ],
+    "CE273_W11b_Root2.pptx": [
+      {
+        "text": "Newton 방법의 갱신",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.ipynb#scrollTo=newton"
+      }
+    ],
+    "CE273_W12a_Root3.pptx": [
+      {
+        "text": "가위치법의 구간 갱신",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week12/CE273_W12.ipynb#scrollTo=false-position"
+      }
+    ],
+    "CE273_W12b_CurveFit1.pptx": [
+      {
+        "text": "최소제곱 직선",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week12/CE273_W12.ipynb#scrollTo=regression"
+      }
+    ],
+    "CE273_W13a_CurveFit2.pptx": [
+      {
+        "text": "2차 다항 회귀",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week13/CE273_W13.ipynb#scrollTo=polynomial-fit"
+      },
+      {
+        "text": "Newton·Lagrange 보간",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week13/CE273_W13.ipynb#scrollTo=interpolation"
+      }
+    ],
+    "CE273_W13b_CurveFit3.pptx": [
+      {
+        "text": "선형 스플라인",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week13/CE273_W13.ipynb#scrollTo=spline"
+      }
+    ],
+    "CE273_W14a_ODE1.pptx": [
+      {
+        "text": "초기값 문제의 계산 (Colab)",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.ipynb#scrollTo=ode"
+      },
+      {
+        "text": "Euler·RK4 계산표 (Excel·선택)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.xlsx"
+      }
+    ],
+    "CE273_W14b_ODE2.pptx": [
+      {
+        "text": "ODE 방법 비교 (Colab)",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.ipynb#scrollTo=step-comparison"
+      },
+      {
+        "text": "Euler·RK4 (Excel·선택)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.xlsx"
+      }
+    ],
+    "CE273_W15a_Review.pptx": []
+  }
+}

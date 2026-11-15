@@ -1,16 +1,11 @@
-# 09주 · Manning 등류·원형 개수로
+# 등류와 Manning 식 · 최적 단면·부분 만관 흐름
 
-학습 주제: 등류와 Manning 식 / 최적 단면·부분 만관 흐름
+**등류와 수로 단면**
 
-- [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE272-hydraulics/week09/CE272_W09.ipynb) · [노트북](CE272_W09.ipynb)
-- [Excel 실습](CE272_W09.xlsx): Manning·원형 수로의 1도 격자
-- [학습 방법](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
+Manning 조도 0.012를 0.018로 변경. 원형 수로의 최대 유량 수심도 확인
 
-- 사다리꼴 등류 예제
-- 원형 수로의 최대 유량과 최대 유속
+[등류와 수로 단면 열기·Excel](CE272_W09.xlsx)
 
-확인 과제: 단면·조도·경사의 영향과 최대 유량·최대 유속 조건을 구분하시오.
+Excel은 먼저 `실습 안내` 확인. 입력값·중간 계산·결과를 구분하여 사용
 
-Excel: 학습안내 → 옅은 파랑 입력 셀 → 식·중간 계산 → 검토기록. 자동 계산 사용. 입력 범위·근의 구간·물리적 가지 함께 확인
-
-AI 활용은 개념 학습 후 선택 활동
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

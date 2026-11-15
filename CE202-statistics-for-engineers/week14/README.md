@@ -1,20 +1,11 @@
-# 14주 · 범주형 자료·회귀분석
+# 범주형 자료분석 · 회귀 분석
 
-학습 주제: 범주형 자료분석 / 회귀 분석
+**최소제곱 직선**
 
-- [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week14/CE202_W14.ipynb) · [노트북](CE202_W14.ipynb)
-- [Excel 실습](CE202_W14.xlsx): χ² 적합도·독립성·회귀계수·R²·두 MSE 정의
-- [학습 방법](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
+8쌍 자료로 기울기·잔차 계산. 마지막 y=1450을 1000으로 변경
 
-| 실습 |
-| --- |
-| TV 적합도와 카페 독립성 |
-| x·y의 회귀와 MSE |
+[최소제곱 직선 열기·Excel](CE202_W14.xlsx)
 
-진행: 예측 → 손계산 → 실행 → 조건 변경 → 원리·변경 결과 설명 → 가정·결과·한계 검토
+Excel은 먼저 `실습 안내` 확인. 입력값·중간 계산·결과를 구분하여 사용
 
-확인 과제: 귀무분포·자유도·회귀 MSE 구분 기록
-
-Excel: 옅은 파랑 입력 셀 수정 → 계산 시트 확인 → 검토기록 작성. Microsoft Excel에서 자동 계산 사용. 다른 도구에서는 함수 지원 여부 확인
-
-선택 심화: 개념 학습 후 AI 설명·계산 검토. 핵심 실습의 필수 제출 항목과 구분
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

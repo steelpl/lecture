@@ -1,6 +1,6 @@
 [
   {
-    "path": "week11/data/W11b_OpenMethods.xlsx",
+    "path": "provenance/reference-inputs/week11/W11b_OpenMethods.xlsx",
     "sha256": "38f298192903d9896768eb643f7d4d35a881d6a501ae858012f09e6fb244fccf",
     "bytes": 8817,
     "kind": "distribution-copy-unused-links-removed",
@@ -14,7 +14,7 @@
     "worksheet_chart_media_bytes": "identical to original"
   },
   {
-    "path": "week13/data/W13a_Regression.xlsx",
+    "path": "provenance/reference-inputs/week13/W13a_Regression.xlsx",
     "sha256": "a0f6cdfb7a18d549fd0c1639a1dc5935941c78f48322120c25734ddb9538188d",
     "bytes": 7910,
     "kind": "distribution-copy-unused-links-removed",
@@ -28,7 +28,7 @@
     "worksheet_chart_media_bytes": "identical to original"
   },
   {
-    "path": "week14/data/W14a_Euler.xlsx",
+    "path": "provenance/reference-inputs/week14/W14a_Euler.xlsx",
     "sha256": "440973d55f080397cdb7b943bac5cd40e40568de6539a78b088c00f872bdf8ff",
     "bytes": 14497,
     "kind": "distribution-copy-unused-links-removed",
@@ -42,7 +42,7 @@
     "worksheet_chart_media_bytes": "identical to original"
   },
   {
-    "path": "week14/data/W14b_ODEs.xlsx",
+    "path": "provenance/reference-inputs/week14/W14b_ODEs.xlsx",
     "sha256": "59bd27f4b0107f71634d674dc31225527bb5c44d58a4e3d8a7cca4449a0d9e79",
     "bytes": 49540,
     "kind": "distribution-copy-unused-links-removed",
@@ -66,7 +66,7 @@
     "worksheet_chart_media_bytes": "identical to original"
   },
   {
-    "path": "week01/data/W1b_Parachutist.xlsx",
+    "path": "provenance/reference-inputs/week01/W1b_Parachutist.xlsx",
     "sha256": "4ce2b45d3e0b0dfbd2bb5348b3cdca4478dfcae0d130041b74e9846c1e036142",
     "bytes": 22977,
     "kind": "distribution-copy-unused-links-removed",
@@ -78,7 +78,7 @@
     "worksheet_chart_media_bytes": "identical to original"
   },
   {
-    "path": "week03/data/W3b_IterUpdate.xlsx",
+    "path": "provenance/reference-inputs/week03/W3b_IterUpdate.xlsx",
     "sha256": "af5b81f3b824e5dda4f43a9e0a609b3bddacad95592c69e66654ffceb505debc",
     "bytes": 12205,
     "kind": "distribution-copy-unused-links-removed",
@@ -92,7 +92,7 @@
     "worksheet_chart_media_bytes": "identical to original"
   },
   {
-    "path": "week04/data/W4ab_RndOff.xlsx",
+    "path": "provenance/reference-inputs/week04/W4ab_RndOff.xlsx",
     "sha256": "29632abcc7eb1e77fc2dbfa8432138f2b5ddc2fc3d8da88dee19ef257c28df8d",
     "bytes": 56294,
     "kind": "distribution-copy-unused-links-removed",
@@ -104,7 +104,7 @@
     "worksheet_chart_media_bytes": "identical to original"
   },
   {
-    "path": "week05/data/W5b_TaylorSeries.xlsx",
+    "path": "provenance/reference-inputs/week05/W5b_TaylorSeries.xlsx",
     "sha256": "5883a8dcebeed06589f4f2f6aa69557ef83ab4eb68fae37d4075ea31e7e9ff9d",
     "bytes": 36783,
     "kind": "distribution-copy-unused-links-removed",
@@ -118,7 +118,7 @@
     "worksheet_chart_media_bytes": "identical to original"
   },
   {
-    "path": "week08/data/W8b_Parachutist_integral.xlsx",
+    "path": "provenance/reference-inputs/week08/W8b_Parachutist_integral.xlsx",
     "sha256": "04746f9aef493372b86582264244a24f0f1f70dc7ed7ffb3d9ab876aa8cadfcf",
     "bytes": 15481,
     "kind": "distribution-copy-unused-links-removed",

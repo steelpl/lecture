@@ -1,0 +1,251 @@
+{
+  "notebooks": 40,
+  "execution": "all selected notebooks completed in fresh kernels",
+  "interactive_inputs": "validation only: input() supplied with 2; student input preserved",
+  "browser_example": "two webbrowser.open examples not launched during validation",
+  "files": [
+    {
+      "path": "CE100-engineering-programming/week02/EP_W02.ipynb",
+      "ok": true,
+      "seconds": 0.9,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week03/EP_W3a.ipynb",
+      "ok": true,
+      "seconds": 0.9,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week03/EP_W3b.ipynb",
+      "ok": true,
+      "seconds": 1.0,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week04/EP_W4a.ipynb",
+      "ok": true,
+      "seconds": 0.7,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week04/EP_W4b.ipynb",
+      "ok": true,
+      "seconds": 0.8,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week05/EP_W5a.ipynb",
+      "ok": true,
+      "seconds": 1.0,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week05/EP_W5b.ipynb",
+      "ok": true,
+      "seconds": 0.8,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week06/EP_W6a.ipynb",
+      "ok": true,
+      "seconds": 1.1,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week06/EP_W6b.ipynb",
+      "ok": true,
+      "seconds": 1.0,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week09/EP_W9a.ipynb",
+      "ok": true,
+      "seconds": 21.2,
+      "browser_cells_skipped": [
+        "0d78f6ea6d98",
+        "3105b717f86b"
+      ]
+    },
+    {
+      "path": "CE100-engineering-programming/week09/EP_W9b_numpy.ipynb",
+      "ok": true,
+      "seconds": 2.4,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week10/EP_W10a_panda.ipynb",
+      "ok": true,
+      "seconds": 2.8,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week10/EP_W10b_matplotlib.ipynb",
+      "ok": true,
+      "seconds": 4.7,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week12/EP_W12b_pb.ipynb",
+      "ok": true,
+      "seconds": 3.2,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week13/EngProg_RegExp.ipynb",
+      "ok": true,
+      "seconds": 0.8,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week14/EP_W14a.ipynb",
+      "ok": true,
+      "seconds": 0.6,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE100-engineering-programming/week14/EP_W14b.ipynb",
+      "ok": true,
+      "seconds": 0.7,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week02/CE273_W02.ipynb",
+      "ok": true,
+      "seconds": 0.7,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week03/CE273_W03.ipynb",
+      "ok": true,
+      "seconds": 0.8,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week04/CE273_W04.ipynb",
+      "ok": true,
+      "seconds": 1.3,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week05/CE273_W05.ipynb",
+      "ok": true,
+      "seconds": 1.5,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week06/CE273_W06.ipynb",
+      "ok": true,
+      "seconds": 1.7,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week08/CE273_W08.ipynb",
+      "ok": true,
+      "seconds": 1.3,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week09/CE273_W09.ipynb",
+      "ok": true,
+      "seconds": 1.3,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week10/CE273_W10.ipynb",
+      "ok": true,
+      "seconds": 1.5,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week11/CE273_W11.ipynb",
+      "ok": true,
+      "seconds": 1.4,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week12/CE273_W12.ipynb",
+      "ok": true,
+      "seconds": 1.7,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week13/CE273_W13.ipynb",
+      "ok": true,
+      "seconds": 4.0,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE273-numerical-analysis/week14/CE273_W14.ipynb",
+      "ok": true,
+      "seconds": 1.6,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week02/CE387_W02.ipynb",
+      "ok": true,
+      "seconds": 0.7,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb",
+      "ok": true,
+      "seconds": 1.5,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week03/CE387_W03b_statistics.ipynb",
+      "ok": true,
+      "seconds": 2.1,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week05/CE387_W05.ipynb",
+      "ok": true,
+      "seconds": 1.8,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week06/CE387_W06.ipynb",
+      "ok": true,
+      "seconds": 5.0,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week08/CE387_W08.ipynb",
+      "ok": true,
+      "seconds": 1.7,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week10/CE387_W10.ipynb",
+      "ok": true,
+      "seconds": 1.4,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week11/CE387_W11.ipynb",
+      "ok": true,
+      "seconds": 2.2,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week12/CE387_W12.ipynb",
+      "ok": true,
+      "seconds": 2.3,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week13/CE387_W13.ipynb",
+      "ok": true,
+      "seconds": 3.0,
+      "browser_cells_skipped": []
+    },
+    {
+      "path": "CE387-big-data-analysis/week14/CE387_W14.ipynb",
+      "ok": true,
+      "seconds": 5.1,
+      "browser_cells_skipped": []
+    }
+  ]
+}

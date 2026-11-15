@@ -1,20 +1,11 @@
-# 12주 · 가위치법의 정체·선형 회귀
+# 방정식의 근 (3) · 곡선 적합 (1)
 
-학습 주제: 방정식의 근 (3) / 곡선 적합 (1)
+**가위치법·회귀**
 
-- [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week12/CE273_W12.ipynb) · [노트북](CE273_W12.ipynb)
-- [Excel 실습](CE273_W12.xlsx): 가위치법 비교·선형/로그 회귀
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
+x^10−1의 구간 갱신과 정체 확인. 8쌍 자료의 최소제곱 직선 계산
 
-| 주제 |
-| --- |
-| 기존 Colab의 x^10−1과 수정 가위치법 |
-| 8쌍의 선형 회귀와 로그 변환 |
+[가위치법·회귀 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week12/CE273_W12.ipynb)
 
-진행: 예측 → 손계산 → 실행 → 한 조건 변경 → 원리·변경 결과 설명 → 오차·수렴·검산
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
 
-확인 과제: 같은 종료 기준·같은 자료·같은 목적함수끼리 비교
-
-Excel: 옅은 파랑 입력 셀 수정 → 계산 시트 확인 → 검토기록 작성. 입력 범위·분할 조건·방법 정의부터 확인. 중간 계산은 유지하고 결과 표시만 조절
-
-선택 심화: 개념 학습 후 AI 설명·계산 검토. 핵심 실습의 필수 제출 항목과 구분
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

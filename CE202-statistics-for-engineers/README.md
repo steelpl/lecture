@@ -1,29 +1,20 @@
 # 공학통계학 · CE202
 
-주차별 Colab·Excel 실습. 개념 이해·계산·조건 변경·통계적 해석 연습
+통계량·확률·추론의 의미를 손계산과 계산표로 확인. 코딩 숙련보다 가정과 결과 해석에 집중
 
-자료·확률·분포·추정·검정의 원리 이해와 통계적 해석 심화. 코드·Excel은 계산과 비교를 위한 도구, AI 활용은 선택 심화 활동
+수업에서 해당 개념을 배운 뒤 아래 자료 사용. 모든 주차에 별도 실습이 있는 것은 아님
 
-[학습 방법](LEARNING_GUIDE.md) · [교수자 가이드](TEACHING_GUIDE.md) · [일정](../CURRENT_OFFERING.md) · [자료 출처](DATA_SOURCES.md) · | 주 | 주제·안내 | 노트북 | 실습 파일 |
+[학습 방법](LEARNING_GUIDE.md) · [학기 운영안내](../CURRENT_OFFERING.md)
+
+| 주차 | 실습 | 할 일 | 자료 |
 | --- | --- | --- | --- |
-| 01 | [통계적 질문·자료 정리](week01/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week01/CE202_W01.ipynb) | [Excel](week01/CE202_W01.xlsx) |
-| 02 | [대푯값·산포·정의에 따른 차이](week02/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week02/CE202_W02.ipynb) | [Excel](week02/CE202_W02.xlsx) |
-| 03 | [확률의 기준과 조건부확률](week03/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week03/CE202_W03.ipynb) | [Excel](week03/CE202_W03.xlsx) |
-| 04 | [확률변수·기댓값·분산](week04/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week04/CE202_W04.ipynb) | [Excel](week04/CE202_W04.xlsx) |
-| 05 | [결합분포·공분산·독립성](week05/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week05/CE202_W05.ipynb) | [Excel](week05/CE202_W05.xlsx) |
-| 06 | [이산확률분포·시행 기준](week06/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week06/CE202_W06.ipynb) | [Excel](week06/CE202_W06.xlsx) |
-| 07 | [전반부 복습·잘못된 통계 해석 검토](week07/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week07/CE202_W07.ipynb) | [Excel](week07/CE202_W07.xlsx) |
-| 08 | [연속확률분포·모수와 단위](week08/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week08/CE202_W08.ipynb) | [Excel](week08/CE202_W08.xlsx) |
-| 09 | [표본분포·표준오차·기준분포](week09/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week09/CE202_W09.ipynb) | [Excel](week09/CE202_W09.xlsx) |
-| 10 | [추정량·모평균 신뢰구간](week10/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week10/CE202_W10.ipynb) | [Excel](week10/CE202_W10.xlsx) |
-| 11 | [평균차·비율·분산 추정](week11/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week11/CE202_W11.ipynb) | [Excel](week11/CE202_W11.xlsx) |
-| 12 | [평균 가설검정·분석 조건 선택](week12/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week12/CE202_W12.ipynb) | [Excel](week12/CE202_W12.xlsx) |
-| 13 | [모비율 검정·분산분석](week13/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week13/CE202_W13.ipynb) | [Excel](week13/CE202_W13.xlsx) |
-| 14 | [범주형 자료·회귀분석](week14/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week14/CE202_W14.ipynb) | [Excel](week14/CE202_W14.xlsx) |
-| 15 | [종합 검토·AI 분석 요청과 결과 보고](week15/) | [Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week15/CE202_W15.ipynb) | [Excel](week15/CE202_W15.xlsx) |
+| 01 | 도수표·상대도수 | 색상별 도수의 합과 상대도수 확인. 첫 도수 180을 230으로 변경 | [Excel](week01/CE202_W01.xlsx) |
+| 02 | 대푯값·산포 | 생산량 800을 300으로 바꾸어 평균과 중앙값 비교. 분산의 분모 n과 n−1 구분 | [Excel](week02/CE202_W02.xlsx) |
+| 06 | 이항분포 | n=10에서 불량확률 p=0.05를 0.20으로 변경. 확률과 분포의 이동 비교 | [Excel](week06/CE202_W06.xlsx) |
+| 08 | 정규분포 | 평균 50에서 표준편차 8을 4로 변경. P(50<X<60)과 곡선 비교 | [Excel](week08/CE202_W08.xlsx) |
+| 09 | 표본평균의 분포 | {1,2,3,4}에서 두 번 복원추출하는 16개 표본 확인. 표본평균의 분산과 σ²/2 비교 | [Excel](week09/CE202_W09.xlsx) |
+| 11 | 대응 평균 차이의 신뢰구간 | 10명의 교육 전후 차이 계산. 신뢰수준 95%와 99%의 구간 폭 비교 | [Excel](week11/CE202_W11.xlsx) |
+| 13 | 분산분석 | 6대 기계 자료의 집단간·집단내 변동 계산. 기계 6의 네 값에 모두 5를 더해 비교 | [Excel](week13/CE202_W13.xlsx) |
+| 14 | 최소제곱 직선 | 8쌍 자료로 기울기·잔차 계산. 마지막 y=1450을 1000으로 변경 | [Excel](week14/CE202_W14.xlsx) |
 
-수업 날짜·진행 방식·평가일: [현재 학기 운영안내](../CURRENT_OFFERING.md)
-
-평가일·시간·장소: 학기 운영안내
-
-실행: Colab에서 위에서 아래로 셀 실행. None 항목 작성, 손계산·조건 변경·해석 기록. AI 검토는 선택. Excel은 다운로드 후 자동 계산 사용. 정의·모형이 같은 결과끼리 비교
+데이터의 의미와 출처: [자료 출처](DATA_SOURCES.md)

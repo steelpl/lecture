@@ -1,9 +1,6 @@
-# 8주차 · 내장 함수
+# 내장함수 (1)·중간평가 풀이 · 내장함수 (2)
 
-공학프로그래밍입문
+별도 실습 파일 없음. 강의의 예제·연습문제로 개념과 계산 확인
 
-## 실습 자료
-
-지정된 로컬 폴더와 해당 주차 PPTX에서 별도 실습 노트북·Excel 파일 또는 다운로드 링크를 미확인. 강의록을 기준으로 주차 폴더를 마련했으며, 자료 확보 시 이 폴더에 추가
-
-[강의 전체 실습 목록](../README.md)
+[내장함수 예제](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6b.ipynb#scrollTo=builtins) 중 강의에서 다룬 함수 선택
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

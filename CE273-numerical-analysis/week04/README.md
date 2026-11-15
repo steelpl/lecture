@@ -1,20 +1,19 @@
-# 04주 · 참오차·근사오차·부동소수점
+# 반올림 오차 (1) · 반올림 오차 (2)
 
-학습 주제: 반올림 오차 (1) / 반올림 오차 (2)
+**오차·급수·정밀도**
 
-- [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.ipynb) · [노트북](CE273_W04.ipynb)
-- [Excel 실습](CE273_W04.xlsx): e^0.5 급수표·허용오차·float 간격·안정 이차근
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
+e^0.5의 부분합과 근사 상대오차를 비교하여 종료 시점 확인
 
-| 주제 |
-| --- |
-| e^0.5의 급수와 종료 기준 |
-| 머신 엡실론·상쇄와 안정식 |
+[오차·급수·정밀도 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.ipynb)
 
-진행: 예측 → 손계산 → 실행 → 한 조건 변경 → 원리·변경 결과 설명 → 오차·수렴·검산
+**급수 반복표** · 선택
 
-확인 과제: 참오차·갱신량·표시 정밀도·연산 정밀도 구분
+노트북과 같은 e^0.5의 부분합과 종료 기준을 셀 수식으로 확인
 
-Excel: 옅은 파랑 입력 셀 수정 → 계산 시트 확인 → 검토기록 작성. 입력 범위·분할 조건·방법 정의부터 확인. 중간 계산은 유지하고 결과 표시만 조절
+[급수 반복표 열기·Excel](CE273_W04.xlsx)
 
-선택 심화: 개념 학습 후 AI 설명·계산 검토. 핵심 실습의 필수 제출 항목과 구분
+Excel은 먼저 `실습 안내` 확인. 입력값·중간 계산·결과를 구분하여 사용
+
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
+
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

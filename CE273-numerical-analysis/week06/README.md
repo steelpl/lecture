@@ -1,20 +1,11 @@
-# 06주 · 수치미분·스텝·자료의 오차
+# 수치미분 (1) · 수치미분 (2)
 
-학습 주제: 수치미분 (1) / 수치미분 (2)
+**수치미분**
 
-- [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week06/CE273_W06.ipynb) · [노트북](CE273_W06.ipynb)
-- [Excel 실습](CE273_W06.xlsx): 다항식 차분표·h 변화와 오차
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
+전진·후진·중앙차분과 간격에 따른 오차 비교
 
-| 주제 |
-| --- |
-| 다항식의 차분 공식 |
-| sin·(x−1)^4와 h 실험 |
+[수치미분 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week06/CE273_W06.ipynb)
 
-진행: 예측 → 손계산 → 실행 → 한 조건 변경 → 원리·변경 결과 설명 → 오차·수렴·검산
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
 
-확인 과제: 차분 공식·수렴 차수·잡음·반올림의 관계 기록
-
-Excel: 옅은 파랑 입력 셀 수정 → 계산 시트 확인 → 검토기록 작성. 입력 범위·분할 조건·방법 정의부터 확인. 중간 계산은 유지하고 결과 표시만 조절
-
-선택 심화: 개념 학습 후 AI 설명·계산 검토. 핵심 실습의 필수 제출 항목과 구분
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

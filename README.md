@@ -41,21 +41,7 @@
 
 통계학·수치해석·수리학의 코드와 Excel은 원리 탐구를 위한 계산·비교 도구. AI 활용은 개념 학습 후 선택 심화 활동
 
-각 강의 폴더 안에 `week01`, `week02`와 같이 두 자리 주차 번호로 폴더 생성. 아래는 자료를 추가할 때 사용할 구성 예시
-
-```text
-CE100-engineering-programming/
-├── week01/
-│   ├── README.md                 # 실습 주제, 실행 방법, Colab 링크
-│   ├── week01-introduction.ipynb  # Google Colab 실습 노트북
-│   ├── week01-practice.xlsx       # Excel 실습 파일
-│   └── data/                     # 실습 입력 데이터
-└── week02/
-    ├── README.md
-    └── week02-variables.ipynb
-```
-
-주차 폴더에는 해당 실습에 필요한 파일만 추가. Colab 또는 Excel 중 하나만 사용하는 주차도 같은 방식으로 관리
+각 과목의 실습 목록에서 목적과 할 일을 확인한 뒤 파일 선택. 강의·손계산으로 충분한 주차에는 별도 실습 파일을 두지 않음. 노트북·Excel을 함께 제공하더라도 동일 문제를 살펴보는 선택 형식인지 안내 확인
 
 ## 자료 추가 및 사용 방법
 

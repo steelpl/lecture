@@ -1,19 +1,4 @@
-# 07주 · 전반부 복습·잘못된 통계 해석 검토
+# 전반부 복습 · 중간평가
 
-학습 주제: 전반부 복습 / 중간평가
-
-- [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week07/CE202_W07.ipynb) · [노트북](CE202_W07.ipynb)
-- [Excel 실습](CE202_W07.xlsx): 조건부확률·기댓값·이항 계산 재확인
-- [학습 방법](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
-
-| 실습 |
-| --- |
-| 같은 자료로 핵심 점검 |
-
-진행: 예측 → 손계산 → 실행 → 조건 변경 → 원리·변경 결과 설명 → 가정·결과·한계 검토
-
-확인 과제: 조건부확률과 독립·배반의 차이 설명
-
-Excel: 옅은 파랑 입력 셀 수정 → 계산 시트 확인 → 검토기록 작성. Microsoft Excel에서 자동 계산 사용. 다른 도구에서는 함수 지원 여부 확인
-
-선택 심화: 개념 학습 후 AI 설명·계산 검토. 핵심 실습의 필수 제출 항목과 구분
+별도 실습 파일 없음. 강의의 예제·연습문제로 개념과 계산 확인
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

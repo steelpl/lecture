@@ -1,21 +1,19 @@
-# 11주 · 방정식의 근·구간법·개방법
+# 방정식의 근 (1) · 방정식의 근 (2)
 
-학습 주제: 방정식의 근 (1) / 방정식의 근 (2)
+**방정식의 근**
 
-- [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.ipynb) · [노트북](CE273_W11.ipynb)
-- [Excel 실습](CE273_W11.xlsx): 낙하산 c·고정점·Newton·할선법의 반복표
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
+낙하산 항력계수의 이분법 반복표 작성. Newton·할선법의 갱신 비교
 
-| 주제 |
-| --- |
-| 낙하산 항력계수의 구간법 |
-| 고정점·Newton의 수렴 |
-| 할선법의 두 초기값 |
+[방정식의 근 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.ipynb)
 
-진행: 예측 → 손계산 → 실행 → 한 조건 변경 → 원리·변경 결과 설명 → 오차·수렴·검산
+**이분법 반복표** · 선택
 
-확인 과제: 모형과 단위·수렴·실패 상태·독립 기준값 검토
+노트북과 같은 항력계수 문제에서 구간 폭이 줄어드는 과정 확인
 
-Excel: 옅은 파랑 입력 셀 수정 → 계산 시트 확인 → 검토기록 작성. 입력 범위·분할 조건·방법 정의부터 확인. 중간 계산은 유지하고 결과 표시만 조절
+[이분법 반복표 열기·Excel](CE273_W11.xlsx)
 
-선택 심화: 개념 학습 후 AI 설명·계산 검토. 핵심 실습의 필수 제출 항목과 구분
+Excel은 먼저 `실습 안내` 확인. 입력값·중간 계산·결과를 구분하여 사용
+
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
+
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

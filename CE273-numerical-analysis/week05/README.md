@@ -1,20 +1,11 @@
-# 05주 · 테일러 근사·절단오차·수렴 범위
+# 절단오차 (1) · 절단오차 (2)
 
-학습 주제: 절단오차 (1) / 절단오차 (2)
+**Taylor 전개**
 
-- [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb) · [노트북](CE273_W05.ipynb)
-- [Excel 실습](CE273_W05.xlsx): 기하·exp·sin 급수, 항 수와 오차 비교
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
+강의의 다항식을 차수별로 근사하고 나머지와 오차 비교
 
-| 주제 |
-| --- |
-| 전진차분과 sin 근사 |
-| 세 급수의 수렴 영역 |
+[Taylor 전개 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb)
 
-진행: 예측 → 손계산 → 실행 → 한 조건 변경 → 원리·변경 결과 설명 → 오차·수렴·검산
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
 
-확인 과제: 급수·다항식·오차 한계와 수렴 범위 설명
-
-Excel: 옅은 파랑 입력 셀 수정 → 계산 시트 확인 → 검토기록 작성. 입력 범위·분할 조건·방법 정의부터 확인. 중간 계산은 유지하고 결과 표시만 조절
-
-선택 심화: 개념 학습 후 AI 설명·계산 검토. 핵심 실습의 필수 제출 항목과 구분
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

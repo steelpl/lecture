@@ -1,11 +1,19 @@
-# 베이즈 갱신·수락기각
+# 빈도주의·베이즈 관점 · 수락·기각 표본추출
 
-[Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week05/CE387_W05.ipynb)
+**수락–기각 표본추출**
 
-실습 파일: [수락·기각 계산과 분포](CE387_W05_Rejection.xlsx)
+같은 두 봉우리 목표함수에서 H=0.71과 1.0의 수락률·표본 분포 비교
 
-먼저 작은 예로 예측·손계산 → 코드 또는 셀 수식 확인 → 한 조건 변경 → 결과와 한계 설명
+[수락–기각 표본추출 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week05/CE387_W05.ipynb)
 
-Excel F9로 난수 갱신. 수락 개수는 매번 변화. 함수·제안 구간·높이 조건을 함께 확인
+**수락–기각 계산표** · 선택
+
+노트북과 같은 목표함수·900개 후보의 수락 판정을 셀 수식으로 확인
+
+[수락–기각 계산표 열기·Excel](CE387_W05_Rejection.xlsx)
+
+Excel은 먼저 `실습 안내` 확인. 입력값·중간 계산·결과를 구분하여 사용
+
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
 
 [과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

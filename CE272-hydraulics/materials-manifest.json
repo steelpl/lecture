@@ -1,83 +1,7 @@
 {
   "course": "CE272",
   "edition_policy": "rolling",
-  "notebooks": [
-    {
-      "path": "week01/CE272_W01.ipynb",
-      "sha256": "c3f07263fa01d2068afe4c79971a1073392453d474797bf495db72a04f68b461",
-      "sections": 2
-    },
-    {
-      "path": "week02/CE272_W02.ipynb",
-      "sha256": "318668c868adedd9bedafa662abf2081064897889608a315631ae7318c101788",
-      "sections": 2
-    },
-    {
-      "path": "week03/CE272_W03.ipynb",
-      "sha256": "10b8c1a826361931a7a78cddc379de68f68dd97321fb04ccfddec2d78bf6689b",
-      "sections": 2
-    },
-    {
-      "path": "week04/CE272_W04.ipynb",
-      "sha256": "de09d526d708411b81dd8dd730ca74aca97844eeb33769d3b3392af54ea0d75b",
-      "sections": 2
-    },
-    {
-      "path": "week05/CE272_W05.ipynb",
-      "sha256": "f4ff7af504f8e19b3f39efeac6d4be1ed02d25c1b9941f4d17bac2ebfff113d9",
-      "sections": 2
-    },
-    {
-      "path": "week06/CE272_W06.ipynb",
-      "sha256": "d85b99712603fb1de458cbf6db248b2510379bdea8269a03b5507795b56d7ffb",
-      "sections": 2
-    },
-    {
-      "path": "week07/CE272_W07.ipynb",
-      "sha256": "051569ac133f1dc119e485f43d98de1123c0dad3d25e07cecf922dc9478a7744",
-      "sections": 2
-    },
-    {
-      "path": "week08/CE272_W08.ipynb",
-      "sha256": "ef9d143c74ef58680fa836832b50bce89d440a6ec9558a6c5ad1a0de02e9a5d8",
-      "sections": 2
-    },
-    {
-      "path": "week09/CE272_W09.ipynb",
-      "sha256": "2b1db07957e4d75bc097f5f6759df400b8c3813b2e435a92b61b8b4d81a94319",
-      "sections": 2
-    },
-    {
-      "path": "week10/CE272_W10.ipynb",
-      "sha256": "aa7c0c1bf4512d1722f5ba73d8bf5f851ea80fa4b3d23831fe4075da8f221d56",
-      "sections": 3
-    },
-    {
-      "path": "week11/CE272_W11.ipynb",
-      "sha256": "ca3bbee46e8d96128d9e67eb04a29f3a857596508fc226c2771083b584ca5db1",
-      "sections": 2
-    },
-    {
-      "path": "week12/CE272_W12.ipynb",
-      "sha256": "1283fe373da4f2a0579e11526d3d72ea8ce155d60f45b198f650bad200dc8986",
-      "sections": 3
-    },
-    {
-      "path": "week13/CE272_W13.ipynb",
-      "sha256": "81aec94ec5119acf73828b9e371c3613b959fd9d226ddd259c0376a64935c1ce",
-      "sections": 2
-    },
-    {
-      "path": "week14/CE272_W14.ipynb",
-      "sha256": "474328e5f95e9d26cad7c585b62f427472e7ac7ef802be11ff809bc628b75e8a",
-      "sections": 2
-    },
-    {
-      "path": "week15/CE272_W15.ipynb",
-      "sha256": "04057a59d6a5e4c06d7239d3dd51614b3493007b0cd353edc1f158bf5a63c28b",
-      "sections": 2
-    }
-  ],
+  "notebooks": [],
   "source_slides": [
     {
       "file": "2026_S2_Hydraulics_Week01a_Intro.pptx",
@@ -219,5 +143,6 @@
       "sha256": "a0345033854c5fa7544e93ccc19ddaa5d1a7351c35a8c8b43d9e716df0a7d276",
       "pages": 58
     }
-  ]
+  ],
+  "practice_plan": "practice-plan.json"
 }

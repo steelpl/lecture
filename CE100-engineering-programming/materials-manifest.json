@@ -3,154 +3,22 @@
   "source_directory": "1.강의록",
   "notebooks": [
     {
-      "original_name": "EP_W10a_panda.ipynb",
-      "source_lecture": "2026_S1_EngProg_Wk10a_Lib3_pandas.pptx",
-      "source_link": "https://colab.research.google.com/drive/1GIaB8D7T-SMSkS0NuWMc3nTLcg2ZmxXZ?usp=sharing",
-      "drive_file_id": "1GIaB8D7T-SMSkS0NuWMc3nTLcg2ZmxXZ",
-      "path": "week10/EP_W10a_panda.ipynb",
-      "week": 10,
-      "source_slide": 4,
-      "sha256": "5bd1a8966110b34fce36f8646caa2034a9804548b964ae62e14b6d7bbeef50c1",
-      "size_bytes": 44762,
-      "original_sha256": "7ac40e8c556e3619e662d189d14bb8b24a018f96eeea3658c8d74d46c458f32d",
-      "original_size_bytes": 14429,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "pandas·Excel: 필터와 결측값 정책을 명시하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
-      "alignment": {
-        "source_pptx_sha256": "da824313c8df30d34440ae7eac14b27982410e38270ca29ae0a324a84ed7d5b8",
-        "slide_count": 5,
-        "original_code_cells": 34,
-        "unchanged_original_code_cells": 29,
-        "adjusted_original_cells": 5,
-        "section_count": 5
-      },
-      "teaching_lecture": "CE100_W10a_Lib3_pandas.pptx"
+      "path": "week02/EP_W02.ipynb",
+      "title": "첫 코드 실행",
+      "week": 2,
+      "sha256": "07bc8352be63443abcb5c15f69eae0a10bb7dd7a758d539611fd12bb65beb194",
+      "size_bytes": 2978,
+      "adaptation": "purposeful-practice",
+      "purpose": "인사말·간단한 식을 실행하고 x=3을 10으로 바꾸어 출력 비교"
     },
     {
-      "original_name": "EP_W10b_matplotlib.ipynb",
-      "source_lecture": "2026_S1_EngProg_Wk10b_Lib3_matplotlib.pptx",
-      "source_link": "https://colab.research.google.com/drive/1u_iy0awauPl44W8uZoF-1LcJDec5t2t5?usp=sharing",
-      "drive_file_id": "1u_iy0awauPl44W8uZoF-1LcJDec5t2t5",
-      "path": "week10/EP_W10b_matplotlib.ipynb",
-      "week": 10,
-      "source_slide": 4,
-      "sha256": "7bf423a21921ca3dad74c68ec0c99350c1ae3fac2749d257c73ff1285923aab8",
-      "size_bytes": 41303,
-      "original_sha256": "663f78469300ce0eab0859173e674926433f1f74d603b85330cfe210f999c440",
-      "original_size_bytes": 13516,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "시각화: 그래프가 주장을 뒷받침하는지 검토하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
-      "alignment": {
-        "source_pptx_sha256": "0d24bfee1c00a575f46fc803b95f8186c380e25d7f6181658a2e55605953e7ff",
-        "slide_count": 5,
-        "original_code_cells": 18,
-        "unchanged_original_code_cells": 14,
-        "adjusted_original_cells": 4,
-        "section_count": 5
-      },
-      "teaching_lecture": "CE100_W10b_Lib3_matplotlib.pptx"
-    },
-    {
-      "original_name": "EP_W12b_pb.ipynb",
-      "source_lecture": "2026_S1_EngProg_Wk12b_ProgPrtc4.pptx",
-      "source_link": "https://colab.research.google.com/drive/1x-sJmp-3FQgysGmZkekr3x7AYzjDODmY?usp=sharing",
-      "drive_file_id": "1x-sJmp-3FQgysGmZkekr3x7AYzjDODmY",
-      "path": "week12/EP_W12b_pb.ipynb",
-      "week": 12,
-      "source_slide": 8,
-      "sha256": "7c81451f52d05324c64e97452c7f3e8d5f23f8e7c543cee7795edbddaf2e0bd0",
-      "size_bytes": 41707,
-      "original_sha256": "63b1633211581a3ad31ce53ebfdba90235d309ea165c6ede83682eb7a4ebfcfb",
-      "original_size_bytes": 10032,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "통합 분석: 질문에서 검증 가능한 결론까지",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
-      "alignment": {
-        "source_pptx_sha256": "9c4efd3f5f34b83d671f0bc9f261d9f13191268ac2278e6ae2b093e7af7c0068",
-        "slide_count": 9,
-        "original_code_cells": 14,
-        "unchanged_original_code_cells": 11,
-        "adjusted_original_cells": 5,
-        "section_count": 4
-      },
-      "teaching_lecture": "CE100_W12b_ProgPrtc4.pptx"
-    },
-    {
-      "original_name": "EngProg_RegExp.ipynb",
-      "source_lecture": "2026_S1_EngProg_Wk13b_RegExp1.pptx",
-      "source_link": "https://colab.research.google.com/drive/1RGAEz2o3LvJZFcUpWWJoZbYG-q7VywQJ?usp=sharing",
-      "drive_file_id": "1RGAEz2o3LvJZFcUpWWJoZbYG-q7VywQJ",
-      "path": "week13/EngProg_RegExp.ipynb",
-      "week": 13,
-      "source_slide": 5,
-      "sha256": "0e3080e204ec8eeb748354c14d0b40e73ecf0fa800426c4bb8aff57630db7d2c",
-      "size_bytes": 13125,
-      "original_sha256": "d2a8d308b74db130f21bd7a1bb9aa0b933e4365c8b3436170521990f4fd7402c",
-      "original_size_bytes": 1437,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "정규표현식 기초: 검색과 검증을 구분하기",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
-      "alignment": {
-        "source_pptx_sha256": "c97879b9cce4e2ee05651f25090de60917ca34c55856ae0475707f957dd82a14",
-        "slide_count": 18,
-        "original_code_cells": 3,
-        "unchanged_original_code_cells": 2,
-        "adjusted_original_cells": 1,
-        "section_count": 2
-      },
-      "teaching_lecture": "CE100_W13b_RegExp1.pptx"
-    },
-    {
-      "original_name": "EP_W14a.ipynb",
-      "source_lecture": "2026_S1_EngProg_Wk14a_RegExp2.pptx",
-      "source_link": "https://drive.google.com/file/d/1UPx8kfHdd_nd34RnNyMfrJt-09NzhsgG/view?usp=sharing",
-      "drive_file_id": "1UPx8kfHdd_nd34RnNyMfrJt-09NzhsgG",
-      "path": "week14/EP_W14a.ipynb",
-      "week": 14,
-      "source_slide": 16,
-      "sha256": "f64c078ddb29ccbc6c8ee5eefb355a3324b96c4398a9df10591e58cb46e99e89",
-      "size_bytes": 18018,
-      "original_sha256": "5b23ca80f1d99b76c8afff1e0e554986cd88fd7bb0172c638ba382ca882a87dd",
-      "original_size_bytes": 4991,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "정규표현식 응용: 옵션·범위·측정값 검증",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
-      "alignment": {
-        "source_pptx_sha256": "63506b4ae6c476e742dbca0fad1814dd7f38bb27640bc92080a0b1ab1cfc9d1f",
-        "slide_count": 18,
-        "original_code_cells": 8,
-        "unchanged_original_code_cells": 8,
-        "adjusted_original_cells": 0,
-        "section_count": 2
-      },
-      "teaching_lecture": "CE100_W14a_RegExp2.pptx"
-    },
-    {
-      "original_name": "EP_W14b.ipynb",
-      "source_lecture": "2026_S1_EngProg_Wk14b_RegExp3.pptx",
-      "source_link": "https://drive.google.com/file/d/1M5CjjLPpJqrQH4ahBtLc_dVz9LHWgigT/view?usp=sharing",
-      "drive_file_id": "1M5CjjLPpJqrQH4ahBtLc_dVz9LHWgigT",
-      "path": "week14/EP_W14b.ipynb",
-      "week": 14,
-      "source_slide": 7,
-      "sha256": "bc925285d843c36b42dcdb2287ecbaf43a89f9d757a1bcd3279e3759b81a675b",
-      "size_bytes": 37176,
-      "original_sha256": "d7771a9fb6cf7d329b223efee9403b6a52e3b8ea4c85cc0c8d971ad6fa0e8dd3",
-      "original_size_bytes": 9329,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "정규표현식 검토: 캡처·치환·과도한 매칭",
-      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
-      "alignment": {
-        "source_pptx_sha256": "d57fa5cc092ddc175ad6dc0786412b2e2ec3d5b037d0d9bff13b446ebdacf026",
-        "slide_count": 20,
-        "original_code_cells": 20,
-        "unchanged_original_code_cells": 17,
-        "adjusted_original_cells": 5,
-        "section_count": 5
-      },
-      "teaching_lecture": "CE100_W14b_RegExp3.pptx"
+      "path": "week03/EP_W3a.ipynb",
+      "title": "숫자·문자열·리스트",
+      "week": 3,
+      "sha256": "0a5e054a0444db8a27debe96f7a18b05eadd94dbcce330bf398490c0f4d6f8ab",
+      "size_bytes": 2389,
+      "adaptation": "purposeful-practice",
+      "purpose": "3+4와 문자열 덧셈 비교, 리스트의 원소 변경"
     },
     {
       "original_name": "EP_W3b.ipynb",
@@ -160,12 +28,12 @@
       "path": "week03/EP_W3b.ipynb",
       "week": 3,
       "source_slide": 6,
-      "sha256": "a27c8119829197723dc61d94ce1b7ce6d39c47a06fc973a0606ca8ecfd0a4c9f",
-      "size_bytes": 36247,
+      "sha256": "b46ade1ffd6d5df66f0ad11a91a9baa2d0349530d5a85b552922d24055e426e7",
+      "size_bytes": 25006,
       "original_sha256": "de65e5e1bf6fc6a87505f49c9f6158cc3f98fe22590640f2edf3c93e72bf0478",
       "original_size_bytes": 8097,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "자료형: AI에게 데이터의 구조를 설명하기",
+      "adaptation": "purposeful-practice",
+      "title": "튜플·딕셔너리·집합",
       "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
       "alignment": {
         "source_pptx_sha256": "13c3efdd506c916bde07a2f827762944514395ce7b62e541d1badaead92594ec",
@@ -175,7 +43,17 @@
         "adjusted_original_cells": 1,
         "section_count": 5
       },
-      "teaching_lecture": "CE100_W03b_DataType2.pptx"
+      "teaching_lecture": "CE100_W03b_DataType2.pptx",
+      "purpose": "자료를 묶는 방식에 따라 조회·수정·중복 처리 비교"
+    },
+    {
+      "path": "week04/EP_W4a.ipynb",
+      "title": "조건문·반복문",
+      "week": 4,
+      "sha256": "f7b4dc57c89968c422c1faeaa101e361f1a8b2e33c7879754852a2bb45b07fd1",
+      "size_bytes": 2806,
+      "adaptation": "purposeful-practice",
+      "purpose": "조건을 바꾸고 1부터 10까지의 합을 반복문으로 계산"
     },
     {
       "original_name": "EP_W4b.ipynb",
@@ -185,12 +63,12 @@
       "path": "week04/EP_W4b.ipynb",
       "week": 4,
       "source_slide": 10,
-      "sha256": "9ce5e18aa150b176f718e93f776de57b79bf7dfa8c600f8aca190c3b5984e05a",
-      "size_bytes": 37275,
+      "sha256": "3e1a9d9d47d5e4fb7ab36abbaa11c1304b3acbeb7a7b387c6aaec4e6846f5dfa",
+      "size_bytes": 25945,
       "original_sha256": "c99333dfd18196dffe76a574516777d118b4a5efa3e630984aeb4b233eb1e328",
       "original_size_bytes": 9786,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "함수: 입력·출력·실패 조건을 계약으로 만들기",
+      "adaptation": "purposeful-practice",
+      "title": "함수",
       "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
       "alignment": {
         "source_pptx_sha256": "c1e0296b4702ce100527720fa9bb87a1f8483fc00807b1dcba165c0f4c156336",
@@ -200,7 +78,8 @@
         "adjusted_original_cells": 3,
         "section_count": 5
       },
-      "teaching_lecture": "CE100_W04b_Function.pptx"
+      "teaching_lecture": "CE100_W04b_Function.pptx",
+      "purpose": "인수와 반환값을 구분하고 같은 계산을 함수로 호출"
     },
     {
       "original_name": "EP_W5a.ipynb",
@@ -210,12 +89,12 @@
       "path": "week05/EP_W5a.ipynb",
       "week": 5,
       "source_slide": 7,
-      "sha256": "957b17717000418d8f795d0aa2ecbd4be5a23c2dfc2127e235281d45d35689ab",
-      "size_bytes": 36028,
+      "sha256": "8dc4560ab0ca9c7799a0504d2fe8e0ff2366fc4d1e1144b03d05f812922b383f",
+      "size_bytes": 22663,
       "original_sha256": "7f950f540d49828a87d71f5bee72de2e8e085f2cf5f831322f003b7f7eee6e77",
       "original_size_bytes": 9174,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "파일 입출력: 경로·인코딩·덮어쓰기를 검토하기",
+      "adaptation": "purposeful-practice",
+      "title": "파일 읽기·쓰기",
       "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
       "alignment": {
         "source_pptx_sha256": "641cadc9e29c033c7822ad66c1efbafee14924e104c9d5992c960d54d2029cc3",
@@ -225,7 +104,8 @@
         "adjusted_original_cells": 8,
         "section_count": 5
       },
-      "teaching_lecture": "CE100_W05a_InOut.pptx"
+      "teaching_lecture": "CE100_W05a_InOut.pptx",
+      "purpose": "newfile.txt를 읽고 쓰기 모드에 따른 내용 변화 확인"
     },
     {
       "original_name": "EP_W5b.ipynb",
@@ -235,12 +115,12 @@
       "path": "week05/EP_W5b.ipynb",
       "week": 5,
       "source_slide": 4,
-      "sha256": "01a4332672c4ad6445084070c4587e0ef90786d9034e553183c6460271ac7d1e",
-      "size_bytes": 37179,
+      "sha256": "60b8caa00e72851f72d252764187421be1e80999816bc9f06084ac5be33daf13",
+      "size_bytes": 26892,
       "original_sha256": "76c3b79de6fc7a6dea6507accda5570f5add0cded051b827e617356b928bfae6",
       "original_size_bytes": 13728,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "클래스: 여러 객체의 상태를 구분하기",
+      "adaptation": "purposeful-practice",
+      "title": "클래스와 객체",
       "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
       "alignment": {
         "source_pptx_sha256": "ef9d09a235dacba0d65c49798b3a02d3abf62c1c15454d04cc68745120bc502f",
@@ -250,7 +130,8 @@
         "adjusted_original_cells": 2,
         "section_count": 4
       },
-      "teaching_lecture": "CE100_W05b_Class.pptx"
+      "teaching_lecture": "CE100_W05b_Class.pptx",
+      "purpose": "FourCal 객체별 자료와 메서드의 실행 결과 비교"
     },
     {
       "original_name": "EP_W6a.ipynb",
@@ -260,12 +141,12 @@
       "path": "week06/EP_W6a.ipynb",
       "week": 6,
       "source_slide": 6,
-      "sha256": "91c25d2fb1153c0f3f693fe78fc2eed0da7b365d69fef5e90d895b13a8040573",
-      "size_bytes": 21213,
+      "sha256": "e417f19166c679c7a97d9b456c60237ebe0d84d6d2039c252253e1cbacee18d8",
+      "size_bytes": 10776,
       "original_sha256": "81d4b4d90bb84db05eefef427ea55b5d9fad4e563f030124301edf817f6aa96d",
       "original_size_bytes": 2813,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "모듈·패키지: 기능의 출처와 인터페이스를 확인하기",
+      "adaptation": "purposeful-practice",
+      "title": "모듈·패키지",
       "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
       "alignment": {
         "source_pptx_sha256": "0803f7bbcda37cd6e449893e6652d5c4507e693caf8047fd9cdce216a0ebad4e",
@@ -275,7 +156,8 @@
         "adjusted_original_cells": 7,
         "section_count": 2
       },
-      "teaching_lecture": "CE100_W06a_MdlPackage.pptx"
+      "teaching_lecture": "CE100_W06a_MdlPackage.pptx",
+      "purpose": "직접 만든 파일의 함수를 import하여 호출"
     },
     {
       "original_name": "EP_W6b.ipynb",
@@ -285,12 +167,12 @@
       "path": "week06/EP_W6b.ipynb",
       "week": 6,
       "source_slide": 7,
-      "sha256": "5f5d88b5a09a9918b067c24fece2051b0b54ef69239c7c99cd09678877c4e6e5",
-      "size_bytes": 30358,
+      "sha256": "49b1590e97779e60417207d0e1902c25c3eb592b0effa4de5432e9954fd924a6",
+      "size_bytes": 21825,
       "original_sha256": "f364c418cff12bdb0c9e9d32d5211048dc9a148c9918af308d802d2ea87637a2",
       "original_size_bytes": 9141,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "예외 처리: 실패를 정상 관측값으로 숨기지 않기",
+      "adaptation": "purposeful-practice",
+      "title": "예외 처리·내장함수",
       "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
       "alignment": {
         "source_pptx_sha256": "c5727f57934fd12fdf2ba3214fde375cf60dca2b8bab1ad8f70d3c459c9dd964",
@@ -300,7 +182,8 @@
         "adjusted_original_cells": 2,
         "section_count": 2
       },
-      "teaching_lecture": "CE100_W06b_Exception.pptx"
+      "teaching_lecture": "CE100_W06b_Exception.pptx",
+      "purpose": "정수·문자·0을 입력하여 예외 처리의 흐름 비교. 내장함수 예제는 해당 강의에서 선택"
     },
     {
       "original_name": "EP_W9a.ipynb",
@@ -310,12 +193,12 @@
       "path": "week09/EP_W9a.ipynb",
       "week": 9,
       "source_slide": 4,
-      "sha256": "ba18055f414d688e96dd0f2f7864f606c62bbfb93cc68f3c1c7aa4e98bc31439",
-      "size_bytes": 46934,
+      "sha256": "ec04e3ae330feff6ae54334aa8e6673b1e1fae4f6a8ef1d63d438474009c306e",
+      "size_bytes": 30629,
       "original_sha256": "0e00f21cd454a38eafac4541478552fa984d935aa1a36217776bb6e0a6d0272e",
       "original_size_bytes": 10467,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "표준 라이브러리: 파일 검색과 재현 가능한 실험",
+      "adaptation": "purposeful-practice",
+      "title": "표준 라이브러리",
       "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
       "alignment": {
         "source_pptx_sha256": "25a111b8bb42c002d3b57dbfbc293f7b1e9e8e4db50c7dac7a29150d423a5fce",
@@ -325,7 +208,8 @@
         "adjusted_original_cells": 12,
         "section_count": 6
       },
-      "teaching_lecture": "CE100_W09a_Lib1.pptx"
+      "teaching_lecture": "CE100_W09a_Lib1.pptx",
+      "purpose": "파일·경로·저장·시간 처리 예제 중 수업에서 다룬 기능 실행"
     },
     {
       "original_name": "EP_W9b_numpy.ipynb",
@@ -335,12 +219,12 @@
       "path": "week09/EP_W9b_numpy.ipynb",
       "week": 9,
       "source_slide": 4,
-      "sha256": "fed4bf3f8d7b0f9f10996831ed41c1899bb50a4a57f6de6275d1b496eed89c32",
-      "size_bytes": 109666,
+      "sha256": "1fec761d1bf349911f166232abae16b72fbb90fed897e8d6076651532d48fac3",
+      "size_bytes": 98018,
       "original_sha256": "af369ad5aa0f527ecad52b0b078fefbdf78c1315c22347ca9d70533b8b819584",
       "original_size_bytes": 73726,
-      "adaptation": "slide-aligned-ai-literacy-v2",
-      "title": "NumPy: 배열의 모양과 축으로 질문하기",
+      "adaptation": "purposeful-practice",
+      "title": "NumPy 배열",
       "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
       "alignment": {
         "source_pptx_sha256": "c70a736614b73c8a79535fe7996de89b6744f4ab474f7652423819318a4e881b",
@@ -350,7 +234,164 @@
         "adjusted_original_cells": 1,
         "section_count": 5
       },
-      "teaching_lecture": "CE100_W09b_Lib2_numpy.pptx"
+      "teaching_lecture": "CE100_W09b_Lib2_numpy.pptx",
+      "purpose": "배열의 모양·인덱스·연산 결과 확인"
+    },
+    {
+      "original_name": "EP_W10a_panda.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk10a_Lib3_pandas.pptx",
+      "source_link": "https://colab.research.google.com/drive/1GIaB8D7T-SMSkS0NuWMc3nTLcg2ZmxXZ?usp=sharing",
+      "drive_file_id": "1GIaB8D7T-SMSkS0NuWMc3nTLcg2ZmxXZ",
+      "path": "week10/EP_W10a_panda.ipynb",
+      "week": 10,
+      "source_slide": 4,
+      "sha256": "f2cf9c3d1e2f541b0b543c290fcc45c6fca688614219326cffafb30baf0be260",
+      "size_bytes": 32427,
+      "original_sha256": "7ac40e8c556e3619e662d189d14bb8b24a018f96eeea3658c8d74d46c458f32d",
+      "original_size_bytes": 14429,
+      "adaptation": "purposeful-practice",
+      "title": "pandas 표 자료",
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "da824313c8df30d34440ae7eac14b27982410e38270ca29ae0a324a84ed7d5b8",
+        "slide_count": 5,
+        "original_code_cells": 34,
+        "unchanged_original_code_cells": 29,
+        "adjusted_original_cells": 5,
+        "section_count": 5
+      },
+      "teaching_lecture": "CE100_W10a_Lib3_pandas.pptx",
+      "purpose": "행·열 선택, 요약값 계산, 표 저장"
+    },
+    {
+      "original_name": "EP_W10b_matplotlib.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk10b_Lib3_matplotlib.pptx",
+      "source_link": "https://colab.research.google.com/drive/1u_iy0awauPl44W8uZoF-1LcJDec5t2t5?usp=sharing",
+      "drive_file_id": "1u_iy0awauPl44W8uZoF-1LcJDec5t2t5",
+      "path": "week10/EP_W10b_matplotlib.ipynb",
+      "week": 10,
+      "source_slide": 4,
+      "sha256": "331124c2eb615a30199f778f679fa5c1381306d3a27efe61b13c0b00fbf39d36",
+      "size_bytes": 28829,
+      "original_sha256": "663f78469300ce0eab0859173e674926433f1f74d603b85330cfe210f999c440",
+      "original_size_bytes": 13516,
+      "adaptation": "purposeful-practice",
+      "title": "그래프",
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "0d24bfee1c00a575f46fc803b95f8186c380e25d7f6181658a2e55605953e7ff",
+        "slide_count": 5,
+        "original_code_cells": 18,
+        "unchanged_original_code_cells": 14,
+        "adjusted_original_cells": 4,
+        "section_count": 5
+      },
+      "teaching_lecture": "CE100_W10b_Lib3_matplotlib.pptx",
+      "purpose": "선·분포·집단 비교에 맞는 그래프 작성"
+    },
+    {
+      "original_name": "EP_W12b_pb.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk12b_ProgPrtc4.pptx",
+      "source_link": "https://colab.research.google.com/drive/1x-sJmp-3FQgysGmZkekr3x7AYzjDODmY?usp=sharing",
+      "drive_file_id": "1x-sJmp-3FQgysGmZkekr3x7AYzjDODmY",
+      "path": "week12/EP_W12b_pb.ipynb",
+      "week": 12,
+      "source_slide": 8,
+      "sha256": "cbaf3165f0d42aadad8cc2fdc6c0b0c49a106b9c6811f428f88c0c631a6a2bb5",
+      "size_bytes": 23397,
+      "original_sha256": "63b1633211581a3ad31ce53ebfdba90235d309ea165c6ede83682eb7a4ebfcfb",
+      "original_size_bytes": 10032,
+      "adaptation": "purposeful-practice",
+      "title": "환경 자료 집계",
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "9c4efd3f5f34b83d671f0bc9f261d9f13191268ac2278e6ae2b093e7af7c0068",
+        "slide_count": 9,
+        "original_code_cells": 14,
+        "unchanged_original_code_cells": 11,
+        "adjusted_original_cells": 5,
+        "section_count": 4
+      },
+      "teaching_lecture": "CE100_W12b_ProgPrtc4.pptx",
+      "purpose": "강의의 대기질·강우·지하수 CSV에서 기간·지역 조건으로 자료 선택"
+    },
+    {
+      "original_name": "EngProg_RegExp.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk13b_RegExp1.pptx",
+      "source_link": "https://colab.research.google.com/drive/1RGAEz2o3LvJZFcUpWWJoZbYG-q7VywQJ?usp=sharing",
+      "drive_file_id": "1RGAEz2o3LvJZFcUpWWJoZbYG-q7VywQJ",
+      "path": "week13/EngProg_RegExp.ipynb",
+      "week": 13,
+      "source_slide": 5,
+      "sha256": "dd1ceea0c7d7df492e9c0f5f033a7fb2c52c19d0e6a36570842a18036d1982e0",
+      "size_bytes": 4996,
+      "original_sha256": "d2a8d308b74db130f21bd7a1bb9aa0b933e4365c8b3436170521990f4fd7402c",
+      "original_size_bytes": 1437,
+      "adaptation": "purposeful-practice",
+      "title": "문자열 치환",
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "c97879b9cce4e2ee05651f25090de60917ca34c55856ae0475707f957dd82a14",
+        "slide_count": 18,
+        "original_code_cells": 3,
+        "unchanged_original_code_cells": 2,
+        "adjusted_original_cells": 1,
+        "section_count": 2
+      },
+      "teaching_lecture": "CE100_W13b_RegExp1.pptx",
+      "purpose": "반복문과 정규표현식의 치환 결과 비교"
+    },
+    {
+      "original_name": "EP_W14a.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk14a_RegExp2.pptx",
+      "source_link": "https://drive.google.com/file/d/1UPx8kfHdd_nd34RnNyMfrJt-09NzhsgG/view?usp=sharing",
+      "drive_file_id": "1UPx8kfHdd_nd34RnNyMfrJt-09NzhsgG",
+      "path": "week14/EP_W14a.ipynb",
+      "week": 14,
+      "source_slide": 16,
+      "sha256": "4cd509ade11d1b9e617411c3e708ad00c98c6aded11940ffefdf1b128167f473",
+      "size_bytes": 10137,
+      "original_sha256": "5b23ca80f1d99b76c8afff1e0e554986cd88fd7bb0172c638ba382ca882a87dd",
+      "original_size_bytes": 4991,
+      "adaptation": "purposeful-practice",
+      "title": "정규표현식 검색",
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "63506b4ae6c476e742dbca0fad1814dd7f38bb27640bc92080a0b1ab1cfc9d1f",
+        "slide_count": 18,
+        "original_code_cells": 8,
+        "unchanged_original_code_cells": 8,
+        "adjusted_original_cells": 0,
+        "section_count": 2
+      },
+      "teaching_lecture": "CE100_W14a_RegExp2.pptx",
+      "purpose": "패턴과 검색 옵션에 따른 일치 결과 비교"
+    },
+    {
+      "original_name": "EP_W14b.ipynb",
+      "source_lecture": "2026_S1_EngProg_Wk14b_RegExp3.pptx",
+      "source_link": "https://drive.google.com/file/d/1M5CjjLPpJqrQH4ahBtLc_dVz9LHWgigT/view?usp=sharing",
+      "drive_file_id": "1M5CjjLPpJqrQH4ahBtLc_dVz9LHWgigT",
+      "path": "week14/EP_W14b.ipynb",
+      "week": 14,
+      "source_slide": 7,
+      "sha256": "c4e7e4c898530a23ec5004d678a0cd481e0ac6bd6e9b8fd4cbd8342f0ed80981",
+      "size_bytes": 24820,
+      "original_sha256": "d7771a9fb6cf7d329b223efee9403b6a52e3b8ea4c85cc0c8d971ad6fa0e8dd3",
+      "original_size_bytes": 9329,
+      "adaptation": "purposeful-practice",
+      "title": "그룹·치환",
+      "original_repository_commit": "89e38ea511ab48aab84268d346729a7b1392093a",
+      "alignment": {
+        "source_pptx_sha256": "d57fa5cc092ddc175ad6dc0786412b2e2ec3d5b037d0d9bff13b446ebdacf026",
+        "slide_count": 20,
+        "original_code_cells": 20,
+        "unchanged_original_code_cells": 17,
+        "adjusted_original_cells": 5,
+        "section_count": 5
+      },
+      "teaching_lecture": "CE100_W14b_RegExp3.pptx",
+      "purpose": "경계·그룹·치환으로 필요한 문자열 추출"
     }
   ],
   "learning_design": {
@@ -415,5 +456,6 @@
     "holiday_policy": "휴일·불가피한 일정은 해당 차시의 온라인 영상강의로 대체",
     "writing_style": "문제는 완결된 문장, 풀이·해설은 자연스러운 단문"
   },
-  "edition_policy": "rolling"
+  "edition_policy": "rolling",
+  "practice_plan": "practice-plan.json"
 }

@@ -1,20 +1,11 @@
-# 10주 · 선형계·피벗·LU·조건과 잔차
+# 선형 연립방정식 (3) · 선형 연립방정식 (4)
 
-학습 주제: 선형 연립방정식 (3) / 선형 연립방정식 (4)
+**선형계·분해**
 
-- [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week10/CE273_W10.ipynb) · [노트북](CE273_W10.ipynb)
-- [Excel 실습](CE273_W10.xlsx): 유일해·과소결정계·피벗·LU·잔차 검산
-- [학습 가이드](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
+유일해·자유변수와 피벗, LU·Cholesky의 조건 확인
 
-| 주제 |
-| --- |
-| 유일해·무한해·과소결정계 검산 |
-| 피벗·LU와 Cholesky 조건 |
+[선형계·분해 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week10/CE273_W10.ipynb)
 
-진행: 예측 → 손계산 → 실행 → 한 조건 변경 → 원리·변경 결과 설명 → 오차·수렴·검산
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
 
-확인 과제: 해 존재·유일성·피벗·분해 조건·조건수 구분
-
-Excel: 옅은 파랑 입력 셀 수정 → 계산 시트 확인 → 검토기록 작성. 입력 범위·분할 조건·방법 정의부터 확인. 중간 계산은 유지하고 결과 표시만 조절
-
-선택 심화: 개념 학습 후 AI 설명·계산 검토. 핵심 실습의 필수 제출 항목과 구분
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

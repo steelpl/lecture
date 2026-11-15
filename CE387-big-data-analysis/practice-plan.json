@@ -1,0 +1,274 @@
+{
+  "course": "CE387",
+  "purpose": "확률·행렬·최적화·기계학습의 계산 원리를 작은 자료로 확인. 모델의 입력·계산·출력과 조건 변화의 의미에 집중",
+  "selection": "학習목표에 필요한 경우만 실습. 강의와 손계산으로 충분한 주차는 별도 파일 없음",
+  "activities": [
+    {
+      "week": 2,
+      "file": "week02/CE387_W02.ipynb",
+      "title": "Python 기초",
+      "task": "강우 [0,20,5] 등 작은 자료로 식·변수·자료형·컬렉션 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week02/CE387_W02.ipynb"
+    },
+    {
+      "week": 3,
+      "file": "week03/CE387_W03a_programming.ipynb",
+      "title": "제어문·함수·라이브러리",
+      "task": "조건·반복·함수의 흐름을 예측하고 실행",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb"
+    },
+    {
+      "week": 3,
+      "file": "week03/CE387_W03b_statistics.ipynb",
+      "title": "기술통계 참고",
+      "task": "평균·분포·상관계수 예제. 통계 개념이 필요한 경우 선택",
+      "format": "Colab",
+      "optional": true,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03b_statistics.ipynb"
+    },
+    {
+      "week": 5,
+      "file": "week05/CE387_W05.ipynb",
+      "title": "수락–기각 표본추출",
+      "task": "같은 두 봉우리 목표함수에서 H=0.71과 1.0의 수락률·표본 분포 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week05/CE387_W05.ipynb"
+    },
+    {
+      "week": 6,
+      "file": "week06/CE387_W06.ipynb",
+      "title": "Monte Carlo·MCMC",
+      "task": "환승시간의 난수 실험과 Metropolis 체인 확인. 제안 폭 0.2·4·12 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week06/CE387_W06.ipynb"
+    },
+    {
+      "week": 8,
+      "file": "week08/CE387_W08.ipynb",
+      "title": "벡터·행렬·변환",
+      "task": "같은 행렬의 계산과 늘이기·투영·고유벡터 방향 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week08/CE387_W08.ipynb"
+    },
+    {
+      "week": 10,
+      "file": "week10/CE387_W10.ipynb",
+      "title": "최소제곱·SVD·PCA",
+      "task": "의사역행렬의 잔차와 SVD 복원, 5개 관측의 중심화·주성분 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week10/CE387_W10.ipynb"
+    },
+    {
+      "week": 11,
+      "file": "week11/CE387_W11.ipynb",
+      "title": "경사하강법",
+      "task": "작은 회귀 자료의 기울기와 갱신 확인. 학습률에 따른 손실 변화 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week11/CE387_W11.ipynb"
+    },
+    {
+      "week": 12,
+      "file": "week12/CE387_W12.ipynb",
+      "title": "회귀·분류",
+      "task": "학습·테스트 자료를 구분하여 예측과 분류 성능 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week12/CE387_W12.ipynb"
+    },
+    {
+      "week": 13,
+      "file": "week13/CE387_W13.ipynb",
+      "title": "ReLU 신경망",
+      "task": "세 관측의 순전파·기울기·한 번의 갱신 계산. 500회 반복 결과 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13.ipynb"
+    },
+    {
+      "week": 14,
+      "file": "week14/CE387_W14.ipynb",
+      "title": "Softmax·CNN",
+      "task": "로짓과 확률을 구분하고 작은 O/X 영상의 합성곱·풀링 크기 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week14/CE387_W14.ipynb"
+    },
+    {
+      "week": 5,
+      "file": "week05/CE387_W05_Rejection.xlsx",
+      "title": "수락–기각 계산표",
+      "task": "노트북과 같은 목표함수·900개 후보의 수락 판정을 셀 수식으로 확인",
+      "format": "Excel",
+      "optional": true,
+      "url": "week05/CE387_W05_Rejection.xlsx"
+    },
+    {
+      "week": 6,
+      "file": "week06/CE387_W06_MCMC.xlsx",
+      "title": "Metropolis 계산표",
+      "task": "5,000회 체인에서 제안 폭만 변경. 수락률과 봉우리 간 이동 비교",
+      "format": "Excel",
+      "optional": true,
+      "url": "week06/CE387_W06_MCMC.xlsx"
+    },
+    {
+      "week": 13,
+      "file": "week13/CE387_W13_Forward.xlsx",
+      "title": "순전파·W3의 영향",
+      "task": "세 관측의 순전파와 W3에 따른 SSR 곡선 확인",
+      "format": "Excel",
+      "optional": true,
+      "url": "week13/CE387_W13_Forward.xlsx"
+    },
+    {
+      "week": 13,
+      "file": "week13/CE387_W13_Gradient.xlsx",
+      "title": "기울기·한 번의 갱신",
+      "task": "초기 여섯 파라미터의 기울기와 학습률 0.01의 한 번 갱신 확인",
+      "format": "Excel",
+      "optional": true,
+      "url": "week13/CE387_W13_Gradient.xlsx"
+    }
+  ],
+  "lecture_bindings": {
+    "CE387_W01a_Intro1.pptx": [],
+    "CE387_W01b_intro2.pptx": [],
+    "CE387_W02a_python1.pptx": [
+      {
+        "text": "변수와 실행 순서",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week02/CE387_W02.ipynb#scrollTo=state"
+      }
+    ],
+    "CE387_W02b_python2.pptx": [],
+    "CE387_W03a_python3.pptx": [
+      {
+        "text": "조건·반복 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb#scrollTo=control"
+      },
+      {
+        "text": "함수의 입력·출력",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb#scrollTo=functions"
+      },
+      {
+        "text": "라이브러리 연습",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb#scrollTo=libraries"
+      }
+    ],
+    "CE387_W03b_statisticsIntro.pptx": [],
+    "CE387_W04a_probability.pptx": [],
+    "CE387_W04b_Bayes.pptx": [],
+    "CE387_W05a_FreVsBayes.pptx": [],
+    "CE387_W05b_RejectSampling.pptx": [
+      {
+        "text": "수락·기각 계산 (Colab)",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week05/CE387_W05.ipynb#scrollTo=rejection"
+      },
+      {
+        "text": "수락·기각 계산표 (Excel·선택)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE387-big-data-analysis/week05/CE387_W05_Rejection.xlsx"
+      }
+    ],
+    "CE387_W06a_MCMC_Sampling.pptx": [
+      {
+        "text": "Metropolis 체인 (Colab)",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week06/CE387_W06.ipynb#scrollTo=metropolis"
+      },
+      {
+        "text": "제안 폭과 체인 (Excel·선택)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE387-big-data-analysis/week06/CE387_W06_MCMC.xlsx"
+      }
+    ],
+    "CE387_W06b_InfoTheo.pptx": [],
+    "CE387_W07a_summary.pptx": [],
+    "CE387_W08a_LinearAlgebra1.pptx": [],
+    "CE387_W08b_LinearAlgebra2_Practice.pptx": [
+      {
+        "text": "벡터·행렬·변환 계산",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week08/CE387_W08.ipynb#scrollTo=eigen"
+      }
+    ],
+    "CE387_W09a_LinearAlgebra3.pptx": [],
+    "CE387_W09b_LinearAlgebra4.pptx": [
+      {
+        "text": "중심화와 PCA",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week10/CE387_W10.ipynb#scrollTo=pca"
+      }
+    ],
+    "CE387_W10a_LinearAlgebra5_Practice.pptx": [
+      {
+        "text": "SVD·잔차 계산",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week10/CE387_W10.ipynb#scrollTo=svd"
+      },
+      {
+        "text": "중심화·투영·복원",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week10/CE387_W10.ipynb#scrollTo=pca"
+      }
+    ],
+    "CE387_W10b_Optimization1.pptx": [],
+    "CE387_W11a_Optimization2_Practice.pptx": [
+      {
+        "text": "학습률과 손실 변화",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week11/CE387_W11.ipynb#scrollTo=gradient-descent"
+      }
+    ],
+    "CE387_W11b_SLIntro.pptx": [],
+    "CE387_W12a_Regression.pptx": [
+      {
+        "text": "최소제곱 직선·잔차",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week12/CE387_W12.ipynb#scrollTo=regression"
+      }
+    ],
+    "CE387_W12b_Classification.pptx": [
+      {
+        "text": "시험 자료의 혼동행렬",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week12/CE387_W12.ipynb#scrollTo=classification"
+      }
+    ],
+    "CE387_W13a_NeuralNetwork1.pptx": [
+      {
+        "text": "순전파·W3의 영향 (Colab)",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13.ipynb#scrollTo=one-weight"
+      },
+      {
+        "text": "순전파 계산표 (Excel·선택)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13_Forward.xlsx"
+      }
+    ],
+    "CE387_W13b_NeuralNetwork2.pptx": [
+      {
+        "text": "순전파·미분·갱신",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13.ipynb#scrollTo=backprop"
+      },
+      {
+        "text": "기울기 계산표 (Excel·선택)",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13_Gradient.xlsx"
+      },
+      {
+        "text": "500회 학습 과정",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13.ipynb#scrollTo=training"
+      }
+    ],
+    "CE387_W14a_NeuralNetwork3.pptx": [
+      {
+        "text": "로짓과 Softmax",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week14/CE387_W14.ipynb#scrollTo=softmax"
+      }
+    ],
+    "CE387_W14b_NeuralNetwork4.pptx": [
+      {
+        "text": "합성곱·풀링의 크기",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week14/CE387_W14.ipynb#scrollTo=cnn"
+      }
+    ],
+    "CE387_W15a_Summary.pptx": []
+  }
+}

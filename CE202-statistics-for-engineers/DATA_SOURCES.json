@@ -1,24 +1,24 @@
 [
   {
-    "path": "week13/data/Wk13b_ANOVA.omv",
+    "path": "provenance/reference-inputs/week13/Wk13b_ANOVA.omv",
     "kind": "unchanged-original",
     "sha256": "da437ecf71441559b49dfd38855e03d8263ab812ff80021c84a42d4e1fc82a19",
     "bytes": 33163
   },
   {
-    "path": "week13/data/Wk13b_ANOVA.xlsx",
+    "path": "provenance/reference-inputs/week13/Wk13b_ANOVA.xlsx",
     "kind": "unchanged-original",
     "sha256": "b14e14bf1789383db2c254fd836139515ccfc3bd234ab939a3efacd28e62f0a7",
     "bytes": 11049
   },
   {
-    "path": "week13/data/Wk13b_ANOVA.zip",
+    "path": "provenance/reference-inputs/week13/Wk13b_ANOVA.zip",
     "kind": "unchanged-original",
     "sha256": "30d08b004fcaaf2c95ffbd56013eae55a9f777555aef74315671f230d0b5c78b",
     "bytes": 30542
   },
   {
-    "path": "week02/data/Wk2b_Dispersion.xlsx",
+    "path": "provenance/reference-inputs/week02/Wk2b_Dispersion.xlsx",
     "kind": "unchanged-original",
     "sha256": "218c951e4cf656db75027592a8d9f18f398c7ceb4fcca9282f35fc0514eb41dc",
     "bytes": 15930

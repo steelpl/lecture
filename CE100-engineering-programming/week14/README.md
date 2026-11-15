@@ -1,16 +1,17 @@
-# 14주차 · 정규표현식 응용
+# 정규표현식 (2) · 정규표현식 (3)
 
-공학프로그래밍입문
+**정규표현식 검색**
 
-## 실습 자료
+패턴과 검색 옵션에 따른 일치 결과 비교
 
-| 파일 | 실행 |
-| --- | --- |
-| [EP_W14a.ipynb](EP_W14a.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14a.ipynb) |
-| [EP_W14b.ipynb](EP_W14b.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14b.ipynb) |
+[정규표현식 검색 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14a.ipynb)
 
-Colab에서 열고 내 Drive에 사본 저장. 예측 → 실행 → 조건 변경 → 결과 확인
+**그룹·치환**
 
-학생용 과제는 TODO 상태로 배포. “미완료”는 점검 통과가 아님. 구현 후 공개 점검·직접 만든 반례 실행. [학생 학습 가이드](../LEARNING_GUIDE.md) 참고
+경계·그룹·치환으로 필요한 문자열 추출
 
-[강의 전체 실습 목록](../README.md)
+[그룹·치환 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14b.ipynb)
+
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
+
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)

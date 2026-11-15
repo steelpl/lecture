@@ -1,15 +1,17 @@
-# 4주차 · 제어문과 함수
+# 퀴즈 #1·제어문 · 함수
 
-공학프로그래밍입문
+**조건문·반복문**
 
-## 실습 자료
+조건을 바꾸고 1부터 10까지의 합을 반복문으로 계산
 
-| 파일 | 실행 |
-| --- | --- |
-| [EP_W4b.ipynb](EP_W4b.ipynb) | [Colab에서 열기](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week04/EP_W4b.ipynb) |
+[조건문·반복문 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week04/EP_W4a.ipynb)
 
-Colab에서 열고 내 Drive에 사본 저장. 예측 → 실행 → 조건 변경 → 결과 확인
+**함수**
 
-학생용 과제는 TODO 상태로 배포. “미완료”는 점검 통과가 아님. 구현 후 공개 점검·직접 만든 반례 실행. [학생 학습 가이드](../LEARNING_GUIDE.md) 참고
+인수와 반환값을 구분하고 같은 계산을 함수로 호출
 
-[강의 전체 실습 목록](../README.md)
+[함수 열기·Colab](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week04/EP_W4b.ipynb)
+
+처음에는 위에서 아래로 실행. 수업에서 다룬 절의 질문에 따라 값이나 조건 변경
+
+[과목 안내](../) · [학기 운영안내](../../CURRENT_OFFERING.md)
