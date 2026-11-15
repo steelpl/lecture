@@ -254,6 +254,51 @@ def export_pdf(items):
             app.Quit()
 
 
+def sync_practice(source, destination, report, archive, update=False):
+    """Synchronize managed materials; retire withdrawn files to an instructor archive."""
+    source, destination, archive = Path(source), Path(destination), Path(archive)
+    destination.mkdir(parents=True, exist_ok=True)
+    tracked = report.setdefault('practice', {})
+    source_files = {p.relative_to(source).as_posix(): p for p in source.rglob('*')
+                    if p.is_file() and not any(v.startswith('.') for v in p.relative_to(source).parts)}
+    if update:
+        for relative in sorted(set(tracked) - set(source_files)):
+            old = destination / relative
+            if old.exists():
+                digest = sha(old)
+                saved = archive / relative
+                if saved.exists():
+                    saved = saved.with_name(saved.stem + '_' + digest[:12] + saved.suffix)
+                saved.parent.mkdir(parents=True, exist_ok=True)
+                if saved.exists():
+                    if sha(saved) != digest:
+                        raise ValueError('Archive conflict: ' + str(saved))
+                    old.unlink()  # An identical, verified instructor backup already exists.
+                else:
+                    shutil.move(str(old), str(saved))
+                report.setdefault('retired_practice', {})[relative] = {
+                    'sha256': digest, 'archive': str(saved),
+                    'local_edit': digest != tracked[relative]}
+                override = report.get('local_practice_overrides', {}).get(relative)
+                if isinstance(override, dict):
+                    override['retired_archive'] = str(saved)
+            tracked.pop(relative)
+    for relative, original in sorted(source_files.items()):
+        target = destination / relative
+        if not target.exists():
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(original, target)
+            tracked[relative] = sha(target)
+        elif sha(target) == sha(original):
+            tracked[relative] = sha(target)
+        elif update and tracked.get(relative) == sha(target):
+            shutil.copy2(original, target)
+            tracked[relative] = sha(target)
+        elif update:
+            print('로컬 수정본 유지:', target, flush=True)
+    return report
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source-root', type=Path, help='최초 가져올 학기 폴더, 최초 가져오기 이후 생략 가능')
@@ -309,22 +354,7 @@ def main():
             save_manifest(report_path, report)
         practice = target / '2.실습자료'
         practice.mkdir(exist_ok=True)
-        tracked = report.setdefault('practice', {})
-        for src in config.parent.rglob('*'):
-            if not src.is_file() or any(p.startswith('.') for p in src.relative_to(config.parent).parts):
-                continue
-            relative = src.relative_to(config.parent)
-            dst = practice / relative
-            if not dst.exists():
-                dst.parent.mkdir(parents=True, exist_ok=True)
-                shutil.copy2(src, dst)
-                tracked[relative.as_posix()] = sha(dst)
-            elif args.sync_practice and tracked.get(relative.as_posix()) == sha(dst):
-                if sha(src) != sha(dst):
-                    shutil.copy2(src, dst)
-                    tracked[relative.as_posix()] = sha(dst)
-            elif args.sync_practice and tracked.get(relative.as_posix()) != sha(dst):
-                print('로컬 수정본 유지:', dst, flush=True)
+        sync_practice(config.parent, practice, report, target / '_검수기록' / '실습정리', args.sync_practice)
         practice_plan_path = config.parent / 'practice-plan.json'
         practice_bindings = json.loads(practice_plan_path.read_text(encoding='utf-8')).get('lecture_bindings', {}) if practice_plan_path.exists() else {}
         fresh_pdf = any((slides / entry['file'].replace('.pptx', '.pdf')).exists() and

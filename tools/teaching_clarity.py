@@ -5,7 +5,7 @@ A plan names exact existing slide parts, source decks and SHA256 checkpoints.
 Only PPTX is written. PowerPoint rendering and deployment are separate steps.
 """
 from pathlib import Path
-import copy,hashlib,html,json,posixpath,re,shutil,zipfile
+import base64,copy,hashlib,html,json,posixpath,re,shutil,zipfile
 import xml.etree.ElementTree as E
 from slide_patch import TEXT,N,R,PKG,shape,scene,replace_exact_text,relations
 SP=re.compile(r'<p:sp(?:\s[^>]*)?>.*?</p:sp>',re.S)
@@ -19,7 +19,7 @@ def ordered(files):
 def source_header(path,available):
  with zipfile.ZipFile(path) as z:
   f={i.filename:z.read(i) for i in z.infolist() if i.filename.startswith('ppt/') and i.filename.endswith(('.xml','.rels'))};parts=ordered(f)
-  for _,part in parts[2:]:
+  for _,part in parts[1:]:
    raw=f[part].decode();candidates=[]
    for m in SP.finditer(raw):
     s=m[0]
@@ -30,7 +30,7 @@ def source_header(path,available):
    return candidates[0],layout
  raise ValueError('Native title placeholder not found: '+str(path))
 def header_text(template,title):
- t=replace_exact_text(template,value(template),title);t=re.sub(r'(<p:cNvPr\b[^>]*\bid=")[^"]+',r'\g<1>9000',t);return t
+ t=replace_exact_text(template,value(template),title);t=re.sub(r'<a:(hlinkClick|hlinkHover)\b[^>]*?(?:/>|>.*?</a:\1>)','',t,flags=re.S);t=re.sub(r'(<p:cNvPr\b[^>]*\bid=")[^"]+',r'\g<1>9000',t);return t
 
 def font_body(s):
  s=s.replace('typeface="맑은 고딕"','typeface="+mn-ea"').replace('<a:latin typeface="+mn-ea"/>','<a:latin typeface="Arial"/>').replace('<a:cs typeface="+mn-ea"/>','<a:cs typeface="Arial"/>')
@@ -50,8 +50,10 @@ def native_existing(raw,title,template):
   if ext is not None and int(ext.get('cy'))/12700>90:
    s=re.sub(r'(<p:spPr>(?:(?!</p:spPr>).)*?)<a:solidFill>.*?</a:solidFill>',lambda x:x[1]+'<a:noFill/>',s,count=1,flags=re.S)
   # Body text follows the original black text; table fills and plot colors stay.
-  if '<a:noFill/>' in s.split('</p:spPr>',1)[0]:
+  if sp.find('p:spPr/a:solidFill',N) is None:
    s=s.replace('val="202833"','val="000000"').replace('val="23376E"','val="000000"')
+  if 'name="TEACHING_24"' in s and 'SSR ≈' in value(s):
+   s=re.sub(r'(<a:off\b[^>]*y=")[^"]+',r'\g<1>'+str(455*12700),s,count=1);s=re.sub(r'(<a:ext\b[^>]*cy=")[^"]+',r'\g<1>'+str(40*12700),s,count=1)
   return font_body(s)
  raw=SP.sub(clean,raw);return raw.replace('</p:spTree>',header_text(template,title)+'</p:spTree>')
 
@@ -69,7 +71,7 @@ def clear_practice(raw,rels):
    if t in ('실습 열기','실습 코드','파이썬 코드','실습 노트북','실습노트북','실습 자료·Colab / Excel') or t.startswith('https://colab.research.google.com'):return ''
   return s
  raw=SP.sub(clean,raw)
- for rid in remove:raw=re.sub(r'<a:hlinkClick\b[^>]*r:id="'+re.escape(rid)+r'"[^>]*/>','',raw)
+ for rid in remove:raw=re.sub(r'<a:(hlinkClick|hlinkHover)\b[^>]*r:id="'+re.escape(rid)+r'"[^>]*?(?:/>|>.*?</a:\1>)','',raw,flags=re.S)
  reltext=rels.decode() if rels else None
  if reltext:
   for rid in remove:reltext=re.sub(r'<Relationship\b[^>]*Id="'+re.escape(rid)+r'"[^>]*/>','',reltext)
@@ -90,6 +92,15 @@ def layout_rel(rels,layout):
  else:t=relations(t.encode(),[('rIdNativeLayout','slideLayout',layout)])
  return t.encode()
 
+def assets(spec, files, rels):
+ for a in spec.get('assets', []):
+  files['ppt/media/'+a['name']]=base64.b64decode(a['base64'])
+  rels=relations(rels,[(a['rid'],'image','../media/'+a['name'])]).encode()
+  if b'Extension="png"' not in files['[Content_Types].xml']:
+   files['[Content_Types].xml']=files['[Content_Types].xml'].replace(b'</Types>',b'<Default Extension="png" ContentType="image/png"/></Types>')
+ return rels
+
+
 def stage(plan,dest):
  dest=Path(dest);dest.mkdir(parents=True,exist_ok=True);results=[]
  for job in plan['decks']:
@@ -103,25 +114,30 @@ def stage(plan,dest):
    if part in removed:
     pres=pres.replace(sid,'');continue
    if part in job['scenes']:
-    raw=native_scene(job['scenes'][part],0,header);rr=layout_rel(rr,layout)
+    raw=native_scene(job['scenes'][part],0,header);rr=assets(job['scenes'][part],files,layout_rel(rr,layout))
    elif part in job['titles']:
     raw=native_existing(raw,job['titles'][part],header);rr=layout_rel(rr,layout)
    if part in job['buttons']:raw,rr=buttons(raw,rr,job['buttons'][part])
    # Remove abandoned navigation text, retaining native title/placeholders if any.
    raw=SP.sub(lambda m:'' if value(m[0]).strip() in ('실습 자료·Colab / Excel','실습 노트북','실습노트북') else m[0],raw)
+   if not value(raw).strip() and not any(marker in raw for marker in ['<p:pic','<p:graphicFrame','<m:oMath','<p:cxnSp','<a:custGeom','<a:prstGeom']):
+    pres=pres.replace(sid,'');removed.add(part)
    files[part]=raw.encode()
    if rr:files[rp]=rr
    if files[part]!=original[part]:changed.append(part)
-  maxpart=max(int(re.search(r'slide(\d+)\.xml$',p)[1]) for _,p in parts);maxsid=max(int(re.search(r'\bid="(\d+)"',i)[1]) for i,_ in parts)
+  maxpart=max(int(re.search(r'slide(\d+)\.xml$',p)[1]) for p in files if re.fullmatch(r'ppt/slides/slide\d+\.xml',p));maxsid=max(int(re.search(r'\bid="(\d+)"',i)[1]) for i,_ in parts)
   for i,spec in enumerate(job.get('insert',[]),1):
    newpart='ppt/slides/slide'+str(maxpart+i)+'.xml';rid='rIdClarityNew'+str(i);sid='<p:sldId id="'+str(maxsid+i)+'" r:id="'+rid+'"/>';oldid=next(x for x,p in parts if p==spec['after']);pres=pres.replace(oldid,oldid+sid)
-   raw=native_scene(spec,0,header);rr=layout_rel(None,layout)
+   raw=native_scene(spec,0,header);rr=assets(spec,files,layout_rel(None,layout))
    if spec.get('buttons'):raw,rr=buttons(raw,rr,spec['buttons'])
    files[newpart]=raw.encode();files[relpart(newpart)]=rr;files['ppt/_rels/presentation.xml.rels']=relations(files['ppt/_rels/presentation.xml.rels'],[(rid,'slide','slides/'+posixpath.basename(newpart))]).encode();files['[Content_Types].xml']=files['[Content_Types].xml'].replace(b'</Types>',('<Override PartName="/'+newpart+'" ContentType="application/vnd.openxmlformats-officedocument.presentationml.slide+xml"/></Types>').encode());changed.append(newpart)
   files['ppt/presentation.xml']=pres.encode()
   # Ordinary page fields that were replaced by literals in old files.
   for n,(_,part) in enumerate(ordered(files),1):
    raw=files[part].decode();raw=TEXT.sub(lambda m:m[1]+re.sub(r'Page\.\s*\d+','Page. %02d'%n,m[2])+m[3],raw);files[part]=raw.encode()
+  for _,part in ordered(files):
+   rr=E.fromstring(files[relpart(part)]);ids={x.get('Id') for x in rr};root=E.fromstring(files[part]);refs={v for element in root.iter() for k,v in element.attrib.items() if k.startswith('{'+R+'}') and v}
+   if refs-ids:raise ValueError('Missing slide relationships: '+part+' '+str(refs-ids))
   for name,data in files.items():
    if name.endswith(('.xml','.rels')):E.fromstring(data)
   out=dest/path.name

@@ -1,0 +1,2587 @@
+{
+  "principles": [
+    "학습목표에 필요한 실습만 선정",
+    "문제·입력·기호·계산을 슬라이드와 일치",
+    "원본의 제목·폰트·가운데 정렬·레이아웃 재사용",
+    "문제는 서술문, 풀이·해설은 단문",
+    "PDF 변환 제외"
+  ],
+  "decks": [
+    {
+      "file": "CE100_W01a_Intro1.pptx",
+      "remove": [
+        "ppt/slides/slide16.xml",
+        "ppt/slides/slide20.xml"
+      ],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide11.xml": "코드 읽기와 결과 예측",
+        "ppt/slides/slide12.xml": "AI에 질문하는 방법",
+        "ppt/slides/slide13.xml": "실행 결과 확인",
+        "ppt/slides/slide16.xml": "직접 생각하고, 실행하고, 다시 질문",
+        "ppt/slides/slide20.xml": "이번 학기의 학습 흐름"
+      }
+    },
+    {
+      "file": "CE100_W01b_Intro2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide7.xml": "자료 크기에 맞는 계산 환경",
+        "ppt/slides/slide10.xml": "관측자료의 해석",
+        "ppt/slides/slide11.xml": "자료를 설명하는 질문",
+        "ppt/slides/slide26.xml": "Python으로 자료 처리",
+        "ppt/slides/slide27.xml": "Python 코드의 실행"
+      }
+    },
+    {
+      "file": "CE100_W02a_BeginPython.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide15.xml": [
+          {
+            "text": "첫 코드 실행",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week02/EP_W02.ipynb#scrollTo=small-change"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide12.xml": "작업에 맞는 도구 선택",
+        "ppt/slides/slide14.xml": "노트북과 스크립트",
+        "ppt/slides/slide15.xml": "첫 코드 실행",
+        "ppt/slides/slide17.xml": "오류 메시지와 입력",
+        "ppt/slides/slide18.xml": "Colab에서 시작하기",
+        "ppt/slides/slide20.xml": "노트북의 사본 저장"
+      }
+    },
+    {
+      "file": "CE100_W02b_Colab.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide8.xml": [
+          {
+            "text": "변수와 실행 순서",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week02/EP_W02.ipynb#scrollTo=state"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide3.xml": "노트북 문서와 런타임",
+        "ppt/slides/slide4.xml": "CPU와 GPU",
+        "ppt/slides/slide7.xml": "셀 실행 순서",
+        "ppt/slides/slide8.xml": "변수와 실행 순서",
+        "ppt/slides/slide9.xml": "텍스트 셀",
+        "ppt/slides/slide12.xml": "설치와 import",
+        "ppt/slides/slide13.xml": "파일의 저장 위치"
+      }
+    },
+    {
+      "file": "CE100_W03a_DataType1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide5.xml": [
+          {
+            "text": "숫자·문자열 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week03/EP_W3a.ipynb#scrollTo=numbers"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W03b_DataType2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide4.xml": [
+          {
+            "text": "튜플·딕셔너리·집합",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week03/EP_W3b.ipynb#scrollTo=tuple"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W04a_CtrlStatement.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide9.xml": [
+          {
+            "text": "조건·반복 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week04/EP_W4a.ipynb#scrollTo=conditions"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W04b_Function.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide5.xml": [
+          {
+            "text": "함수의 인수와 반환값",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week04/EP_W4b.ipynb#scrollTo=functions"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W05a_InOut.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide5.xml": [
+          {
+            "text": "파일 읽기·쓰기",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week05/EP_W5a.ipynb#scrollTo=file-modes"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W05b_Class.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide7.xml": [
+          {
+            "text": "FourCal 객체 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week05/EP_W5b.ipynb#scrollTo=fourcal"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W06a_MdlPackage.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide7.xml": [
+          {
+            "text": "모듈의 함수 호출",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6a.ipynb#scrollTo=modules"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide4.xml": "모듈",
+        "ppt/slides/slide5.xml": "모듈의 위치",
+        "ppt/slides/slide7.xml": "모듈의 함수 호출",
+        "ppt/slides/slide13.xml": "패키지",
+        "ppt/slides/slide15.xml": "모듈 작성",
+        "ppt/slides/slide16.xml": "패키지의 함수 호출"
+      }
+    },
+    {
+      "file": "CE100_W06b_Exception.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide5.xml": [
+          {
+            "text": "예외 처리 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6b.ipynb#scrollTo=exceptions"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W07a_Review.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide6.xml": "Python 코드의 실행",
+        "ppt/slides/slide39.xml": "중간평가 안내"
+      }
+    },
+    {
+      "file": "CE100_W08a_InBuilt1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide5.xml": [
+          {
+            "text": "내장함수 예제",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week06/EP_W6b.ipynb#scrollTo=builtins"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W08b_InBuilt2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE100_W09a_Lib1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide14.xml": [
+          {
+            "text": "파일·경로 예제",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week09/EP_W9a.ipynb#scrollTo=files"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide3.xml": "표준 라이브러리와 외부 패키지",
+        "ppt/slides/slide14.xml": "os: 현재 폴더와 파일 경로",
+        "ppt/slides/slide20.xml": "TemporaryFile",
+        "ppt/slides/slide22.xml": "NamedTemporaryFile"
+      }
+    },
+    {
+      "file": "CE100_W09b_Lib2_numpy.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide4.xml": {
+          "title": "배열의 모양과 연산",
+          "items": [
+            {
+              "kind": "text",
+              "text": "리스트 [[1,2,3],[4,5,6]]을 배열로 바꾸시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 65,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "a = np.array([[1,2,3], [4,5,6]])\nprint(a.ndim, a.shape)\nprint(a[0, 1])",
+              "x": 40,
+              "y": 180,
+              "w": 690,
+              "h": 140,
+              "size": 24,
+              "font": "Consolas",
+              "color": "000000",
+              "font_unused": null
+            },
+            {
+              "kind": "text",
+              "text": "같은 원소를 3행 2열로 바꾸시오.\n배열의 모양과 원소의 위치를 비교하시오.",
+              "x": 25,
+              "y": 370,
+              "w": 730,
+              "h": 100,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide4.xml": [
+          {
+            "text": "배열과 모양",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week09/EP_W9b_numpy.ipynb#scrollTo=arrays"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W10a_Lib3_pandas.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide4.xml": {
+          "title": "나이 열의 자료 수와 평균",
+          "items": [
+            {
+              "kind": "text",
+              "text": "Titanic 자료에서 나이 열의 자료 수와 평균을 구하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 65,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "len(titanic_data)\ntitanic_data[\"Age\"].count()\ntitanic_data[\"Age\"].mean()",
+              "x": 40,
+              "y": 220,
+              "w": 510,
+              "h": 140,
+              "size": 22,
+              "font": "Consolas",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "891\n714\n29.70",
+              "x": 585,
+              "y": 220,
+              "w": 150,
+              "h": 140,
+              "size": 26,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "전체 행 수와 count()의 값이 다른 이유를 설명하시오.",
+              "x": 25,
+              "y": 405,
+              "w": 730,
+              "h": 65,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide4.xml": [
+          {
+            "text": "행·열 선택과 요약",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week10/EP_W10a_panda.ipynb#scrollTo=frame"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W10b_Lib3_matplotlib.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide4.xml": {
+          "title": "선 그래프와 범례",
+          "items": [
+            {
+              "kind": "text",
+              "text": "같은 x에서 sin(x)와 0.5sin(x)를 그리시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 65,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "x = np.linspace(-2*np.pi, 2*np.pi, 100)\ny = np.sin(x)\nplt.plot(x, y)\nplt.plot(x, 0.5*y)",
+              "x": 40,
+              "y": 200,
+              "w": 690,
+              "h": 150,
+              "size": 22,
+              "font": "Consolas",
+              "color": "000000",
+              "font_unused": null
+            },
+            {
+              "kind": "text",
+              "text": "색·마커·범례를 바꾸어 두 곡선을 구분하시오.\n축 이름이 그린 값과 일치하는지 확인하시오.",
+              "x": 25,
+              "y": 390,
+              "w": 730,
+              "h": 90,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide4.xml": [
+          {
+            "text": "자료에 맞는 그래프",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week10/EP_W10b_matplotlib.ipynb#scrollTo=line"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W11a_ProgPrtc1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE100_W11b_ProgPrtc2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE100_W12a_ProgPrtc3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE100_W12b_ProgPrtc4.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide7.xml": [
+          {
+            "text": "환경 자료의 조건별 집계",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week12/EP_W12b_pb.ipynb#scrollTo=air-quality"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide7.xml": "환경 자료 분석"
+      }
+    },
+    {
+      "file": "CE100_W13a_ProgPrtc5.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide5.xml": [
+          {
+            "text": "반복문과 정규표현식",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week13/EngProg_RegExp.ipynb#scrollTo=without-regex"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W13b_RegExp1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE100_W14a_RegExp2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide5.xml": [
+          {
+            "text": "정규표현식 검색",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14a.ipynb#scrollTo=matching"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE100_W14b_RegExp3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide13.xml": [
+          {
+            "text": "문자열 경계·그룹·치환",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE100-engineering-programming/week14/EP_W14b.ipynb#scrollTo=anchors"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide3.xml": "정규표현식의 구성",
+        "ppt/slides/slide13.xml": "단어 경계"
+      }
+    },
+    {
+      "file": "CE100_W15a_Review.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide12.xml": "입력과 출력",
+        "ppt/slides/slide14.xml": "입력 조건과 예상 결과",
+        "ppt/slides/slide17.xml": "객체의 메서드와 오류",
+        "ppt/slides/slide19.xml": "결측값 처리",
+        "ppt/slides/slide21.xml": "그래프와 계산식",
+        "ppt/slides/slide23.xml": "기간별 자료 선택",
+        "ppt/slides/slide25.xml": "문자열 치환",
+        "ppt/slides/slide26.xml": "오류 메시지와 입력",
+        "ppt/slides/slide34.xml": "기말평가 안내"
+      }
+    },
+    {
+      "file": "CE202_W01a_Intro.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide20.xml": "자료의 변화와 대푯값"
+      }
+    },
+    {
+      "file": "CE202_W01b_Data.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide8.xml": [
+          {
+            "text": "도수표·상대도수 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week01/CE202_W01.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE202_W02a_Central.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide14.xml": [
+          {
+            "text": "극단값과 대푯값 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week02/CE202_W02.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE202_W02b_Dispersion.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide12.xml": [
+          {
+            "text": "분산의 계산 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week02/CE202_W02.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE202_W03a_ProbBasic.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W03b_CondProb.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W04a_RandVar.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W04b_Expectation.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W05a_JntProb.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W05b_CoVar.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W06a_Dist1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide26.xml": [
+          {
+            "text": "이항분포의 변화 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week06/CE202_W06.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE202_W06b_Dist2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W07a_Review.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide34.xml": "중간평가 안내"
+      }
+    },
+    {
+      "file": "CE202_W08a_Dist3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide24.xml": [
+          {
+            "text": "정규분포의 구간 확률 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week08/CE202_W08.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE202_W08b_Dist4.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W09a_SampleDist1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide13.xml": [
+          {
+            "text": "16개 표본과 표본평균 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week09/CE202_W09.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE202_W09b_SampleDist2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W10a_Inference1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W10b_Inference2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W11a_Inference3.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide34.xml": {
+          "title": "비율의 정규근사 조건",
+          "items": [
+            {
+              "kind": "text",
+              "text": "표본 100개 중 불량품이 2개이다.\n모비율의 정규근사 조건을 만족하는지 확인하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 85,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "p̂ = 2/100 = 0.02",
+              "x": 40,
+              "y": 225,
+              "w": 690,
+              "h": 50,
+              "size": 28,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "np̂ = 2\nn(1 − p̂) = 98",
+              "x": 40,
+              "y": 300,
+              "w": 690,
+              "h": 100,
+              "size": 28,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "불량품 수가 너무 적어 정규근사에 부적합",
+              "x": 40,
+              "y": 430,
+              "w": 690,
+              "h": 50,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide22.xml": [
+          {
+            "text": "교육 전후 차이의 구간 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week11/CE202_W11.xlsx"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide34.xml": "불량률의 신뢰구간"
+      }
+    },
+    {
+      "file": "CE202_W11b_Inference4.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W12a_test1.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide7.xml": {
+          "title": "p-value의 해석",
+          "items": [
+            {
+              "kind": "text",
+              "text": "귀무가설과 검정의 가정이 맞을 때,\n관측값만큼 또는 더 극단적인 결과가 나올 확률",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 100,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "p < 0.05",
+              "x": 55,
+              "y": 240,
+              "w": 250,
+              "h": 70,
+              "size": 32,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "5% 유의수준에서\n귀무가설 기각",
+              "x": 365,
+              "y": 240,
+              "w": 355,
+              "h": 100,
+              "size": 28,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "p-value만으로 효과의 크기·인과관계 판단 불가",
+              "x": 40,
+              "y": 420,
+              "w": 690,
+              "h": 65,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        },
+        "ppt/slides/slide11.xml": {
+          "title": "유의수준과 제1종 오류",
+          "items": [
+            {
+              "kind": "text",
+              "text": "제1종 오류: 참인 귀무가설을 기각",
+              "x": 25,
+              "y": 120,
+              "w": 730,
+              "h": 65,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "α = 0.05",
+              "x": 55,
+              "y": 240,
+              "w": 230,
+              "h": 65,
+              "size": 32,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "같은 절차를 반복할 때\n제1종 오류율을 5%로 제한",
+              "x": 325,
+              "y": 235,
+              "w": 410,
+              "h": 100,
+              "size": 26,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "유의수준은 검정 전에 선택\n5%가 모든 문제에 알맞은 기준은 아님",
+              "x": 40,
+              "y": 400,
+              "w": 690,
+              "h": 85,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W12b_test2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W13a_test3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W13b_ANOVA.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide18.xml": [
+          {
+            "text": "집단간·집단내 변동 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week13/CE202_W13.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE202_W14a_ChiSqr.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE202_W14b_Regression.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide20.xml": [
+          {
+            "text": "최소제곱 직선과 잔차 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week14/CE202_W14.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE202_W15a_Review.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide34.xml": "기말평가 안내"
+      }
+    },
+    {
+      "file": "CE272_W01a_Intro.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W01b_Review_01.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W02a_Review_02.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W02b_Pipe-Lam_Turb.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide29.xml": "난류 응력과 혼합길이"
+      }
+    },
+    {
+      "file": "CE272_W03a_Pipe-HeadLoss.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W03b_Pipe-HeadLoss.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W04a_Pipe-SinglePipe.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W04b_Pipe-SinglePipe.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W05a_Pipe-MultiplePipes.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {},
+      "insert": [
+        {
+          "after": "ppt/slides/slide11.xml",
+          "title": "병렬관의 유량 분배",
+          "items": [
+            {
+              "kind": "text",
+              "text": "같은 두 지점 사이에 세 관이 병렬로 연결되어 있다.\n각 관의 유량을 구하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 85,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "수두차 ΔH = 20 m   길이 L = 500 m\nDarcy 마찰계수 f = 0.02 (세 관 모두 고정)",
+              "x": 40,
+              "y": 205,
+              "w": 690,
+              "h": 85,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "관 1: D = 0.2 m\n관 2: D = 0.3 m\n관 3: D = 0.4 m",
+              "x": 70,
+              "y": 315,
+              "w": 320,
+              "h": 115,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "Q = (πD²/4)√(2gΔHD/fL)",
+              "x": 390,
+              "y": 330,
+              "w": 350,
+              "h": 75,
+              "size": 22,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "관 1의 직경을 0.4 m로 바꾸어 유량을 비교하시오.",
+              "x": 25,
+              "y": 445,
+              "w": 730,
+              "h": 45,
+              "size": 22,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ],
+          "buttons": [
+            {
+              "text": "관경과 유량 분배 (Excel)",
+              "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week05/CE272_W05.xlsx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "CE272_W05b_Pipe-MultiplePipes.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W06a_Pipe-PipeNetwork.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {},
+      "insert": [
+        {
+          "after": "ppt/slides/slide4.xml",
+          "title": "EPANET 관망 실습",
+          "items": [
+            {
+              "kind": "text",
+              "text": "관 5의 직경을 300 mm에서 350 mm로 바꾸시오.\n관 5의 유량과 절점 D의 압력을 비교하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 85,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "A: 저수지 수두 100 m\nB·C·D: 표고 0 m   D 수요: 1,000 L/s",
+              "x": 30,
+              "y": 205,
+              "w": 720,
+              "h": 80,
+              "size": 23,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "관       연결       L (m)       D (mm)\n1         A–C        1,000          500\n2         A–B        1,000          400\n3         B–C           100          400\n4         C–D        1,000          500\n5         B–D        1,000          300",
+              "x": 40,
+              "y": 300,
+              "w": 690,
+              "h": 160,
+              "size": 21,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "Darcy–Weisbach 사용 · 조도 등 입력 조건은 실습 안내 확인",
+              "x": 30,
+              "y": 460,
+              "w": 720,
+              "h": 40,
+              "size": 18,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ],
+          "buttons": [
+            {
+              "text": "관망 파일 (.inp)",
+              "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week06/data/HC_teaching.inp"
+            },
+            {
+              "text": "EPANET 실습 안내",
+              "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week06/data/README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "CE272_W07a_Summary.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W08a_Open_Channel_Flow_1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W08b_Open_Channel_Flow_2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W09a_Uniform_Flow_1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W09b_Uniform_Flow_2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide19.xml": [
+          {
+            "text": "사다리꼴 수로의 등류 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week09/CE272_W09.xlsx"
+          }
+        ],
+        "ppt/slides/slide25.xml": [
+          {
+            "text": "원형 수로의 유량·유속 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week09/CE272_W09.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE272_W10a_Steady_Nonuniform_Flow_1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide9.xml": [
+          {
+            "text": "비에너지 곡선 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week10/CE272_W10.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE272_W10b_Steady_Nonuniform_Flow_2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W10b_SluiceGate_Example.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W11a_Steady_Nonuniform_Flow_3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W11b_Steady_Nonuniform_Flow_4.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W12a_Steady_Nonuniform_Flow_5.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide7.xml": [
+          {
+            "text": "직접축차 계산표 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week12/CE272_W12.xlsx"
+          }
+        ],
+        "ppt/slides/slide11.xml": [
+          {
+            "text": "표준축차 계산표 (Excel)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE272-hydraulics/week12/CE272_W12.xlsx"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide7.xml": "직접축차법",
+        "ppt/slides/slide11.xml": "표준축차법"
+      }
+    },
+    {
+      "file": "CE272_W12b_Dimensional_Analysis_1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W13a_Dimensional_Analysis_2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W13b_Hydraulic_Similitude_1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W14a_Hydraulic_Model_Law.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W14b_Hydraulic_Model_Test.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE272_W15a_Summary_QnA.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE273_W01a_Intro1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide19.xml": "근삿값과 오차",
+        "ppt/slides/slide20.xml": "근삿값의 비교"
+      }
+    },
+    {
+      "file": "CE273_W01b_Intro2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide31.xml": "수식의 계산"
+      }
+    },
+    {
+      "file": "CE273_W02a_Programming1.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide4.xml": {
+          "title": "수식 입력과 셀 실행",
+          "items": [
+            {
+              "kind": "text",
+              "text": "x=0.5일 때 y=1+x+x²/2를 계산하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 65,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "x = 0.5\ny = 1 + x + x**2 / 2\nprint(y)",
+              "x": 40,
+              "y": 180,
+              "w": 485,
+              "h": 140,
+              "size": 24,
+              "font": "Consolas",
+              "color": "000000",
+              "font_unused": null
+            },
+            {
+              "kind": "text",
+              "text": "출력",
+              "x": 570,
+              "y": 165,
+              "w": 150,
+              "h": 40,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "1.625",
+              "x": 570,
+              "y": 220,
+              "w": 150,
+              "h": 50,
+              "size": 28,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "Shift+Enter: 선택한 셀 실행",
+              "x": 40,
+              "y": 320,
+              "w": 650,
+              "h": 40,
+              "size": 20,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "x를 1.0으로 바꾸어 다시 실행하시오.\n계산 결과가 달라지는 이유를 설명하시오.",
+              "x": 25,
+              "y": 385,
+              "w": 730,
+              "h": 80,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide4.xml": [
+          {
+            "text": "수식 계산 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week02/CE273_W02.ipynb#scrollTo=arithmetic"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide4.xml": "수식 입력과 셀 실행",
+        "ppt/slides/slide5.xml": "변수와 실행 순서"
+      }
+    },
+    {
+      "file": "CE273_W02b_Programming2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide11.xml": [
+          {
+            "text": "리스트 변경 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week02/CE273_W02.ipynb#scrollTo=append-extend"
+          }
+        ],
+        "ppt/slides/slide22.xml": [
+          {
+            "text": "딕셔너리 조회 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week02/CE273_W02.ipynb#scrollTo=dictionary"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide10.xml": "len과 count",
+        "ppt/slides/slide11.xml": "append와 extend",
+        "ppt/slides/slide22.xml": "딕셔너리의 조회",
+        "ppt/slides/slide24.xml": "딕셔너리와 집합의 순서"
+      }
+    },
+    {
+      "file": "CE273_W03a_Programming3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide10.xml": [
+          {
+            "text": "조건문 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week03/CE273_W03.ipynb#scrollTo=conditions"
+          }
+        ],
+        "ppt/slides/slide15.xml": [
+          {
+            "text": "반복문 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week03/CE273_W03.ipynb#scrollTo=loops"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W03b_Programming4.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide5.xml": [
+          {
+            "text": "함수의 입력·출력",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week03/CE273_W03.ipynb#scrollTo=functions"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide11.xml": "저장 정밀도"
+      }
+    },
+    {
+      "file": "CE273_W04a_Roundoff1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide15.xml": [
+          {
+            "text": "급수의 부분합 (Colab)",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.ipynb#scrollTo=exp-series"
+          },
+          {
+            "text": "급수 반복표 (Excel·선택)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.xlsx"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide13.xml": "근사 상대오차와 종료 기준",
+        "ppt/slides/slide15.xml": "e^0.5의 급수 근사"
+      }
+    },
+    {
+      "file": "CE273_W04b_Roundoff2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide17.xml": [
+          {
+            "text": "기계 엡실론 확인",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week04/CE273_W04.ipynb#scrollTo=epsilon"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide17.xml": "Machine Epsilon"
+      }
+    },
+    {
+      "file": "CE273_W05a_Truncation1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide11.xml": "다항식과 Taylor 전개",
+        "ppt/slides/slide12.xml": "Taylor 전개의 계수",
+        "ppt/slides/slide18.xml": "Taylor 전개의 나머지"
+      }
+    },
+    {
+      "file": "CE273_W05b_Truncation2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide3.xml": [
+          {
+            "text": "Taylor 차수별 근사",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week05/CE273_W05.ipynb#scrollTo=taylor"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W06a_Differentiation1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide20.xml": [
+          {
+            "text": "차분과 간격 비교",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week06/CE273_W06.ipynb#scrollTo=difference"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W06b_Differentiation2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE273_W07a_Review.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide14.xml": "중간평가 안내"
+      }
+    },
+    {
+      "file": "CE273_W08a_Integration1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE273_W08b_Integration2.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide3.xml": {
+          "title": "수치적분의 방법 비교",
+          "items": [
+            {
+              "kind": "text",
+              "text": "다음 다항식을 0부터 0.8까지 수치적분하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 55,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "f(x) = 0.2 + 25x − 200x² + 675x³\n          − 900x⁴ + 400x⁵",
+              "x": 40,
+              "y": 185,
+              "w": 690,
+              "h": 100,
+              "size": 26,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "n = 6, 12, 24\n사다리꼴 · Simpson 1/3 · Simpson 3/8",
+              "x": 40,
+              "y": 310,
+              "w": 690,
+              "h": 85,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "분할 수에 따른 오차를 비교하시오.\n정확한 적분값: 1.640533333…",
+              "x": 40,
+              "y": 415,
+              "w": 690,
+              "h": 70,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide4.xml": [
+          {
+            "text": "적분 방법 비교 (Colab)",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.ipynb#scrollTo=quadrature"
+          },
+          {
+            "text": "적분 가중치 (Excel·선택)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.xlsx"
+          }
+        ],
+        "ppt/slides/slide8.xml": [
+          {
+            "text": "낙하 거리 계산",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.ipynb#scrollTo=distance"
+          }
+        ],
+        "ppt/slides/slide3.xml": [
+          {
+            "text": "적분 방법과 오차 비교",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week08/CE273_W08.ipynb#scrollTo=quadrature"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W09a_LinearAlgebra1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide5.xml": [
+          {
+            "text": "반응조의 질량보존",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week09/CE273_W09.ipynb#scrollTo=reactors"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W09b_LinearAlgebra2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE273_W10a_LinearAlgebra3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide18.xml": [
+          {
+            "text": "자유변수와 해",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week10/CE273_W10.ipynb#scrollTo=free-variable"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide10.xml": "유일해",
+        "ppt/slides/slide18.xml": "과소결정계와 자유변수"
+      }
+    },
+    {
+      "file": "CE273_W10b_LinearAlgebra4.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide26.xml": [
+          {
+            "text": "Cholesky 분해의 조건",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week10/CE273_W10.ipynb#scrollTo=cholesky"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide20.xml": "LU 분해의 재사용",
+        "ppt/slides/slide26.xml": "Cholesky 분해의 조건"
+      }
+    },
+    {
+      "file": "CE273_W11a_Root1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide15.xml": [
+          {
+            "text": "이분법 반복 (Colab)",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.ipynb#scrollTo=bisection"
+          },
+          {
+            "text": "이분법 반복표 (Excel·선택)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W11b_Root2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide14.xml": [
+          {
+            "text": "Newton 방법의 갱신",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week11/CE273_W11.ipynb#scrollTo=newton"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W12a_Root3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide10.xml": [
+          {
+            "text": "가위치법의 구간 갱신",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week12/CE273_W12.ipynb#scrollTo=false-position"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide10.xml": "가위치법의 정체"
+      }
+    },
+    {
+      "file": "CE273_W12b_CurveFit1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide29.xml": [
+          {
+            "text": "최소제곱 직선",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week12/CE273_W12.ipynb#scrollTo=regression"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W13a_CurveFit2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide9.xml": [
+          {
+            "text": "2차 다항 회귀",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week13/CE273_W13.ipynb#scrollTo=polynomial-fit"
+          }
+        ],
+        "ppt/slides/slide31.xml": [
+          {
+            "text": "Newton·Lagrange 보간",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week13/CE273_W13.ipynb#scrollTo=interpolation"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W13b_CurveFit3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide15.xml": [
+          {
+            "text": "선형 스플라인",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week13/CE273_W13.ipynb#scrollTo=spline"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W14a_ODE1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide12.xml": [
+          {
+            "text": "초기값 문제의 계산 (Colab)",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.ipynb#scrollTo=ode"
+          },
+          {
+            "text": "Euler·RK4 계산표 (Excel·선택)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE273_W14b_ODE2.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide22.xml": {
+          "title": "초기값 문제의 방법 비교",
+          "items": [
+            {
+              "kind": "text",
+              "text": "다음 초기값 문제를 x=4까지 계산하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 55,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "y′ = −2x³ + 12x² − 20x + 8.5\ny(0) = 1",
+              "x": 40,
+              "y": 190,
+              "w": 690,
+              "h": 90,
+              "size": 26,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "Euler와 RK4: h=0.5, h=0.25의 결과 비교",
+              "x": 40,
+              "y": 320,
+              "w": 690,
+              "h": 70,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "같은 x에서 정확한 해와의 오차를 비교하시오.",
+              "x": 40,
+              "y": 420,
+              "w": 690,
+              "h": 60,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide22.xml": [
+          {
+            "text": "ODE 방법 비교 (Colab)",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.ipynb#scrollTo=step-comparison"
+          },
+          {
+            "text": "Euler·RK4 (Excel·선택)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE273-numerical-analysis/week14/CE273_W14.xlsx"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide16.xml": "Ralston 방법"
+      }
+    },
+    {
+      "file": "CE273_W15a_Review.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide13.xml": "기말평가 안내"
+      }
+    },
+    {
+      "file": "CE387_W01a_Intro1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide4.xml": "데이터 분석 준전문가 ADsP",
+        "ppt/slides/slide12.xml": "관측자료의 크기",
+        "ppt/slides/slide24.xml": "결측값과 평균"
+      }
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "remove": [
+        "ppt/slides/slide10.xml",
+        "ppt/slides/slide11.xml",
+        "ppt/slides/slide13.xml",
+        "ppt/slides/slide14.xml",
+        "ppt/slides/slide15.xml",
+        "ppt/slides/slide16.xml",
+        "ppt/slides/slide17.xml",
+        "ppt/slides/slide18.xml"
+      ],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide6.xml": "Python으로 자료를 읽고 계산",
+        "ppt/slides/slide7.xml": "Python 코드의 실행",
+        "ppt/slides/slide10.xml": "코딩 에이전트: 코드 작성·실행·수정",
+        "ppt/slides/slide13.xml": "공정표: 어떤 작업이 너무 일찍 시작했을까?",
+        "ppt/slides/slide14.xml": "지시를 입출력 예로 구체화",
+        "ppt/slides/slide15.xml": "맡길 작업과 파일의 범위 지정",
+        "ppt/slides/slide16.xml": "예상 결과로 코드를 검토",
+        "ppt/slides/slide17.xml": "파일 위치와 실행 환경 확인",
+        "ppt/slides/slide18.xml": "계획·실행·검토를 반복"
+      }
+    },
+    {
+      "file": "CE387_W02a_python1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide21.xml": [
+          {
+            "text": "변수와 실행 순서",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week02/CE387_W02.ipynb#scrollTo=state"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide17.xml": "Colab에서 시작하기",
+        "ppt/slides/slide18.xml": "노트북 문서와 런타임",
+        "ppt/slides/slide19.xml": "CPU와 GPU",
+        "ppt/slides/slide21.xml": "변수와 실행 순서"
+      }
+    },
+    {
+      "file": "CE387_W02b_python2.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE387_W03a_python3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide16.xml": [
+          {
+            "text": "조건·반복 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb#scrollTo=control"
+          }
+        ],
+        "ppt/slides/slide24.xml": [
+          {
+            "text": "함수의 입력·출력",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb#scrollTo=functions"
+          }
+        ],
+        "ppt/slides/slide33.xml": [
+          {
+            "text": "라이브러리 연습",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week03/CE387_W03a_programming.ipynb#scrollTo=libraries"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W03b_statisticsIntro.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE387_W04a_probability.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE387_W04b_Bayes.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE387_W05a_FreVsBayes.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE387_W05b_RejectSampling.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide26.xml": [
+          {
+            "text": "수락·기각 계산 (Colab)",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week05/CE387_W05.ipynb#scrollTo=rejection"
+          },
+          {
+            "text": "수락·기각 계산표 (Excel·선택)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE387-big-data-analysis/week05/CE387_W05_Rejection.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W06a_MCMC_Sampling.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide15.xml": [
+          {
+            "text": "Metropolis 체인 (Colab)",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week06/CE387_W06.ipynb#scrollTo=metropolis"
+          },
+          {
+            "text": "제안 폭과 체인 (Excel·선택)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE387-big-data-analysis/week06/CE387_W06_MCMC.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W06b_InfoTheo.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE387_W07a_summary.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide29.xml": "중간평가 안내"
+      }
+    },
+    {
+      "file": "CE387_W08a_LinearAlgebra1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide23.xml": "대칭행렬의 선형변환",
+        "ppt/slides/slide27.xml": "직교투영"
+      }
+    },
+    {
+      "file": "CE387_W08b_LinearAlgebra2_Practice.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide4.xml": {
+          "title": "벡터와 행렬의 계산",
+          "items": [
+            {
+              "kind": "text",
+              "text": "v=[1,2,3], w=[4,5,6]의 합과 내적을 구하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 65,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "A = [[1,2],[3,4]]\nB = [[2,1],[1,2]]",
+              "x": 40,
+              "y": 215,
+              "w": 690,
+              "h": 100,
+              "size": 28,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "A의 역행렬을 구하고 A·A⁻¹을 확인하시오.\nB의 고유벡터 방향은 변환 뒤 어떻게 되는지 설명하시오.",
+              "x": 40,
+              "y": 370,
+              "w": 690,
+              "h": 105,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide4.xml": [
+          {
+            "text": "벡터·행렬·변환 계산",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week08/CE387_W08.ipynb#scrollTo=eigen"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W09a_LinearAlgebra3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE387_W09b_LinearAlgebra4.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide31.xml": [
+          {
+            "text": "중심화와 PCA",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week10/CE387_W10.ipynb#scrollTo=pca"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide31.xml": "자료의 중심화",
+        "ppt/slides/slide32.xml": "중심화 자료의 내적",
+        "ppt/slides/slide33.xml": "공분산행렬"
+      }
+    },
+    {
+      "file": "CE387_W10a_LinearAlgebra5_Practice.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide4.xml": {
+          "title": "SVD와 최소제곱",
+          "items": [
+            {
+              "kind": "text",
+              "text": "A=[[2,−1],[−1,2]]를 SVD로 분해하시오.\n특잇값 하나만 사용한 복원과 전체 복원을 비교하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 90,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "최소제곱 예제",
+              "x": 40,
+              "y": 270,
+              "w": 690,
+              "h": 40,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "A = [[−1,1],[0,1],[0,1]]\nb = [0,1,3]",
+              "x": 40,
+              "y": 325,
+              "w": 690,
+              "h": 80,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "최소제곱해의 잔차가 A의 열에 수직인지 확인하시오.",
+              "x": 40,
+              "y": 430,
+              "w": 690,
+              "h": 55,
+              "size": 23,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        },
+        "ppt/slides/slide5.xml": {
+          "title": "중심화와 PCA",
+          "items": [
+            {
+              "kind": "text",
+              "text": "다섯 관측의 평균을 빼고 첫 주성분을 구하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 60,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "(170,70), (150,45), (160,55),\n(180,60), (172,80)",
+              "x": 40,
+              "y": 205,
+              "w": 690,
+              "h": 90,
+              "size": 28,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "열 평균: [166.4, 62]",
+              "x": 40,
+              "y": 325,
+              "w": 690,
+              "h": 50,
+              "size": 26,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "공분산행렬의 고유벡터와 SVD의 방향을 비교하시오.\n각 점을 첫 주성분에 투영하여 그림으로 나타내시오.",
+              "x": 40,
+              "y": 400,
+              "w": 690,
+              "h": 85,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide4.xml": [
+          {
+            "text": "SVD·잔차 계산",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week10/CE387_W10.ipynb#scrollTo=svd"
+          }
+        ],
+        "ppt/slides/slide5.xml": [
+          {
+            "text": "중심화·투영·복원",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week10/CE387_W10.ipynb#scrollTo=pca"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W10b_Optimization1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE387_W11a_Optimization2_Practice.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide4.xml": {
+          "title": "경사하강법과 학습률",
+          "items": [
+            {
+              "kind": "text",
+              "text": "f(w)=(w−3)², 초기값 w=0이다.\n학습률 0.1, 0.9, 1.1의 반복 결과를 비교하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 90,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "w새 값 = w현재 값 − α·2(w현재 값 − 3)",
+              "x": 40,
+              "y": 260,
+              "w": 690,
+              "h": 80,
+              "size": 26,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "수렴 · 진동 · 발산을 그래프로 구분하시오.",
+              "x": 40,
+              "y": 390,
+              "w": 690,
+              "h": 65,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide4.xml": [
+          {
+            "text": "학습률과 손실 변화",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week11/CE387_W11.ipynb#scrollTo=gradient-descent"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W11b_SLIntro.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {}
+    },
+    {
+      "file": "CE387_W12a_Regression.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide42.xml": {
+          "title": "직선의 추정과 잔차",
+          "items": [
+            {
+              "kind": "text",
+              "text": "다음 자료의 최소제곱 직선을 구하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 60,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "x: 10, 20, 30, 40, 50, 60, 70, 80\ny: 25, 70, 380, 550, 610, 1220, 830, 1450",
+              "x": 30,
+              "y": 205,
+              "w": 720,
+              "h": 100,
+              "size": 23,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "각 관측의 잔차를 구하고 잔차합을 확인하시오.\n마지막 y를 1000으로 바꾸어 직선의 변화를 비교하시오.",
+              "x": 40,
+              "y": 370,
+              "w": 690,
+              "h": 100,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide42.xml": [
+          {
+            "text": "최소제곱 직선·잔차",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week12/CE387_W12.ipynb#scrollTo=regression"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W12b_Classification.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide45.xml": {
+          "title": "분류 결과의 평가",
+          "items": [
+            {
+              "kind": "text",
+              "text": "붓꽃 자료를 학습용 80%, 시험용 20%로 나누시오.\n같은 분할에서 KNN과 분류 트리의 예측을 비교하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 90,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "시험 자료의 혼동행렬 확인",
+              "x": 40,
+              "y": 260,
+              "w": 690,
+              "h": 60,
+              "size": 26,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "어떤 종류의 꽃을 잘못 분류했는지 설명하시오.\n학습에 사용한 자료의 점수와 시험 점수를 구분하시오.",
+              "x": 40,
+              "y": 365,
+              "w": 690,
+              "h": 100,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide45.xml": [
+          {
+            "text": "시험 자료의 혼동행렬",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week12/CE387_W12.ipynb#scrollTo=classification"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W13a_NeuralNetwork1.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide17.xml": [
+          {
+            "text": "순전파·W3의 영향 (Colab)",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13.ipynb#scrollTo=one-weight"
+          },
+          {
+            "text": "순전파 계산표 (Excel·선택)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13_Forward.xlsx"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W13b_NeuralNetwork2.pptx",
+      "remove": [],
+      "scenes": {
+        "ppt/slides/slide33.xml": {
+          "title": "신경망 계산의 확인",
+          "items": [
+            {
+              "kind": "text",
+              "text": "세 관측 (0,0), (0.5,1), (1,0)을 사용한다.\n순전파와 한 번의 파라미터 갱신을 계산하시오.",
+              "x": 25,
+              "y": 100,
+              "w": 730,
+              "h": 90,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "① 예측값 → SSR\n② 각 파라미터의 기울기\n③ 현재 값 − 학습률 × 기울기",
+              "x": 45,
+              "y": 250,
+              "w": 690,
+              "h": 130,
+              "size": 26,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "반복 학습은 같은 갱신을 되풀이하는 과정",
+              "x": 45,
+              "y": 425,
+              "w": 690,
+              "h": 55,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            }
+          ]
+        }
+      },
+      "buttons": {
+        "ppt/slides/slide27.xml": [
+          {
+            "text": "미분과 갱신 (Colab)",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13.ipynb#scrollTo=backprop"
+          },
+          {
+            "text": "기울기 계산표 (Excel·선택)",
+            "url": "https://github.com/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13_Gradient.xlsx"
+          }
+        ],
+        "ppt/slides/slide31.xml": [
+          {
+            "text": "500회 학습 과정",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13.ipynb#scrollTo=training"
+          }
+        ],
+        "ppt/slides/slide33.xml": [
+          {
+            "text": "순전파·미분·갱신",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week13/CE387_W13.ipynb#scrollTo=backprop"
+          }
+        ]
+      },
+      "titles": {
+        "ppt/slides/slide27.xml": "SSR의 기울기",
+        "ppt/slides/slide28.xml": "파라미터 갱신",
+        "ppt/slides/slide31.xml": "500회 반복 결과",
+        "ppt/slides/slide32.xml": "ReLU의 배율 관계"
+      }
+    },
+    {
+      "file": "CE387_W14a_NeuralNetwork3.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide34.xml": [
+          {
+            "text": "로짓과 Softmax",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week14/CE387_W14.ipynb#scrollTo=softmax"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W14b_NeuralNetwork4.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {
+        "ppt/slides/slide29.xml": [
+          {
+            "text": "합성곱·풀링의 크기",
+            "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE387-big-data-analysis/week14/CE387_W14.ipynb#scrollTo=cnn"
+          }
+        ]
+      },
+      "titles": {}
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "remove": [],
+      "scenes": {},
+      "buttons": {},
+      "titles": {
+        "ppt/slides/slide11.xml": "ReLU의 배율 관계",
+        "ppt/slides/slide14.xml": "기말평가 안내"
+      }
+    }
+  ]
+}
