@@ -22,4 +22,4 @@
 
 휴일·불가피한 일정: 해당 차시 온라인 영상강의 대체. 주차·주제 유지
 
-[학습 가이드](LEARNING_GUIDE.md) · [실습 연결](SLIDE_ALIGNMENT.md) · [출처 이력](provenance/README.md)
+[학습 가이드](LEARNING_GUIDE.md) · [주차별 실습](README.md) · [출처 이력](provenance/README.md)

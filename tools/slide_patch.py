@@ -75,6 +75,8 @@ def shape(item, ident, scale_x=1, scale_y=1):
     fill = '<a:solidFill><a:srgbClr val="%s"/></a:solidFill>' % item['fill'] if item.get('fill') else '<a:noFill/>'
     name = 'TEACHING_' + str(ident)
     align, size, color = item.get('align','l'), item.get('size',22), item.get('color', INK)
+    if item.get('text') == '→':
+        size = min(size, 26)
     font = item.get('font','맑은 고딕')
     paragraphs = []
     for line in item.get('text','').split('\n'):
@@ -98,7 +100,7 @@ def scene(spec, page, width=780, height=540):
             if item['kind']=='link':
                 item.update(x=40,y=507,w=250,h=25,color=BLUE,size=14,bold=True)
             elements.append(shape(item,ident,sx,sy))
-    elements.append(shape(dict(text='Page. %03d'%page,x=678,y=519,w=95,h=20,size=10,color='444444'),900,sx,sy))
+    # The original slide master supplies the ordinary page number.
     return '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><p:sld xmlns:a="%s" xmlns:r="%s" xmlns:p="%s"><p:cSld><p:bg><p:bgPr><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:effectLst/></p:bgPr></p:bg><p:spTree><p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr>%s</p:spTree></p:cSld><p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr></p:sld>'%(A,R,P,''.join(elements))
 
 

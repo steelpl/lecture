@@ -239,7 +239,7 @@
       "file": "CE273_W01a_Intro1.pptx",
       "week": 1,
       "part": "a",
-      "pages": 26,
+      "pages": 25,
       "calendar_slide": 23
     },
     {
@@ -247,7 +247,7 @@
       "file": "CE273_W01b_Intro2.pptx",
       "week": 1,
       "part": "b",
-      "pages": 33,
+      "pages": 32,
       "calendar_slide": 2
     },
     {
@@ -255,7 +255,7 @@
       "file": "CE273_W02a_Programming1.pptx",
       "week": 2,
       "part": "a",
-      "pages": 31,
+      "pages": 30,
       "calendar_slide": 2
     },
     {
@@ -263,7 +263,7 @@
       "file": "CE273_W02b_Programming2.pptx",
       "week": 2,
       "part": "b",
-      "pages": 32,
+      "pages": 31,
       "calendar_slide": 2
     },
     {
@@ -271,7 +271,7 @@
       "file": "CE273_W03a_Programming3.pptx",
       "week": 3,
       "part": "a",
-      "pages": 32,
+      "pages": 31,
       "calendar_slide": 2
     },
     {
@@ -279,7 +279,7 @@
       "file": "CE273_W03b_Programming4.pptx",
       "week": 3,
       "part": "b",
-      "pages": 31,
+      "pages": 30,
       "calendar_slide": 2
     },
     {
@@ -287,7 +287,7 @@
       "file": "CE273_W04a_Roundoff1.pptx",
       "week": 4,
       "part": "a",
-      "pages": 19,
+      "pages": 18,
       "calendar_slide": 2
     },
     {
@@ -295,7 +295,7 @@
       "file": "CE273_W04b_Roundoff2.pptx",
       "week": 4,
       "part": "b",
-      "pages": 33,
+      "pages": 32,
       "calendar_slide": 2
     },
     {
@@ -303,7 +303,7 @@
       "file": "CE273_W05a_Truncation1.pptx",
       "week": 5,
       "part": "a",
-      "pages": 29,
+      "pages": 28,
       "calendar_slide": 2
     },
     {
@@ -311,7 +311,7 @@
       "file": "CE273_W05b_Truncation2.pptx",
       "week": 5,
       "part": "b",
-      "pages": 16,
+      "pages": 15,
       "calendar_slide": 2
     },
     {
@@ -319,7 +319,7 @@
       "file": "CE273_W06a_Differentiation1.pptx",
       "week": 6,
       "part": "a",
-      "pages": 24,
+      "pages": 23,
       "calendar_slide": 2
     },
     {
@@ -327,7 +327,7 @@
       "file": "CE273_W06b_Differentiation2.pptx",
       "week": 6,
       "part": "b",
-      "pages": 24,
+      "pages": 23,
       "calendar_slide": 2
     },
     {
@@ -335,7 +335,7 @@
       "file": "CE273_W07a_Review.pptx",
       "week": 7,
       "part": "a",
-      "pages": 15,
+      "pages": 14,
       "calendar_slide": 2
     },
     {
@@ -343,7 +343,7 @@
       "file": "CE273_W08a_Integration1.pptx",
       "week": 8,
       "part": "a",
-      "pages": 46,
+      "pages": 45,
       "calendar_slide": 2
     },
     {
@@ -351,7 +351,7 @@
       "file": "CE273_W08b_Integration2.pptx",
       "week": 8,
       "part": "b",
-      "pages": 13,
+      "pages": 12,
       "calendar_slide": 2
     },
     {
@@ -359,7 +359,7 @@
       "file": "CE273_W09a_LinearAlgebra1.pptx",
       "week": 9,
       "part": "a",
-      "pages": 31,
+      "pages": 30,
       "calendar_slide": 2
     },
     {
@@ -367,7 +367,7 @@
       "file": "CE273_W09b_LinearAlgebra2.pptx",
       "week": 9,
       "part": "b",
-      "pages": 24,
+      "pages": 23,
       "calendar_slide": 2
     },
     {
@@ -375,7 +375,7 @@
       "file": "CE273_W10a_LinearAlgebra3.pptx",
       "week": 10,
       "part": "a",
-      "pages": 37,
+      "pages": 36,
       "calendar_slide": 2
     },
     {
@@ -383,7 +383,7 @@
       "file": "CE273_W10b_LinearAlgebra4.pptx",
       "week": 10,
       "part": "b",
-      "pages": 31,
+      "pages": 30,
       "calendar_slide": 2
     },
     {
@@ -391,7 +391,7 @@
       "file": "CE273_W11a_Root1.pptx",
       "week": 11,
       "part": "a",
-      "pages": 31,
+      "pages": 30,
       "calendar_slide": 2
     },
     {
@@ -399,7 +399,7 @@
       "file": "CE273_W11b_Root2.pptx",
       "week": 11,
       "part": "b",
-      "pages": 30,
+      "pages": 29,
       "calendar_slide": 2
     },
     {
@@ -407,7 +407,7 @@
       "file": "CE273_W12a_Root3.pptx",
       "week": 12,
       "part": "a",
-      "pages": 21,
+      "pages": 20,
       "calendar_slide": 2
     },
     {
@@ -415,7 +415,7 @@
       "file": "CE273_W12b_CurveFit1.pptx",
       "week": 12,
       "part": "b",
-      "pages": 44,
+      "pages": 43,
       "calendar_slide": 2
     },
     {
@@ -423,7 +423,7 @@
       "file": "CE273_W13a_CurveFit2.pptx",
       "week": 13,
       "part": "a",
-      "pages": 42,
+      "pages": 41,
       "calendar_slide": 2
     },
     {
@@ -431,7 +431,7 @@
       "file": "CE273_W13b_CurveFit3.pptx",
       "week": 13,
       "part": "b",
-      "pages": 32,
+      "pages": 31,
       "calendar_slide": 2
     },
     {
@@ -439,7 +439,7 @@
       "file": "CE273_W14a_ODE1.pptx",
       "week": 14,
       "part": "a",
-      "pages": 31,
+      "pages": 30,
       "calendar_slide": 2
     },
     {
@@ -447,7 +447,7 @@
       "file": "CE273_W14b_ODE2.pptx",
       "week": 14,
       "part": "b",
-      "pages": 25,
+      "pages": 24,
       "calendar_slide": 2
     },
     {
@@ -455,7 +455,7 @@
       "file": "CE273_W15a_Review.pptx",
       "week": 15,
       "part": "a",
-      "pages": 14,
+      "pages": 13,
       "calendar_slide": 2
     }
   ]
