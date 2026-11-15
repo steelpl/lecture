@@ -1,0 +1,764 @@
+{
+  "native_open": 84,
+  "pages": 2350,
+  "new_slides": 75,
+  "overflow": 0,
+  "files": [
+    {
+      "file": "CE100_W01a_Intro1.pptx",
+      "course": "CE100",
+      "pages": 23,
+      "sha256": "898babf83414f8a7e906992eb67705bfecbff4dd51db409c84e30776d7b60ea7",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W01b_Intro2.pptx",
+      "course": "CE100",
+      "pages": 39,
+      "sha256": "8aeb81af4606ce44e66c791df503c449501e8430128181604d8adc1c24c3981c",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W03a_DataType1.pptx",
+      "course": "CE100",
+      "pages": 27,
+      "sha256": "d1d6b1eef0b0a0cc9893528aacf8048cebac08b587bb2dafbd80e20f8da1af9d",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W03b_DataType2.pptx",
+      "course": "CE100",
+      "pages": 35,
+      "sha256": "df715d029ac7b07523007a729c174524cba9fbe824a6d4ad6ee0897668637c63",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W04a_CtrlStatement.pptx",
+      "course": "CE100",
+      "pages": 23,
+      "sha256": "ff7cadfe535ebbc3aa5fa51e2b6cd18766e5a14096d73984ac2c1bd2eb0185c9",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W04b_Function.pptx",
+      "course": "CE100",
+      "pages": 20,
+      "sha256": "7c6ee4c9a317127117e7b688f6e84e29bb1526e5d79d82e245e250295837b6ba",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W05a_InOut.pptx",
+      "course": "CE100",
+      "pages": 19,
+      "sha256": "1fcb9cf0684d656cbb4b7ed41093259e48c40d6a196a61f736785e9bd822d746",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W05b_Class.pptx",
+      "course": "CE100",
+      "pages": 22,
+      "sha256": "294228e54b5c2e4056ba3bec8bbe276fac44fc2f4a24bc1cc45e63e2d1940f14",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W06a_MdlPackage.pptx",
+      "course": "CE100",
+      "pages": 15,
+      "sha256": "5bbedca580e1b49ddaafe788edf50e2e0ed40952cf4c07221893dc4920cb3559",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W06b_Exception.pptx",
+      "course": "CE100",
+      "pages": 15,
+      "sha256": "04365cef309da269fa9bb371b2af91b7ed329e3497a28acedb1d79d2305cb42f",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W07a_Review.pptx",
+      "course": "CE100",
+      "pages": 39,
+      "sha256": "2a616c2440897bd1a25a68d6e059df9f18151154c43c863acd5dcd330122e81c",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W08a_InBuilt1.pptx",
+      "course": "CE100",
+      "pages": 14,
+      "sha256": "d87d544f275fee9b09216e910765dfacb8461d51d70f8a1a8a46b7afef250f2a",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W08b_InBuilt2.pptx",
+      "course": "CE100",
+      "pages": 17,
+      "sha256": "37773ef331d0df805304ee91906bb63c5fe7cda49b5316669e8f6824aa400313",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W09b_Lib2_numpy.pptx",
+      "course": "CE100",
+      "pages": 5,
+      "sha256": "ab047f96e0832f28ab6fe5358b17aea187b593336901881565fb5b48860a5681",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W10a_Lib3_pandas.pptx",
+      "course": "CE100",
+      "pages": 5,
+      "sha256": "a7f5c7edc3dc17767ae69792a472772ad83d31c69c2f66525a65848315136ef6",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W10b_Lib3_matplotlib.pptx",
+      "course": "CE100",
+      "pages": 5,
+      "sha256": "3a99c4c2b86fe2cae6eaf8bea784812885db7964993b2d9be22f35859809b894",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W11a_ProgPrtc1.pptx",
+      "course": "CE100",
+      "pages": 21,
+      "sha256": "efd8aacaab29abff4a682741fdc88c8a67fb418c54c757e7efa66a2c5ae4857e",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W11b_ProgPrtc2.pptx",
+      "course": "CE100",
+      "pages": 22,
+      "sha256": "5ad85d973bee5921887186143c2a900d3ad4b3cb454030cdbc8c686b11d712e2",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W12a_ProgPrtc3.pptx",
+      "course": "CE100",
+      "pages": 12,
+      "sha256": "9edc28fa9e3ab2865a01653d1036fd52262c73dc089a87edd476b8a12635f6e1",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W13a_ProgPrtc5.pptx",
+      "course": "CE100",
+      "pages": 13,
+      "sha256": "910025d74fa9363784fff600528848a4da5b6d0661844cdf02236a5cdd4a9f73",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W13b_RegExp1.pptx",
+      "course": "CE100",
+      "pages": 18,
+      "sha256": "ea64bcf433d7b7d3e98ce4ce5ba09c9f8eb65f194cdd7e8ba24d9f69f58a9396",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W14a_RegExp2.pptx",
+      "course": "CE100",
+      "pages": 18,
+      "sha256": "53fa219bc4f70e3ff1d68cd0e81e6190a86d030d11ca02aa79fe02d79d57eedf",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W01a_Intro.pptx",
+      "course": "CE202",
+      "pages": 27,
+      "sha256": "1a36abd123a205676007d5435958c967f7925ac4ca53f46727a45995259067e8",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W01b_Data.pptx",
+      "course": "CE202",
+      "pages": 36,
+      "sha256": "b16884270592a7455ee0fd6205cab41378db6d1797dcf007522ce4825b3e05e3",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W02a_Central.pptx",
+      "course": "CE202",
+      "pages": 30,
+      "sha256": "fdc04a55b32541ef70a7b2ee14a164a23df9e1c1ec70cc43096ad54e60042181",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W02b_Dispersion.pptx",
+      "course": "CE202",
+      "pages": 40,
+      "sha256": "7d8f6dd90dfd32e4c29891339db5808149fa4cacb173c5be0948f139be4afcb4",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W03a_ProbBasic.pptx",
+      "course": "CE202",
+      "pages": 46,
+      "sha256": "dce8454552ef582f81d163c54b8531c180d7731a7e88ffc9d1d1ce7cb984d090",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W03b_CondProb.pptx",
+      "course": "CE202",
+      "pages": 40,
+      "sha256": "297341cd5ffbdc8c1d6543ad6e957fa0be35ee39aebff71118bde4f39e7df22d",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W04a_RandVar.pptx",
+      "course": "CE202",
+      "pages": 46,
+      "sha256": "8caa2c1e4a440423f63f1939b43c20e435ce38673d4c5ccdfecc93a8ea573534",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W04b_Expectation.pptx",
+      "course": "CE202",
+      "pages": 39,
+      "sha256": "e514dd618b12d3d913797c436885141d7cde7e9ebf71b233e8fc86ea8c516862",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W05a_JntProb.pptx",
+      "course": "CE202",
+      "pages": 31,
+      "sha256": "fb5d69fb4feff263f2326ffdd2a6cd14478b97bce1bb6f1364031074da23f553",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W05b_CoVar.pptx",
+      "course": "CE202",
+      "pages": 37,
+      "sha256": "2d963928edfea2f03c13841e4a674076043626955e5330e20c590d9060e6df04",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W06a_Dist1.pptx",
+      "course": "CE202",
+      "pages": 47,
+      "sha256": "8dddc324b8940836802f5bb16ec7b4e6f4243e3054afffebbc2f2d119ba33bb3",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W06b_Dist2.pptx",
+      "course": "CE202",
+      "pages": 45,
+      "sha256": "a7df2bba2f96c651497f04dd53fd4242a97ccb1c711c52cfc0580f5b58e583e3",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W07a_Review.pptx",
+      "course": "CE202",
+      "pages": 34,
+      "sha256": "7912f2e25f86b8644447cbd18b5676ca3343918a99ef1b12c88a03e9e82a6a8e",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W08a_Dist3.pptx",
+      "course": "CE202",
+      "pages": 32,
+      "sha256": "a94451cebc220400ea607ec668e7b67a0a5ca49a66b943ecd31649cdc5556dc3",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W08b_Dist4.pptx",
+      "course": "CE202",
+      "pages": 36,
+      "sha256": "33d8275f2ffa2417b12da88a0fdf5a3306ae4ea38573bae98dd48e7e0dedaef4",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W09a_SampleDist1.pptx",
+      "course": "CE202",
+      "pages": 29,
+      "sha256": "55c5a89f655945c4a8e83a813b3c968272e8448ce8ed55d4f094f697ab351291",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W09b_SampleDist2.pptx",
+      "course": "CE202",
+      "pages": 29,
+      "sha256": "32cd0532fb276ce8565ec4d0efd768e5855cb1642f9ea93f30d03a0759ebf2c6",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W10a_Inference1.pptx",
+      "course": "CE202",
+      "pages": 44,
+      "sha256": "e3c1b41b3fabf92b12894caf3409af4c172af7719791ef38a742f8ad70d8e6e0",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W10b_Inference2.pptx",
+      "course": "CE202",
+      "pages": 31,
+      "sha256": "be5a5a830d380e5cb19be6025463fdd19c17f2bf2497c970d5bca05dca21f522",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W11b_Inference4.pptx",
+      "course": "CE202",
+      "pages": 39,
+      "sha256": "93180c4e97cf7a63069d3b4f25cd3d537eac126ceaf1947ffa124507cb54891a",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W12a_test1.pptx",
+      "course": "CE202",
+      "pages": 42,
+      "sha256": "4dbc3d83eeaecff0aa9c166c81b5ae8fbc35b669390a76a49fb1f4fc4df04fba",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W12b_test2.pptx",
+      "course": "CE202",
+      "pages": 30,
+      "sha256": "68a7eadff8f2198d0fa862810839c7042ec3c9d1d1b92b9b9f96a80515e5509a",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W13a_test3.pptx",
+      "course": "CE202",
+      "pages": 35,
+      "sha256": "446eacc3d65b1ed81dc41ed9996d4f894c3b7b0c53b14912659bea96f3e2a048",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W13b_ANOVA.pptx",
+      "course": "CE202",
+      "pages": 34,
+      "sha256": "49f47d019df6b20da7aba37211bda717c044e37065ce183ff6d3a1b0737f2398",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W14a_ChiSqr.pptx",
+      "course": "CE202",
+      "pages": 42,
+      "sha256": "8ab24cc0d6c0fe7c18c548aa7d2fe0a81106bce86fea30383a9c3f3eca19574b",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W14b_Regression.pptx",
+      "course": "CE202",
+      "pages": 36,
+      "sha256": "010ac9f6cfdfa1f0e12eeba0eeb1109898aee3e90c9e41fff3642def2eb75f16",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W15a_Review.pptx",
+      "course": "CE202",
+      "pages": 34,
+      "sha256": "2b2b1b51d9fde2fd07841f95704c47aae5ba156f7650223c903b7e0b1b3dc1ef",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W01b_Intro2.pptx",
+      "course": "CE273",
+      "pages": 32,
+      "sha256": "6c148a4cb68ef34a005ccb4e3d93d218fbc224ff4273c263f66ce11495715aec",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W02a_Programming1.pptx",
+      "course": "CE273",
+      "pages": 30,
+      "sha256": "e85c139fc3a3f986ab16a2decc4669ced3f58ed19603ddb030eba4dd06728693",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W03a_Programming3.pptx",
+      "course": "CE273",
+      "pages": 31,
+      "sha256": "8e2ad8886a78e7d3cdbb0eec665ae1041856be021416ddf2cccda8cf8b239f6b",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W03b_Programming4.pptx",
+      "course": "CE273",
+      "pages": 30,
+      "sha256": "511d6d294ea76483a45d866ee5767c3eb7e2713e0cd315b43f1e0d58b17c5e54",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W04a_Roundoff1.pptx",
+      "course": "CE273",
+      "pages": 18,
+      "sha256": "110a0b462968f69f287b8c1850ce15f6369c3460b540ba6bfa1e357c1646f100",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W04b_Roundoff2.pptx",
+      "course": "CE273",
+      "pages": 32,
+      "sha256": "77f02aa8b9cfdd8516431fd2261ca0283e23430798ab17d87908edfa81eb9105",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W05b_Truncation2.pptx",
+      "course": "CE273",
+      "pages": 15,
+      "sha256": "f54ac3391779231ac0a960e7a34d3ffc41ea8d23e2c7ada94d1b80ce57c7c944",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W06a_Differentiation1.pptx",
+      "course": "CE273",
+      "pages": 23,
+      "sha256": "e9318faf1a12df2776c1ae65534c86c439ec3909c29c953c8c0a5bb0f7a22208",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W06b_Differentiation2.pptx",
+      "course": "CE273",
+      "pages": 23,
+      "sha256": "8a9ebd8f39c2147afa95a0ee4739be51bc360fd78591ee32c50625cd5ea1ad47",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W07a_Review.pptx",
+      "course": "CE273",
+      "pages": 14,
+      "sha256": "3b3daa630d1e19bb194d6e2b0461f308710e9717e282bef6ee785ad8ce0c79cc",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W08a_Integration1.pptx",
+      "course": "CE273",
+      "pages": 45,
+      "sha256": "5e5e983cde3ad6eef3ce1f209062544061adf5a318d61a1541c61104f8bb06d0",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W08b_Integration2.pptx",
+      "course": "CE273",
+      "pages": 12,
+      "sha256": "e81b85b660bb951399a993b953f2c81570f31f154eda57f37b0ca2def3bdadf7",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W09a_LinearAlgebra1.pptx",
+      "course": "CE273",
+      "pages": 30,
+      "sha256": "e216517167f2ffe65a37871a61299201c5fab4204c09855981d96f79825a0cac",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W09b_LinearAlgebra2.pptx",
+      "course": "CE273",
+      "pages": 23,
+      "sha256": "2105170d93a422195cf57d40a76ee2b4190a8601c9e354fa074845515270bdb8",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W10b_LinearAlgebra4.pptx",
+      "course": "CE273",
+      "pages": 30,
+      "sha256": "b60178f977af57bff4ccb97940e43fdfe119b31c84b3c90ec71350c516d4d2c5",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W11a_Root1.pptx",
+      "course": "CE273",
+      "pages": 30,
+      "sha256": "ac4e29c696d4b7a52dad8d7825f0f2472325ce26cfdc73cbb6e6348536f23861",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W11b_Root2.pptx",
+      "course": "CE273",
+      "pages": 29,
+      "sha256": "5e044a949e4e153e120b9cea6f1263bfa8de084d3be4b544d2f05c0c2eac9cd4",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W12a_Root3.pptx",
+      "course": "CE273",
+      "pages": 20,
+      "sha256": "0cd52a50067f53b1a074450b6bc26c14e9cbabfddedc06a4be69cf983a79630e",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W12b_CurveFit1.pptx",
+      "course": "CE273",
+      "pages": 43,
+      "sha256": "6632db10f4ea68797032fe29d0b8027f02dc706cdce377bdcc5152b0a0b820fd",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W13a_CurveFit2.pptx",
+      "course": "CE273",
+      "pages": 41,
+      "sha256": "70d7b0bfce84edb81c02371c21f15a8dc88ff4cd6870cb74a19ab7457940ff0a",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W13b_CurveFit3.pptx",
+      "course": "CE273",
+      "pages": 31,
+      "sha256": "3ddef5d667ca54647a7a1cff7f2ed5ad3b55bcb311a7f2caf5943d1e8909cc7e",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W14a_ODE1.pptx",
+      "course": "CE273",
+      "pages": 30,
+      "sha256": "f53a2a54e847d61c3f1b3b6cd5f51219e847168dfef65faa1b1531bc997a2984",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W15a_Review.pptx",
+      "course": "CE273",
+      "pages": 13,
+      "sha256": "afa2eae0acb1f6c2043a15b67cfba795f4091f5097c9d659f529de602aef6edd",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W02a_BeginPython.pptx",
+      "course": "CE100",
+      "pages": 19,
+      "sha256": "163ef5a0557c2be027aa717617fb244ee8239202c4c4b779cd832cd35a7533a0",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W02b_Colab.pptx",
+      "course": "CE100",
+      "pages": 18,
+      "sha256": "cc1b83223846c42f51e302f4cf5be17c237f4e2ef95843a7e13561c9293ad277",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W09a_Lib1.pptx",
+      "course": "CE100",
+      "pages": 31,
+      "sha256": "d56476044c6a3b2fd7057571985e71a31761fcace29778ee60746d05e711f977",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W12b_ProgPrtc4.pptx",
+      "course": "CE100",
+      "pages": 9,
+      "sha256": "ad20f359285a419db19ebe966d338fcbe92c2ced108436e280bb1b966056174d",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W14b_RegExp3.pptx",
+      "course": "CE100",
+      "pages": 20,
+      "sha256": "7c991b115c174bf2f96479d1e80931c3c4ed452c66d98d9c87019255f7a19f4d",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE100_W15a_Review.pptx",
+      "course": "CE100",
+      "pages": 22,
+      "sha256": "9c01e09d7040fe25ada356b3eb7b7cc635629604358ea802dcbfe9ae5301c73d",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE202_W11a_Inference3.pptx",
+      "course": "CE202",
+      "pages": 44,
+      "sha256": "43c8b67a4589cd0d61f5bae33c07e8ffaaf1ec1f213c31c6cda8b3af07c5f575",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W01a_Intro1.pptx",
+      "course": "CE273",
+      "pages": 25,
+      "sha256": "2d688aa7851438a9502b43d0b6abaf48388a061e5857c286f8e4ca2a50990fac",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W02b_Programming2.pptx",
+      "course": "CE273",
+      "pages": 31,
+      "sha256": "1269a20f5e759ce91b690d8f4bfaa4ad653943bd28d9f7290067626a86e1e90b",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W05a_Truncation1.pptx",
+      "course": "CE273",
+      "pages": 28,
+      "sha256": "38f26da7827dea5caebafdb6447b34f97158e7a90ee79ac1cd95c25b93a467a1",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W10a_LinearAlgebra3.pptx",
+      "course": "CE273",
+      "pages": 36,
+      "sha256": "d942ff1fa04549fca552bcd19d2d226f9dad72e5d2dfd34f3cdbfc589aa7aa7f",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE273_W14b_ODE2.pptx",
+      "course": "CE273",
+      "pages": 24,
+      "sha256": "eee689a2b5e401744dc4c6186d014af7c00c75ee2ba452001da922d717a84ec2",
+      "overflow": [],
+      "native_open": true,
+      "source_unchanged": true
+    }
+  ]
+}
