@@ -113,9 +113,15 @@ def generate(config_path, root=ROOT, output=None, activate=False):
     if activate:
         if output:
             raise ValueError('--activate와 --output 동시 사용 불가')
-        (root / 'CURRENT_OFFERING.md').write_text(
+        current = (
             '# 현재 학기 운영안내\n\n[' + config['term'] + ' 수업 일정·평가·진행 방식](offerings/' +
-            config['term'] + '/README.md)\n\n강의·실습 공통본의 내용·파일명·Colab 링크는 학기와 무관하게 유지\n', encoding='utf-8')
+            config['term'] + '/README.md)\n\n강의·실습 공통본의 내용·파일명·Colab 링크는 학기와 무관하게 유지\n')
+        pending = [value for code, value in courses.items() if code not in config['courses']]
+        if pending:
+            current += '\n운영 일정 미등록 과목: 날짜·요일·평가 운영 확정 후 별도 등록\n\n'
+            for course in pending:
+                current += '- [' + course['code'] + ' · ' + course['name'] + ' 공통 학습 계획](' + course['directory'] + '/COURSE_PLAN.md)\n'
+        (root / 'CURRENT_OFFERING.md').write_text(current, encoding='utf-8')
     return values
 
 
@@ -133,6 +139,9 @@ def sync_operations(local_root, root=ROOT):
                                 '../../' + course['local_directory'] + '/2.실습자료/COURSE_PLAN.md')
         page.write_text(text, encoding='utf-8')
     current = (root / 'CURRENT_OFFERING.md').read_text(encoding='utf-8')
+    for course in courses.values():
+        current = current.replace('(' + course['directory'] + '/COURSE_PLAN.md)',
+                                  '(' + course['local_directory'] + '/2.실습자료/COURSE_PLAN.md)')
     (local_root / '현재학기.md').write_text(current.replace('(offerings/', '(학기운영/'), encoding='utf-8')
 
 

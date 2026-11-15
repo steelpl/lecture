@@ -1,0 +1,39 @@
+[
+  {
+    "path": "week06/data/HardyCross_original.xlsx",
+    "original_name": "2026_S2_Hydraulics_Week06a_Pipe-PipeNetwork_HCross.xlsx",
+    "sha256": "3e81a0b18eff7526fe2724ce152a6b1081a011daedf10cb52a557113f73b39b5",
+    "kind": "unchanged-original"
+  },
+  {
+    "path": "week10/data/SpecificEnergy_original.xlsx",
+    "original_name": "2026_S2_Hydraulics_Week10a_Specific_Energy.xlsx",
+    "sha256": "e841bba26e43a6cdb5093af2fd43dac34b7acb311407913a71a62c3c65c44d47",
+    "kind": "unchanged-original"
+  },
+  {
+    "path": "week12/data/StepMethod_original.xlsx",
+    "original_name": "2026_S2_Hydraulics_Week12a_Step_Method.xlsx",
+    "sha256": "b02ac8e082f0ff7761694e9d14288da5a469776641c097febb8ab51a7564a62b",
+    "kind": "unchanged-original"
+  },
+  {
+    "path": "week09/data/PartFullPipe_original.xlsx",
+    "original_name": "2026_S2_Hydraulics_Week9b_Uniform_Flow_2_OCF_ClosedPipe.xlsx",
+    "sha256": "3c4b3005d5e5fae17b13f9449d06f2329fe5e93bc72bbac6965d21f604ab95c1",
+    "kind": "unchanged-original"
+  },
+  {
+    "path": "week06/data/HC_EPANET_original.zip",
+    "original_name": "W6_HC_EPANET_inp.zip",
+    "sha256": "b4cbda7813828c2ca1cf60a80e8c4b6d1dffebc20887ed6302f90aca7f09c974",
+    "kind": "unchanged-original"
+  },
+  {
+    "path": "week09/data/Hydraulics_closed_pipe_OCF_original.ipynb",
+    "original_name": "Hydraulics_closed_pipe_OCF.ipynb",
+    "sha256": "c3e459f33d8740fa875cab2a8ba83d5b1f2b017e1f4154143026528e08db397f",
+    "url": "https://colab.research.google.com/drive/1VjEgJfy7n8YNN1PkNqMeVQOeAH8-8Qfm",
+    "kind": "unchanged-original"
+  }
+]

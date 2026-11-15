@@ -12,6 +12,7 @@ import re
 import shutil
 import zipfile
 import xml.etree.ElementTree as ET
+from semester import sync_operations
 
 ROOT = Path(__file__).resolve().parents[1]
 OPS_URL = 'https://github.com/steelpl/lecture/blob/main/CURRENT_OFFERING.md'
@@ -247,6 +248,7 @@ def main():
     available = {json.loads(p.read_text(encoding='utf-8'))['code'] for p in configs}
     if args.courses and set(args.courses) - available:
         parser.error('등록되지 않은 과목: ' + ', '.join(sorted(set(args.courses) - available)))
+    sync_operations(args.destination, ROOT)
     for config in configs:
         course = json.loads(config.read_text(encoding='utf-8'))
         if args.courses and course['code'] not in args.courses:
@@ -258,19 +260,8 @@ def main():
         report_path = slides / '_master_manifest.json'
         report = json.loads(report_path.read_text(encoding='utf-8')) if report_path.exists() else {'files': {}}
         # Copy operations separately. All semester updates remain outside the learning master.
-        ops = args.destination / '학기운영'
-        shutil.copytree(ROOT / 'offerings', ops, dirs_exist_ok=True)
-        current = (ROOT / 'CURRENT_OFFERING.md').read_text(encoding='utf-8').replace('(offerings/', '(학기운영/')
-        (args.destination / '현재학기.md').write_text(current, encoding='utf-8')
         (target / 'CURRENT_OFFERING.md').write_text('# 학기 운영안내\n\n[현재 학기](../현재학기.md)\n', encoding='utf-8')
         shutil.copy2(ROOT / 'TEACHING_POLICY.md', target / 'TEACHING_POLICY.md')
-        for page in ops.rglob('*.md'):
-            value = page.read_text(encoding='utf-8')
-            for cfg_path in configs:
-                cfg = json.loads(cfg_path.read_text(encoding='utf-8'))
-                value = value.replace('../../' + cfg_path.parent.name + '/COURSE_PLAN.md',
-                                      '../../' + cfg['local_directory'] + '/2.실습자료/COURSE_PLAN.md')
-            page.write_text(value, encoding='utf-8')
         for lecture in course['lectures']:
             pptx = slides / lecture['file']
             record = report['files'].get(lecture['file'], {})
