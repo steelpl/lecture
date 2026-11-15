@@ -1,0 +1,241 @@
+{
+  "pptx": 28,
+  "slides": 907,
+  "checked_current_notebook_links": 44,
+  "original_source_files_unchanged": true,
+  "original_media_preserved": true,
+  "student_history_labels": 0,
+  "pdf_created": 0,
+  "title_geometry": [
+    {
+      "page": 27,
+      "shape_top": 19.0,
+      "text_top": 24.0,
+      "text_bottom": 55.40999984741211,
+      "shape_bottom": 72.0,
+      "text": "여섯 파라미터의 기울기"
+    },
+    {
+      "page": 28,
+      "shape_top": 19.0,
+      "text_top": 24.0,
+      "text_bottom": 55.40999984741211,
+      "shape_bottom": 72.0,
+      "text": "경사하강법: 기울기의 반대 방향으로 한 걸음"
+    },
+    {
+      "page": 31,
+      "shape_top": 19.0,
+      "text_top": 24.0,
+      "text_bottom": 55.40999984741211,
+      "shape_bottom": 72.0,
+      "text": "500회 갱신: 예측값과 관측값 비교"
+    },
+    {
+      "page": 32,
+      "shape_top": 19.0,
+      "text_top": 24.0,
+      "text_bottom": 55.40999984741211,
+      "shape_bottom": 72.0,
+      "text": "ReLU 신경망: 서로 다른 값으로도 같은 출력"
+    }
+  ],
+  "files": [
+    {
+      "file": "CE387_W01a_Intro1.pptx",
+      "slides": 30,
+      "sha256": "c229c8de7f19ab725914d4b8d3d50e98b45fc0f9335e7869f238fda093650bac",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W01b_intro2.pptx",
+      "slides": 47,
+      "sha256": "28db31380a7d9213be0274d672beccfe081106f3d716c4dd198cd0a03706caab",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W02a_python1.pptx",
+      "slides": 36,
+      "sha256": "728a5c729e5188683c4cab458f9b0921cc1fbda02d2a2e05aa4b06beb5eaeb4c",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W02b_python2.pptx",
+      "slides": 51,
+      "sha256": "267d3cb6e5c2d12fe04efff7c93dd30f8ae2c7282edb2d0c8e5645919706d0af",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W03a_python3.pptx",
+      "slides": 34,
+      "sha256": "2d56420c77065c0304ee24e50c0d4d6f446d59f08c52c38ebc402bd8c661a20a",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W03b_statisticsIntro.pptx",
+      "slides": 35,
+      "sha256": "78c1a60a762224a9cc8a5618bdb8d0a5d3128daf0dee35492c75738e8c4e5a59",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W04a_probability.pptx",
+      "slides": 36,
+      "sha256": "68a9693596a791cf32b978a02307e4b8a2eb87df309c1925afe85c70273dc39e",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W04b_Bayes.pptx",
+      "slides": 21,
+      "sha256": "ce9fab782744d807360b2f4da6d9c67737a0a0418356b71660006af203cea013",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W05a_FreVsBayes.pptx",
+      "slides": 31,
+      "sha256": "707bdf8f76c4287c68b23767ec525a63d3b26269ac496cb14b9ddd931981b360",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W05b_RejectSampling.pptx",
+      "slides": 33,
+      "sha256": "13cb00ba0c013021c29558ed44b39d85c347849977306bf0d0c9a4c494cd8585",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W06a_MCMC_Sampling.pptx",
+      "slides": 31,
+      "sha256": "ae36c94790bd39858bdaa0311fb1681c46d308783c12afe969c7f603be1f7f79",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W06b_InfoTheo.pptx",
+      "slides": 40,
+      "sha256": "9969f12dd2bfe85a74e9cdc191f33cace3e5a1b3247882fcf99d166bf98e07b9",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W07a_summary.pptx",
+      "slides": 29,
+      "sha256": "3a56865f91986d47a51342354b67f6b449458eb750461989177bacd865625afa",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W08a_LinearAlgebra1.pptx",
+      "slides": 43,
+      "sha256": "ccd9c3a658391b023f1aebda5910e06b4df9d41c98c7e6707645ad33f91fcb45",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W08b_LinearAlgebra2_Practice.pptx",
+      "slides": 6,
+      "sha256": "b957361db824114d929547da298879386255391acec1231c915019b3f421d498",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W09a_LinearAlgebra3.pptx",
+      "slides": 31,
+      "sha256": "e0038ab5f44fadd3f3b1032bad11afc6193951126d316ad25ed91ef0ef3d3c2b",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W09b_LinearAlgebra4.pptx",
+      "slides": 41,
+      "sha256": "b13d66067e594c8d48a8a64519491aaafd4a09555a6d424bd23fc7b23d8512c0",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W10a_LinearAlgebra5_Practice.pptx",
+      "slides": 6,
+      "sha256": "1b9c01d70e96790b2763841a0421cf4ffc4a610f5bddcadca7efb18e7f40ec53",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W10b_Optimization1.pptx",
+      "slides": 36,
+      "sha256": "6bd34c978bc35c0382ff680ebdddec41ca223260e10b5851dad73afafa102126",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W11a_Optimization2_Practice.pptx",
+      "slides": 5,
+      "sha256": "30504bc7b11c1eb6c4fbb21fd86c2c6a0475e070f6a723230c1e5e1c687de64c",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W11b_SLIntro.pptx",
+      "slides": 40,
+      "sha256": "c1c92a3f21de0294406742363fe8ee9af79bd50dab14dc2f886ab40c1e95e2a4",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W12a_Regression.pptx",
+      "slides": 43,
+      "sha256": "3119fad13d6859dd5aedfa661268499a2d7e2f61f8bb21c605043e8637252de4",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W12b_Classification.pptx",
+      "slides": 46,
+      "sha256": "e484225c68417aa2067c82d466d51c8b35eaa6973f5a381809d84a19cb54626a",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W13a_NeuralNetwork1.pptx",
+      "slides": 35,
+      "sha256": "fccc87720dbcb0508efe88016f5b412b5534896c88169f5ebee7e3712c018b7c",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W13b_NeuralNetwork2.pptx",
+      "slides": 34,
+      "sha256": "6c4e03956d1214b73d3c9645ef434b7ba326b8897c63eb5a3dc3e4bd9871524e",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W14a_NeuralNetwork3.pptx",
+      "slides": 35,
+      "sha256": "9b7a2b2f6fb68e2ad9bd76bfe916a4b1ed1a6104f3a86c6211cc95d76b3bca0d",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W14b_NeuralNetwork4.pptx",
+      "slides": 38,
+      "sha256": "3bde4ebb114e528ccd65b505d914007507b522ca772c0261883d0254a2afea39",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    },
+    {
+      "file": "CE387_W15a_Summary.pptx",
+      "slides": 14,
+      "sha256": "a6feb22aa3bdaf25c21aa8317efabec047bbe8c0eaa8d12f349f323601f4d5e8",
+      "original_media_preserved": true,
+      "source_unchanged": true
+    }
+  ]
+}

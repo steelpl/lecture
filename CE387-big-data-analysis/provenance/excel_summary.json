@@ -1,0 +1,106 @@
+{
+  "files": [
+    {
+      "file": "week05/CE387_W05_Rejection.xlsx",
+      "formula_cells_native": 7752,
+      "errors": [],
+      "sha256": "db1ff827f4cf5d89c18223fade05950d41f9314f0924482db9e7c021f346e012",
+      "macros_executed": false,
+      "checks": [
+        {
+          "candidate_rows": 900,
+          "acceptance_count": 239,
+          "all_pointwise_formulas": true
+        },
+        {
+          "changed_H": 1.0,
+          "ratio_verified": true
+        }
+      ]
+    },
+    {
+      "file": "week06/CE387_W06_MCMC.xlsx",
+      "formula_cells_native": 62247,
+      "errors": [],
+      "sha256": "8da078446435bd101556180df70c4ab44fdcbf2e3c8c64fe843f9021ae6a6034",
+      "macros_executed": false,
+      "checks": [
+        {
+          "markov_rows": 5000,
+          "retained": 4500,
+          "all_transitions_verified": true,
+          "sample_mean": 7.231335919404102,
+          "bus_arithmetic": true
+        }
+      ]
+    },
+    {
+      "file": "week13/CE387_W13a_NeuralNetwork.xlsm",
+      "formula_cells_native": 140,
+      "errors": [],
+      "sha256": "5f32716658fd0c0d8641e5526fa01dcaa5fb2aca8c6c00e1c9e183c55ae2a3a3",
+      "macros_executed": false,
+      "checks": [
+        {
+          "forward_rows": 6,
+          "changed_W3_SSR": 1.973000000000005e-05
+        }
+      ]
+    },
+    {
+      "file": "week13/CE387_W13b_NeuralNetwork.xlsm",
+      "formula_cells_native": 264,
+      "errors": [],
+      "sha256": "5a778c561383787339bede197ebc8a88d47c3a402f35bb5dcf5852a02cbef553",
+      "macros_executed": false,
+      "checks": [
+        {
+          "parameters": [
+            0.06,
+            0,
+            -4.11,
+            3.49,
+            0,
+            2.74
+          ],
+          "gradients": [
+            -91.6119,
+            -106.64628000000002,
+            1.3374000000000001,
+            61.074600000000004,
+            71.09752,
+            77.7921
+          ],
+          "SSR": 100.16882000000003,
+          "native_gradients_match": true
+        },
+        {
+          "parameters": [
+            1.43,
+            -0.61,
+            -3.89,
+            2.63,
+            0.2,
+            1.35
+          ],
+          "gradients": [
+            -7.383998000000004,
+            -9.861150000000002,
+            1.1680760000000006,
+            2.562570000000001,
+            4.151250000000001,
+            5.607266000000003
+          ],
+          "SSR": 0.8761967300000004,
+          "native_gradients_match": true
+        },
+        {
+          "inactive_first_relu_gradient_zero": true
+        }
+      ]
+    }
+  ],
+  "workbooks": 4,
+  "macros_executed": false,
+  "source_files_unchanged": true
+}
