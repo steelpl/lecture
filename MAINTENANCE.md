@@ -61,6 +61,8 @@ python tools/course_master.py --source-root "기존 개편본의 학기 폴더" 
 
 공통 PPTX를 직접 수정한 뒤 아래 명령 실행. 바뀐 PPTX의 PDF만 갱신
 
+현재 정리한 로컬 공통 폴더에서는 `PDF_변경분만갱신.cmd` 실행도 가능. `_관리도구`에 저장소 사본과 유지관리 도구 배치
+
 ```text
 python tools/course_master.py --destination "C:\Users\seokh\OneDrive\02.수업\강의자료" --export-pdf
 ```
