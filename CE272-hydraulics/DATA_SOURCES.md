@@ -6,4 +6,4 @@
 
 신규 `CE272_W*.ipynb`·`CE272_W*.xlsx`는 같은 원리·예제·자료에 연결한 병행 실습. 원본과 추가 조건의 구분은 S절의 자료 구분 참고
 
-[셀 참조·계산 대조 기록](DATA_RECONCILIATION.md)
+[셀 참조·계산 대조 기록](provenance/DATA_RECONCILIATION.md)
