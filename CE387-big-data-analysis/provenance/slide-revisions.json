@@ -3655,6 +3655,189 @@
           "align": "l"
         }
       ]
+    },
+    {
+      "file": "CE387_W13b_NeuralNetwork2.pptx",
+      "page": 31,
+      "title": "500회 갱신: 예측값과 관측값 비교",
+      "items": [
+        {
+          "kind": "text",
+          "text": "학습률 0.01 · 같은 세 관측으로 500회 갱신",
+          "x": 40,
+          "y": 103,
+          "w": 700,
+          "h": 45,
+          "size": 24,
+          "color": "23376E",
+          "bold": true,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "W1",
+          "x": 40,
+          "y": 175,
+          "w": 65,
+          "h": 38,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "1.4282",
+          "x": 115,
+          "y": 175,
+          "w": 180,
+          "h": 38,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "B1",
+          "x": 40,
+          "y": 215,
+          "w": 65,
+          "h": 38,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "-0.6094",
+          "x": 115,
+          "y": 215,
+          "w": 180,
+          "h": 38,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "W3",
+          "x": 40,
+          "y": 255,
+          "w": 65,
+          "h": 38,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "-3.8895",
+          "x": 115,
+          "y": 255,
+          "w": 180,
+          "h": 38,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "W2",
+          "x": 40,
+          "y": 295,
+          "w": 65,
+          "h": 38,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "2.6312",
+          "x": 115,
+          "y": 295,
+          "w": 180,
+          "h": 38,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "B2",
+          "x": 40,
+          "y": 335,
+          "w": 65,
+          "h": 38,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "-0.2742",
+          "x": 115,
+          "y": 335,
+          "w": 180,
+          "h": 38,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "W4",
+          "x": 40,
+          "y": 375,
+          "w": 65,
+          "h": 38,
+          "size": 22,
+          "color": "23376E",
+          "bold": true,
+          "fill": null
+        },
+        {
+          "kind": "text",
+          "text": "1.3510",
+          "x": 115,
+          "y": 375,
+          "w": 180,
+          "h": 38,
+          "size": 22,
+          "color": "202833",
+          "bold": false,
+          "fill": null
+        },
+        {
+          "kind": "image",
+          "asset": "nn500",
+          "x": 300,
+          "y": 160,
+          "w": 440,
+          "h": 308
+        },
+        {
+          "kind": "text",
+          "text": "SSR ≈ 1.60 × 10⁻¹⁶ · 훈련 세 점의 적합 결과",
+          "x": 40,
+          "y": 474,
+          "w": 690,
+          "h": 35,
+          "size": 21,
+          "color": "23376E",
+          "bold": true,
+          "fill": null
+        }
+      ]
     }
   ],
   "remove": {

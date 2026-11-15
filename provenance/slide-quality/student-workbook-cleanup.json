@@ -1,0 +1,794 @@
+[
+  {
+    "file": "CE202-statistics-for-engineers/week01/CE202_W01.xlsx",
+    "before": "1f08fc48a923d9f0b907271dc4dc82b8d6153049810e807a3c0fb607f2d88511",
+    "after": "87b9658b978c1bf800b5c44b60ee835c4560583f4c2c50924ceb9adf7cc02b90",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 통계적 질문을 분석 명세로 바꾸기",
+        "new": "통계적 질문을 분석 명세로 바꾸기"
+      },
+      {
+        "old": "S02 · 원본 색상 선호 도수표",
+        "new": "색상 선호 도수표"
+      },
+      {
+        "old": "S03 · 원본 KBO 연봉 자료 정렬",
+        "new": "KBO 연봉 자료 정렬"
+      },
+      {
+        "old": "원본 500명",
+        "new": "500명"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week02/CE202_W02.xlsx",
+    "before": "8e3173d7db28cf07f2ceaf8fbcd7eaeee416ddbe4d26405839459d9d5487f919",
+    "after": "b7064418f3a45f36f104537dbbee94f8085d5a6848a48f0d33d8e149917d81a0",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "도수표 평균·사분위수 규칙·표본/모집단 분산·원본 Excel 대조",
+        "new": "도수표 평균·사분위수 규칙·표본/모집단 분산·Excel 대조"
+      },
+      {
+        "old": "S01 · 도수표 평균과 이상치",
+        "new": "도수표 평균과 이상치"
+      },
+      {
+        "old": "S02 · 사분위수·분산의 정의",
+        "new": "사분위수·분산의 정의"
+      },
+      {
+        "old": "S03 · 원본 Excel 값 대조",
+        "new": "요약값과 계산식 검토"
+      },
+      {
+        "old": "S04 · 왜도·첨도와 보정",
+        "new": "왜도·첨도와 보정"
+      },
+      {
+        "old": "원본 값",
+        "new": "값"
+      },
+      {
+        "old": "원본 평균",
+        "new": "평균"
+      },
+      {
+        "old": "원본 중앙값",
+        "new": "중앙값"
+      },
+      {
+        "old": "원본 규칙 Q1",
+        "new": "규칙 Q1"
+      },
+      {
+        "old": "단위는 원본 파일 미기재",
+        "new": "단위는 파일 미기재"
+      },
+      {
+        "old": "보정된 초과첨도; 원본 beta 식과 정의 차이",
+        "new": "보정된 초과첨도; beta 식과 정의 차이"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week03/CE202_W03.xlsx",
+    "before": "6aaad0b425a9a647432249b23718d94e36e57c2ac75540a6a869ac88903a6da8",
+    "after": "360297fb0a3e00c9b52304adb2ef9adbff3243d6d0eb37847f7df01994d85464",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 주사위 사건과 독립·배반",
+        "new": "주사위 사건과 독립·배반"
+      },
+      {
+        "old": "S02 · 생산라인 불량 표의 분모",
+        "new": "생산라인 불량 표의 분모"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week04/CE202_W04.xlsx",
+    "before": "45a1d46518074dc6d5b2f237f82ace0fc58139eb1f6c8d55bb89dc897c648d1e",
+    "after": "8e9f12d84d7b9caa71a8ada93586d60e8b67aa82ba9b96b4701a40229685f675",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 동전 두 번의 PMF와 CDF",
+        "new": "동전 두 번의 PMF와 CDF"
+      },
+      {
+        "old": "S02 · 야구 안타 분포의 평균과 분산",
+        "new": "야구 안타 분포의 평균과 분산"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week05/CE202_W05.xlsx",
+    "before": "0284f56d1a8eaebdee05f87fed5176f3bd648854886373a215fae57a6575a290",
+    "after": "c37a9a02c18f78c9140d6e878ace965947b8eb775e09087975afdbaa743b5f07",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 원본 공 주머니의 결합분포",
+        "new": "공 주머니의 결합분포"
+      },
+      {
+        "old": "S02 · 결합분포에서 공분산 계산",
+        "new": "결합분포에서 공분산 계산"
+      },
+      {
+        "old": "S03 · 공분산 0의 반례",
+        "new": "공분산 0의 반례"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week06/CE202_W06.xlsx",
+    "before": "601d48d124e10298b3d99fc1901594e3447554ad149c7397a7b02917e1ea42a6",
+    "after": "f71a35aec85187a9c7d7914db86c6950611c6ac60b7f923c95ee546f47714476",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 균등·이항·초기하",
+        "new": "균등·이항·초기하"
+      },
+      {
+        "old": "S02 · 푸아송·기하·음이항의 기준",
+        "new": "푸아송·기하·음이항의 기준"
+      },
+      {
+        "old": "원본 불량품 예제",
+        "new": "불량품 예제"
+      },
+      {
+        "old": "원본 H(32,16,16)",
+        "new": "H(32,16,16)"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week07/CE202_W07.xlsx",
+    "before": "a5a86ba60829436881ac89627e0b264dd6f702c95ecc6180ec87504ef1d52270",
+    "after": "39fa041b3244bb83f0a82183cd09a386bad324724c25b9b064d75da89929508b",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "원본 조건부확률·기댓값·이항 계산 재확인",
+        "new": "조건부확률·기댓값·이항 계산 재확인"
+      },
+      {
+        "old": "S01 · 같은 원본 자료로 핵심 점검",
+        "new": "핵심 개념 점검"
+      },
+      {
+        "old": "원본 안타 기댓값",
+        "new": "안타 기댓값"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week08/CE202_W08.xlsx",
+    "before": "3eb7f0a5f71b6c3aedc7c0c39635b43c03c22bc92ac1f196f9c19bd24f7a5284",
+    "after": "62850fe9b6c80055e55898fac3816fdf9ec9d698488402635dbaa6360c5158aa",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 정규분포와 구간 확률",
+        "new": "정규분포와 구간 확률"
+      },
+      {
+        "old": "S02 · 감마·지수·베타 모수 변경",
+        "new": "감마·지수·베타 모수 변경"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week09/CE202_W09.xlsx",
+    "before": "59e8d6cfc263597f52bf621b54757f12557bc6fabc6b8df74d18d59cf2e6ba5b",
+    "after": "70ca8f682d0803d16c51b258bfa08e47a742235f57bfcac83b8d6d7adb6979a5",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 원본 유한 모집단의 모든 표본",
+        "new": "유한 모집단의 모든 표본"
+      },
+      {
+        "old": "S02 · χ²·t·F의 꼬리와 자유도",
+        "new": "χ²·t·F의 꼬리와 자유도"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week10/CE202_W10.xlsx",
+    "before": "6f1d4faa5dac04899da8d1635aae7de300cae8ae2fae22e8a1539a80a066b449",
+    "after": "83b835fa0cd6f93946583c423cf104c1be278c3c311242ac244486e81b2df11d",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 원본 균등분포 MOM과 MLE",
+        "new": "균등분포 MOM과 MLE"
+      },
+      {
+        "old": "S02 · 원본 함유량 6회의 t 신뢰구간",
+        "new": "함유량 6회의 t 신뢰구간"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week11/CE202_W11.xlsx",
+    "before": "4be74d74e278763b3e48d55c58ba317e8b9571d2ecfb004f8e40ae9251e24493",
+    "after": "ce36ba0360922b23d20a16c37590654a7e97ff2920921004831ca6f1b308ad66",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 원본 교육 전후의 대응 차이",
+        "new": "교육 전후의 대응 차이"
+      },
+      {
+        "old": "S02 · 원본 100개 중 2개 불량: Wald와 Wilson",
+        "new": "100개 중 2개 불량: Wald와 Wilson"
+      },
+      {
+        "old": "S03 · 원본 배터리 비율차·계란 모분산",
+        "new": "배터리 비율차·계란 모분산"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week12/CE202_W12.xlsx",
+    "before": "4a0f0dbb31067ae0a53f5e373b278ab4c031fd4f2267e2ea6472bc2cdb404ff0",
+    "after": "d333753c73b7f291428ce89bdfa6f28b7a81f9cdbe09f1d5179dfb6c40a27bb9",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 원본 볼트의 z와 t 검정",
+        "new": "볼트의 z와 t 검정"
+      },
+      {
+        "old": "S02 · 원본 독립집단과 대응 자료",
+        "new": "독립집단과 대응 자료"
+      },
+      {
+        "old": "원본 볼트 z",
+        "new": "볼트 z"
+      },
+      {
+        "old": "원본 볼트 t",
+        "new": "볼트 t"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week13/CE202_W13.xlsx",
+    "before": "a19e6e7b91e04fbfa43720d9fc55794040cb3ac77c6bf7148e4c5b33be890948",
+    "after": "6de812b71e2dd9886711e5e23d291d39728f477cfde510ed66aaf4f98875aa00",
+    "text_changes": [
+      {
+        "old": "13주 · 모비율 검정·원본 ANOVA 자료 대조",
+        "new": "13주 · 모비율 검정·분산분석"
+      },
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "이항 검정·ANOVA 제곱합·F·p·원본 대조",
+        "new": "이항 검정·ANOVA 제곱합·F·p·대조"
+      },
+      {
+        "old": "S01 · 원본 배터리 500개 중 5개 불량",
+        "new": "배터리 500개 중 5개 불량"
+      },
+      {
+        "old": "S02 · 슬라이드·jamovi와 일치하는 기계 6대",
+        "new": "기계 6대의 분산분석"
+      },
+      {
+        "old": "원본 F≈0.3068007663, p≈0.9024205151",
+        "new": "F≈0.3068007663, p≈0.9024205151"
+      },
+      {
+        "old": "원본 Excel 입력",
+        "new": "Excel 입력"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week14/CE202_W14.xlsx",
+    "before": "bd8280ecb5d445ffd482e7215d8358f2110465c9e818c7ceb49852260fd18554",
+    "after": "a901f233e81599b2293a7e24f47248f3a94b955623810833b51ce8b7018d869f",
+    "text_changes": [
+      {
+        "old": "14주 · 범주형 자료·원본 회귀분석",
+        "new": "14주 · 범주형 자료·회귀분석"
+      },
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "S01 · 원본 TV 적합도와 카페 독립성",
+        "new": "TV 적합도와 카페 독립성"
+      },
+      {
+        "old": "S02 · 원본 x·y의 회귀와 MSE",
+        "new": "x·y의 회귀와 MSE"
+      },
+      {
+        "old": "원본 회귀분석의 잔차 평균제곱",
+        "new": "회귀분석의 잔차 평균제곱"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week15/CE202_W15.xlsx",
+    "before": "35982af3a20d4ec27aa28fcc8d48a30780e176a1db76ade93be97958bd25c60a",
+    "after": "bb060120da39f112c7a0472fa23c7cf718ab8f157ebffc90556658b173d24af8",
+    "text_changes": [
+      {
+        "old": "옅은 파랑 셀: 수정 가능한 값. 원본 데이터는 별도 보존",
+        "new": "옅은 파랑 셀: 수정 가능한 값. 데이터는 별도 보존"
+      },
+      {
+        "old": "원본 ANOVA·회귀 결과와 검토 기록 연결",
+        "new": "ANOVA·회귀 결과와 검토 기록 연결"
+      },
+      {
+        "old": "S01 · 원본 분석을 검토 가능한 보고로 정리",
+        "new": "분석 결과와 검토 근거 정리"
+      },
+      {
+        "old": "원본 F≈0.3068007663, p≈0.9024205151",
+        "new": "F≈0.3068007663, p≈0.9024205151"
+      },
+      {
+        "old": "원본 회귀분석의 잔차 평균제곱",
+        "new": "회귀분석의 잔차 평균제곱"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week01/CE273_W01.xlsx",
+    "before": "1de3f1fa84e2545f67d07d3085eee45e516c3da1bfb3829dc1c9adf9a5c900f1",
+    "after": "9a879b2b7a3cf8f8005ca9b2e383c5fca17e7a0fe377ed7169295b1ed7f642b9",
+    "text_changes": [
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 모형·매개변수·단위와 해석해",
+        "new": "모형·매개변수·단위와 해석해"
+      },
+      {
+        "old": "S02 Euler 갱신과 스텝 검토",
+        "new": "Euler 갱신과 스텝 검토"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week02/CE273_W02.xlsx",
+    "before": "c9cb7d6beffc84507652a3ad159607d0e43a10310312c4fbab78b8893878d434",
+    "after": "d8ff8863fe4ba4e6ba61247cc344eaab7092d8c77f560b7963cb86a890b6eaf8",
+    "text_changes": [
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 수치·문자열과 공유 상태",
+        "new": "수치·문자열과 공유 상태"
+      },
+      {
+        "old": "S02 count·extend·get과 집합",
+        "new": "count·extend·get과 집합"
+      },
+      {
+        "old": "원본 예시 전체 길이",
+        "new": "예시 전체 길이"
+      },
+      {
+        "old": "원본 예시 1의 개수",
+        "new": "예시 1의 개수"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week03/CE273_W03.xlsx",
+    "before": "037b19f30bc3af6b2fe091760b3b5a58883b17b8393adb00d6650ba5c8526775",
+    "after": "f1dcae6009c4892bd4062dfd4dd7b190ba074e321f3b64f7e27674240ead04a9",
+    "text_changes": [
+      {
+        "old": "원본 반복 갱신표·초기값·계수·중간값 대조",
+        "new": "반복 갱신표·초기값·계수·중간값 대조"
+      },
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 별칭·복사·배열 연산",
+        "new": "별칭·복사·배열 연산"
+      },
+      {
+        "old": "S02 원본 반복 갱신·함수의 반환",
+        "new": "반복 갱신·함수의 반환"
+      },
+      {
+        "old": "원본 초기값",
+        "new": "초기값"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week04/CE273_W04.xlsx",
+    "before": "bf5801bcfd5625ee55602d80968ce5bc92f5e6da3ebc9fbbc8ec1283dcbdce63",
+    "after": "79fc046e9b13f6c8eaffae8af7a3f4a428695676f67173862c043f8468004184",
+    "text_changes": [
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 e^0.5의 급수와 종료 기준",
+        "new": "e^0.5의 급수와 종료 기준"
+      },
+      {
+        "old": "S02 머신 엡실론·상쇄와 안정식",
+        "new": "머신 엡실론·상쇄와 안정식"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week05/CE273_W05.xlsx",
+    "before": "fb7c4efc823657e21199feeafbef26e817bbae1e58d3960cb690146da0c163b7",
+    "after": "087388fe3a7e17639fa87106ce228ec02514dfe0b7ef89705bf3d555122bda87",
+    "text_changes": [
+      {
+        "old": "원본 기하·exp·sin 급수, 항 수와 오차 비교",
+        "new": "기하·exp·sin 급수, 항 수와 오차 비교"
+      },
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 원본 전진차분과 sin 근사",
+        "new": "전진차분과 sin 근사"
+      },
+      {
+        "old": "S02 원본 세 급수의 수렴 영역",
+        "new": "세 급수의 수렴 영역"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week06/CE273_W06.xlsx",
+    "before": "b060f74ed5689012162ec23605f0d2fd1173fcf9485cd90d227c50f4f64d187e",
+    "after": "b6cbe5adfce4a7051d445015a043ca2e5f9965e7cbd930ca2e7e7670b73ef90f",
+    "text_changes": [
+      {
+        "old": "원본 다항식 차분표·h 변화와 오차",
+        "new": "다항식 차분표·h 변화와 오차"
+      },
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 원본 다항식의 차분 공식",
+        "new": "다항식의 차분 공식"
+      },
+      {
+        "old": "S02 원본 sin·(x−1)^4와 h 실험",
+        "new": "sin·(x−1)^4와 h 실험"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week07/CE273_W07.xlsx",
+    "before": "1f94b23d7bc9ca1a479d33d3ce8efff20104399fc42da089084e3d6bc27419d8",
+    "after": "602251321538c8c348b2b8ef540b7cecf18249580a5d05abb4530363afa167d8",
+    "text_changes": [
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 같은 원본으로 오류 찾기",
+        "new": "계산 오류 찾기"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week08/CE273_W08.xlsx",
+    "before": "d184bf957c1d86e89eca51c8b8fedfa369800dab030b4732b7214c2bd471d39c",
+    "after": "8ffc0245ce4e4bf427c41f49fd4d1f6c195ea18d8596ea228fb957343f224272",
+    "text_changes": [
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 원본 5차 다항식의 Newton–Cotes",
+        "new": "5차 다항식의 Newton–Cotes"
+      },
+      {
+        "old": "S02 원본 낙하 거리와 g 설정",
+        "new": "낙하 거리와 g 설정"
+      },
+      {
+        "old": "8주차 원본 m/s²",
+        "new": "8주차 m/s²"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week09/CE273_W09.xlsx",
+    "before": "001e90a494596f8fd37f2eaecfba525dacdbaa3d64a584dd92074cd383675ebc",
+    "after": "dfbdb62aecf6335f4bfa020a5dcd48252be7879190cc2bbcd1f27a70b973719f",
+    "text_changes": [
+      {
+        "old": "원본 벡터·5반응조 선형계·고유쌍",
+        "new": "벡터·5반응조 선형계·고유쌍"
+      },
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 원본 벡터와 반응조 선형계",
+        "new": "벡터와 반응조 선형계"
+      },
+      {
+        "old": "S02 원본 대칭행렬의 고유쌍",
+        "new": "대칭행렬의 고유쌍"
+      },
+      {
+        "old": "원본 벡터 내적",
+        "new": "벡터 내적"
+      },
+      {
+        "old": "원본 고유값 최소",
+        "new": "고유값 최소"
+      },
+      {
+        "old": "원본 고유값 최대",
+        "new": "고유값 최대"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week10/CE273_W10.xlsx",
+    "before": "d6d86a73dd80b7135af7e9330213740514c91dafcfa23d1576b03c493415dcf1",
+    "after": "579b4176b26f86320c1b73ceb76f9eb2c6998ba968ab5612063e5c37bb94e1d7",
+    "text_changes": [
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 유일해·무한해·과소결정계 검산",
+        "new": "유일해·무한해·과소결정계 검산"
+      },
+      {
+        "old": "S02 피벗·LU와 Cholesky 조건",
+        "new": "피벗·LU와 Cholesky 조건"
+      },
+      {
+        "old": "원본 x+y+z=6, 2x+3y+4z=15",
+        "new": "x+y+z=6, 2x+3y+4z=15"
+      },
+      {
+        "old": "원본 L21",
+        "new": "L21"
+      },
+      {
+        "old": "원본 U22",
+        "new": "U22"
+      },
+      {
+        "old": "원본 LU det",
+        "new": "LU det"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week11/CE273_W11.xlsx",
+    "before": "ac3ea860f7b2848a878559df569baa57ecc39e1ddac98ea745cc853d51b6cc48",
+    "after": "7c1dcef461cf1e6c4fde03c69fd588eb5a9ce4c1c0abdcf858be027e38d9d8b1",
+    "text_changes": [
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 원본 낙하산 항력계수의 구간법",
+        "new": "낙하산 항력계수의 구간법"
+      },
+      {
+        "old": "S02 원본 고정점·Newton의 수렴",
+        "new": "고정점·Newton의 수렴"
+      },
+      {
+        "old": "S03 원본 할선법의 두 초기값",
+        "new": "할선법의 두 초기값"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week12/CE273_W12.xlsx",
+    "before": "9908d7561e3d9fd50fe8f8ddf939a6c42dfde7fac359fc3a33a121be51fa9106",
+    "after": "272653f7b0a52297a7eca373f9fb05b4041f8251c8b329f38925b18182215482",
+    "text_changes": [
+      {
+        "old": "원본 가위치법 비교·선형/로그 회귀",
+        "new": "가위치법 비교·선형/로그 회귀"
+      },
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 기존 Colab의 x^10−1과 수정 가위치법",
+        "new": "함수 x^10−1과 수정 가위치법"
+      },
+      {
+        "old": "S02 원본 8쌍의 선형 회귀와 로그 변환",
+        "new": "8쌍의 선형 회귀와 로그 변환"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week13/CE273_W13.xlsx",
+    "before": "f91e02ca49c21003036cbb80eb6755ad694009c4297a8d813ef13d4eca248996",
+    "after": "6dbbafbf6b0bb44cd5c67c5633c144bc680a9d136ec2dafa75bd1b6dfe3f87e5",
+    "text_changes": [
+      {
+        "old": "원본 2차 회귀·ln2 보간·1차 스플라인",
+        "new": "2차 회귀·ln2 보간·1차 스플라인"
+      },
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 원본 6쌍의 2차 회귀",
+        "new": "6쌍의 2차 회귀"
+      },
+      {
+        "old": "S02 원본 ln2의 Newton·Lagrange 보간",
+        "new": "ln2의 Newton·Lagrange 보간"
+      },
+      {
+        "old": "S03 원본 1차 스플라인과 경계 조건",
+        "new": "1차 스플라인과 경계 조건"
+      },
+      {
+        "old": "표시된 원본 ln값",
+        "new": "표시된 ln값"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week14/CE273_W14.xlsx",
+    "before": "a27d657fa0a8fc952ef8bb347e58a8d861492cc15b5877684ff5fef938662772",
+    "after": "ae20fcb0e6015c2265f17b621dfc8de0403c9b7d8f909d0b4ab3c84aca2aaffd",
+    "text_changes": [
+      {
+        "old": "Euler·원본 RK2 3방법·RK4·해석해 비교",
+        "new": "Euler·RK2 3방법·RK4·해석해 비교"
+      },
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 원본 다항식 ODE와 오차",
+        "new": "다항식 ODE와 오차"
+      },
+      {
+        "old": "S02 y 의존식의 Heun과 RK4 검산",
+        "new": "y 의존식의 Heun과 RK4 검산"
+      },
+      {
+        "old": "원본 중간값 3.1875를 4.1875로 정정",
+        "new": "중간값 3.1875를 4.1875로 정정"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  },
+  {
+    "file": "CE273-numerical-analysis/week15/CE273_W15.xlsx",
+    "before": "149b9b200e6a8792cfca617a2f694d397506bc305ac17071c3397831373cb54c",
+    "after": "4b168ea9afa9dc36e2de7fc4249a98b26a758979c8da89194b4fb59858cf5bf6",
+    "text_changes": [
+      {
+        "old": "표시 자릿수와 내부 계산값 구분. 원본 반올림 상수는 자료 대조 기록 참고",
+        "new": "표시 자릿수와 내부 계산값 구분. 중간 계산은 유지하고 결과 표시만 조절"
+      },
+      {
+        "old": "S01 방법 선택과 실패 보고",
+        "new": "방법 선택과 실패 보고"
+      },
+      {
+        "old": "원본 선형계 x",
+        "new": "선형계 x"
+      },
+      {
+        "old": "원본 선형계 y",
+        "new": "선형계 y"
+      }
+    ],
+    "numeric_formula_and_cached_payload": "unchanged"
+  }
+]

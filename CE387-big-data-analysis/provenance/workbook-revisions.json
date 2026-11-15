@@ -30,7 +30,7 @@
     "file": "week13/CE387_W13b_NeuralNetwork.xlsm",
     "source": "2026_S2_BigData_Wk13b_NeuralNetwork2.xlsm",
     "source_sha256": "af34c4a4e56168e1299759d54e6632964c9c6e96d209840790d6c5f50f4a390d",
-    "sha256": "e2734f278536ba821afb29753521e7bae5cafcb71a7232ae6495ee70dc93cd66",
+    "sha256": "5a778c561383787339bede197ebc8a88d47c3a402f35bb5dcf5852a02cbef553",
     "relu_gate_fixes": 9,
     "fixes": [
       {
@@ -79,6 +79,26 @@
         "new": "<f t=\"shared\" ref=\"J18:J19\" si=\"5\">-2*(H18-G18)*$E$15*IF(C18&gt;0,1,0)*1</f>"
       }
     ],
-    "vba": "static reviewed; no auto-run procedures, shell, network, or external filenames"
+    "vba": "static reviewed; no auto-run procedures, shell, network, or external filenames",
+    "iteration_records_recomputed": 500,
+    "formula_caches_cleared": 264,
+    "iteration_initial_parameters": [
+      0.06,
+      0,
+      -4.11,
+      3.49,
+      0,
+      2.74
+    ],
+    "iteration_learning_rate": 0.01,
+    "iteration_final_parameters": [
+      1.4281577734675832,
+      -0.6094402037781237,
+      -3.8894558621964666,
+      2.6311663734874755,
+      -0.2741565497329637,
+      1.351019340807318
+    ],
+    "iteration_final_SSR": 1.5961102210819503e-16
   }
 ]

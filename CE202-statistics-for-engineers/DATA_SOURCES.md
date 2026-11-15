@@ -4,6 +4,6 @@
 
 새 정리본: 주차별 CE202_WXX.xlsx·.ipynb, week13/data/anova_slide_jamovi.csv. 원본 표의 수치 전사와 명시된 추가 예제·모수 실험 포함. 새 노트북의 각 절에 원본·변형 구분 표시
 
-원본의 성별 집단 자료는 수치만 포함. 이름·학번 없음. 원본에 없는 측정 단위·모집단 범위·인과 관계를 임의로 추가하지 않음. [ANOVA 불일치와 선택 근거](DATA_RECONCILIATION.md) 참고
+원본의 성별 집단 자료는 수치만 포함. 이름·학번 없음. 원본에 없는 측정 단위·모집단 범위·인과 관계를 임의로 추가하지 않음.
 
 공식 도구 안내: [Colab](https://colab.research.google.com/) · [SciPy 통계](https://docs.scipy.org/doc/scipy/reference/stats.html) · [jamovi](https://www.jamovi.org/)

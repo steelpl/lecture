@@ -11,4 +11,4 @@
 
 공식 안내: [Google Colab FAQ](https://research.google.com/colaboratory/faq.html) · [Python 자료형](https://docs.python.org/3/library/stdtypes.html) · [NumPy](https://numpy.org/doc/stable/) · [SciPy](https://docs.scipy.org/doc/scipy/)
 
-입력·반올림·방법 정의의 차이는 [자료 대조 기록](DATA_RECONCILIATION.md) 참고. 실습 데이터를 이름·학번·시험·성적 자료로 확장하지 않음
+자료의 입력값·단위·방법 정의를 확인한 뒤 계산. 반올림은 결과 표시 단계에서 적용
