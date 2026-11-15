@@ -1,6 +1,7 @@
 # 2주차 · Python 시작 및 Google Colab
 
 공학프로그래밍입문
+
 ## 실습 자료
 
 지정된 로컬 폴더와 해당 주차 PPTX에서 별도 실습 노트북·Excel 파일 또는 다운로드 링크를 미확인. 강의록을 기준으로 주차 폴더를 마련했으며, 자료 확보 시 이 폴더에 추가
@@ -9,14 +10,5 @@
 
 - [Colab 시작](https://colab.research.google.com/)
 - [공식 Markdown 연습 노트북](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
-
-## 병행 슬라이드
-
-공통 슬라이드 파일명과 차시 연결. 실제 원본 출처·해시는 과목의 provenance 폴더와 자료 manifest 참고. 슬라이드 파일은 로컬에서 관리
-
-- `CE100_W02a_BeginPython.pptx`
-- `CE100_W02b_Colab.pptx`
-
-공통 슬라이드의 기존 페이지 번호 유지. 마지막 페이지에서 실습 연결. [학기 운영안내](../../CURRENT_OFFERING.md)
 
 [강의 전체 실습 목록](../README.md)

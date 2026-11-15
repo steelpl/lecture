@@ -1,7 +1,5 @@
 # 자료 출처·구분
 
-강의 기준: 교수자 제공 2026학년도 공학통계학 강의 PPTX 28개. 2027 개편본과 기존 페이지 번호로 연결. PPTX·개인 명단은 공개 저장소 배포 대상에서 제외
-
 원본 보존: week02/data/Wk2b_Dispersion.xlsx, week13/data/Wk13b_ANOVA.xlsx·.omv·.zip. SHA-256은 DATA_SOURCES.json 참고. ZIP 내부 두 파일과 별도 원본의 바이트 일치 확인
 
 새 정리본: 주차별 CE202_WXX.xlsx·.ipynb, week13/data/anova_slide_jamovi.csv. 원본 표의 수치 전사와 명시된 추가 예제·모수 실험 포함. 새 노트북의 각 절에 원본·변형 구분 표시
