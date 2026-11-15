@@ -37,7 +37,7 @@ python tools/semester.py --config offerings/<새 학기>/semester.json --activat
 Windows와 PowerPoint에서 기존 개편본을 한 번 가져오기. 원본 학기 폴더는 이력으로 보존
 
 ```text
-python tools/course_master.py --source-root "기존 개편본의 학기 폴더" --destination "C:\Users\seokh\OneDrive\02.수업\강의자료" --export-pdf
+python tools/course_master.py --source-root "기존 개편본의 학기 폴더" --destination "C:\Users\seokh\OneDrive\02.수업\강의자료"
 ```
 
 공통본 구조:
@@ -49,7 +49,6 @@ python tools/course_master.py --source-root "기존 개편본의 학기 폴더" 
 └── CE100_공학프로그래밍입문/
     ├── 1.강의슬라이드/
     │   ├── CE100_W01a_Intro1.pptx
-    │   ├── CE100_W01a_Intro1.pdf
     │   ├── index.html
     │   └── _master_manifest.json
     └── 2.실습자료/
@@ -59,15 +58,17 @@ python tools/course_master.py --source-root "기존 개편본의 학기 폴더" 
 
 ## 내용 수정 시
 
-공통 PPTX를 직접 수정한 뒤 아래 명령 실행. 바뀐 PPTX의 PDF만 갱신
+공통 PPTX를 직접 수정·화면 검수한 뒤 아래 명령 실행. 목록·관리 기록 갱신, PDF 변환 없음
 
-현재 정리한 로컬 공통 폴더에서는 `PDF_변경분만갱신.cmd` 실행도 가능. `_관리도구`에 저장소 사본과 유지관리 도구 배치
+`_관리도구`에 저장소 사본과 유지관리 도구 배치. 현재 작업은 PPTX 작성·개선 우선. PDF 변환은 교수자 별도 요청 후 일괄 진행
 
 ```text
-python tools/course_master.py --destination "C:\Users\seokh\OneDrive\02.수업\강의자료" --export-pdf
+python tools/course_master.py --destination "C:\Users\seokh\OneDrive\02.수업\강의자료"
 ```
 
-기존 공통 PPTX를 과거 학기 사본으로 덮어쓰지 않음. PDF는 원본 해상도·수식 보존을 위해 PowerPoint 읽기 전용으로 출력, PPTX 재저장 없음
+기존 공통 PPTX를 과거 학기 사본으로 덮어쓰지 않음. 수정 시 원래 그림·수식·배치 보존, 학생 화면에서 과거 자료 대응 번호·관리용 표기 제외
+
+PDF 변환을 요청한 뒤에는 위 명령에 `--export-pdf` 추가. `PDF_변경분만갱신.cmd`도 요청한 변환 작업에만 사용. 원본 해상도·수식 보존을 위해 PowerPoint 읽기 전용 출력, PPTX 재저장 없음. 현재 PPTX에서 생성된 PDF만 목록에 표시
 
 GitHub 실습 변경분을 로컬에 가져올 때는 `--sync-practice` 추가. 마지막으로 가져온 버전과 같은 로컬 파일만 갱신. 직접 수정한 로컬 실습 파일은 유지하고 경로 표시
 
