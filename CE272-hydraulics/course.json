@@ -241,7 +241,7 @@
       "source_sha256": "a783e2ac55683c30a970cbd897f33612b2fe7e1c5d9654a60f59700d21efd379",
       "week": 1,
       "part": "a",
-      "pages": 19,
+      "pages": 18,
       "calendar_slide": 8,
       "kind": "lesson"
     },
@@ -252,7 +252,7 @@
       "source_sha256": "14d44973cfa3cba85e2b719560bb3c1f5f1a24f1be6cfe1d6549580dc909bf70",
       "week": 1,
       "part": "b",
-      "pages": 29,
+      "pages": 28,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -263,7 +263,7 @@
       "source_sha256": "a53110a18d270de2591c3c600a41688dd2dbefcc6a713f4444588e016359746b",
       "week": 2,
       "part": "a",
-      "pages": 36,
+      "pages": 35,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -274,7 +274,7 @@
       "source_sha256": "1afc711ec95f50f35f8ae18712f3e9d16f7be3313697d105b28bbf7d8af825df",
       "week": 2,
       "part": "b",
-      "pages": 32,
+      "pages": 31,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -285,7 +285,7 @@
       "source_sha256": "db7ac79d3984f574e4b1e509f7fc0c1b32ae1ef0cdccef0c4b60bc89ee7b6532",
       "week": 3,
       "part": "a",
-      "pages": 20,
+      "pages": 19,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -296,7 +296,7 @@
       "source_sha256": "66946bf45db5232f73ba539f6153955f30c9c3a993b597708b285baa2ea4203d",
       "week": 3,
       "part": "b",
-      "pages": 15,
+      "pages": 14,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -307,7 +307,7 @@
       "source_sha256": "0a5be641288115b5e00ecd25ff50a489f827ea9ab2443f92ee10bb1c43cec413",
       "week": 4,
       "part": "a",
-      "pages": 16,
+      "pages": 15,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -318,7 +318,7 @@
       "source_sha256": "0c5c799ae33ddfdf5be466c2fa5b5f412a97397a177bcce77bf90552c080c7a8",
       "week": 4,
       "part": "b",
-      "pages": 23,
+      "pages": 22,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -329,7 +329,7 @@
       "source_sha256": "685b7e60f12a2323ec426ee03bcaa5c07cbc1eb8f2d5ad52e0b93e16350d6824",
       "week": 5,
       "part": "a",
-      "pages": 27,
+      "pages": 26,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -340,7 +340,7 @@
       "source_sha256": "a0126da6beec239b407606b911ef15eec9ff6949c1f030cb65bdda98eba4c33a",
       "week": 5,
       "part": "b",
-      "pages": 18,
+      "pages": 17,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -351,7 +351,7 @@
       "source_sha256": "4f71862c184a91eb099b18ea6fd914254ca37cce747e550228589d91c6212b91",
       "week": 6,
       "part": "a",
-      "pages": 6,
+      "pages": 5,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -362,7 +362,7 @@
       "source_sha256": "81a672a0136a1f80741129c48f308e094bf16deee5cc28042e9f483142ab69d1",
       "week": 7,
       "part": "a",
-      "pages": 23,
+      "pages": 22,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -373,7 +373,7 @@
       "source_sha256": "55fe9bfc65410833e1400e27d80af5f335d8191c0d7c2878a9c8249b892ddc8f",
       "week": 8,
       "part": "a",
-      "pages": 17,
+      "pages": 16,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -384,7 +384,7 @@
       "source_sha256": "6f03a5efeea378e36a66c349acc594029cb96c2f7b2fddf1d269d031ea045261",
       "week": 8,
       "part": "b",
-      "pages": 24,
+      "pages": 23,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -395,7 +395,7 @@
       "source_sha256": "6960bec9d4f3a861237bff0e01d1a126bb95112a0d1ae82195a5f165ca359a02",
       "week": 9,
       "part": "a",
-      "pages": 20,
+      "pages": 19,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -406,7 +406,7 @@
       "source_sha256": "fc983f0a93691a79e44848f3d37fad83fdca7a960fe4339b8f5f34d5937c02fe",
       "week": 9,
       "part": "b",
-      "pages": 28,
+      "pages": 27,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -417,7 +417,7 @@
       "source_sha256": "a4a369289c4596310a7115fea011a155fdd119d269597fab2742c6a7710dbcaf",
       "week": 10,
       "part": "a",
-      "pages": 23,
+      "pages": 22,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -428,7 +428,7 @@
       "source_sha256": "44003448f11df5196d1ecce8c790f6c70fdba64f24242e217d3458408d6e1e28",
       "week": 10,
       "part": "b",
-      "pages": 28,
+      "pages": 27,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -439,7 +439,7 @@
       "source_sha256": "b14ab44821e256763746f10940a13ef2904b210b85755cdc85f8d544d966ad0d",
       "week": 10,
       "part": "b",
-      "pages": 7,
+      "pages": 6,
       "calendar_slide": null,
       "kind": "supplement"
     },
@@ -450,7 +450,7 @@
       "source_sha256": "15e9cfa316bffc88bb3bc3998bc45fbed0902726bc0f1597283a0012bc9504de",
       "week": 11,
       "part": "a",
-      "pages": 24,
+      "pages": 23,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -461,7 +461,7 @@
       "source_sha256": "d98fbffa2ba2d2cb2fbea70058099b10e0f55bed9b34b2873bd8680290ac661d",
       "week": 11,
       "part": "b",
-      "pages": 35,
+      "pages": 34,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -472,7 +472,7 @@
       "source_sha256": "2567a499a90031a519170299d9d25fec6041874cce2d9f9ffa2a1b9bea4c6495",
       "week": 12,
       "part": "a",
-      "pages": 13,
+      "pages": 12,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -483,7 +483,7 @@
       "source_sha256": "7d82a480ec99b6b5e6ce9aac45498e8037e692f158811c43a0a996b10b743e5a",
       "week": 12,
       "part": "b",
-      "pages": 24,
+      "pages": 23,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -494,7 +494,7 @@
       "source_sha256": "6acba94b90a164271e133e55fbe7b1395488783263bab9279b3298913c7a5e72",
       "week": 13,
       "part": "a",
-      "pages": 32,
+      "pages": 31,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -505,7 +505,7 @@
       "source_sha256": "84a90dc552c63e85035e170e35e4f61d72e45e98f79299411acb4ea47ffb1e77",
       "week": 13,
       "part": "b",
-      "pages": 24,
+      "pages": 23,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -516,7 +516,7 @@
       "source_sha256": "2f291e2804652da1b6a8c6d99d966d244a0f60f0c6a53aa6c5d440fa62be8ff6",
       "week": 14,
       "part": "a",
-      "pages": 28,
+      "pages": 27,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -527,7 +527,7 @@
       "source_sha256": "9601a6d9661fec4fe981c33a85c12a18cabf51277ce98e3e9812c54cc5624c14",
       "week": 14,
       "part": "b",
-      "pages": 21,
+      "pages": 20,
       "calendar_slide": 2,
       "kind": "lesson"
     },
@@ -538,7 +538,7 @@
       "source_sha256": "a0345033854c5fa7544e93ccc19ddaa5d1a7351c35a8c8b43d9e716df0a7d276",
       "week": 15,
       "part": "a",
-      "pages": 59,
+      "pages": 58,
       "calendar_slide": 2,
       "kind": "lesson"
     }
