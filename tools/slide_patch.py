@@ -180,7 +180,14 @@ def patch_deck(job, plan, archive):
             raw=changes.get(part,old.read(part)).decode('utf-8')
             rid='rIdCurrentPractice';existing_ids=[int(v) for v in re.findall(r'<p:cNvPr\b[^>]*id="(\d+)"',raw)]
             button=shape(dict(text='실습 열기',x=40,y=507,w=220,h=25,size=14,color=BLUE,bold=True,rid=rid),max(existing_ids+[1000])+1,width/780,height/540)
-            raw=raw.replace('</p:spTree>',button+'</p:spTree>');changes[part]=raw.encode('utf-8')
+            raw=raw.replace('</p:spTree>',button+'</p:spTree>')
+            root=re.search(r'<p:sld\b[^>]*>',raw)
+            if root is None:raise ValueError('Slide root missing')
+            opening=root.group()
+            for prefix,uri in [('a',A),('r',R),('p',P)]:
+                if 'xmlns:'+prefix+'=' not in opening:opening=opening[:-1]+' xmlns:'+prefix+'=\"'+uri+'\">'
+            raw=raw[:root.start()]+opening+raw[root.end():]
+            changes[part]=raw.encode('utf-8')
             relpart=posixpath.dirname(part)+'/_rels/'+posixpath.basename(part)+'.rels'
             changes[relpart]=relations(changes.get(relpart,old.read(relpart) if relpart in old.namelist() else None),[(rid,'hyperlink',practical['url'])]).encode('utf-8')
         # PNG default is normally already present; add it only if needed.
