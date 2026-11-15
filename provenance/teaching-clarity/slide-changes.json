@@ -3608,18 +3608,29 @@
             },
             {
               "kind": "text",
-              "text": "입력                 [N, 1, 6, 6]\nConv2d · ReLU    [N, 1, 4, 4]\nMaxPool2d          [N, 1, 2, 2]\nFlatten               [N, 4]\nLinear                [N, 2]",
+              "text": "입력\nConv2d · ReLU\nMaxPool2d\nFlatten\nLinear",
               "x": 65,
               "y": 235,
-              "w": 650,
+              "w": 245,
               "h": 195,
-              "size": 25,
+              "size": 24,
               "font": "Arial",
               "color": "000000"
             },
             {
               "kind": "text",
-              "text": "마지막 두 값: O와 X의 로짓",
+              "text": "[N, 1, 6, 6]\n[N, 1, 4, 4]\n[N, 1, 2, 2]\n[N, 4]\n[N, 2]",
+              "x": 340,
+              "y": 235,
+              "w": 350,
+              "h": 195,
+              "size": 24,
+              "font": "Arial",
+              "color": "000000"
+            },
+            {
+              "kind": "text",
+              "text": "N: 영상 개수 · 마지막 두 값: O와 X의 로짓",
               "x": 40,
               "y": 450,
               "w": 690,

@@ -440,7 +440,7 @@
       "week": 10,
       "part": "b",
       "pages": 6,
-      "calendar_slide": null,
+      "calendar_slide": 0,
       "kind": "supplement"
     },
     {

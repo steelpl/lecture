@@ -43,14 +43,15 @@
   },
   {
     "week": 5,
-    "title": "Taylor 근사와 절단오차",
-    "goal": "남겨 둔 항의 차수와 계산 간격에 따라 근사 오차가 달라지는 원리를 확인",
+    "title": "Taylor 급수의 부분합과 수렴",
+    "goal": "기하급수·지수함수·사인함수를 항 수별로 근사하고 함수값과 비교",
     "sections": [
       "start",
-      "taylor",
-      "step",
       "convergence",
-      "convergence-note"
+      "geometric-note",
+      "taylor",
+      "exp-note",
+      "sin-series"
     ]
   },
   {

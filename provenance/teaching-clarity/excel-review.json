@@ -1,0 +1,196 @@
+[
+  {
+    "file": "CE202-statistics-for-engineers/week01/CE202_W01.xlsx",
+    "sheets": [
+      "실습 안내",
+      "도수표"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week02/CE202_W02.xlsx",
+    "sheets": [
+      "실습 안내",
+      "생산량",
+      "산포"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week06/CE202_W06.xlsx",
+    "sheets": [
+      "실습 안내",
+      "이항분포"
+    ],
+    "formula_errors": [],
+    "ok": true,
+    "binomial_interval_probability": 0.08607466606787106,
+    "changed_p_interval_probability": 0.5913968639999998
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week08/CE202_W08.xlsx",
+    "sheets": [
+      "실습 안내",
+      "정규분포"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week09/CE202_W09.xlsx",
+    "sheets": [
+      "실습 안내",
+      "모든 표본"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week11/CE202_W11.xlsx",
+    "sheets": [
+      "실습 안내",
+      "교육 전후"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week13/CE202_W13.xlsx",
+    "sheets": [
+      "실습 안내",
+      "분산분석"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE202-statistics-for-engineers/week14/CE202_W14.xlsx",
+    "sheets": [
+      "실습 안내",
+      "회귀"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE272-hydraulics/week05/CE272_W05.xlsx",
+    "sheets": [
+      "실습 안내",
+      "병렬관"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE272-hydraulics/week09/CE272_W09.xlsx",
+    "sheets": [
+      "실습 안내",
+      "사다리꼴",
+      "원형 수로"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE272-hydraulics/week10/CE272_W10.xlsx",
+    "sheets": [
+      "실습 안내",
+      "비에너지"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE272-hydraulics/week12/CE272_W12.xlsx",
+    "sheets": [
+      "실습 안내",
+      "조건",
+      "직접축차",
+      "표준축차"
+    ],
+    "formula_errors": [],
+    "goal_seek_depth": 4.001573815801717,
+    "energy_residual": -3.003986659422253e-08,
+    "ok": true
+  },
+  {
+    "file": "CE273-numerical-analysis/week04/CE273_W04.xlsx",
+    "sheets": [
+      "실습 안내",
+      "급수"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE273-numerical-analysis/week08/CE273_W08.xlsx",
+    "sheets": [
+      "실습 안내",
+      "적분"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE273-numerical-analysis/week11/CE273_W11.xlsx",
+    "sheets": [
+      "실습 안내",
+      "이분법"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE273-numerical-analysis/week14/CE273_W14.xlsx",
+    "sheets": [
+      "실습 안내",
+      "h05",
+      "h025"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE387-big-data-analysis/week05/CE387_W05_Rejection.xlsx",
+    "sheets": [
+      "실습 안내",
+      "표본추출",
+      "결과 확인"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE387-big-data-analysis/week06/CE387_W06_MCMC.xlsx",
+    "sheets": [
+      "실습 안내",
+      "Metropolis"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE387-big-data-analysis/week13/CE387_W13_Forward.xlsx",
+    "sheets": [
+      "실습 안내",
+      "순전파",
+      "오차곡선"
+    ],
+    "formula_errors": [],
+    "ok": true
+  },
+  {
+    "file": "CE387-big-data-analysis/week13/CE387_W13_Gradient.xlsx",
+    "sheets": [
+      "실습 안내",
+      "기울기",
+      "갱신"
+    ],
+    "formula_errors": [],
+    "initial_ssr": 100.16882000000003,
+    "updated_ssr": 72.47236881494433,
+    "ok": true
+  }
+]
