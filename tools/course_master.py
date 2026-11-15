@@ -308,14 +308,23 @@ def main():
                     tracked[relative.as_posix()] = sha(dst)
             elif args.sync_practice and tracked.get(relative.as_posix()) != sha(dst):
                 print('로컬 수정본 유지:', dst, flush=True)
+        fresh_pdf = any((slides / entry['file'].replace('.pptx', '.pdf')).exists() and
+                        report['files'].get(entry['file'], {}).get('pdf_from_pptx_sha256') ==
+                        report['files'].get(entry['file'], {}).get('pptx_sha256')
+                        for entry in course['lectures'])
         links = ['<!doctype html><html lang="ko"><meta charset="utf-8"><title>' + course['name'] + '</title>',
                  '<h1>' + course['name'] + ' · 공통 슬라이드</h1>',
                  '<p><a href="' + OPS_URL + '">학기 운영안내: 날짜·수업 방식·평가일</a></p>',
-                 '<table><tr><th>차시</th><th>PPTX</th><th>PDF</th><th>실습</th></tr>']
+                 '<table><tr><th>차시</th><th>PPTX</th>' + ('<th>PDF</th>' if fresh_pdf else '') + '<th>실습</th></tr>']
         for lecture in course['lectures']:
             file = lecture['file']
             week_url = 'https://github.com/steelpl/lecture/tree/main/' + config.parent.name + '/week%02d/' % lecture['week']
-            links.append('<tr><td>' + lecture['id'] + '</td><td><a href="' + file + '">PPTX</a></td><td><a href="' + file.replace('.pptx', '.pdf') + '">PDF</a></td><td><a href="' + week_url + '">주차 실습</a></td></tr>')
+            pdf_cell = ''
+            if fresh_pdf:
+                record = report['files'][file]
+                ready = (slides / file.replace('.pptx', '.pdf')).exists() and record.get('pdf_from_pptx_sha256') == record.get('pptx_sha256')
+                pdf_cell = '<td>' + ('<a href="' + file.replace('.pptx', '.pdf') + '">PDF</a>' if ready else '변환 대기') + '</td>'
+            links.append('<tr><td>' + lecture['id'] + '</td><td><a href="' + file + '">PPTX</a></td>' + pdf_cell + '<td><a href="' + week_url + '">주차 실습</a></td></tr>')
         (slides / 'index.html').write_text('\n'.join(links) + '</table></html>', encoding='utf-8')
         records[str(report_path)] = report
     try:

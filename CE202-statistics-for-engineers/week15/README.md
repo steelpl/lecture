@@ -3,14 +3,12 @@
 학습 주제: 종합 복습 / 기말평가
 
 - [Colab 실습](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE202-statistics-for-engineers/week15/CE202_W15.ipynb) · [노트북](CE202_W15.ipynb)
-- [Excel 실습](CE202_W15.xlsx): 원본 ANOVA·회귀 결과와 검토 기록 연결
+- [Excel 실습](CE202_W15.xlsx): ANOVA·회귀 결과와 검토 기록 연결
 - [학습 방법](../LEARNING_GUIDE.md) · [일정](../../CURRENT_OFFERING.md)
 
-| 셀 | 실습 | 원본 슬라이드 |
-| --- | --- | --- |
-| S01 | 원본 분석을 검토 가능한 보고로 정리 | Wk15a_Review p4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33 / Wk13b_ANOVA p18,24 / Wk14b_Regression p20 |
-
-공통 슬라이드: 같은 주차·차시의 `CE202_W*.pptx` 사용. 기존 페이지 번호 유지, 마지막 페이지의 실습 링크로 이동
+| 실습 |
+| --- |
+| 분석을 검토 가능한 보고로 정리 |
 
 진행: 예측 → 손계산 → 실행 → 조건 변경 → 원리·변경 결과 설명 → 가정·결과·한계 검토
 

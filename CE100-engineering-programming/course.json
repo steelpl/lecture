@@ -239,7 +239,7 @@
       "file": "CE100_W01a_Intro1.pptx",
       "week": 1,
       "part": "a",
-      "pages": 30,
+      "pages": 23,
       "calendar_slide": 23
     },
     {
@@ -247,7 +247,7 @@
       "file": "CE100_W01b_Intro2.pptx",
       "week": 1,
       "part": "b",
-      "pages": 41,
+      "pages": 39,
       "calendar_slide": 2
     },
     {
@@ -255,7 +255,7 @@
       "file": "CE100_W02a_BeginPython.pptx",
       "week": 2,
       "part": "a",
-      "pages": 23,
+      "pages": 19,
       "calendar_slide": 2
     },
     {
@@ -263,7 +263,7 @@
       "file": "CE100_W02b_Colab.pptx",
       "week": 2,
       "part": "b",
-      "pages": 22,
+      "pages": 18,
       "calendar_slide": 2
     },
     {
@@ -271,7 +271,7 @@
       "file": "CE100_W03a_DataType1.pptx",
       "week": 3,
       "part": "a",
-      "pages": 28,
+      "pages": 27,
       "calendar_slide": 2
     },
     {
@@ -279,7 +279,7 @@
       "file": "CE100_W03b_DataType2.pptx",
       "week": 3,
       "part": "b",
-      "pages": 36,
+      "pages": 35,
       "calendar_slide": 2
     },
     {
@@ -287,7 +287,7 @@
       "file": "CE100_W04a_CtrlStatement.pptx",
       "week": 4,
       "part": "a",
-      "pages": 24,
+      "pages": 23,
       "calendar_slide": 2
     },
     {
@@ -295,7 +295,7 @@
       "file": "CE100_W04b_Function.pptx",
       "week": 4,
       "part": "b",
-      "pages": 21,
+      "pages": 20,
       "calendar_slide": 2
     },
     {
@@ -303,7 +303,7 @@
       "file": "CE100_W05a_InOut.pptx",
       "week": 5,
       "part": "a",
-      "pages": 20,
+      "pages": 19,
       "calendar_slide": 2
     },
     {
@@ -311,7 +311,7 @@
       "file": "CE100_W05b_Class.pptx",
       "week": 5,
       "part": "b",
-      "pages": 23,
+      "pages": 22,
       "calendar_slide": 2
     },
     {
@@ -319,7 +319,7 @@
       "file": "CE100_W06a_MdlPackage.pptx",
       "week": 6,
       "part": "a",
-      "pages": 19,
+      "pages": 15,
       "calendar_slide": 2
     },
     {
@@ -327,7 +327,7 @@
       "file": "CE100_W06b_Exception.pptx",
       "week": 6,
       "part": "b",
-      "pages": 16,
+      "pages": 15,
       "calendar_slide": 2
     },
     {
@@ -335,7 +335,7 @@
       "file": "CE100_W07a_Review.pptx",
       "week": 7,
       "part": "a",
-      "pages": 40,
+      "pages": 39,
       "calendar_slide": 2
     },
     {
@@ -343,7 +343,7 @@
       "file": "CE100_W08a_InBuilt1.pptx",
       "week": 8,
       "part": "a",
-      "pages": 15,
+      "pages": 14,
       "calendar_slide": 2
     },
     {
@@ -351,7 +351,7 @@
       "file": "CE100_W08b_InBuilt2.pptx",
       "week": 8,
       "part": "b",
-      "pages": 18,
+      "pages": 17,
       "calendar_slide": 2
     },
     {
@@ -359,7 +359,7 @@
       "file": "CE100_W09a_Lib1.pptx",
       "week": 9,
       "part": "a",
-      "pages": 32,
+      "pages": 31,
       "calendar_slide": 2
     },
     {
@@ -367,7 +367,7 @@
       "file": "CE100_W09b_Lib2_numpy.pptx",
       "week": 9,
       "part": "b",
-      "pages": 6,
+      "pages": 5,
       "calendar_slide": 2
     },
     {
@@ -375,7 +375,7 @@
       "file": "CE100_W10a_Lib3_pandas.pptx",
       "week": 10,
       "part": "a",
-      "pages": 6,
+      "pages": 5,
       "calendar_slide": 2
     },
     {
@@ -383,7 +383,7 @@
       "file": "CE100_W10b_Lib3_matplotlib.pptx",
       "week": 10,
       "part": "b",
-      "pages": 6,
+      "pages": 5,
       "calendar_slide": 2
     },
     {
@@ -391,7 +391,7 @@
       "file": "CE100_W11a_ProgPrtc1.pptx",
       "week": 11,
       "part": "a",
-      "pages": 22,
+      "pages": 21,
       "calendar_slide": 2
     },
     {
@@ -399,7 +399,7 @@
       "file": "CE100_W11b_ProgPrtc2.pptx",
       "week": 11,
       "part": "b",
-      "pages": 23,
+      "pages": 22,
       "calendar_slide": 2
     },
     {
@@ -407,7 +407,7 @@
       "file": "CE100_W12a_ProgPrtc3.pptx",
       "week": 12,
       "part": "a",
-      "pages": 13,
+      "pages": 12,
       "calendar_slide": 2
     },
     {
@@ -415,7 +415,7 @@
       "file": "CE100_W12b_ProgPrtc4.pptx",
       "week": 12,
       "part": "b",
-      "pages": 10,
+      "pages": 9,
       "calendar_slide": 2
     },
     {
@@ -423,7 +423,7 @@
       "file": "CE100_W13a_ProgPrtc5.pptx",
       "week": 13,
       "part": "a",
-      "pages": 14,
+      "pages": 13,
       "calendar_slide": 2
     },
     {
@@ -431,7 +431,7 @@
       "file": "CE100_W13b_RegExp1.pptx",
       "week": 13,
       "part": "b",
-      "pages": 19,
+      "pages": 18,
       "calendar_slide": 2
     },
     {
@@ -439,7 +439,7 @@
       "file": "CE100_W14a_RegExp2.pptx",
       "week": 14,
       "part": "a",
-      "pages": 19,
+      "pages": 18,
       "calendar_slide": 2
     },
     {
@@ -447,7 +447,7 @@
       "file": "CE100_W14b_RegExp3.pptx",
       "week": 14,
       "part": "b",
-      "pages": 21,
+      "pages": 20,
       "calendar_slide": 2
     },
     {
@@ -455,7 +455,7 @@
       "file": "CE100_W15a_Review.pptx",
       "week": 15,
       "part": "a",
-      "pages": 35,
+      "pages": 22,
       "calendar_slide": 2
     }
   ]
