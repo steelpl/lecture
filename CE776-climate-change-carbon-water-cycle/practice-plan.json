@@ -17,7 +17,7 @@
       "week": 4,
       "file": "week04/CE776_W04b_arrays.ipynb",
       "title": "반복·함수·배열",
-      "task": "짝수 제곱, 5×5 배열의 축별 평균",
+      "task": "짝수 제곱·5×5 배열·3×2 행렬 전치·벡터 내적",
       "format": "Colab",
       "optional": true,
       "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week04/CE776_W04b_arrays.ipynb",

@@ -260,7 +260,8 @@ def sync_practice(source, destination, report, archive, update=False):
     destination.mkdir(parents=True, exist_ok=True)
     tracked = report.setdefault('practice', {})
     source_files = {p.relative_to(source).as_posix(): p for p in source.rglob('*')
-                    if p.is_file() and not any(v.startswith('.') for v in p.relative_to(source).parts)}
+                    if p.is_file() and not any(v.startswith('.') for v in p.relative_to(source).parts)
+                    and p.relative_to(source).parts[0] != '_instructor'}
     if update:
         for relative in sorted(set(tracked) - set(source_files)):
             old = destination / relative
