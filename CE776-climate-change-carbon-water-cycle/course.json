@@ -1,0 +1,557 @@
+{
+  "schema_version": 1,
+  "code": "CE776",
+  "name": "Climate Change and Carbon/Water Cycle",
+  "semester": 1,
+  "local_directory": "CE776_기후변화와탄소물순환",
+  "legacy_directory": "3.기후변화_대학원",
+  "material_policy": "rolling",
+  "weeks": [
+    {
+      "week": 1,
+      "sessions": [
+        {
+          "id": "W01a",
+          "topic": "과목 소개·연구 질문",
+          "kind": "lesson"
+        },
+        {
+          "id": "W01b",
+          "topic": "논문 읽기·쓰기 (1)",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "sessions": [
+        {
+          "id": "W02a",
+          "topic": "논문 읽기·쓰기 (2)",
+          "kind": "lesson"
+        },
+        {
+          "id": "W02b",
+          "topic": "수문학의 미해결 문제",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "sessions": [
+        {
+          "id": "W03a",
+          "topic": "물순환·탄소와 물의 연결",
+          "kind": "lesson"
+        },
+        {
+          "id": "W03b",
+          "topic": "에너지 수지·대기 순환",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "sessions": [
+        {
+          "id": "W04a",
+          "topic": "Python·Colab 기초",
+          "kind": "lesson"
+        },
+        {
+          "id": "W04b",
+          "topic": "반복·함수·배열",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "sessions": [
+        {
+          "id": "W05a",
+          "topic": "GEE·지형자료의 구조",
+          "kind": "lesson"
+        },
+        {
+          "id": "W05b",
+          "topic": "반사율과 화면 표시",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "sessions": [
+        {
+          "id": "W06a",
+          "topic": "영역별 통계·해상도",
+          "kind": "lesson"
+        },
+        {
+          "id": "W06b",
+          "topic": "비지도 분류",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "sessions": [
+        {
+          "id": "W07a",
+          "topic": "NDVI 합성과 관측일",
+          "kind": "lesson"
+        },
+        {
+          "id": "W07b",
+          "topic": "지도학습·공간 검증",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "sessions": [
+        {
+          "id": "W08a",
+          "topic": "강수 집계·분포",
+          "kind": "lesson"
+        },
+        {
+          "id": "W08b",
+          "topic": "토지피복 면적·물 지수",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "sessions": [
+        {
+          "id": "W09a",
+          "topic": "수문자료 분석",
+          "kind": "lesson"
+        },
+        {
+          "id": "W09b",
+          "topic": "필수기후변수",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "sessions": [
+        {
+          "id": "W10a",
+          "topic": "원격탐사의 물리적 원리",
+          "kind": "lesson"
+        },
+        {
+          "id": "W10b",
+          "topic": "지표 관측·자료 처리",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "sessions": [
+        {
+          "id": "W11a",
+          "topic": "시스템·수문모형",
+          "kind": "lesson"
+        },
+        {
+          "id": "W11b",
+          "topic": "모형 보정·불확실성",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "sessions": [
+        {
+          "id": "W12a",
+          "topic": "확률분포·최우추정",
+          "kind": "lesson"
+        },
+        {
+          "id": "W12b",
+          "topic": "가설검정·ANOVA",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "sessions": [
+        {
+          "id": "W13a",
+          "topic": "모형 성능·회귀",
+          "kind": "lesson"
+        },
+        {
+          "id": "W13b",
+          "topic": "강수–기온 스케일링",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "sessions": [
+        {
+          "id": "W14a",
+          "topic": "Triple Collocation",
+          "kind": "lesson"
+        },
+        {
+          "id": "W14b",
+          "topic": "오차 분산·MSE·자료 병합",
+          "kind": "lesson"
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "sessions": [
+        {
+          "id": "W15a",
+          "topic": "연구 발표·토론",
+          "kind": "presentation"
+        },
+        {
+          "id": "W15b",
+          "topic": "연구 발표·토론",
+          "kind": "presentation"
+        }
+      ]
+    }
+  ],
+  "lectures": [
+    {
+      "id": "W01a",
+      "file": "CE776_W01a_Intro.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk1a_Intro.pptx",
+      "source_sha256": "38c70488b28d6f9ea49bf4931a5d73acf45d3d7da13b32a36fcf2d5e03fb7d7d",
+      "week": 1,
+      "part": "a",
+      "calendar_slide": 26,
+      "pages": 27,
+      "kind": "lesson"
+    },
+    {
+      "id": "W01b",
+      "file": "CE776_W01b_ScientificWriting1.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk1b_ScientificWriting1.pptx",
+      "source_sha256": "1d99ff65eb16ddd6e57905812cb03050cc4dd1501b976741da38982a438a7a56",
+      "week": 1,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 31,
+      "kind": "lesson"
+    },
+    {
+      "id": "W02a",
+      "file": "CE776_W02a_ScientificWriting2.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk2a_ScientificWriting2.pptx",
+      "source_sha256": "120706fee153c1d1d9c17a9571dfb3c38797402cf763af47fc2ef65136afd45b",
+      "week": 2,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 36,
+      "kind": "lesson"
+    },
+    {
+      "id": "W02b",
+      "file": "CE776_W02b_23UPH.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk2b_23UPH.pptx",
+      "source_sha256": "7543d5f57020269f77e41e021896e0c0bbc86366da09a182b83938b1a1ab76ab",
+      "week": 2,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 30,
+      "kind": "lesson"
+    },
+    {
+      "id": "W03a",
+      "file": "CE776_W03a_WaterCycle1.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk3a_WaterCycle1.pptx",
+      "source_sha256": "703bac0d19628d9ca00bd23ef6002c6624bee326f4acf345e184ad9e9898f446",
+      "week": 3,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 38,
+      "kind": "lesson"
+    },
+    {
+      "id": "W03b",
+      "file": "CE776_W03b_WaterCycle2.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk3b_WaterCycle2.pptx",
+      "source_sha256": "2c23e3fd966a7a1268a9d41ce3c4e4f1f22e681373f0c7f95865621bc6dadf81",
+      "week": 3,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 51,
+      "kind": "lesson"
+    },
+    {
+      "id": "W04a",
+      "file": "CE776_W04a_GEE1.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk4a_GEE1.pptx",
+      "source_sha256": "d46d591e6dbf88fdccf31fa3f0397ce8492b41507db0a9d53999577b3167d732",
+      "week": 4,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 44,
+      "kind": "lesson"
+    },
+    {
+      "id": "W04b",
+      "file": "CE776_W04b_GEE2.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk4b_GEE2.pptx",
+      "source_sha256": "07f1a288254a949ebd2c8f36701773733e098cbdd887de0fd920b0ec6c6d11e8",
+      "week": 4,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 44,
+      "kind": "lesson"
+    },
+    {
+      "id": "W05a",
+      "file": "CE776_W05a_GEE3.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk5a_GEE3.pptx",
+      "source_sha256": "0a47fa79ecac2b13cdb21c74e66d56301e703373a9910fdf5326bf7f6194129f",
+      "week": 5,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 16,
+      "kind": "lesson"
+    },
+    {
+      "id": "W05b",
+      "file": "CE776_W05b_GEE4.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk5b_GEE4.pptx",
+      "source_sha256": "1bb929197edbbffb69ef16881ebb00d012b51016d5025122932df5e61d98a463",
+      "week": 5,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 4,
+      "kind": "lesson"
+    },
+    {
+      "id": "W06a",
+      "file": "CE776_W06a_GEE5.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk6a_GEE5.pptx",
+      "source_sha256": "6c78153fe28da7e1a2cd748e82608632b2cbdd83161ff1f3d6961bb2a015086b",
+      "week": 6,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 4,
+      "kind": "lesson"
+    },
+    {
+      "id": "W06b",
+      "file": "CE776_W06b_GEE6.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk6b_GEE6.pptx",
+      "source_sha256": "51d154f4dbb6db7faaa8a80b322b6968a36a772c5a4eb9fd2c5f7f4b6c6e6ddd",
+      "week": 6,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 4,
+      "kind": "lesson"
+    },
+    {
+      "id": "W07a",
+      "file": "CE776_W07a_GEE7.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk7a_GEE7.pptx",
+      "source_sha256": "f9e772c9dfed4e2697c357104304a33048082fdf40da01adf1967c9ba6f86345",
+      "week": 7,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 4,
+      "kind": "lesson"
+    },
+    {
+      "id": "W07b",
+      "file": "CE776_W07b_GEE8.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk7b_GEE8.pptx",
+      "source_sha256": "51485a99b2103ed8b2cb428b7f5e790d2c2ba23805fb858a747ecc208177574c",
+      "week": 7,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 4,
+      "kind": "lesson"
+    },
+    {
+      "id": "W08a",
+      "file": "CE776_W08a_GEE9.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk8a_GEE9.pptx",
+      "source_sha256": "239377bee86696f36a0c51983e4222673921739c5631b878d4a63b3534856671",
+      "week": 8,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 4,
+      "kind": "lesson"
+    },
+    {
+      "id": "W08b",
+      "file": "CE776_W08b_GEE10.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk8b_GEE10.pptx",
+      "source_sha256": "8c20ffd61032b08a752abc5fa0d94f0d94edb8859e879abcb442a6489ab79cc4",
+      "week": 8,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 4,
+      "kind": "lesson"
+    },
+    {
+      "id": "W09a",
+      "file": "CE776_W09a_HydroDataAnalysis.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk9a_HydroDataAnalysis .pptx",
+      "source_sha256": "01b2ae63a7b36ef0d5b0c475b50d2e186ec095779ad893399a32f1e800987882",
+      "week": 9,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 40,
+      "kind": "lesson"
+    },
+    {
+      "id": "W09b",
+      "file": "CE776_W09b_ECV.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk9b_ECV.pptx",
+      "source_sha256": "3c491dce2d46f9cdd2f72b2f7985a3800bc57d44ef2ec5c1e240d394e3910adb",
+      "week": 9,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 70,
+      "kind": "lesson"
+    },
+    {
+      "id": "W10a",
+      "file": "CE776_W10a_RSE1.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk10a_RSE1.pptx",
+      "source_sha256": "0089efdb1d645181ea946bc8947647714f5b97f73da9b628c37068f09715df2d",
+      "week": 10,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 34,
+      "kind": "lesson"
+    },
+    {
+      "id": "W10b",
+      "file": "CE776_W10b_RSE2.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk10b_RSE2.pptx",
+      "source_sha256": "4a2c4ce8d33ab49660fd26583c1007581bfc731ec954cfa7ff5fc10862af372c",
+      "week": 10,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 41,
+      "kind": "lesson"
+    },
+    {
+      "id": "W11a",
+      "file": "CE776_W11a_Modelling1.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk11a_Modelling1.pptx",
+      "source_sha256": "4ba4cd8231a59e478f0b1d167704ee85e3a5a0dcec6b6a8f12ae89509bf1c77f",
+      "week": 11,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 40,
+      "kind": "lesson"
+    },
+    {
+      "id": "W11b",
+      "file": "CE776_W11b_Modelling2.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk11b_Modelling2.pptx",
+      "source_sha256": "7eb5fc1c2a593e77883be0784ac943ae8c833bbfff0d6374f35e244c24f4c9ef",
+      "week": 11,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 43,
+      "kind": "lesson"
+    },
+    {
+      "id": "W12a",
+      "file": "CE776_W12a_StatisticalAnalysis1.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk12a_StatisticalAnalysis1.pptx",
+      "source_sha256": "5938faa8c7a79af5cc3afd8f349034035602c6365c174f9bda91dc783f8aea3d",
+      "week": 12,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 35,
+      "kind": "lesson"
+    },
+    {
+      "id": "W12b",
+      "file": "CE776_W12b_StatisticalAnalysis2.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk12b_StatisticalAnalysis2.pptx",
+      "source_sha256": "a0ba63ef7e418472f59b3ad09a364f296f53af535ead3c3bb87fc31adf51e7d5",
+      "week": 12,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 36,
+      "kind": "lesson"
+    },
+    {
+      "id": "W13a",
+      "file": "CE776_W13a_StatisticalAnalysis3.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk13a_StatisticalAnalysis3.pptx",
+      "source_sha256": "b8bb584d6c7366eb0e04308deecfdee74dee3454491182efbde649c6ee3527a7",
+      "week": 13,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 34,
+      "kind": "lesson"
+    },
+    {
+      "id": "W13b",
+      "file": "CE776_W13b_ScalingAnalysis.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk13b_ScalingAnalysis.pptx",
+      "source_sha256": "0068eca537949d26240155952586afbe48360d3bc66d1056200f20eec6f2eece",
+      "week": 13,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 39,
+      "kind": "lesson"
+    },
+    {
+      "id": "W14a",
+      "file": "CE776_W14a_TC1.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk14a_TC1.pptx",
+      "source_sha256": "05ed0e362782803d2a3bc303c636705acba733839e05ef3db15c39404abac1da",
+      "week": 14,
+      "part": "a",
+      "calendar_slide": 2,
+      "pages": 27,
+      "kind": "lesson"
+    },
+    {
+      "id": "W14b",
+      "file": "CE776_W14b_TC2.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk14b_TC2.pptx",
+      "source_sha256": "e60c17d70d7e890698fc633d4a575293eac592fa00f3a673eb31bda0ae212b67",
+      "week": 14,
+      "part": "b",
+      "calendar_slide": 2,
+      "pages": 26,
+      "kind": "lesson"
+    },
+    {
+      "id": "W15a",
+      "file": "CE776_W15_Presentation.pptx",
+      "source_file": "2025_S1_ClimateWater_Wk15_Presentation.pptx",
+      "source_sha256": "3e3200a927a0669ece278c670512d16b5bdc26ece37e06fa2fed2ee8c3aa4b39",
+      "week": 15,
+      "part": "",
+      "calendar_slide": 2,
+      "pages": 4,
+      "kind": "presentation"
+    }
+  ]
+}

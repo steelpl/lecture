@@ -1,0 +1,261 @@
+{
+  "course": "CE776",
+  "purpose": "기후·탄소·물순환의 과학적 원리, 관측자료 처리 가정, 모형과 통계의 해석. 대학원 연구의 재현성과 한계 판단",
+  "selection": "학습 질문에 필요한 경우만 실습. Python 기초와 분위회귀 대안은 선택. AI 에이전트 사용이 과목의 목표가 아니며 AI 활용은 선택적 구현·문장 교정 지원",
+  "activities": [
+    {
+      "week": 4,
+      "file": "week04/CE776_W04a_python.ipynb",
+      "title": "Python 기초",
+      "task": "a=3, b=4와 문자열·리스트의 연산·선택",
+      "format": "Colab",
+      "optional": true,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week04/CE776_W04a_python.ipynb",
+      "session": "W04a"
+    },
+    {
+      "week": 4,
+      "file": "week04/CE776_W04b_arrays.ipynb",
+      "title": "반복·함수·배열",
+      "task": "짝수 제곱, 5×5 배열의 축별 평균",
+      "format": "Colab",
+      "optional": true,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week04/CE776_W04b_arrays.ipynb",
+      "session": "W04b"
+    },
+    {
+      "week": 5,
+      "file": "week05/CE776_W05a_dem.ipynb",
+      "title": "지형자료는 어떤 자료인가?",
+      "task": "서울 주변 SRTM의 높이 지도와 영역 평균 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week05/CE776_W05a_dem.ipynb",
+      "session": "W05a"
+    },
+    {
+      "week": 5,
+      "file": "week05/CE776_W05b_reflectance.ipynb",
+      "title": "반사율과 화면 색은 같은가?",
+      "task": "같은 Landsat 영상의 표시 범위를 바꾸고 영역 평균과 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week05/CE776_W05b_reflectance.ipynb",
+      "session": "W05b"
+    },
+    {
+      "week": 6,
+      "file": "week06/CE776_W06a_zonal.ipynb",
+      "title": "평균 높이는 영역과 해상도에 따라 어떻게 달라지는가?",
+      "task": "평지·산지 두 영역에서 30 m·300 m 평균 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week06/CE776_W06a_zonal.ipynb",
+      "session": "W06a"
+    },
+    {
+      "week": 6,
+      "file": "week06/CE776_W06b_clusters.ipynb",
+      "title": "영상의 군집은 토지피복인가?",
+      "task": "같은 반사율 합성에서 군집 수 4·6 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week06/CE776_W06b_clusters.ipynb",
+      "session": "W06b"
+    },
+    {
+      "week": 7,
+      "file": "week07/CE776_W07a_ndvi.ipynb",
+      "title": "가장 푸른 영상은 하루의 모습인가?",
+      "task": "NDVI 최대 합성과 픽셀별 관측일을 나란히 확인",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week07/CE776_W07a_ndvi.ipynb",
+      "session": "W07a"
+    },
+    {
+      "week": 7,
+      "file": "week07/CE776_W07b_classification.ipynb",
+      "title": "분류 결과를 무엇과 비교하는가?",
+      "task": "서쪽 영역 학습 → 동쪽 영역 검증, 오차행렬 해석",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week07/CE776_W07b_classification.ipynb",
+      "session": "W07b"
+    },
+    {
+      "week": 8,
+      "file": "week08/CE776_W08a_precipitation.ipynb",
+      "title": "일강수로 연강수 지도를 어떻게 만드는가?",
+      "task": "2020년 일자료 수 확인 → 연합계 → 지역 분포 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week08/CE776_W08a_precipitation.ipynb",
+      "session": "W08a"
+    },
+    {
+      "week": 8,
+      "file": "week08/CE776_W08b_landcover.ipynb",
+      "title": "토지피복의 면적은 어떻게 계산하는가?",
+      "task": "WorldCover의 범주별 면적과 물·도시·수목 비율 계산",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week08/CE776_W08b_landcover.ipynb",
+      "session": "W08b"
+    },
+    {
+      "week": 8,
+      "file": "week08/CE776_W08b_water.ipynb",
+      "title": "물 지수의 기준값을 바꾸면 무엇이 달라지는가?",
+      "task": "한강 주변 MNDWI 기준값 0·0.2의 면적과 장기 물 출현율 비교",
+      "format": "Colab",
+      "optional": false,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week08/CE776_W08b_water.ipynb",
+      "session": "W08b"
+    },
+    {
+      "week": 11,
+      "file": "week11/CE776_W11b_MonteCarlo.xlsx",
+      "title": "Monte Carlo",
+      "task": "버스를 놓칠 확률: 독립 난수 → 여유시간 → 음수 비율",
+      "format": "Excel",
+      "optional": false,
+      "url": "https://github.com/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week11/CE776_W11b_MonteCarlo.xlsx",
+      "session": "W11b"
+    },
+    {
+      "week": 12,
+      "file": "week12/CE776_W12b_ANOVA.xlsx",
+      "title": "ANOVA",
+      "task": "원자료 3집단의 제곱합·자유도·F·오른쪽 꼬리 p 계산",
+      "format": "Excel",
+      "optional": false,
+      "url": "https://github.com/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week12/CE776_W12b_ANOVA.xlsx",
+      "session": "W12b"
+    },
+    {
+      "week": 13,
+      "file": "week13/CE776_W13b_Scaling.xlsx",
+      "title": "강수–기온 분위회귀",
+      "task": "102개 자료로 분위별 기울기·민감도 비교",
+      "format": "Excel",
+      "optional": false,
+      "url": "https://github.com/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week13/CE776_W13b_Scaling.xlsx",
+      "session": "W13b"
+    },
+    {
+      "week": 13,
+      "file": "week13/CE776_W13b_quantile.ipynb",
+      "title": "분위회귀 Solver 대안",
+      "task": "Excel과 같은 자료·목적함수를 선형계획법으로 계산",
+      "format": "Colab",
+      "optional": true,
+      "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week13/CE776_W13b_quantile.ipynb",
+      "session": "W13b"
+    },
+    {
+      "week": 14,
+      "file": "week14/CE776_W14b_DataMerging.xlsx",
+      "title": "TC·자료 병합",
+      "task": "합성 참값으로 TC 가정·EV 가중치·참값 MSE 비교",
+      "format": "Excel",
+      "optional": false,
+      "url": "https://github.com/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week14/CE776_W14b_DataMerging.xlsx",
+      "session": "W14b"
+    }
+  ],
+  "lecture_bindings": {
+    "CE776_W04a_GEE1.pptx": [
+      {
+        "text": "Python 기초 (선택)",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week04/CE776_W04a_python.ipynb"
+      }
+    ],
+    "CE776_W04b_GEE2.pptx": [
+      {
+        "text": "반복·함수·배열 (선택)",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week04/CE776_W04b_arrays.ipynb"
+      }
+    ],
+    "CE776_W05a_GEE3.pptx": [
+      {
+        "text": "지형자료는 어떤 자료인가?",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week05/CE776_W05a_dem.ipynb"
+      }
+    ],
+    "CE776_W05b_GEE4.pptx": [
+      {
+        "text": "반사율과 화면 색은 같은가?",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week05/CE776_W05b_reflectance.ipynb"
+      }
+    ],
+    "CE776_W06a_GEE5.pptx": [
+      {
+        "text": "평균 높이는 영역과 해상도에 따라 어떻게 달라지는가?",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week06/CE776_W06a_zonal.ipynb"
+      }
+    ],
+    "CE776_W06b_GEE6.pptx": [
+      {
+        "text": "영상의 군집은 토지피복인가?",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week06/CE776_W06b_clusters.ipynb"
+      }
+    ],
+    "CE776_W07a_GEE7.pptx": [
+      {
+        "text": "가장 푸른 영상은 하루의 모습인가?",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week07/CE776_W07a_ndvi.ipynb"
+      }
+    ],
+    "CE776_W07b_GEE8.pptx": [
+      {
+        "text": "분류 결과를 무엇과 비교하는가?",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week07/CE776_W07b_classification.ipynb"
+      }
+    ],
+    "CE776_W08a_GEE9.pptx": [
+      {
+        "text": "일강수로 연강수 지도를 어떻게 만드는가?",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week08/CE776_W08a_precipitation.ipynb"
+      }
+    ],
+    "CE776_W08b_GEE10.pptx": [
+      {
+        "text": "토지피복의 면적은 어떻게 계산하는가?",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week08/CE776_W08b_landcover.ipynb"
+      },
+      {
+        "text": "물 지수의 기준값을 바꾸면 무엇이 달라지는가?",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week08/CE776_W08b_water.ipynb"
+      }
+    ],
+    "CE776_W11b_Modelling2.pptx": [
+      {
+        "text": "Monte Carlo",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week11/CE776_W11b_MonteCarlo.xlsx"
+      }
+    ],
+    "CE776_W12b_StatisticalAnalysis2.pptx": [
+      {
+        "text": "ANOVA",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week12/CE776_W12b_ANOVA.xlsx"
+      }
+    ],
+    "CE776_W13b_ScalingAnalysis.pptx": [
+      {
+        "text": "강수–기온 분위회귀",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week13/CE776_W13b_Scaling.xlsx"
+      },
+      {
+        "text": "분위회귀 Solver 대안 (선택)",
+        "url": "https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week13/CE776_W13b_quantile.ipynb"
+      }
+    ],
+    "CE776_W14b_TC2.pptx": [
+      {
+        "text": "TC·자료 병합",
+        "url": "https://github.com/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week14/CE776_W14b_DataMerging.xlsx"
+      }
+    ]
+  }
+}

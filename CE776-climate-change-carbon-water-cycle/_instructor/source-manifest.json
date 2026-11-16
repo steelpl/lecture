@@ -1,0 +1,218 @@
+{
+  "slide_sources": [
+    {
+      "file": "2025_S1_ClimateWater_Wk1a_Intro.pptx",
+      "sha256": "38c70488b28d6f9ea49bf4931a5d73acf45d3d7da13b32a36fcf2d5e03fb7d7d",
+      "pages": 27
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk1b_ScientificWriting1.pptx",
+      "sha256": "1d99ff65eb16ddd6e57905812cb03050cc4dd1501b976741da38982a438a7a56",
+      "pages": 31
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk2a_ScientificWriting2.pptx",
+      "sha256": "120706fee153c1d1d9c17a9571dfb3c38797402cf763af47fc2ef65136afd45b",
+      "pages": 37
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk2b_23UPH.pptx",
+      "sha256": "7543d5f57020269f77e41e021896e0c0bbc86366da09a182b83938b1a1ab76ab",
+      "pages": 30
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk3a_WaterCycle1.pptx",
+      "sha256": "703bac0d19628d9ca00bd23ef6002c6624bee326f4acf345e184ad9e9898f446",
+      "pages": 36
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk3b_WaterCycle2.pptx",
+      "sha256": "2c23e3fd966a7a1268a9d41ce3c4e4f1f22e681373f0c7f95865621bc6dadf81",
+      "pages": 51
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk4a_GEE1.pptx",
+      "sha256": "d46d591e6dbf88fdccf31fa3f0397ce8492b41507db0a9d53999577b3167d732",
+      "pages": 44
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk4b_GEE2.pptx",
+      "sha256": "07f1a288254a949ebd2c8f36701773733e098cbdd887de0fd920b0ec6c6d11e8",
+      "pages": 44
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk5a_GEE3.pptx",
+      "sha256": "0a47fa79ecac2b13cdb21c74e66d56301e703373a9910fdf5326bf7f6194129f",
+      "pages": 16
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk5b_GEE4.pptx",
+      "sha256": "1bb929197edbbffb69ef16881ebb00d012b51016d5025122932df5e61d98a463",
+      "pages": 4
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk6a_GEE5.pptx",
+      "sha256": "6c78153fe28da7e1a2cd748e82608632b2cbdd83161ff1f3d6961bb2a015086b",
+      "pages": 4
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk6b_GEE6.pptx",
+      "sha256": "51d154f4dbb6db7faaa8a80b322b6968a36a772c5a4eb9fd2c5f7f4b6c6e6ddd",
+      "pages": 4
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk7a_GEE7.pptx",
+      "sha256": "f9e772c9dfed4e2697c357104304a33048082fdf40da01adf1967c9ba6f86345",
+      "pages": 4
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk7b_GEE8.pptx",
+      "sha256": "51485a99b2103ed8b2cb428b7f5e790d2c2ba23805fb858a747ecc208177574c",
+      "pages": 4
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk8a_GEE9.pptx",
+      "sha256": "239377bee86696f36a0c51983e4222673921739c5631b878d4a63b3534856671",
+      "pages": 4
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk8b_GEE10.pptx",
+      "sha256": "8c20ffd61032b08a752abc5fa0d94f0d94edb8859e879abcb442a6489ab79cc4",
+      "pages": 4
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk9a_HydroDataAnalysis .pptx",
+      "sha256": "01b2ae63a7b36ef0d5b0c475b50d2e186ec095779ad893399a32f1e800987882",
+      "pages": 40
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk9b_ECV.pptx",
+      "sha256": "3c491dce2d46f9cdd2f72b2f7985a3800bc57d44ef2ec5c1e240d394e3910adb",
+      "pages": 70
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk10a_RSE1.pptx",
+      "sha256": "0089efdb1d645181ea946bc8947647714f5b97f73da9b628c37068f09715df2d",
+      "pages": 34
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk10b_RSE2.pptx",
+      "sha256": "4a2c4ce8d33ab49660fd26583c1007581bfc731ec954cfa7ff5fc10862af372c",
+      "pages": 41
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk11a_Modelling1.pptx",
+      "sha256": "4ba4cd8231a59e478f0b1d167704ee85e3a5a0dcec6b6a8f12ae89509bf1c77f",
+      "pages": 40
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk11b_Modelling2.pptx",
+      "sha256": "7eb5fc1c2a593e77883be0784ac943ae8c833bbfff0d6374f35e244c24f4c9ef",
+      "pages": 42
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk12a_StatisticalAnalysis1.pptx",
+      "sha256": "5938faa8c7a79af5cc3afd8f349034035602c6365c174f9bda91dc783f8aea3d",
+      "pages": 35
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk12b_StatisticalAnalysis2.pptx",
+      "sha256": "a0ba63ef7e418472f59b3ad09a364f296f53af535ead3c3bb87fc31adf51e7d5",
+      "pages": 36
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk13a_StatisticalAnalysis3.pptx",
+      "sha256": "b8bb584d6c7366eb0e04308deecfdee74dee3454491182efbde649c6ee3527a7",
+      "pages": 34
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk13b_ScalingAnalysis.pptx",
+      "sha256": "0068eca537949d26240155952586afbe48360d3bc66d1056200f20eec6f2eece",
+      "pages": 39
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk14a_TC1.pptx",
+      "sha256": "05ed0e362782803d2a3bc303c636705acba733839e05ef3db15c39404abac1da",
+      "pages": 27
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk14b_TC2.pptx",
+      "sha256": "e60c17d70d7e890698fc633d4a575293eac592fa00f3a673eb31bda0ae212b67",
+      "pages": 26
+    },
+    {
+      "file": "2025_S1_ClimateWater_Wk15_Presentation.pptx",
+      "sha256": "3e3200a927a0669ece278c670512d16b5bdc26ece37e06fa2fed2ee8c3aa4b39",
+      "pages": 4
+    }
+  ],
+  "workbook_sources": [
+    {
+      "file": "Wk10_Modelling_MC_Example.xlsx",
+      "sha256": "4fa6216ea06d80e3678fde94b8baffb28d871c09b84e05e270e9c464ec626aaf"
+    },
+    {
+      "file": "Wk11b_MonteCarlo.xlsx",
+      "sha256": "942cc603dbd94e619302c1314256310317f033b50270a6a2ba101ec54b411c8d"
+    },
+    {
+      "file": "Wk12b_ANOVA.xlsx",
+      "sha256": "117888610cef0d11c8c4b485ad99e094f0a87d59038d907619e2c3a43fa224ca"
+    },
+    {
+      "file": "Wk13b_ScalingAnalysis.xlsx",
+      "sha256": "59870a5893f96d8f11522b915262f147470e2792a43a7bae59ae1426e64526c7"
+    },
+    {
+      "file": "Wk14b_DataMerging.xlsx",
+      "sha256": "8ea88fccc5825939542de848dcd14e3dcb9204ad437f6c9cff454c9a815b14c3"
+    }
+  ],
+  "notebook_sources": [
+    {
+      "file": "geemap_tutorial_1.ipynb",
+      "sha256": "609df42ae65371cad68b9890d0340cb0c7a6fd59a06836fdc22720b2783593f5",
+      "source": "https://colab.research.google.com/drive/1pGuaRu5jPBRR3l8NjBYSlV79nhtnwDEp"
+    },
+    {
+      "file": "geemap_tutorial_2.ipynb",
+      "sha256": "2e7ba5f9ba0f9b29410b96b4b37f772a467b97083d627be6ef18b2a8a4862021",
+      "source": "https://colab.research.google.com/drive/1hUHhJmitTl84T-R6SWu9EoB4F25yFPmT"
+    },
+    {
+      "file": "geemap_tutorial_3.ipynb",
+      "sha256": "2b294877b58956102084cbf0b8bb1e719303dc7fe1c39b6ca230f758cf6fc727",
+      "source": "https://colab.research.google.com/drive/1U3fSIyJWRL70Lh8im1dw3ZIA5T9z4-hL"
+    },
+    {
+      "file": "geemap_tutorial_4.ipynb",
+      "sha256": "9331aee08fb902a6189c99165653052063f9bd9c7c7cc194bf512ca898952168",
+      "source": "https://colab.research.google.com/drive/1M-4yKsUvc_x6qbJGcnz_oiMP4lCDHz2B"
+    },
+    {
+      "file": "geemap_tutorial_5.ipynb",
+      "sha256": "a24bbe9028db31eaba90223e2349c36cdbb8e0b10f5ed74fd3470da2dc9cc485",
+      "source": "https://colab.research.google.com/drive/1aTIM0lbeFV53h7AFZ347_oVwh6uOs16q"
+    },
+    {
+      "file": "geemap_tutorial_6.ipynb",
+      "sha256": "0d5dd65b1f380210bab9141d3dfa05e2c40044955542b4e85586c04c4a888382",
+      "source": "https://colab.research.google.com/drive/12yM2BuAYATFGxsGGe1VsCNRz9DSB8b0J"
+    },
+    {
+      "file": "geemap_tutorial_7.ipynb",
+      "sha256": "89eb872b9b7bd4024cc16be0dd44795ba9ee4818ced33f7f472f091727543a15",
+      "source": "https://colab.research.google.com/drive/1Z1-8LzRXrh6xXvXUIiEr-51bRMldM-Qy"
+    },
+    {
+      "file": "geemap_tutorial_8.ipynb",
+      "sha256": "dd747a27190b99f85d06f497ab8260c0ca809c1023e26e19523f91e6a348d320",
+      "source": "https://colab.research.google.com/drive/1snBeyzWL2_ckWjE4CC0RYv5qOjwuLJwh"
+    },
+    {
+      "file": "geemap_tutorial_9.ipynb",
+      "sha256": "7eac3d9a716bb7394df08130affffb9c23b7163d4eda8b21118de158022e9aea",
+      "source": "https://colab.research.google.com/drive/1a-9pZvz0ens5oo1DfdglD7k9sDs2njx3"
+    }
+  ]
+}

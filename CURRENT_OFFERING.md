@@ -7,3 +7,5 @@
 운영 일정 미등록 과목: 날짜·요일·평가 운영 확정 후 별도 등록
 
 - [CE272 · 수리학 공통 학습 계획](CE272-hydraulics/COURSE_PLAN.md)
+
+- [CE776 · 공통 학습 계획](CE776-climate-change-carbon-water-cycle/COURSE_PLAN.md) — 수업 요일·시간·제출일 미정
