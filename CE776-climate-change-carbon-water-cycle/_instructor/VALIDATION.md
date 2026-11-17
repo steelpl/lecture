@@ -1,14 +1,14 @@
-# 검수 범위와 결과
+# Validation scope and results
 
-- 원본 PPTX 29개·812쪽 전체 화면 검토. 공통본 29개·813쪽: 기존 서식·그림 유지, 관련 없는 소개 한 쪽 제외, 탄소–물 연결 두 쪽 추가
-- PowerPoint에서 전 파일 열기·페이지 수·화면 출력 확인. 수정된 177쪽과 수식·가설·문제 조건·실습 접근 버튼 대조. 후속 미세 조정은 해당 페이지 재출력으로 확인
-- 수정 수식·표의 호환 표시 이미지 54개를 현재 PowerPoint 출력으로 갱신. 원본 그림·차트·삽입 자료의 바이트 보존
-- Excel 4개 실제 재계산·입력 변경 검사 통과. ANOVA F·p, 분위회귀 기울기·손실, TC 가중치·MSE를 독립 계산과 대조. 제공된 관측값·합성 자료와 날짜 보존
-- 노트북 12개 형식·구문 검사. Python 기초·배열·분위회귀의 로컬 계산 실행 확인. 저장 파일은 실행 출력 없는 배포용 상태
-- Earth Engine API 1.7.52의 공식 알고리즘 목록으로 계산 구성 18셀·객체 54개 직렬화 확인. 자료 ID·밴드·단위·배율·QA는 공식 카탈로그와 대조
-- Earth Engine의 인증된 실제 자료 조회·지도 실행은 미실시. 등록된 개인 Cloud 프로젝트에서 실행 필요. 오프라인 SDK 검증을 서버 실행으로 표시하지 않음
-- 학기 운영 변경 시 공통 학습자료가 바뀌지 않는 기존 유지관리 검사 6개 통과. CE776 일정은 미정으로 유지
+- Original 29 PPTX files and 812 pages visually reviewed. The common set has 29 PPTX files and 813 pages: one unrelated page removed and two carbon–water pages added, with original styles and figures retained.
+- Every common deck opened in PowerPoint. The earlier content review checked 177 changed pages, equations, hypotheses, problem conditions and practice links. Later refinements were re-exported for inspection.
+- The earlier content review refreshed 54 math/table compatibility images using PowerPoint output. Original media, charts and embedded source data were preserved.
+- Four workbooks passed native Excel recalculation and input-change checks. ANOVA F and p, quantile slopes and loss, TC weights and MSE were compared with independent calculations. Source observations, synthetic data and dates were preserved.
+- Twelve notebooks passed format and syntax checks. Local Python, array and quantile-regression calculations were executed. Distributed notebooks contain no saved execution outputs.
+- Official Earth Engine API 1.7.52 algorithms were used to serialize 18 graph cells and 54 objects. Dataset IDs, bands, units, scaling and QA were checked against official catalogs.
+- Authenticated Earth Engine queries and map execution were not run. They require a registered personal Cloud project. Offline SDK validation is not server execution.
+- Six existing maintenance checks passed, including confirmation that semester operations do not rewrite learning materials. CE776 dates and times remain unconfirmed.
 
-기준 계산: Monte Carlo 버스를 놓칠 확률 0.244037, ANOVA Example1 F=10.215750·p=0.008394, 분위회귀 p=.99 민감도 약 6.7933%/K, 자료 병합 원척도 MSE=0.507286·공통척도 MSE=1.318346
+Reference calculations: missed-bus probability 0.244037; ANOVA Example1 F=10.215750 and p=0.008394; p=.99 quantile sensitivity approximately 6.7933%/K; raw-scale merged MSE=0.507286 and common-scale merged MSE=1.318346.
 
-관측 사례 연도·원본 해시·검수 시점은 관리 이력. 수업 연도 표식과 구분. PDF 변환 없음
+The English-medium revision retains code, data, equations and cached workbook calculations. Language and layout checks for the revised files are recorded in the local instructor audit folder. Observation years, source hashes and review dates are provenance, not teaching-year branding. No PDF conversion.

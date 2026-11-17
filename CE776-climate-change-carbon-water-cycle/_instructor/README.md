@@ -1,11 +1,13 @@
-# 교수자 관리 기록
+# Instructor records
 
-학생용 학습 경로는 과목 README와 각 실습 안내. 이 폴더는 원본 확인·수정 근거 관리용
+The student learning path starts at the course README and activity guides. This folder records provenance and editorial decisions.
 
-원본 PPTX 29개·812쪽을 기준으로 전체 화면 검토. 예제·그림·단위·수식을 대조. GEE는 기존 노트북 9개의 내용을 분석해 차시별 단일 질문으로 재구성. 짧은 링크 안내만 있는 차시는 원본 제목 틀을 재사용하여 입력·계산·해석 시각화
+All 812 pages in the 29 original PPTX files were visually reviewed, with examples, figures, units and equations checked. Nine original GEE notebooks informed the focused activities. Sessions that previously contained only a tutorial link now show a concrete input → processing → interpretation sequence using the original title layout.
 
-원본 수정 없음. 공통 PPTX는 로컬에서 내용 수정의 기준. 학기 변경을 이유로 원본에서 전체 재생성하지 않음. PDF 변환은 별도 요청 후 진행
+Original files remain unchanged. The local common PPTX files are authoritative for future content edits. A new semester does not require rebuilding slides. PDF conversion remains a separate instructor request.
 
-원본 두 Monte Carlo 파일은 중복 예제. 한 실습으로 통합하고 각 시행의 난수 추출을 공개 수식으로 표시. 나머지 Excel은 원래 자료를 보존하고 목적·조작·해석 안내 추가
+The two original Monte Carlo workbooks used the same bus example and were consolidated into one activity with explicit independent draws. Other workbooks retain their source inputs and add purpose, input and interpretation guidance.
 
-기존 수식의 절댓값·평균 기호는 텍스트 추출에서 누락될 수 있어 실제 화면 확인. 분위회귀 손실의 절댓값·MAD·MAE는 원본이 올바르므로 오류로 처리하지 않음
+Text extraction can omit absolute-value and averaging symbols. Equations were checked in their native structure and visual form. The source quantile-loss, MAD, MAE and eddy-covariance notation was retained where correct.
+
+CE776 is an English-medium course. Student slides, pages, notebook explanations and workbook labels use English. Original paths and filenames remain unchanged in private provenance records.

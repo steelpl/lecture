@@ -1,16 +1,17 @@
-# CE776 내용 검토 기록
+# CE776 content review
 
-학생용 안내와 분리한 교수자 관리 기록
+Instructor records, separate from student guidance.
 
-- 원본: 29개 PPTX·812쪽, Excel 5개, 연결 GEE 노트북 9개. 원본 파일은 수정하지 않음
-- 공통본: 원본 서식·그림·매체 유지, 관련 없는 Caltech 소개 한 쪽 제외. 기공의 탄소–물 연결 두 쪽 추가, 추상적인 보정 설명 한 쪽을 Monte Carlo 예제로 교체
-- 날짜·요일·강의실·제출일·평가 비율: 미정인 학기 운영안내로 분리. 관측·사례·논문 연도는 유지
-- 물리: 대기 수증기 등가 수심 약 25 mm, ET 개념·Penman–Monteith 단위, 복사량 정의·광속·Wien 상수, Darcy 구배, 저류량 물수지 86 mm 등 정정
-- 통계: 가능도와 확률, 중심극한정리의 대상, 첨도와 초과첨도, 모집단 가설·p값·기각 판단, ANOVA 해석, 회귀 방향과 홍수 첨두 설명 정정
-- TC·병합: 역행렬·전치 범위와 대각 원소, 잡음/신호 비, 고유벡터 선택, EV와 MSE의 구분 정정
-- 기존 수식이 올바른 항목: eddy covariance의 시간 평균, MAD·MAE의 절댓값, 분위회귀 손실의 절댓값. 추출 텍스트에서 사라진 기호를 실제 수식 구조와 대조해 보존
-- GEE: 각 차시의 분석 질문으로 범위 축소. 개인 EE 자산·Drive 강제 마운트·자동 내보내기 제외. 비상업 무제한 무료·GPU 12시간 보장 같은 안내 제거
-- 기존 물 분석 노트북의 dB 비율·잘못 명명된 Lee 필터·영구수면 정의를 그대로 이어받지 않음. 본 실습은 반사율 지수와 판별 기준의 의미에 집중
-- Excel: Monte Carlo 원본 두 파일의 같은 예제를 하나로 통합. ANOVA·분위회귀·TC 입력값 보존. 동적 배열 의존 감소, 목적·변경 셀·기대 비교를 안내 시트에 제시
+- Source: 29 PPTX files, 812 pages, five workbooks and nine linked GEE notebooks. Original files remain unchanged.
+- Common slides: preserve original formatting, figures and media; omit an unrelated Caltech introduction, add two carbon–water connection slides, and replace an abstract calibration page with the original Monte Carlo bus example.
+- Dates, times, classroom, deadlines and assessment weights: separate, unconfirmed course information. Observation, example and publication years remain unchanged.
+- Physics corrections: approximately 25 mm atmospheric water-vapor equivalent depth; ET concepts and Penman–Monteith units; radiation definitions, light speed and Wien constant; Darcy gradient; 86 mm water-balance storage change.
+- Statistics corrections: likelihood versus probability, the target of the CLT, kurtosis versus excess kurtosis, population hypotheses, p-values and rejection decisions, ANOVA interpretation, regression direction and flood-peak descriptions.
+- TC and merging corrections: inverse/transpose scope, diagonal entries, noise-to-signal ratio, eigenvector selection, and the distinction between error variance and MSE.
+- Correct source notation retained: time averages in eddy covariance and absolute values in MAD, MAE and quantile loss.
+- GEE: one analysis question per activity; no forced personal-asset access, Drive mount or automatic export. Remove claims of unlimited free noncommercial use or guaranteed 12-hour GPU sessions.
+- Water-index practice does not inherit the source notebook's dB ratio, mislabeled Lee filter or permanent-water definition. It focuses on reflectance indices and thresholds.
+- Excel: consolidate duplicate Monte Carlo examples; retain ANOVA, quantile and TC inputs; reduce dependence on dynamic arrays; explain purpose, editable inputs and expected comparisons in each Guide sheet.
+- English-medium revision: English course pages, questions, notebook messages, workbook tabs and figure labels. Preserve the original slide layout and calculation logic. Clarify legacy speaker notes on passive microwave emission and avoid interpreting CEI=0 as independence without the source definition.
 
-source-manifest.json에 원본 해시·접근 이력 보관. 기존 PPTX·논문 전문·영상은 로컬 원본에서 참고. 학생용 자료에 과거 파일명·PPT 대응 번호 표시하지 않음
+Original hashes and access provenance are in source-manifest.json. Source PPTX, full papers and videos remain local. Student materials omit old filenames and slide-correspondence numbers.

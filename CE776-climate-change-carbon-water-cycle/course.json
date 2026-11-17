@@ -12,12 +12,12 @@
       "sessions": [
         {
           "id": "W01a",
-          "topic": "과목 소개·연구 질문",
+          "topic": "Course introduction and research questions",
           "kind": "lesson"
         },
         {
           "id": "W01b",
-          "topic": "논문 읽기·쓰기 (1)",
+          "topic": "Scientific reading and writing (1)",
           "kind": "lesson"
         }
       ]
@@ -27,12 +27,12 @@
       "sessions": [
         {
           "id": "W02a",
-          "topic": "논문 읽기·쓰기 (2)",
+          "topic": "Scientific reading and writing (2)",
           "kind": "lesson"
         },
         {
           "id": "W02b",
-          "topic": "수문학의 미해결 문제",
+          "topic": "Unsolved problems in hydrology",
           "kind": "lesson"
         }
       ]
@@ -42,12 +42,12 @@
       "sessions": [
         {
           "id": "W03a",
-          "topic": "물순환·탄소와 물의 연결",
+          "topic": "Water cycle and carbon–water connections",
           "kind": "lesson"
         },
         {
           "id": "W03b",
-          "topic": "에너지 수지·대기 순환",
+          "topic": "Energy balance and atmospheric circulation",
           "kind": "lesson"
         }
       ]
@@ -57,12 +57,12 @@
       "sessions": [
         {
           "id": "W04a",
-          "topic": "Python·Colab 기초",
+          "topic": "Python and Colab basics",
           "kind": "lesson"
         },
         {
           "id": "W04b",
-          "topic": "반복·함수·배열",
+          "topic": "Loops, functions and arrays",
           "kind": "lesson"
         }
       ]
@@ -72,12 +72,12 @@
       "sessions": [
         {
           "id": "W05a",
-          "topic": "GEE·지형자료의 구조",
+          "topic": "GEE and elevation data",
           "kind": "lesson"
         },
         {
           "id": "W05b",
-          "topic": "반사율과 화면 표시",
+          "topic": "Reflectance and display",
           "kind": "lesson"
         }
       ]
@@ -87,12 +87,12 @@
       "sessions": [
         {
           "id": "W06a",
-          "topic": "영역별 통계·해상도",
+          "topic": "Zonal statistics and resolution",
           "kind": "lesson"
         },
         {
           "id": "W06b",
-          "topic": "비지도 분류",
+          "topic": "Unsupervised classification",
           "kind": "lesson"
         }
       ]
@@ -102,12 +102,12 @@
       "sessions": [
         {
           "id": "W07a",
-          "topic": "NDVI 합성과 관측일",
+          "topic": "NDVI composites and observation dates",
           "kind": "lesson"
         },
         {
           "id": "W07b",
-          "topic": "지도학습·공간 검증",
+          "topic": "Supervised classification and spatial validation",
           "kind": "lesson"
         }
       ]
@@ -117,12 +117,12 @@
       "sessions": [
         {
           "id": "W08a",
-          "topic": "강수 집계·분포",
+          "topic": "Precipitation totals and distributions",
           "kind": "lesson"
         },
         {
           "id": "W08b",
-          "topic": "토지피복 면적·물 지수",
+          "topic": "Land-cover area and water indices",
           "kind": "lesson"
         }
       ]
@@ -132,12 +132,12 @@
       "sessions": [
         {
           "id": "W09a",
-          "topic": "수문자료 분석",
+          "topic": "Hydrological data analysis",
           "kind": "lesson"
         },
         {
           "id": "W09b",
-          "topic": "필수기후변수",
+          "topic": "Essential Climate Variables",
           "kind": "lesson"
         }
       ]
@@ -147,12 +147,12 @@
       "sessions": [
         {
           "id": "W10a",
-          "topic": "원격탐사의 물리적 원리",
+          "topic": "Physical principles of remote sensing",
           "kind": "lesson"
         },
         {
           "id": "W10b",
-          "topic": "지표 관측·자료 처리",
+          "topic": "Surface observations and data processing",
           "kind": "lesson"
         }
       ]
@@ -162,12 +162,12 @@
       "sessions": [
         {
           "id": "W11a",
-          "topic": "시스템·수문모형",
+          "topic": "Systems and hydrological models",
           "kind": "lesson"
         },
         {
           "id": "W11b",
-          "topic": "모형 보정·불확실성",
+          "topic": "Calibration and uncertainty",
           "kind": "lesson"
         }
       ]
@@ -177,12 +177,12 @@
       "sessions": [
         {
           "id": "W12a",
-          "topic": "확률분포·최우추정",
+          "topic": "Probability distributions and maximum likelihood",
           "kind": "lesson"
         },
         {
           "id": "W12b",
-          "topic": "가설검정·ANOVA",
+          "topic": "Hypothesis testing and ANOVA",
           "kind": "lesson"
         }
       ]
@@ -192,12 +192,12 @@
       "sessions": [
         {
           "id": "W13a",
-          "topic": "모형 성능·회귀",
+          "topic": "Model performance and regression",
           "kind": "lesson"
         },
         {
           "id": "W13b",
-          "topic": "강수–기온 스케일링",
+          "topic": "Precipitation–temperature scaling",
           "kind": "lesson"
         }
       ]
@@ -212,7 +212,7 @@
         },
         {
           "id": "W14b",
-          "topic": "오차 분산·MSE·자료 병합",
+          "topic": "Error variance, MSE and data merging",
           "kind": "lesson"
         }
       ]
@@ -222,12 +222,12 @@
       "sessions": [
         {
           "id": "W15a",
-          "topic": "연구 발표·토론",
+          "topic": "Research presentations and discussion",
           "kind": "presentation"
         },
         {
           "id": "W15b",
-          "topic": "연구 발표·토론",
+          "topic": "Research presentations and discussion",
           "kind": "presentation"
         }
       ]
@@ -553,5 +553,6 @@
       "pages": 4,
       "kind": "presentation"
     }
-  ]
+  ],
+  "language": "en"
 }

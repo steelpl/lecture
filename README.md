@@ -6,6 +6,8 @@
 
 휴일·불가피한 일정은 **온라인 영상강의로 대체**. 모든 과목에 같은 원칙 적용. 문서·슬라이드·노트북 설명은 짧고 자연스러운 한국어로 작성. 연습문제는 완결된 문장, 풀이는 단문 사용. 실습 목적·형식은 과목별 학습 목표에 맞춰 구성. [공통 수업 운영·작성 방침](TEACHING_POLICY.md) 참고
 
+CE776 is taught in English; its course materials and pages use English.
+
 ## 학기와 무관한 공통본
 
 슬라이드·Colab·Excel은 주차별 공통본으로 계속 사용. 날짜·요일·영상강의 대체일·평가 운영은 학기 설정 파일 한 곳에서 관리
@@ -23,7 +25,7 @@
 | CE273 | 수치해석및실습 | Numerical Analysis and Practice | 학부 · 1학기 | [CE273-numerical-analysis](CE273-numerical-analysis/) |
 | CE272 | 수리학 | Hydraulics | 학부 · 2학기 | [CE272-hydraulics](CE272-hydraulics/) |
 | CE387 | 수자원빅데이터분석및실습 | Big Data Analysis and Practice | 학부 · 2학기 | [CE387-big-data-analysis](CE387-big-data-analysis/) |
-| CE776 | — | Climate Change and Carbon/Water Cycle | 대학원 · 1학기 | [학습·실습 자료](CE776-climate-change-carbon-water-cycle/) |
+| CE776 | — | Climate Change and Carbon/Water Cycle | Graduate · Semester 1 · English | [Course materials](CE776-climate-change-carbon-water-cycle/) |
 
 강의 목록과 학기는 [WreBigDL Teaching](https://sites.google.com/view/wrebigdl/teaching) 페이지를 기준으로 정리. CE776의 한글 강의명은 원문에 미기재
 
@@ -38,6 +40,7 @@
 | 수치해석및실습 | 알고리즘·오차·수렴·안정성 이해 | 첫 갱신·반복표, 방법·스텝 비교, 오차·실패 원인·적용 한계 설명 |
 | 수리학 | 보존식·관수로·개수로·상사의 원리 이해와 지식 심화 | 단위·가정·경계조건, 손계산·조건 변경, 보존식 잔차와 모형 한계 설명 |
 | 수자원빅데이터분석및실습 | 자료·확률·행렬·최적화·학습 알고리즘의 원리와 결과 해석 | 작은 예의 계산, 구현·조건 변경, 가정·검증·한계 설명 |
+| CE776 | Research questions, carbon/water cycles, observations, model and statistical assumptions | Reproducible calculations and interpretation of evidence and limitations |
 
 통계학·수치해석·수리학의 코드와 Excel은 원리 탐구를 위한 계산·비교 도구. AI 활용은 개념 학습 후 선택 심화 활동
 

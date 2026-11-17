@@ -8,4 +8,4 @@
 
 - [CE272 · 수리학 공통 학습 계획](CE272-hydraulics/COURSE_PLAN.md)
 
-- [CE776 · 공통 학습 계획](CE776-climate-change-carbon-water-cycle/COURSE_PLAN.md) — 수업 요일·시간·제출일 미정
+- [CE776 · Course information](CE776-climate-change-carbon-water-cycle/CURRENT_OFFERING.md) — Class days, times and deadlines to be announced

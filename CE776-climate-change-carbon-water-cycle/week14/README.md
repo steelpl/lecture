@@ -1,7 +1,7 @@
-# 14주차 · Triple Collocation / 오차 분산·MSE·자료 병합
+# Week 14 · Triple Collocation / Error variance, MSE and data merging
 
-### [TC·자료 병합](https://github.com/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week14/CE776_W14b_DataMerging.xlsx)
+### [TC and data merging](https://github.com/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week14/CE776_W14b_DataMerging.xlsx)
 
-합성 참값으로 TC 가정·EV 가중치·참값 MSE 비교
+Use synthetic truth to examine TC assumptions, EV weights and MSE against truth.
 
-[과목 안내](../README.md) · [학기 운영](../CURRENT_OFFERING.md)
+[Course materials](../README.md) · [Course information](../CURRENT_OFFERING.md)

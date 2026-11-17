@@ -1,11 +1,11 @@
-# 6주차 · 영역별 통계·해상도 / 비지도 분류
+# Week 06 · Zonal statistics and resolution / Unsupervised classification
 
-### [평균 높이는 영역과 해상도에 따라 어떻게 달라지는가?](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week06/CE776_W06a_zonal.ipynb)
+### [How do region and resolution affect mean elevation?](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week06/CE776_W06a_zonal.ipynb)
 
-평지·산지 두 영역에서 30 m·300 m 평균 비교
+Compare means at 30 m and 300 m in lowland and mountain regions.
 
-### [영상의 군집은 토지피복인가?](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week06/CE776_W06b_clusters.ipynb)
+### [Are image clusters land-cover classes?](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week06/CE776_W06b_clusters.ipynb)
 
-같은 반사율 합성에서 군집 수 4·6 비교
+Compare four and six clusters in the same reflectance composite.
 
-[과목 안내](../README.md) · [학기 운영](../CURRENT_OFFERING.md)
+[Course materials](../README.md) · [Course information](../CURRENT_OFFERING.md)

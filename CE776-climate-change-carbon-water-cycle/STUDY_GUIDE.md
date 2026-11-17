@@ -1,17 +1,17 @@
-# 학습 안내
+# Study guide
 
-연구 질문을 자료와 계산으로 좁히는 연습
+Turn a research question into a clear choice of data and calculation.
 
-- 물·에너지·탄소: 저장량과 플럭스, 시간 간격, 단위부터 확인
-- 위성자료: 관측 시점·밴드·단위·마스크·공간 해상도 확인
-- 모형: 상태·입력·매개변수 구분, 보존식과 독립 검증 확인
-- 통계: 모집단에 대한 가설, 표본의 독립성, 효과 크기와 불확실성 확인
-- 자료 병합: 줄이려는 오차가 분산인지 MSE인지 먼저 구분
+- Water, energy and carbon: distinguish stocks from fluxes; check time intervals and units.
+- Satellite data: check observation dates, bands, units, masks and spatial resolution.
+- Models: distinguish states, inputs and parameters; check conservation and independent validation.
+- Statistics: state the population hypothesis; examine independence, effect size and uncertainty.
+- Data merging: identify whether the objective is error variance or mean squared error.
 
-GEE 실습에서는 입력 자료 → 처리 → 지도·요약값을 따라가고 한 가지 조건을 바꿔 비교. 지도 색이나 높은 일치도만으로 물리적 정확성·인과관계 판단 금지
+In GEE, follow inputs → processing → maps and summaries. Change one condition and compare. Map colors or high agreement alone do not establish physical accuracy or causality.
 
-실습 안내의 문제는 완결된 문장. 풀이에는 식·중간 값·단위·해석을 간결하게 기록. 모든 차시에 코드·Excel 제출을 요구하지 않음
+Answer exercise questions with equations, intermediate values, units and a concise interpretation. Code or Excel submissions are not required for every session.
 
-논문·연구 보고서: 질문, 선행연구, 자료와 방법, 결과, 한계와 결론의 흐름. 자료 접근 경로·버전·기간·전처리·코드로 재현 가능성 확보. 관측 결과와 해석·추정 구분
+Structure research reports around the question, prior work, data and methods, results, limitations and conclusions. Record data access, versions, periods, preprocessing and code so that the analysis can be reproduced. Distinguish observations from interpretation and inference.
 
-AI는 선택적 코드·문장 교정 보조. 생성된 수식·인용·자료·결과를 원문과 실행으로 확인. 저자는 자료 사용·분석·서술에 책임. 일괄 AI 사용 기록·확인서 제출은 필수 아님
+AI is an optional aid for code and prose editing. Verify generated equations, citations, data and results against sources and execution. Authors remain responsible for data use, analysis and writing. A standard AI-use checklist is not a required course deliverable.

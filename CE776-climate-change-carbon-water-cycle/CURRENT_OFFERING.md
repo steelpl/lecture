@@ -1,5 +1,9 @@
-# 학기 운영안내
+# Course information
 
-요일·시간·제출일: 미정. 확정 후 [현재 학기 운영안내](../CURRENT_OFFERING.md)에 등록
+Class days, times, classroom, assessment weights and deadlines: **to be announced**.
 
-휴일·불가피한 일정: 해당 차시 온라인 영상강의로 대체
+Dates will be added here when confirmed. Common slides and practice files remain independent of the teaching year.
+
+Holidays or unavoidable schedule conflicts: replace the affected session with an online video lecture while retaining its topic.
+
+[Course plan](COURSE_PLAN.md) · [Course materials](README.md)

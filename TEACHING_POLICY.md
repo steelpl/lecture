@@ -4,7 +4,8 @@
 
 - 휴일 또는 불가피한 일정으로 대면수업이 어려운 경우: **해당 차시를 온라인 영상강의로 대체**
 - 기존 주차·차시·학습 주제 유지. 일정표·슬라이드·실습 안내에 수업 방식 표시
-- 글쓰기: 짧고 자연스러운 한국어. 설명·지시의 맥락에 맞춰 명사형·간결한 서술·질문 사용
+- 한국어 강의 글쓰기: 짧고 자연스러운 한국어. 설명·지시의 맥락에 맞춰 명사형·간결한 서술·질문 사용
+- CE776 is an English-medium course. Use concise, natural English in slides, notebooks, workbooks, figures, exercise questions and course pages; complete-sentence questions and concise worked solutions.
 - 표현 예: `조건을 정한다` → `조건 설정`, `연습을 한다` → `연습`, `실습을 확인한다` → `실습 확인`
 - 문장마다 `~함`을 일괄 적용하지 않고 의미·문맥에 맞춰 마무리
 - 연습문제의 상황·문제·요구사항: 완결된 서술문·지시문. 예: `다음 자료의 범위를 계산하시오.`

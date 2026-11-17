@@ -1,23 +1,23 @@
-# 공통 학습 계획
+# Common course plan
 
-날짜·요일·평가일은 학기 운영안내에서 관리. CE776의 다음 개설 일정은 미정
+Class dates, days and assessment deadlines are managed separately in [course information](CURRENT_OFFERING.md). The next offering is not yet scheduled.
 
-| 주차 | 차시별 주제 | 학습의 중심 |
+| Week | Session topics | Learning focus |
 |---|---|---|
-| 1 | 과목 소개·연구 질문 / 논문 읽기·쓰기 (1) | 연구 질문과 보고서의 구조 |
-| 2 | 논문 읽기·쓰기 (2) / 수문학의 미해결 문제 | 근거를 읽고 미해결 질문 구체화 |
-| 3 | 물순환·탄소와 물의 연결 / 에너지 수지·대기 순환 | 물·에너지·탄소의 저장량·플럭스 구분 |
-| 4 | Python·Colab 기초 / 반복·함수·배열 | 코드의 입력·계산·출력 흐름 |
-| 5 | GEE·지형자료의 구조 / 반사율과 화면 표시 | 자료 단위·QA와 화면 표시 구분 |
-| 6 | 영역별 통계·해상도 / 비지도 분류 | 공간 범위·해상도·군집의 의미 |
-| 7 | NDVI 합성과 관측일 / 지도학습·공간 검증 | 합성 시점·학습과 검증의 차이 |
-| 8 | 강수 집계·분포 / 토지피복 면적·물 지수 | 시간 집계·범주 면적·판별 기준 |
-| 9 | 수문자료 분석 / 필수기후변수 | 기후 변수의 자료 범위와 장기 변화 |
-| 10 | 원격탐사의 물리적 원리 / 지표 관측·자료 처리 | 복사 법칙·밴드·관측 한계 |
-| 11 | 시스템·수문모형 / 모형 보정·불확실성 | 물수지·보정·불확실성의 전달 |
-| 12 | 확률분포·최우추정 / 가설검정·ANOVA | 확률과 가능도·모집단에 대한 가설 |
-| 13 | 모형 성능·회귀 / 강수–기온 스케일링 | 성능 지표와 관측 연관성의 해석 |
-| 14 | Triple Collocation / 오차 분산·MSE·자료 병합 | TC 가정·공통 척도·최적화 목적 |
-| 15 | 연구 발표·토론 / 연구 발표·토론 | 연구 질문·근거·한계의 발표와 토론 |
+| 1 | Course introduction and research questions / Scientific reading and writing (1) | Research questions and report structure |
+| 2 | Scientific reading and writing (2) / Unsolved problems in hydrology | Reading evidence and defining an unresolved question |
+| 3 | Water cycle and carbon–water connections / Energy balance and atmospheric circulation | Stocks and fluxes of water, energy and carbon |
+| 4 | Python and Colab basics / Loops, functions and arrays | Inputs, calculations and outputs in code |
+| 5 | GEE and elevation data / Reflectance and display | Data units, quality flags and display settings |
+| 6 | Zonal statistics and resolution / Unsupervised classification | Spatial extent, resolution and cluster labels |
+| 7 | NDVI composites and observation dates / Supervised classification and spatial validation | Composite dates and the separation of training and validation |
+| 8 | Precipitation totals and distributions / Land-cover area and water indices | Temporal aggregation, class area and decision thresholds |
+| 9 | Hydrological data analysis / Essential Climate Variables | Coverage and long-term changes in climate variables |
+| 10 | Physical principles of remote sensing / Surface observations and data processing | Radiation laws, bands and observation limits |
+| 11 | Systems and hydrological models / Calibration and uncertainty | Water balance, calibration and uncertainty propagation |
+| 12 | Probability distributions and maximum likelihood / Hypothesis testing and ANOVA | Probability, likelihood and hypotheses about populations |
+| 13 | Model performance and regression / Precipitation–temperature scaling | Performance metrics and observed associations |
+| 14 | Triple Collocation / Error variance, MSE and data merging | TC assumptions, common scales and optimization objectives |
+| 15 | Research presentations and discussion / Research presentations and discussion | Presenting a research question, evidence and limitations |
 
-실습 파일·구체적인 할 일: [과목 자료](README.md). 모든 차시에 별도 실습을 배정하지 않음
+See [course materials](README.md) for practice files and tasks. Separate practice is not required for every session.

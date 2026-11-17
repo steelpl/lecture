@@ -1,11 +1,11 @@
-# 7주차 · NDVI 합성과 관측일 / 지도학습·공간 검증
+# Week 07 · NDVI composites and observation dates / Supervised classification and spatial validation
 
-### [가장 푸른 영상은 하루의 모습인가?](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week07/CE776_W07a_ndvi.ipynb)
+### [Is the greenest composite a single day?](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week07/CE776_W07a_ndvi.ipynb)
 
-NDVI 최대 합성과 픽셀별 관측일을 나란히 확인
+Compare maximum-NDVI pixels and their observation dates.
 
-### [분류 결과를 무엇과 비교하는가?](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week07/CE776_W07b_classification.ipynb)
+### [What is the classification compared with?](https://colab.research.google.com/github/steelpl/lecture/blob/main/CE776-climate-change-carbon-water-cycle/week07/CE776_W07b_classification.ipynb)
 
-서쪽 영역 학습 → 동쪽 영역 검증, 오차행렬 해석
+Train in the west, validate in the east and interpret the confusion matrix.
 
-[과목 안내](../README.md) · [학기 운영](../CURRENT_OFFERING.md)
+[Course materials](../README.md) · [Course information](../CURRENT_OFFERING.md)

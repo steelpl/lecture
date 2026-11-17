@@ -75,6 +75,28 @@ def schedule(config, courses):
 
 
 def markdown(value, course):
+    if course.get('language') == 'en':
+        modes = {'대면': 'In person', '온라인 영상강의': 'Online video lecture',
+                 '평가 예정': 'Assessment planned', '평가': 'Assessment',
+                 '예정': 'Planned', '확정': 'Confirmed'}
+        reasons = {'부처님오신날': "Buddha's Birthday", '개교기념일': 'University anniversary'}
+        lines = ['# ' + value['term'] + ' · ' + value['name'], '',
+                 'Use the common learning materials. This page records dates, teaching format and assessment arrangements.', '',
+                 '| Week | Session 1 | Session 2 |', '| --- | --- | --- |']
+        for week in value['weeks']:
+            labels = []
+            for session in week['sessions']:
+                day = dt.date.fromisoformat(session['date']).strftime('%a')
+                reason = reasons.get(session['reason'], session['reason'])
+                status = modes.get(session['status'], session['status'])
+                mode = modes.get(session['mode'], session['mode'])
+                suffix = (' · ' + reason if reason else '') + (' · ' + status if status and status not in mode else '')
+                labels.append(f"{session['date']} ({day}) · {session['topic']} · {mode}{suffix}")
+            lines.append('| %02d | %s |' % (week['week'], ' | '.join(labels)))
+        lines += ['', 'Holidays or unavoidable conflicts: an online video lecture for the affected session; retain its topic.', '',
+                  'Check course announcements for confirmed assessment times and locations.', '',
+                  '[Common course plan](../../' + course['directory'] + '/COURSE_PLAN.md) · [Configuration](semester.json)', '']
+        return '\n'.join(lines)
     lines = ['# ' + value['term'] + ' · ' + value['name'] + ' 운영 일정', '',
              '학습자료는 공통본 사용. 날짜·수업 방식·평가 안내는 이 운영표에서 확인', '',
              '| 주 | 1차시 | 2차시 |', '| --- | --- | --- |']
@@ -120,7 +142,10 @@ def generate(config_path, root=ROOT, output=None, activate=False):
         if pending:
             current += '\n운영 일정 미등록 과목: 날짜·요일·평가 운영 확정 후 별도 등록\n\n'
             for course in pending:
-                current += '- [' + course['code'] + ' · ' + course['name'] + ' 공통 학습 계획](' + course['directory'] + '/COURSE_PLAN.md)\n'
+                if course.get('language') == 'en':
+                    current += '- [' + course['code'] + ' · Course information](' + course['directory'] + '/CURRENT_OFFERING.md) — Class days, times and deadlines to be announced\n'
+                else:
+                    current += '- [' + course['code'] + ' · ' + course['name'] + ' 공통 학습 계획](' + course['directory'] + '/COURSE_PLAN.md)\n'
         (root / 'CURRENT_OFFERING.md').write_text(current, encoding='utf-8')
     return values
 
@@ -142,6 +167,8 @@ def sync_operations(local_root, root=ROOT):
     for course in courses.values():
         current = current.replace('(' + course['directory'] + '/COURSE_PLAN.md)',
                                   '(' + course['local_directory'] + '/2.실습자료/COURSE_PLAN.md)')
+        current = current.replace('(' + course['directory'] + '/CURRENT_OFFERING.md)',
+                                  '(' + course['local_directory'] + '/CURRENT_OFFERING.md)')
     (local_root / '현재학기.md').write_text(current.replace('(offerings/', '(학기운영/'), encoding='utf-8')
 
 

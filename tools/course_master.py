@@ -321,12 +321,16 @@ def main():
         source_dir = args.source_root / course['legacy_directory'] / '1.강의슬라이드' if args.source_root else None
         target = args.destination / course['local_directory']
         slides = target / '1.강의슬라이드'
+        english = course.get('language') == 'en'
+        operations_url = ('https://github.com/steelpl/lecture/blob/main/' + config.parent.name + '/CURRENT_OFFERING.md') if english else OPS_URL
         slides.mkdir(parents=True, exist_ok=True)
         report_path = slides / '_master_manifest.json'
         report = json.loads(report_path.read_text(encoding='utf-8')) if report_path.exists() else {'files': {}}
         # Copy operations separately. All semester updates remain outside the learning master.
-        (target / 'CURRENT_OFFERING.md').write_text('# 학기 운영안내\n\n[현재 학기](../현재학기.md)\n', encoding='utf-8')
-        shutil.copy2(ROOT / 'TEACHING_POLICY.md', target / 'TEACHING_POLICY.md')
+        operations = ('# Course information\n\n[Class arrangements and deadlines](2.실습자료/CURRENT_OFFERING.md)\n') if english else '# 학기 운영안내\n\n[현재 학기](../현재학기.md)\n'
+        (target / 'CURRENT_OFFERING.md').write_text(operations, encoding='utf-8')
+        policy = config.parent / 'TEACHING_POLICY.md'
+        shutil.copy2(policy if policy.exists() else ROOT / 'TEACHING_POLICY.md', target / 'TEACHING_POLICY.md')
         for lecture in course['lectures']:
             pptx = slides / lecture['file']
             record = report['files'].get(lecture['file'], {})
@@ -362,10 +366,10 @@ def main():
                         report['files'].get(entry['file'], {}).get('pdf_from_pptx_sha256') ==
                         report['files'].get(entry['file'], {}).get('pptx_sha256')
                         for entry in course['lectures'])
-        links = ['<!doctype html><html lang="ko"><meta charset="utf-8"><title>' + course['name'] + '</title>',
-                 '<h1>' + course['name'] + ' · 공통 슬라이드</h1>',
-                 '<p><a href="' + OPS_URL + '">학기 운영안내: 날짜·수업 방식·평가일</a></p>',
-                 '<table><tr><th>차시·주제</th><th>PPTX</th>' + ('<th>PDF</th>' if fresh_pdf else '') + '<th>실습</th></tr>']
+        links = ['<!doctype html><html lang="' + ('en' if english else 'ko') + '"><meta charset="utf-8"><title>' + course['name'] + '</title>',
+                 '<h1>' + course['name'] + (' · Lecture slides' if english else ' · 공통 슬라이드') + '</h1>',
+                 '<p><a href="' + operations_url + '">' + ('Course information: dates, format and assessment' if english else '학기 운영안내: 날짜·수업 방식·평가일') + '</a></p>',
+                 '<table><tr><th>' + ('Session and topic' if english else '차시·주제') + '</th><th>PPTX</th>' + ('<th>PDF</th>' if fresh_pdf else '') + '<th>' + ('Practice' if english else '실습') + '</th></tr>']
         for lecture in course['lectures']:
             file = lecture['file']
             week_url = 'https://github.com/steelpl/lecture/tree/main/' + config.parent.name + '/week%02d/' % lecture['week']
@@ -373,7 +377,7 @@ def main():
             if fresh_pdf:
                 record = report['files'][file]
                 ready = (slides / file.replace('.pptx', '.pdf')).exists() and record.get('pdf_from_pptx_sha256') == record.get('pptx_sha256')
-                pdf_cell = '<td>' + ('<a href="' + file.replace('.pptx', '.pdf') + '">PDF</a>' if ready else '변환 대기') + '</td>'
+                pdf_cell = '<td>' + ('<a href="' + file.replace('.pptx', '.pdf') + '">PDF</a>' if ready else ('Pending conversion' if english else '변환 대기')) + '</td>'
             topic = next((session['topic'] for week in course['weeks'] for session in week['sessions'] if session['id'] == lecture['id']), lecture['id'])
             activities = practice_bindings.get(file, [])
             practice_cell = ' · '.join('<a href="' + html.escape(a['url'], quote=True) + '">' + html.escape(a['text']) + '</a>' for a in activities) or '—'
