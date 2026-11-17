@@ -245,7 +245,7 @@ def export_pdf(items):
                 p.Close()
             if sha(pptx) != before:
                 raise ValueError('PDF 생성 중 공통 PPTX 변경 감지')
-            if OPS_URL.encode('ascii') not in pdf.read_bytes():
+            if record.get('operations_url', OPS_URL).encode('ascii') not in pdf.read_bytes():
                 raise ValueError('PDF 학기 운영안내 링크 검수 필요: ' + str(pdf))
             record.update(pdf_sha256=sha(pdf), pdf_from_pptx_sha256=before)
             print('PDF', pptx.name, flush=True)
@@ -351,6 +351,7 @@ def main():
                 record = {**result, 'source_file': str(source), 'source_sha256': before}
             # Existing master content is authoritative; never replace it from an old semester copy.
             record['pptx_sha256'] = sha(pptx)
+            record['operations_url'] = operations_url
             pdf = pptx.with_suffix('.pdf')
             if args.export_pdf and (not pdf.exists() or record.get('pdf_from_pptx_sha256') != record['pptx_sha256']):
                 pending.append((pptx, pdf, record))
