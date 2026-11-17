@@ -330,7 +330,13 @@ def main():
         operations = ('# Course information\n\n[Class arrangements and deadlines](2.실습자료/CURRENT_OFFERING.md)\n') if english else '# 학기 운영안내\n\n[현재 학기](../현재학기.md)\n'
         (target / 'CURRENT_OFFERING.md').write_text(operations, encoding='utf-8')
         policy = config.parent / 'TEACHING_POLICY.md'
-        shutil.copy2(policy if policy.exists() else ROOT / 'TEACHING_POLICY.md', target / 'TEACHING_POLICY.md')
+        if english and policy.exists():
+            policy_text = policy.read_text(encoding='utf-8')
+            for name in ['STUDY_GUIDE.md', 'README.md', 'CURRENT_OFFERING.md']:
+                policy_text = policy_text.replace('(' + name + ')', '(2.실습자료/' + name + ')')
+            (target / 'TEACHING_POLICY.md').write_text(policy_text, encoding='utf-8')
+        else:
+            shutil.copy2(policy if policy.exists() else ROOT / 'TEACHING_POLICY.md', target / 'TEACHING_POLICY.md')
         for lecture in course['lectures']:
             pptx = slides / lecture['file']
             record = report['files'].get(lecture['file'], {})
